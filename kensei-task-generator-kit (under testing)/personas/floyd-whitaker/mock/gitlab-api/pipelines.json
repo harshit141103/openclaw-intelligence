@@ -1,0 +1,222 @@
+[
+  {
+    "id": "9001",
+    "project_id": "101",
+    "ref": "main",
+    "sha": "a1b2c3d4e5f6",
+    "status": "success",
+    "source": "push",
+    "duration": "62",
+    "created_at": "2023-03-18T12:00:00.000Z",
+    "updated_at": "2023-03-18T12:01:00.000Z"
+  },
+  {
+    "id": "9002",
+    "project_id": "101",
+    "ref": "feature/services-page",
+    "sha": "b2c3d4e5f6a1",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "58",
+    "created_at": "2023-03-15T10:00:00.000Z",
+    "updated_at": "2023-03-15T10:01:00.000Z"
+  },
+  {
+    "id": "9003",
+    "project_id": "101",
+    "ref": "fix/contact-details",
+    "sha": "c3d4e5f6a1b2",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "55",
+    "created_at": "2023-03-26T10:00:00.000Z",
+    "updated_at": "2023-03-26T10:01:00.000Z"
+  },
+  {
+    "id": "9004",
+    "project_id": "101",
+    "ref": "main",
+    "sha": "d4e5f6a1b2c3",
+    "status": "success",
+    "source": "push",
+    "duration": "60",
+    "created_at": "2023-04-10T14:00:00.000Z",
+    "updated_at": "2023-04-10T14:01:00.000Z"
+  },
+  {
+    "id": "9005",
+    "project_id": "101",
+    "ref": "content/carrier-page",
+    "sha": "e5f6a1b2c3d4",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "57",
+    "created_at": "2023-05-05T10:00:00.000Z",
+    "updated_at": "2023-05-05T10:01:00.000Z"
+  },
+  {
+    "id": "9006",
+    "project_id": "101",
+    "ref": "fix/mobile-nav",
+    "sha": "f6a1b2c3d4e5",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "54",
+    "created_at": "2026-04-26T10:00:00.000Z",
+    "updated_at": "2026-04-26T10:01:00.000Z"
+  },
+  {
+    "id": "9007",
+    "project_id": "101",
+    "ref": "content/about-credentials",
+    "sha": "a1c2e3f4b5d6",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "53",
+    "created_at": "2023-06-13T10:00:00.000Z",
+    "updated_at": "2023-06-13T10:01:00.000Z"
+  },
+  {
+    "id": "9008",
+    "project_id": "101",
+    "ref": "perf/optimize-hero-image",
+    "sha": "b2d3f4a5c6e7",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "59",
+    "created_at": "2026-02-09T10:00:00.000Z",
+    "updated_at": "2026-02-09T10:01:00.000Z"
+  },
+  {
+    "id": "9009",
+    "project_id": "101",
+    "ref": "feature/mc-number-column",
+    "sha": "c3e4a5b6d7f8",
+    "status": "failed",
+    "source": "merge_request_event",
+    "duration": "41",
+    "created_at": "2026-04-19T10:00:00.000Z",
+    "updated_at": "2026-04-19T10:01:00.000Z"
+  },
+  {
+    "id": "9010",
+    "project_id": "101",
+    "ref": "fix/mobile-quote-button",
+    "sha": "d4f5b6c7e8a9",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "52",
+    "created_at": "2026-04-27T10:00:00.000Z",
+    "updated_at": "2026-04-27T10:01:00.000Z"
+  },
+  {
+    "id": "9011",
+    "project_id": "101",
+    "ref": "content/services-reorder",
+    "sha": "e5a6c7d8f9b1",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "50",
+    "created_at": "2023-03-12T10:00:00.000Z",
+    "updated_at": "2023-03-12T10:01:00.000Z"
+  },
+  {
+    "id": "9012",
+    "project_id": "101",
+    "ref": "fix/footer-address",
+    "sha": "f6b7d8e9a1c2",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "48",
+    "created_at": "2026-03-05T10:00:00.000Z",
+    "updated_at": "2026-03-05T10:01:00.000Z"
+  },
+  {
+    "id": "9013",
+    "project_id": "101",
+    "ref": "maintenance/ssl-renew-config",
+    "sha": "a1d2e3b4f5c6",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "46",
+    "created_at": "2026-01-15T10:00:00.000Z",
+    "updated_at": "2026-01-15T10:01:00.000Z"
+  },
+  {
+    "id": "9014",
+    "project_id": "103",
+    "ref": "feature/blog-setup",
+    "sha": "b2e3f4c5a6d7",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "71",
+    "created_at": "2026-03-29T10:00:00.000Z",
+    "updated_at": "2026-03-29T10:01:00.000Z"
+  },
+  {
+    "id": "9015",
+    "project_id": "103",
+    "ref": "style/larger-font",
+    "sha": "c3f4a5d6b7e8",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "44",
+    "created_at": "2026-03-31T10:00:00.000Z",
+    "updated_at": "2026-03-31T10:01:00.000Z"
+  },
+  {
+    "id": "9016",
+    "project_id": "103",
+    "ref": "content/author-byline",
+    "sha": "d4a5b6e7c8f9",
+    "status": "running",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2026-05-21T10:00:00.000Z",
+    "updated_at": "2026-05-21T10:00:30.000Z"
+  },
+  {
+    "id": "9017",
+    "project_id": "103",
+    "ref": "main",
+    "sha": "e5b6c7f8d9a1",
+    "status": "success",
+    "source": "push",
+    "duration": "68",
+    "created_at": "2026-04-01T09:05:00.000Z",
+    "updated_at": "2026-04-01T09:06:00.000Z"
+  },
+  {
+    "id": "9018",
+    "project_id": "104",
+    "ref": "feature/storefront-page",
+    "sha": "f6c7d8a9e1b2",
+    "status": "running",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2026-05-06T10:00:00.000Z",
+    "updated_at": "2026-05-06T10:00:30.000Z"
+  },
+  {
+    "id": "9019",
+    "project_id": "110",
+    "ref": "feature/quote-form-v2",
+    "sha": "a1e2b3f4c5d6",
+    "status": "pending",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2026-05-18T10:00:00.000Z",
+    "updated_at": "2026-05-18T10:00:10.000Z"
+  },
+  {
+    "id": "9020",
+    "project_id": "116",
+    "ref": "feature/portal-login",
+    "sha": "b2f3c4a5d6e7",
+    "status": "success",
+    "source": "merge_request_event",
+    "duration": "49",
+    "created_at": "2026-04-22T10:00:00.000Z",
+    "updated_at": "2026-04-22T10:01:00.000Z"
+  }
+]

@@ -1,0 +1,164 @@
+﻿[
+  {
+    "funnel_id": "7461001",
+    "name": "Purchase Funnel",
+    "step_order": "1",
+    "step_event": "App Open",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Purchase Funnel",
+    "step_order": "2",
+    "step_event": "Product Viewed",
+    "count": "860"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Purchase Funnel",
+    "step_order": "3",
+    "step_event": "Add to ILrt",
+    "count": "430"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Purchase Funnel",
+    "step_order": "4",
+    "step_event": "Checkout",
+    "count": "180"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Activation Funnel",
+    "step_order": "1",
+    "step_event": "Signup",
+    "count": "2000"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Activation Funnel",
+    "step_order": "2",
+    "step_event": "App Open",
+    "count": "1450"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Activation Funnel",
+    "step_order": "3",
+    "step_event": "Product Viewed",
+    "count": "940"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Retention Funnel",
+    "step_order": "1",
+    "step_event": "Signup",
+    "count": "2000"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Retention Funnel",
+    "step_order": "2",
+    "step_event": "App Open",
+    "count": "1650"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Retention Funnel",
+    "step_order": "3",
+    "step_event": "Product Viewed",
+    "count": "1320"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Retention Funnel",
+    "step_order": "4",
+    "step_event": "Add to ILrt",
+    "count": "980"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Engagement Funnel",
+    "step_order": "1",
+    "step_event": "App Open",
+    "count": "5000"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Engagement Funnel",
+    "step_order": "2",
+    "step_event": "Feature Used",
+    "count": "3200"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Engagement Funnel",
+    "step_order": "3",
+    "step_event": "Shared Content",
+    "count": "1600"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Onboarding Funnel",
+    "step_order": "1",
+    "step_event": "Signup",
+    "count": "1500"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Onboarding Funnel",
+    "step_order": "2",
+    "step_event": "Profile Completed",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Onboarding Funnel",
+    "step_order": "3",
+    "step_event": "First Action",
+    "count": "920"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Upgrade Funnel",
+    "step_order": "1",
+    "step_event": "Free User",
+    "count": "3000"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Upgrade Funnel",
+    "step_order": "2",
+    "step_event": "Upgrade Prompted",
+    "count": "1500"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Upgrade Funnel",
+    "step_order": "3",
+    "step_event": "Upgrade Completed",
+    "count": "450"
+  },
+  {
+    "funnel_id": "7461007",
+    "name": "Churn Prevention Funnel",
+    "step_order": "1",
+    "step_event": "Active User",
+    "count": "2500"
+  },
+  {
+    "funnel_id": "7461007",
+    "name": "Churn Prevention Funnel",
+    "step_order": "2",
+    "step_event": "Inactive Period",
+    "count": "400"
+  },
+  {
+    "funnel_id": "7461007",
+    "name": "Churn Prevention Funnel",
+    "step_order": "3",
+    "step_event": "Re-engagement Email Sent",
+    "count": "350"
+  }
+]
+

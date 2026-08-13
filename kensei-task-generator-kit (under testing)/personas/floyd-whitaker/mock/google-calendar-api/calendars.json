@@ -1,0 +1,182 @@
+[
+  {
+    "id": "floyd.whitaker@finthesiss.ai",
+    "summary": "Floyd Whitaker",
+    "description": "Primary calendar",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "finthesiss.ai_wfs@group.calendar.google.com",
+    "summary": "WFS Business",
+    "description": "Whitaker Freight Services dispatch, client calls, and reviews",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "finthesiss.ai_family@group.calendar.google.com",
+    "summary": "Family",
+    "description": "Whitaker family events, ballgames, and church",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "en.usa#holiday@group.v.calendar.google.com",
+    "summary": "US Holidays",
+    "description": "Holidays in the United States",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "finthesiss.ai_vols@group.calendar.google.com",
+    "summary": "Tennessee Vols Football",
+    "description": "Tennessee Volunteers home and away game schedule, Neyland Stadium season tickets",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "6"
+  },
+  {
+    "id": "finthesiss.ai_cody@group.calendar.google.com",
+    "summary": "Cody Football",
+    "description": "Cody Farragut HS varsity football games, practices, and team events",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "10"
+  },
+  {
+    "id": "finthesiss.ai_megan@group.calendar.google.com",
+    "summary": "Megan Nashville",
+    "description": "Megan college calendar, Ridge Valley College Nashville visits and breaks",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "9"
+  },
+  {
+    "id": "finthesiss.ai_mentorship@group.calendar.google.com",
+    "summary": "TN Freight Mentorship",
+    "description": "TN Freight Mentorship Program sessions, dispatch shadowing, and cohort meetings with Keith Burgess",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "3"
+  },
+  {
+    "id": "finthesiss.ai_church@group.calendar.google.com",
+    "summary": "Ridgeview Baptist Church",
+    "description": "Sunday service, Wednesday Bible study, and church events with Pastor James Harlan",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "7"
+  },
+  {
+    "id": "finthesiss.ai_tnfreight@group.calendar.google.com",
+    "summary": "TN Freight Association",
+    "description": "Tennessee Freight Association board meetings, conferences, and committee calls",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "4"
+  },
+  {
+    "id": "finthesiss.ai_dotwebinar@group.calendar.google.com",
+    "summary": "DOT Compliance Webinars",
+    "description": "Quarterly DOT and FMCSA compliance webinars for WFS staff and partner carriers",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "11"
+  },
+  {
+    "id": "finthesiss.ai_poker@group.calendar.google.com",
+    "summary": "Poker Night",
+    "description": "Weekly poker at The Back Porch with Roy, Junior, and Eddie",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "finthesiss.ai_softball@group.calendar.google.com",
+    "summary": "Over-40 Softball",
+    "description": "Saturday over-40 softball league at Lakeshore Park",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "finthesiss.ai_fishing@group.calendar.google.com",
+    "summary": "Fishing Trips",
+    "description": "Douglas Lake, Cherokee Lake, and Smokies fly fishing trips",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "3"
+  },
+  {
+    "id": "finthesiss.ai_health@group.calendar.google.com",
+    "summary": "Health Appointments",
+    "description": "Dr. Pershing cholesterol checks, Knoxville Family Dental, and evening walks",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "donna.whitaker@gmail.com",
+    "summary": "Donna Whitaker",
+    "description": "Donna shared calendar, Valley View Family Medical Clinic schedule",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "9"
+  },
+  {
+    "id": "finthesiss.ai_harlan@group.calendar.google.com",
+    "summary": "Harlan KY Trips",
+    "description": "Visits to Mama June in Harlan KY and time with brother Darrell",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "10"
+  },
+  {
+    "id": "finthesiss.ai_smoker@group.calendar.google.com",
+    "summary": "BBQ & Cookouts",
+    "description": "Brisket and rib smokes, fall cookout, and backyard cookouts on the patio",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "6"
+  },
+  {
+    "id": "finthesiss.ai_clientreviews@group.calendar.google.com",
+    "summary": "Client Reviews",
+    "description": "Quarterly account reviews with Cumberland Auto Parts, Valley Grain, and Tri-State Manufacturing",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "1"
+  },
+  {
+    "id": "finthesiss.ai_carriervetting@group.calendar.google.com",
+    "summary": "Carrier Vetting Refresh",
+    "description": "Carrier vetting refresh project milestones for auto-parts clients through Q4 2026",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "11"
+  }
+]

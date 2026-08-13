@@ -1,0 +1,156 @@
+[
+  {
+    "component_key": "comp-btn-primary",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:21",
+    "name": "Button / Primary",
+    "description": "Primary call to action button (Get a Quote)"
+  },
+  {
+    "component_key": "comp-btn-secondary",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:22",
+    "name": "Button / Secondary",
+    "description": "Secondary action button (Learn More)"
+  },
+  {
+    "component_key": "comp-input-text",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:30",
+    "name": "Input / Text",
+    "description": "Single line text input field"
+  },
+  {
+    "component_key": "comp-card-basic",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:41",
+    "name": "Card / Basic",
+    "description": "Basic service card container"
+  },
+  {
+    "component_key": "comp-nav-header",
+    "file_key": "FK001abcdefg",
+    "node_id": "10:50",
+    "name": "Nav / Header",
+    "description": "Top navigation bar with logo and menu links"
+  },
+  {
+    "component_key": "comp-footer",
+    "file_key": "FK001abcdefg",
+    "node_id": "10:55",
+    "name": "Footer / Standard",
+    "description": "Site footer with phone number and address"
+  },
+  {
+    "component_key": "comp-hero-banner",
+    "file_key": "FK001abcdefg",
+    "node_id": "10:60",
+    "name": "Hero / Banner",
+    "description": "Homepage hero banner with tagline"
+  },
+  {
+    "component_key": "comp-form-contact",
+    "file_key": "FK002hijklmn",
+    "node_id": "12:10",
+    "name": "Form / Contact",
+    "description": "Contact form with name, email, and message fields"
+  },
+  {
+    "component_key": "comp-logo-wordmark",
+    "file_key": "FK003opqrstu",
+    "node_id": "3:15",
+    "name": "Logo / Wordmark",
+    "description": "Whitaker Freight Services text wordmark"
+  },
+  {
+    "component_key": "comp-service-card",
+    "file_key": "FK005abc3456",
+    "node_id": "20:11",
+    "name": "Card / Service",
+    "description": "Service listing card for freight types"
+  },
+  {
+    "component_key": "comp-carrier-row",
+    "file_key": "FK006def7890",
+    "node_id": "22:14",
+    "name": "Table / Carrier Row",
+    "description": "Row layout for the carrier listing table"
+  },
+  {
+    "component_key": "comp-login-field",
+    "file_key": "FK007ghi1234",
+    "node_id": "24:08",
+    "name": "Input / Login",
+    "description": "Username and password input for carrier portal"
+  },
+  {
+    "component_key": "comp-blog-card",
+    "file_key": "FK008jkl5678",
+    "node_id": "26:05",
+    "name": "Card / Blog Post",
+    "description": "Blog post preview card with title and excerpt"
+  },
+  {
+    "component_key": "comp-product-tile",
+    "file_key": "FK009mno9012",
+    "node_id": "28:09",
+    "name": "Tile / Product",
+    "description": "BBQ product tile with photo and price"
+  },
+  {
+    "component_key": "comp-newsletter-block",
+    "file_key": "FK010pqr3456",
+    "node_id": "30:03",
+    "name": "Block / Newsletter",
+    "description": "Email newsletter content block"
+  },
+  {
+    "component_key": "comp-mobile-menu",
+    "file_key": "FK012vwx1234",
+    "node_id": "32:07",
+    "name": "Nav / Mobile Menu",
+    "description": "Collapsible hamburger menu for mobile"
+  },
+  {
+    "component_key": "comp-flyer-header",
+    "file_key": "FK013yza5678",
+    "node_id": "34:02",
+    "name": "Header / Flyer",
+    "description": "Mentorship flyer header band"
+  },
+  {
+    "component_key": "comp-badge-cta",
+    "file_key": "FK014bcd9012",
+    "node_id": "36:01",
+    "name": "Badge / CTB",
+    "description": "Certified Transportation Broker credential badge"
+  },
+  {
+    "component_key": "comp-rate-table",
+    "file_key": "FK015efg3456",
+    "node_id": "38:04",
+    "name": "Table / Rate Sheet",
+    "description": "Lane rate quoting table layout"
+  },
+  {
+    "component_key": "comp-slide-title",
+    "file_key": "FK017klm1234",
+    "node_id": "40:06",
+    "name": "Slide / Title",
+    "description": "DOT webinar slide title layout"
+  },
+  {
+    "component_key": "comp-quote-stepper",
+    "file_key": "FK019qrs9012",
+    "node_id": "42:03",
+    "name": "Form / Quote Stepper",
+    "description": "Multi-step quote request form control"
+  },
+  {
+    "component_key": "comp-color-swatch",
+    "file_key": "FK020tuv3456",
+    "node_id": "44:01",
+    "name": "Style / Color Swatch",
+    "description": "Brand color palette swatch tile"
+  }
+]

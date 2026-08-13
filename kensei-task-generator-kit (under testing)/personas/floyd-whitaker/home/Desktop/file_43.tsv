@@ -1,0 +1,6 @@
+Load ID	Ship Date	Origin	Destination	Client	Carrier	Rate	Status
+WFS-3375	01/14/2026	Knoxville, TN	Atlanta, GA	Appalachian Building Supply	Cole Freight	$1,850.00	Delivered
+WFS-3378	01/22/2026	Memphis, TN	Nashville, TN	Blue Ridge Growers	Watkins Hauling	$1,240.00	Delivered
+WFS-3380	01/29/2026	Knoxville, TN	Louisville, KY	Tennessee Valley Lumber	Harmon Transport	$1,690.00	Delivered
+WFS-3382	02/04/2026	Knoxville, TN	Chicago, IL	Southern Automotive Parts	Harmon Transport	$3,570.00	Delivered
+WFS-3385	02/12/2026	Nashville, TN	Cincinnati, OH	Midwest Engine Components	Cole Freight	$2,110.00	Delivered

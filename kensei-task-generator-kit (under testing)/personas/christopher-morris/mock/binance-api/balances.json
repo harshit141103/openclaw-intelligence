@@ -1,0 +1,58 @@
+[
+  {
+    "asset": "BTC",
+    "free": "0.45821000",
+    "locked": "0.01000000",
+    "accountHolder": "christopher.morris@voissync.ai",
+    "accountType": "personal"
+  },
+  {
+    "asset": "ETH",
+    "free": "3.20140000",
+    "locked": "0.50000000",
+    "accountHolder": "christopher.morris@voissync.ai",
+    "accountType": "personal"
+  },
+  {
+    "asset": "BNB",
+    "free": "12.40000000",
+    "locked": "0.00000000",
+    "accountHolder": "cmorris@meridianbenefits.com",
+    "accountType": "work"
+  },
+  {
+    "asset": "SOL",
+    "free": "85.00000000",
+    "locked": "5.00000000",
+    "accountHolder": "christopher.morris@voissync.ai",
+    "accountType": "personal"
+  },
+  {
+    "asset": "USDT",
+    "free": "15420.55000000",
+    "locked": "250.00000000",
+    "accountHolder": "christopher.morris@voissync.ai",
+    "accountType": "personal"
+  },
+  {
+    "asset": "XRP",
+    "free": "2500.00000000",
+    "locked": "0.00000000",
+    "accountHolder": "greg.morris77@gmail.com",
+    "accountType": "household"
+  },
+  {
+    "asset": "ADA",
+    "free": "1800.00000000",
+    "locked": "0.00000000",
+    "accountHolder": "christopher.morris@voissync.ai",
+    "accountType": "personal"
+  },
+  {
+    "asset": "DOGE",
+    "free": "12000.00000000",
+    "locked": "0.00000000",
+    "accountHolder": "greg.morris77@gmail.com",
+    "accountType": "household"
+  }
+]

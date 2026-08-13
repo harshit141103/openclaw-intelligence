@@ -1,0 +1,37 @@
+{
+  "policy_name": "Cherry pricing for the Henderson uppers",
+  "version": "2024.Q4_Updated",
+  "validation_rules": [
+    {
+      "rule": "Alcohol",
+      "requirement": "Cut dadoes for the adjustable shelf pins",
+      "action": "Manual Review",
+      "notes": "Re: Bookshelf dimensions"
+    },
+    {
+      "rule": "Duplicates",
+      "requirement": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+      "action": "Reject",
+      "notes": "Template the Stowe countertop radius for the corner cabinet"
+    },
+    {
+      "rule": "Reprints",
+      "requirement": "Need to confirm material lead time on the Blum hardware before ordering.",
+      "action": "Review",
+      "notes": "Template the Stowe countertop radius for the corner cabinet"
+    },
+    {
+      "rule": "Missing Total",
+      "requirement": "Dry-fit the face frames before glue-up",
+      "action": "Reject",
+      "notes": "Diane flagged the Sloan invoice for QuickBooks."
+    },
+    {
+      "rule": "Bookshelf install set for the 16th; shelves are finished and staged.",
+      "requirement": "After 30 days",
+      "action": "Reject",
+      "notes": "Diane flagged the Sloan invoice for QuickBooks."
+    }
+  ],
+  "context": "Dry-fit the face frames before glue-up"
+}

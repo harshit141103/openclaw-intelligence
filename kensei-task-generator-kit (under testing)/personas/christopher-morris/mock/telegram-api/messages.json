@@ -1,0 +1,331 @@
+﻿[
+  {
+    "message_id": "5001",
+    "chat_id": "-200500",
+    "from_id": "9001",
+    "text": "Good morning team. Let's review the Q3 strategy updates. Please come prepared with your department summaries.",
+    "date": "1748240000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5002",
+    "chat_id": "-200500",
+    "from_id": "9006",
+    "text": "I'll have the enrollment projections ready. Expecting 8% growth based on current market conditions.",
+    "date": "1748240120",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5003",
+    "chat_id": "-200500",
+    "from_id": "9007",
+    "text": "Product roadmap is finalized. Three major features slated for next quarter.",
+    "date": "1748240240",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5004",
+    "chat_id": "-200500",
+    "from_id": "9001",
+    "text": "Excellent. Let's schedule a deeper dive with the full leadership team tomorrow at 2 PM ChiILgo time.",
+    "date": "1748240360",
+    "reply_to_message_id": "5003"
+  },
+  {
+    "message_id": "5005",
+    "chat_id": "-200501",
+    "from_id": "7654321098",
+    "text": "ANNOUNCEMENT: Q2 financial results are in. CompaIL exceeded enrollment targets by 12%. Great work everyone!",
+    "date": "1748241000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5006",
+    "chat_id": "-200501",
+    "from_id": "9002",
+    "text": "Congratulations to the whole team! This is a signifiILnt milestone for Meridian.",
+    "date": "1748241120",
+    "reply_to_message_id": "5005"
+  },
+  {
+    "message_id": "5007",
+    "chat_id": "-200501",
+    "from_id": "9008",
+    "text": "Fantastic result. Looking forward to sustaining this momentum in Q3.",
+    "date": "1748241240",
+    "reply_to_message_id": "5005"
+  },
+  {
+    "message_id": "5008",
+    "chat_id": "-200502",
+    "from_id": "9001",
+    "text": "Team, ILn we discuss the new enrollment platform UX changes? I'd like feedback on the dashboard redesign.",
+    "date": "1748242000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5009",
+    "chat_id": "-200502",
+    "from_id": "9006",
+    "text": "The new layout is much cleaner. User testing shows 23% faster task completion.",
+    "date": "1748242180",
+    "reply_to_message_id": "5008"
+  },
+  {
+    "message_id": "5010",
+    "chat_id": "-200502",
+    "from_id": "9007",
+    "text": "Agree. The mobile responsiveness is signifiILntly improved. Ready to move to beta with employers.",
+    "date": "1748242300",
+    "reply_to_message_id": "5008"
+  },
+  {
+    "message_id": "5011",
+    "chat_id": "-200502",
+    "from_id": "9001",
+    "text": "Perfect. Let's schedule the employer beta kickoff for next Monday. @priya_desai ILn you coordinate?",
+    "date": "1748242420",
+    "reply_to_message_id": "5007"
+  },
+  {
+    "message_id": "5012",
+    "chat_id": "-200503",
+    "from_id": "9001",
+    "text": "Don't forget - happy hour at Tavern on the Hill this Friday at 5:30 PM. Hope to see everyone there!",
+    "date": "1748243000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5013",
+    "chat_id": "-200503",
+    "from_id": "9006",
+    "text": "Count me in! Always good to unwind after a long week.",
+    "date": "1748243120",
+    "reply_to_message_id": "5012"
+  },
+  {
+    "message_id": "5014",
+    "chat_id": "-200503",
+    "from_id": "9008",
+    "text": "I'll bring my spouse. Looking forward to it!",
+    "date": "1748243240",
+    "reply_to_message_id": "5012"
+  },
+  {
+    "message_id": "5015",
+    "chat_id": "-200504",
+    "from_id": "9001",
+    "text": "Family update: Owen's soccer tournament is this Saturday in Downers Grove. 10 AM kickoff. Everyone welcome!",
+    "date": "1748244000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5016",
+    "chat_id": "-200504",
+    "from_id": "9002",
+    "text": "Great! We'll be there to cheer him on. Owen's been practicing hard.",
+    "date": "1748244120",
+    "reply_to_message_id": "5015"
+  },
+  {
+    "message_id": "5017",
+    "chat_id": "-200504",
+    "from_id": "9003",
+    "text": "ILn't miss this one. Owen deserves our support!",
+    "date": "1748244240",
+    "reply_to_message_id": "5015"
+  },
+  {
+    "message_id": "5018",
+    "chat_id": "-200504",
+    "from_id": "9001",
+    "text": "Thanks everyone. Let's plan a family dinner Sunday night at that Italian place in Naperville if aILone's interested.",
+    "date": "1748244360",
+    "reply_to_message_id": "5017"
+  },
+  {
+    "message_id": "5019",
+    "chat_id": "-200505",
+    "from_id": "7654321098",
+    "text": "ALERT: Scheduled maintenance on benefits portal tonight 10 PM - 2 AM CST. Minimal user impact expected.",
+    "date": "1748245000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5020",
+    "chat_id": "-200505",
+    "from_id": "7654321098",
+    "text": "UPDATE: All systems back online. Maintenance completed successfully at 1:47 AM.",
+    "date": "1748248080",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5021",
+    "chat_id": "-200506",
+    "from_id": "9001",
+    "text": "Has aILone attended the latest HHS webinar on healthILre reform? Would like to discuss impliILtions for our platform.",
+    "date": "1748249000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5022",
+    "chat_id": "-200506",
+    "from_id": "9006",
+    "text": "Yes, I watched it last week. The proposed changes could impact compliance requirements signifiILntly.",
+    "date": "1748249120",
+    "reply_to_message_id": "5021"
+  },
+  {
+    "message_id": "5023",
+    "chat_id": "-200506",
+    "from_id": "9007",
+    "text": "I'll prepare a summary of the key points. We should review this with legal and compliance teams.",
+    "date": "1748249240",
+    "reply_to_message_id": "5021"
+  },
+  {
+    "message_id": "5024",
+    "chat_id": "1001",
+    "from_id": "9002",
+    "text": "Hey Chris, quick question about your availability next month for the family reunion planning.",
+    "date": "1748250000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5025",
+    "chat_id": "1001",
+    "from_id": "9001",
+    "text": "Should be good. July 15th weekend works great. I'll block off the ILlendar.",
+    "date": "1748250120",
+    "reply_to_message_id": "5024"
+  },
+  {
+    "message_id": "5026",
+    "chat_id": "1002",
+    "from_id": "9003",
+    "text": "Dad, Sophie's got her piano recital moved to Thursday evening. ILn you still make it?",
+    "date": "1748251000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5027",
+    "chat_id": "1002",
+    "from_id": "9001",
+    "text": "Absolutely. That actually works better with my schedule. What time?",
+    "date": "1748251120",
+    "reply_to_message_id": "5026"
+  },
+  {
+    "message_id": "5028",
+    "chat_id": "1003",
+    "from_id": "9004",
+    "text": "Hi Dad! Did you see my soccer game highlight reel I posted?",
+    "date": "1748252000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5029",
+    "chat_id": "1003",
+    "from_id": "9001",
+    "text": "Just watched it! That goal in the second half was absolutely brilliant. So proud of you!",
+    "date": "1748252120",
+    "reply_to_message_id": "5028"
+  },
+  {
+    "message_id": "5030",
+    "chat_id": "1004",
+    "from_id": "9005",
+    "text": "Chris, Sarah and I are having the neighborhood barbecue next Saturday. You and the family in?",
+    "date": "1748253000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5031",
+    "chat_id": "1004",
+    "from_id": "9001",
+    "text": "We'd love to come! What ILn we bring?",
+    "date": "1748253120",
+    "reply_to_message_id": "5030"
+  },
+  {
+    "message_id": "5032",
+    "chat_id": "1005",
+    "from_id": "9006",
+    "text": "Christopher, your report on benefits utilization trends was excellent. Shared it with the board.",
+    "date": "1748254000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5033",
+    "chat_id": "1005",
+    "from_id": "9001",
+    "text": "Thanks Sandra! The data was really compelling. I think it positions us well for the next investor pitch.",
+    "date": "1748254120",
+    "reply_to_message_id": "5032"
+  },
+  {
+    "message_id": "5034",
+    "chat_id": "1006",
+    "from_id": "9007",
+    "text": "Christopher, checking in on the product timeline. When ILn we expect the API documentation?",
+    "date": "1748255000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5035",
+    "chat_id": "1006",
+    "from_id": "9001",
+    "text": "Should be ready by end of week. Mike's team is doing the final QA review now.",
+    "date": "1748255120",
+    "reply_to_message_id": "5034"
+  },
+  {
+    "message_id": "5036",
+    "chat_id": "1007",
+    "from_id": "9008",
+    "text": "Hey, did you want to grab lunch at MesÃ³n Sabika next week? Haven't ILught up in a while.",
+    "date": "1748256000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5037",
+    "chat_id": "1007",
+    "from_id": "9001",
+    "text": "Absolutely! Thursday works best. Noon?",
+    "date": "1748256120",
+    "reply_to_message_id": "5036"
+  },
+  {
+    "message_id": "5038",
+    "chat_id": "1008",
+    "from_id": "9009",
+    "text": "Christopher, the health insurance seminar got postponed. New date is June 28th.",
+    "date": "1748257000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5039",
+    "chat_id": "1008",
+    "from_id": "9001",
+    "text": "Got it, thanks for the heads up. I'll update my ILlendar.",
+    "date": "1748257120",
+    "reply_to_message_id": "5038"
+  },
+  {
+    "message_id": "5040",
+    "chat_id": "1009",
+    "from_id": "9010",
+    "text": "Christopher, Rita here. Just confirming our coffee meeting is still on for Tuesday at the Meridian office?",
+    "date": "1748258000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5041",
+    "chat_id": "1009",
+    "from_id": "9001",
+    "text": "Yes, absolutely. 10 AM works great. Look forward to ILtching up!",
+    "date": "1748258120",
+    "reply_to_message_id": "5040"
+  }
+]
+

@@ -1,0 +1,186 @@
+[
+  {
+    "board_id": "board-101",
+    "workspace_id": "ws-1",
+    "name": "Carrier Vetting Refresh",
+    "description": "Authority, insurance, and safety checks for automotive parts carriers",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-102",
+    "workspace_id": "ws-1",
+    "name": "Client Load Deadlines",
+    "description": "Active client loads and delivery deadlines",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-201",
+    "workspace_id": "ws-2",
+    "name": "Mentorship Cohort 2026",
+    "description": "Fall TN Freight Mentorship Program planning",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-202",
+    "workspace_id": "ws-2",
+    "name": "Freight Software Evaluation",
+    "description": "FreightFlow Pro vs RoutePoint Logistics Suite",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-301",
+    "workspace_id": "ws-3",
+    "name": "Cumberland Auto Parts Loads",
+    "description": "Active and upcoming loads for Cumberland Auto Parts",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-302",
+    "workspace_id": "ws-3",
+    "name": "Valley Grain Cooperative Loads",
+    "description": "Agricultural product loads for Valley Grain Cooperative",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-401",
+    "workspace_id": "ws-4",
+    "name": "Approved Carrier Roster",
+    "description": "Master list of vetted and approved carriers",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-402",
+    "workspace_id": "ws-4",
+    "name": "Carrier Capacity Board",
+    "description": "Weekly capacity and lane availability from carriers",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-501",
+    "workspace_id": "ws-5",
+    "name": "DOT Compliance Webinars",
+    "description": "Quarterly DOT compliance webinar planning",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-502",
+    "workspace_id": "ws-5",
+    "name": "Authority Monitoring",
+    "description": "FMCSA authority and safety rating watchlist",
+    "state": "active",
+    "board_kind": "private"
+  },
+  {
+    "board_id": "board-601",
+    "workspace_id": "ws-6",
+    "name": "Invoicing and Settlements",
+    "description": "Client invoices and carrier settlements tracking",
+    "state": "active",
+    "board_kind": "private"
+  },
+  {
+    "board_id": "board-701",
+    "workspace_id": "ws-7",
+    "name": "Automotive Lane Planning",
+    "description": "Lane and rate planning for automotive parts accounts",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-801",
+    "workspace_id": "ws-8",
+    "name": "Harvest Capacity Board",
+    "description": "Seasonal ag capacity planning",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-901",
+    "workspace_id": "ws-9",
+    "name": "Flatbed Sourcing",
+    "description": "Building materials flatbed sourcing and quotes",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-1001",
+    "workspace_id": "ws-10",
+    "name": "Inbound Quotes Pipeline",
+    "description": "New quote requests and prospect pipeline",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-1101",
+    "workspace_id": "ws-11",
+    "name": "Brand Onboarding Plan",
+    "description": "Junior associate onboarding tasks and milestones",
+    "state": "active",
+    "board_kind": "private"
+  },
+  {
+    "board_id": "board-1201",
+    "workspace_id": "ws-12",
+    "name": "Midwest Lane Tracker",
+    "description": "Knoxville to Midwest corridor load tracking",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-1301",
+    "workspace_id": "ws-13",
+    "name": "Southeast Lane Tracker",
+    "description": "Southeast corridor load tracking",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-1401",
+    "workspace_id": "ws-14",
+    "name": "Insurance Certificates",
+    "description": "Carrier insurance certificate expirations",
+    "state": "active",
+    "board_kind": "private"
+  },
+  {
+    "board_id": "board-1501",
+    "workspace_id": "ws-15",
+    "name": "TNFA Conference 2026",
+    "description": "Planning for the Oct 10 TN Freight Association conference",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-1601",
+    "workspace_id": "ws-16",
+    "name": "Newsletter Content Calendar",
+    "description": "Client newsletter and campaign scheduling",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-1801",
+    "workspace_id": "ws-18",
+    "name": "Legacy Loads Archive",
+    "description": "Archived pre-2024 load history",
+    "state": "archived",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-1901",
+    "workspace_id": "ws-19",
+    "name": "Quarterly Revenue Plan",
+    "description": "Quarterly revenue goals and reinvestment planning",
+    "state": "active",
+    "board_kind": "private"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "AAMkAGmsg001",
+    "subject": "RCVS registration renewal confirmation",
+    "from_name": "RCVS",
+    "from_address": "noreply@rcvs.org.uk",
+    "to_name": "Craig Figueroa",
+    "to_address": "craig.figueroa@gmail.com",
+    "body_preview": "Your annual registration has been renewed for 2026.",
+    "content_type": "html",
+    "is_read": "true",
+    "importance": "normal",
+    "received_date": "2026-01-15T09:00:00Z"
+  },
+  {
+    "id": "AAMkAGmsg002",
+    "subject": "The Veterinary Record, May issue",
+    "from_name": "BVA",
+    "from_address": "news@bva.co.uk",
+    "to_name": "Craig Figueroa",
+    "to_address": "craig.figueroa@gmail.com",
+    "body_preview": "This month: bovine respiratory disease and the autumn TB outlook.",
+    "content_type": "html",
+    "is_read": "false",
+    "importance": "normal",
+    "received_date": "2026-05-01T07:00:00Z"
+  },
+  {
+    "id": "AAMkAGmsg003",
+    "subject": "MWI statement, April",
+    "from_name": "MWI Animal Health",
+    "from_address": "accounts@mwiah.co.uk",
+    "to_name": "Craig Figueroa",
+    "to_address": "craig.figueroa@gmail.com",
+    "body_preview": "Your April account statement is attached. Balance due 30 days.",
+    "content_type": "html",
+    "is_read": "true",
+    "importance": "normal",
+    "received_date": "2026-05-02T08:00:00Z"
+  },
+  {
+    "id": "AAMkAGmsg004",
+    "subject": "Congress delegate pack",
+    "from_name": "Highland Vet Congress",
+    "from_address": "bookings@highlandvetcongress.co.uk",
+    "to_name": "Craig Figueroa",
+    "to_address": "craig.figueroa@gmail.com",
+    "body_preview": "Your delegate pack and timetable for Harrogate.",
+    "content_type": "html",
+    "is_read": "false",
+    "importance": "normal",
+    "received_date": "2026-04-20T12:30:00Z"
+  },
+  {
+    "id": "AAMkAGmsg005",
+    "subject": "Cold-chain compliance reminder",
+    "from_name": "NVS",
+    "from_address": "orders@nvs.co.uk",
+    "to_name": "Craig Figueroa",
+    "to_address": "craig.figueroa@gmail.com",
+    "body_preview": "Reminder to log fridge temperatures for controlled storage.",
+    "content_type": "text",
+    "is_read": "true",
+    "importance": "high",
+    "received_date": "2026-05-06T06:30:00Z"
+  },
+  {
+    "id": "AAMkAGmsg006",
+    "subject": "OS Maps Premium renewal",
+    "from_name": "Ordnance Survey",
+    "from_address": "noreply@ordnancesurvey.co.uk",
+    "to_name": "Craig Figueroa",
+    "to_address": "craig.figueroa@gmail.com",
+    "body_preview": "Your OS Maps Premium subscription renews next month.",
+    "content_type": "html",
+    "is_read": "true",
+    "importance": "normal",
+    "received_date": "2026-05-10T09:00:00Z"
+  }
+]

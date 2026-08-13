@@ -1,0 +1,72 @@
+[
+  {
+    "id": "reg-0001",
+    "meeting_id": "85012345671",
+    "email": "jean.mackenzie@gmail.com",
+    "first_name": "Jean",
+    "last_name": "MacKenzie",
+    "status": "approved",
+    "join_time": "",
+    "create_time": "2026-05-21T12:00:00Z"
+  },
+  {
+    "id": "reg-0002",
+    "meeting_id": "85012345672",
+    "email": "douglas@mackayandco.co.uk",
+    "first_name": "Douglas",
+    "last_name": "Mackay",
+    "status": "approved",
+    "join_time": "",
+    "create_time": "2026-05-21T12:05:00Z"
+  },
+  {
+    "id": "reg-0003",
+    "meeting_id": "85012345673",
+    "email": "graeme.sutherland@gmail.com",
+    "first_name": "Graeme",
+    "last_name": "Sutherland",
+    "status": "pending",
+    "join_time": "",
+    "create_time": "2026-05-21T13:00:00Z"
+  },
+  {
+    "id": "reg-0004",
+    "meeting_id": "85012345674",
+    "email": "rhona.matheson@apha.gov.uk",
+    "first_name": "Rhona",
+    "last_name": "Matheson",
+    "status": "approved",
+    "join_time": "",
+    "create_time": "2026-05-22T10:00:00Z"
+  },
+  {
+    "id": "reg-0005",
+    "meeting_id": "85012345675",
+    "email": "duncan.fraser@btinternet.com",
+    "first_name": "Duncan",
+    "last_name": "Fraser",
+    "status": "approved",
+    "join_time": "",
+    "create_time": "2026-05-22T10:10:00Z"
+  },
+  {
+    "id": "reg-0006",
+    "meeting_id": "85012345676",
+    "email": "craig.figueroa@gmail.com",
+    "first_name": "Craig",
+    "last_name": "Figueroa",
+    "status": "approved",
+    "join_time": "2026-05-22T16:00:30Z",
+    "create_time": "2026-05-15T11:00:00Z"
+  },
+  {
+    "id": "reg-0007",
+    "meeting_id": "85012345671",
+    "email": "iain.campbell@btinternet.com",
+    "first_name": "Iain",
+    "last_name": "Campbell",
+    "status": "approved",
+    "join_time": "2026-05-22T16:02:10Z",
+    "create_time": "2026-05-15T11:10:00Z"
+  }
+]

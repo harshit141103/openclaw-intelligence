@@ -1,0 +1,152 @@
+[
+  {
+    "event_type": "purchase",
+    "date": "2026-05-02",
+    "count": "3"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-03",
+    "count": "5"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-04",
+    "count": "8"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-05",
+    "count": "6"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-06",
+    "count": "9"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-07",
+    "count": "7"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-08",
+    "count": "4"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-09",
+    "count": "11"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-05-10",
+    "count": "10"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-02",
+    "count": "120"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-03",
+    "count": "134"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-04",
+    "count": "128"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-05",
+    "count": "141"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-06",
+    "count": "150"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-07",
+    "count": "145"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-08",
+    "count": "138"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-09",
+    "count": "156"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-05-10",
+    "count": "163"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-05-02",
+    "count": "420"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-05-03",
+    "count": "485"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-05-04",
+    "count": "512"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-05-05",
+    "count": "498"
+  },
+  {
+    "event_type": "feature_used",
+    "date": "2026-05-02",
+    "count": "95"
+  },
+  {
+    "event_type": "feature_used",
+    "date": "2026-05-03",
+    "count": "112"
+  },
+  {
+    "event_type": "feature_used",
+    "date": "2026-05-04",
+    "count": "108"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-05-02",
+    "count": "2"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-05-03",
+    "count": "1"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-05-08",
+    "count": "1"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-05-09",
+    "count": "2"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-05-10",
+    "count": "1"
+  }
+]

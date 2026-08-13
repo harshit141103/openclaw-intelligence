@@ -1,0 +1,162 @@
+[
+  {
+    "id": "perm-001",
+    "file_id": "folder-eng",
+    "type": "user",
+    "role": "owner",
+    "email": "diane.cox.vt@gmail.com",
+    "display_name": "Diane Cox"
+  },
+  {
+    "id": "perm-002",
+    "file_id": "folder-eng",
+    "type": "user",
+    "role": "writer",
+    "email": "keith.cox.bvt@gmail.com",
+    "display_name": "Keith Cox"
+  },
+  {
+    "id": "perm-003",
+    "file_id": "folder-eng",
+    "type": "user",
+    "role": "writer",
+    "email": "marie.gagne.vt@gmail.com",
+    "display_name": "Marie Cox-Gagne"
+  },
+  {
+    "id": "perm-004",
+    "file_id": "file-rfc-auth",
+    "type": "user",
+    "role": "owner",
+    "email": "tom.gagne.vt@gmail.com",
+    "display_name": "Tom Gagne"
+  },
+  {
+    "id": "perm-005",
+    "file_id": "file-rfc-auth",
+    "type": "user",
+    "role": "commenter",
+    "email": "pete.lafleur.vt@gmail.com",
+    "display_name": "Pete Lafleur"
+  },
+  {
+    "id": "perm-006",
+    "file_id": "file-rfc-billing",
+    "type": "user",
+    "role": "owner",
+    "email": "jwhitfield@copleyvt.org",
+    "display_name": "Dr. James Whitfield"
+  },
+  {
+    "id": "perm-007",
+    "file_id": "file-rfc-billing",
+    "type": "user",
+    "role": "writer",
+    "email": "frontdesk@hardwickdental.com",
+    "display_name": "Dr. Paul LeBlanc"
+  },
+  {
+    "id": "perm-008",
+    "file_id": "file-budget",
+    "type": "domain",
+    "role": "reader",
+    "email": "shenderson@stowevt.net",
+    "display_name": "Scott Henderson"
+  },
+  {
+    "id": "perm-009",
+    "file_id": "file-trace",
+    "type": "user",
+    "role": "owner",
+    "email": "lhenderson@stowevt.net",
+    "display_name": "Linda Henderson"
+  },
+  {
+    "id": "perm-902",
+    "file_id": "folder-eng-b1",
+    "type": "user",
+    "role": "owner",
+    "email": "awhitcomb@sterling.edu",
+    "display_name": "Alan Whitcomb"
+  },
+  {
+    "id": "perm-904",
+    "file_id": "folder-eng-b2",
+    "type": "user",
+    "role": "writer",
+    "email": "paul.dufresne@myfairpoint.net",
+    "display_name": "Paul Dufresne"
+  },
+  {
+    "id": "perm-906",
+    "file_id": "folder-eng-b3",
+    "type": "user",
+    "role": "writer",
+    "email": "marc.belanger.mason@gmail.com",
+    "display_name": "Marc Belanger"
+  },
+  {
+    "id": "perm-908",
+    "file_id": "file-rfc-auth-b4",
+    "type": "user",
+    "role": "owner",
+    "email": "stoddard.electric@gmail.com",
+    "display_name": "Gary Stoddard"
+  },
+  {
+    "id": "perm-910",
+    "file_id": "file-rfc-auth-b5",
+    "type": "user",
+    "role": "commenter",
+    "email": "orders@hardwicklumber.com",
+    "display_name": "Hardwick Lumber"
+  },
+  {
+    "id": "perm-912",
+    "file_id": "file-rfc-billing-b6",
+    "type": "user",
+    "role": "owner",
+    "email": "sales@greenmountainhardwoods.com",
+    "display_name": "Green Mountain Hardwoods"
+  },
+  {
+    "id": "perm-914",
+    "file_id": "file-rfc-billing-b7",
+    "type": "user",
+    "role": "writer",
+    "email": "ray@hardwicklumber.com",
+    "display_name": "Ray Tetreault"
+  },
+  {
+    "id": "perm-916",
+    "file_id": "file-budget-b8",
+    "type": "domain",
+    "role": "reader",
+    "email": "nancy.beaulieu@gmavt.net",
+    "display_name": "Nancy Beaulieu"
+  },
+  {
+    "id": "perm-918",
+    "file_id": "file-trace-b9",
+    "type": "user",
+    "role": "owner",
+    "email": "office@craftsburychurch.org",
+    "display_name": "Rev. Susan Mills"
+  },
+  {
+    "id": "perm-911",
+    "file_id": "folder-eng-b10",
+    "type": "user",
+    "role": "owner",
+    "email": "walt.perreault@gmail.com",
+    "display_name": "Walt Perreault"
+  },
+  {
+    "id": "perm-913",
+    "file_id": "folder-eng-b11",
+    "type": "user",
+    "role": "writer",
+    "email": "donna.sloan@comcast.net",
+    "display_name": "Donna Sloan"
+  }
+]

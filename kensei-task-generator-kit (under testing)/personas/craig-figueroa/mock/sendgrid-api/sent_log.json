@@ -1,0 +1,68 @@
+[
+  {
+    "message_id": "msg-aa01",
+    "to_email": "craig.figueroa@gmail.com",
+    "from_email": "no-reply@figueroavet.co.uk",
+    "subject": "Welcome to Figueroa Veterinary Services, Craig!",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2026-05-20T10:01:00Z"
+  },
+  {
+    "message_id": "msg-aa02",
+    "to_email": "duncan.fraser@btinternet.com",
+    "from_email": "no-reply@figueroavet.co.uk",
+    "subject": "Reset your Figueroa Veterinary Services password",
+    "template_id": "d-2b3c4d5e6f708192",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "1",
+    "sent_at": "2026-05-21T09:30:00Z"
+  },
+  {
+    "message_id": "msg-aa03",
+    "to_email": "fiona.drummond@gmail.com",
+    "from_email": "news@figueroavet.co.uk",
+    "subject": "Figueroa Veterinary Services — May highlights",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "delivered",
+    "opens": "3",
+    "clicks": "0",
+    "sent_at": "2026-05-22T08:00:00Z"
+  },
+  {
+    "message_id": "msg-aa04",
+    "to_email": "graeme.sutherland@gmail.com",
+    "from_email": "news@figueroavet.co.uk",
+    "subject": "Figueroa Veterinary Services — May highlights",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "bounced",
+    "opens": "0",
+    "clicks": "0",
+    "sent_at": "2026-05-22T08:00:05Z"
+  },
+  {
+    "message_id": "msg-aa05",
+    "to_email": "rhona.matheson@apha.gov.uk",
+    "from_email": "billing@figueroavet.co.uk",
+    "subject": "Your receipt for invoice INV-9001",
+    "template_id": "d-4d5e6f7081920314",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2026-05-23T14:00:00Z"
+  },
+  {
+    "message_id": "msg-aa06",
+    "to_email": "sofia.rossi@gmail.com",
+    "from_email": "no-reply@figueroavet.co.uk",
+    "subject": "Welcome to Figueroa Veterinary Services, Sofia!",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "opened",
+    "opens": "4",
+    "clicks": "2",
+    "sent_at": "2026-05-24T10:00:00Z"
+  }
+]

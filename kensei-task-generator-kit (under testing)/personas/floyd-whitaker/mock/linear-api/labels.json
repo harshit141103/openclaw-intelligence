@@ -1,0 +1,182 @@
+[
+  {
+    "id": "label-bug",
+    "name": "Blocker",
+    "color": "#eb5757",
+    "description": "Something is holding up planning",
+    "teamId": "",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-critical",
+    "name": "Critical",
+    "color": "#eb5757",
+    "description": "Must be done before kickoff",
+    "teamId": "",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-high",
+    "name": "High",
+    "color": "#f2994a",
+    "description": "High priority",
+    "teamId": "",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-medium",
+    "name": "Medium",
+    "color": "#f2c94c",
+    "description": "Medium priority",
+    "teamId": "",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-low",
+    "name": "Low",
+    "color": "#bdbdbd",
+    "description": "Low priority, nice to have",
+    "teamId": "",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-dark-mode",
+    "name": "Recruiting",
+    "color": "#5e6ad2",
+    "description": "Finding mentors and mentees",
+    "teamId": "team-ux",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-form-validation",
+    "name": "Scheduling",
+    "color": "#26b5ce",
+    "description": "Session dates and venues",
+    "teamId": "team-ux",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-medications",
+    "name": "Curriculum",
+    "color": "#bb6bd9",
+    "description": "Topics and session content",
+    "teamId": "team-ux",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-dashboard",
+    "name": "Logistics",
+    "color": "#6fcf97",
+    "description": "Materials, handouts, and supplies",
+    "teamId": "team-ux",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-charge-nurse-review",
+    "name": "Floyd Sign-off",
+    "color": "#f2c94c",
+    "description": "Needs Floyd's review before it's final",
+    "teamId": "team-ux",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  },
+  {
+    "id": "label-website",
+    "name": "Website",
+    "color": "#26b5ce",
+    "description": "whitakerfreight.com tasks",
+    "teamId": "team-web",
+    "createdAt": "2026-01-16T09:00:00",
+    "updatedAt": "2026-01-16T09:00:00"
+  },
+  {
+    "id": "label-content",
+    "name": "Content",
+    "color": "#f2c94c",
+    "description": "Copy, blog, and newsletter content",
+    "teamId": "team-blog",
+    "createdAt": "2026-01-21T09:00:00",
+    "updatedAt": "2026-01-21T09:00:00"
+  },
+  {
+    "id": "label-vetting",
+    "name": "Vetting",
+    "color": "#6fcf97",
+    "description": "Carrier vetting work",
+    "teamId": "team-carrier",
+    "createdAt": "2026-01-18T09:00:00",
+    "updatedAt": "2026-01-18T09:00:00"
+  },
+  {
+    "id": "label-software",
+    "name": "Software Eval",
+    "color": "#f2994a",
+    "description": "FreightFlow vs RoutePoint evaluation",
+    "teamId": "team-fse",
+    "createdAt": "2026-01-17T09:00:00",
+    "updatedAt": "2026-01-17T09:00:00"
+  },
+  {
+    "id": "label-onboarding",
+    "name": "Onboarding",
+    "color": "#bb6bd9",
+    "description": "Brand onboarding tasks",
+    "teamId": "team-onboard",
+    "createdAt": "2026-01-19T09:00:00",
+    "updatedAt": "2026-01-19T09:00:00"
+  },
+  {
+    "id": "label-compliance",
+    "name": "Compliance",
+    "color": "#eb5757",
+    "description": "DOT and FMCSA compliance",
+    "teamId": "team-dot",
+    "createdAt": "2026-01-20T09:00:00",
+    "updatedAt": "2026-01-20T09:00:00"
+  },
+  {
+    "id": "label-client",
+    "name": "Client",
+    "color": "#5e6ad2",
+    "description": "Client-facing tasks and check-ins",
+    "teamId": "team-client",
+    "createdAt": "2026-01-27T09:00:00",
+    "updatedAt": "2026-01-27T09:00:00"
+  },
+  {
+    "id": "label-rates",
+    "name": "Rates",
+    "color": "#f2c94c",
+    "description": "Lane rate review and quoting",
+    "teamId": "team-lane",
+    "createdAt": "2026-01-26T09:00:00",
+    "updatedAt": "2026-01-26T09:00:00"
+  },
+  {
+    "id": "label-marketing",
+    "name": "Marketing",
+    "color": "#26b5ce",
+    "description": "Campaigns, social, and lead follow-up",
+    "teamId": "team-mktg",
+    "createdAt": "2026-01-29T09:00:00",
+    "updatedAt": "2026-01-29T09:00:00"
+  },
+  {
+    "id": "label-needs-info",
+    "name": "Needs Info",
+    "color": "#bdbdbd",
+    "description": "Waiting on more information before it can move",
+    "teamId": "",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-01-15T09:00:00"
+  }
+]

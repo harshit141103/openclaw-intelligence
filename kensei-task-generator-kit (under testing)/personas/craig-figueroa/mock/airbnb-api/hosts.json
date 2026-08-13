@@ -1,0 +1,82 @@
+[
+  {
+    "host_id": "host-ingrid",
+    "name": "Ingrid Solberg",
+    "superhost": "true",
+    "joined_year": "2016",
+    "response_rate": "99",
+    "languages": "Norwegian,English"
+  },
+  {
+    "host_id": "host-lars",
+    "name": "Lars Pedersen",
+    "superhost": "true",
+    "joined_year": "2018",
+    "response_rate": "98",
+    "languages": "Norwegian,English"
+  },
+  {
+    "host_id": "host-mairi",
+    "name": "Mairi MacLeod",
+    "superhost": "true",
+    "joined_year": "2019",
+    "response_rate": "100",
+    "languages": "English,Gaelic"
+  },
+  {
+    "host_id": "host-astrid",
+    "name": "Astrid Hansen",
+    "superhost": "false",
+    "joined_year": "2020",
+    "response_rate": "95",
+    "languages": "Norwegian,English"
+  },
+  {
+    "host_id": "host-callum",
+    "name": "Callum Mackenzie",
+    "superhost": "true",
+    "joined_year": "2015",
+    "response_rate": "97",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-eilidh",
+    "name": "Eilidh Ross",
+    "superhost": "false",
+    "joined_year": "2021",
+    "response_rate": "94",
+    "languages": "English,Gaelic"
+  },
+  {
+    "host_id": "host-bjorn",
+    "name": "Bjorn Nilsen",
+    "superhost": "true",
+    "joined_year": "2017",
+    "response_rate": "99",
+    "languages": "Norwegian,English"
+  },
+  {
+    "host_id": "host-fraser",
+    "name": "Fraser Sinclair",
+    "superhost": "false",
+    "joined_year": "2022",
+    "response_rate": "92",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-kari",
+    "name": "Kari Johansen",
+    "superhost": "true",
+    "joined_year": "2014",
+    "response_rate": "100",
+    "languages": "Norwegian,English"
+  },
+  {
+    "host_id": "host-shona",
+    "name": "Shona Cameron",
+    "superhost": "true",
+    "joined_year": "2018",
+    "response_rate": "98",
+    "languages": "English"
+  }
+]

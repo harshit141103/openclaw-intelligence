@@ -1,0 +1,163 @@
+﻿[
+  {
+    "id": "flag_4001",
+    "project_id": "1",
+    "key": "new-onboarding",
+    "name": "New Onboarding Flow",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4002",
+    "project_id": "1",
+    "key": "beta-dashboard",
+    "name": "Beta Dashboard",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4003",
+    "project_id": "1",
+    "key": "dark-mode",
+    "name": "Dark Mode",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4004",
+    "project_id": "1",
+    "key": "fast-checkout",
+    "name": "Fast Checkout",
+    "active": "true",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4005",
+    "project_id": "2",
+    "key": "referral-program",
+    "name": "Referral Program",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4006",
+    "project_id": "1",
+    "key": "ai-suggestions",
+    "name": "AI Suggestions Engine",
+    "active": "true",
+    "rollout_percentage": "75"
+  },
+  {
+    "id": "flag_4007",
+    "project_id": "2",
+    "key": "advanced-analytics",
+    "name": "Advanced Analytics",
+    "active": "true",
+    "rollout_percentage": "60"
+  },
+  {
+    "id": "flag_4008",
+    "project_id": "1",
+    "key": "mobile-app",
+    "name": "Mobile App Feature",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4009",
+    "project_id": "1",
+    "key": "real-time-sync",
+    "name": "Real-time Data Sync",
+    "active": "true",
+    "rollout_percentage": "40"
+  },
+  {
+    "id": "flag_4010",
+    "project_id": "2",
+    "key": "custom-branding",
+    "name": "Custom Branding",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4011",
+    "project_id": "1",
+    "key": "two-factor-auth",
+    "name": "Two-Factor AuthentiILtion",
+    "active": "true",
+    "rollout_percentage": "85"
+  },
+  {
+    "id": "flag_4012",
+    "project_id": "2",
+    "key": "api-v2",
+    "name": "API v2 Beta",
+    "active": "true",
+    "rollout_percentage": "30"
+  },
+  {
+    "id": "flag_4013",
+    "project_id": "1",
+    "key": "bulk-operations",
+    "name": "Bulk Operations",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4014",
+    "project_id": "1",
+    "key": "social-sharing",
+    "name": "Social Media Sharing",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4015",
+    "project_id": "2",
+    "key": "webhook-integrations",
+    "name": "Webhook Integrations",
+    "active": "true",
+    "rollout_percentage": "70"
+  },
+  {
+    "id": "flag_4016",
+    "project_id": "1",
+    "key": "predictive-insights",
+    "name": "Predictive Insights",
+    "active": "true",
+    "rollout_percentage": "20"
+  },
+  {
+    "id": "flag_4017",
+    "project_id": "2",
+    "key": "white-label",
+    "name": "White Label Solution",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4018",
+    "project_id": "1",
+    "key": "performance-optimization",
+    "name": "Performance Optimization",
+    "active": "true",
+    "rollout_percentage": "90"
+  },
+  {
+    "id": "flag_4019",
+    "project_id": "2",
+    "key": "backup-restore",
+    "name": "Backup and Restore",
+    "active": "true",
+    "rollout_percentage": "80"
+  },
+  {
+    "id": "flag_4020",
+    "project_id": "1",
+    "key": "collaborative-workspace",
+    "name": "Collaborative Workspace",
+    "active": "false",
+    "rollout_percentage": "0"
+  }
+]
+

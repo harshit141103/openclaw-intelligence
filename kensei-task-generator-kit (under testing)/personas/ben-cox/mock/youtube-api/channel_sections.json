@@ -1,0 +1,276 @@
+[
+  {
+    "id": "section_001",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Milling rough lumber flat and square",
+      "position": 0
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_001"
+      ]
+    }
+  },
+  {
+    "id": "section_002",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Timber framing a mortise and tenon by hand",
+      "position": 1
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_002"
+      ]
+    }
+  },
+  {
+    "id": "section_003",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Restoring a vintage Stanley No. 5 jointer plane",
+      "position": 2
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_003"
+      ]
+    }
+  },
+  {
+    "id": "section_004",
+    "snippet": {
+      "type": "popularUploads",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Hand-cut dovetails - paring to the line",
+      "position": 3
+    },
+    "contentDetails": {
+      "playlists": []
+    }
+  },
+  {
+    "id": "section_005",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Installing Blum Tandem drawer slides",
+      "position": 4
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_009"
+      ]
+    }
+  },
+  {
+    "id": "section_006",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Restoring a vintage Stanley No. 5 jointer plane",
+      "position": 5
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_008"
+      ]
+    }
+  },
+  {
+    "id": "section_902",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Installing Blum Tandem drawer slides",
+      "position": 0
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_001"
+      ]
+    }
+  },
+  {
+    "id": "section_904",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Red Sox highlights",
+      "position": 1
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_002"
+      ]
+    }
+  },
+  {
+    "id": "section_906",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Arm-R-Seal vs hardwax oil on cherry",
+      "position": 2
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_003"
+      ]
+    }
+  },
+  {
+    "id": "section_908",
+    "snippet": {
+      "type": "popularUploads",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Restoring a vintage Stanley No. 5 jointer plane",
+      "position": 3
+    },
+    "contentDetails": {
+      "playlists": []
+    }
+  },
+  {
+    "id": "section_910",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Fly fishing small Vermont streams for brook trout",
+      "position": 4
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_009"
+      ]
+    }
+  },
+  {
+    "id": "section_912",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Installing Blum Tandem drawer slides",
+      "position": 5
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_008"
+      ]
+    }
+  },
+  {
+    "id": "section_908-12",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Timber framing a mortise and tenon by hand",
+      "position": 0
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_001"
+      ]
+    }
+  },
+  {
+    "id": "section_910-13",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Setting up a table saw for dead-square cuts",
+      "position": 1
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_002"
+      ]
+    }
+  },
+  {
+    "id": "section_912-14",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Hand-cut dovetails - paring to the line",
+      "position": 2
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_003"
+      ]
+    }
+  },
+  {
+    "id": "section_914",
+    "snippet": {
+      "type": "popularUploads",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Fly fishing small Vermont streams for brook trout",
+      "position": 3
+    },
+    "contentDetails": {
+      "playlists": []
+    }
+  },
+  {
+    "id": "section_916",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Setting up a table saw for dead-square cuts",
+      "position": 4
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_009"
+      ]
+    }
+  },
+  {
+    "id": "section_918",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Sharpening chisels on waterstones",
+      "position": 5
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_008"
+      ]
+    }
+  },
+  {
+    "id": "section_914-18",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Hand-cut dovetails - paring to the line",
+      "position": 0
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_001"
+      ]
+    }
+  },
+  {
+    "id": "section_916-19",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_EquineHealthChannel",
+      "title": "Milling rough lumber flat and square",
+      "position": 1
+    },
+    "contentDetails": {
+      "playlists": [
+        "PL_002"
+      ]
+    }
+  }
+]

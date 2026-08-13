@@ -1,0 +1,122 @@
+[
+  {
+    "activity_id": "9002",
+    "athlete_id": "5500301",
+    "firstname": "Diane",
+    "lastname": "Cox"
+  },
+  {
+    "activity_id": "9002",
+    "athlete_id": "5500302",
+    "firstname": "Keith",
+    "lastname": "Cox"
+  },
+  {
+    "activity_id": "9002",
+    "athlete_id": "5500303",
+    "firstname": "Marie",
+    "lastname": "Cox-Gagne"
+  },
+  {
+    "activity_id": "9003",
+    "athlete_id": "5500301",
+    "firstname": "Tom",
+    "lastname": "Gagne"
+  },
+  {
+    "activity_id": "9003",
+    "athlete_id": "5500304",
+    "firstname": "Pete",
+    "lastname": "Lafleur"
+  },
+  {
+    "activity_id": "9007",
+    "athlete_id": "5500302",
+    "firstname": "James",
+    "lastname": "Whitfield"
+  },
+  {
+    "activity_id": "9007",
+    "athlete_id": "5500304",
+    "firstname": "Paul",
+    "lastname": "LeBlanc"
+  },
+  {
+    "activity_id": "9007",
+    "athlete_id": "5500305",
+    "firstname": "Scott",
+    "lastname": "Henderson"
+  },
+  {
+    "activity_id": "9010",
+    "athlete_id": "5500303",
+    "firstname": "Linda",
+    "lastname": "Henderson"
+  },
+  {
+    "activity_id": "9010",
+    "athlete_id": "5500305",
+    "firstname": "Alan",
+    "lastname": "Whitcomb"
+  },
+  {
+    "activity_id": "9011",
+    "athlete_id": "5500301",
+    "firstname": "Paul",
+    "lastname": "Dufresne"
+  },
+  {
+    "activity_id": "9011",
+    "athlete_id": "5500304",
+    "firstname": "Marc",
+    "lastname": "Belanger"
+  },
+  {
+    "activity_id": "9002",
+    "athlete_id": "5500301",
+    "firstname": "Gary",
+    "lastname": "Stoddard"
+  },
+  {
+    "activity_id": "9002",
+    "athlete_id": "5500302",
+    "firstname": "Hardwick",
+    "lastname": "Lumber"
+  },
+  {
+    "activity_id": "9002",
+    "athlete_id": "5500303",
+    "firstname": "Green",
+    "lastname": "Mountain Hardwoods"
+  },
+  {
+    "activity_id": "9003",
+    "athlete_id": "5500301",
+    "firstname": "Ray",
+    "lastname": "Tetreault"
+  },
+  {
+    "activity_id": "9003",
+    "athlete_id": "5500304",
+    "firstname": "Nancy",
+    "lastname": "Beaulieu"
+  },
+  {
+    "activity_id": "9007",
+    "athlete_id": "5500302",
+    "firstname": "Susan",
+    "lastname": "Mills"
+  },
+  {
+    "activity_id": "9007",
+    "athlete_id": "5500304",
+    "firstname": "Walt",
+    "lastname": "Perreault"
+  },
+  {
+    "activity_id": "9007",
+    "athlete_id": "5500305",
+    "firstname": "Donna",
+    "lastname": "Sloan"
+  }
+]

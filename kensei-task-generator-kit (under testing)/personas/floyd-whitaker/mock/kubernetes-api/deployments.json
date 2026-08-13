@@ -1,0 +1,222 @@
+[
+  {
+    "name": "whitakerfreight-web",
+    "namespace": "website",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "image": "whitakerfreight/website:1.4.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-12T10:00:00Z"
+  },
+  {
+    "name": "contact-form-api",
+    "namespace": "website",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/contact-form:1.1.2",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-12T10:10:00Z"
+  },
+  {
+    "name": "quote-request-api",
+    "namespace": "website",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/quote-request:1.0.5",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-09-03T13:20:00Z"
+  },
+  {
+    "name": "nginx-proxy",
+    "namespace": "default",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "nginx:1.25-alpine",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-12T09:00:00Z"
+  },
+  {
+    "name": "coredns",
+    "namespace": "kube-system",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "registry.k8s.io/coredns/coredns:v1.11.1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-blog",
+    "namespace": "blog",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/blog:1.2.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "wfs-shop",
+    "namespace": "shop",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/shop:0.9.3",
+    "strategy": "RollingUpdate",
+    "created_time": "2026-01-20T10:00:00Z"
+  },
+  {
+    "name": "wfs-mail",
+    "namespace": "mail",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/mail-relay:1.0.1",
+    "strategy": "Recreate",
+    "created_time": "2025-08-20T10:00:00Z"
+  },
+  {
+    "name": "postgres",
+    "namespace": "database",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "postgres:16.2-alpine",
+    "strategy": "Recreate",
+    "created_time": "2025-08-13T10:00:00Z"
+  },
+  {
+    "name": "redis",
+    "namespace": "redis",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "redis:7.2-alpine",
+    "strategy": "Recreate",
+    "created_time": "2025-09-10T10:00:00Z"
+  },
+  {
+    "name": "grafana",
+    "namespace": "monitoring",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "grafana/grafana:10.4.1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-12T12:00:00Z"
+  },
+  {
+    "name": "prometheus",
+    "namespace": "monitoring",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "prom/prometheus:v2.51.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-12T12:01:00Z"
+  },
+  {
+    "name": "ingress-nginx-controller",
+    "namespace": "ingress-nginx",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "image": "registry.k8s.io/ingress-nginx/controller:v1.10.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-12T09:30:00Z"
+  },
+  {
+    "name": "cert-manager",
+    "namespace": "cert-manager",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "quay.io/jetstack/cert-manager-controller:v1.14.4",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-08-12T09:40:00Z"
+  },
+  {
+    "name": "wfs-analytics",
+    "namespace": "analytics",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/analytics:1.0.4",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-10-01T10:00:00Z"
+  },
+  {
+    "name": "wfs-web-staging",
+    "namespace": "staging",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/website:1.5.0-rc1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-11-01T10:00:00Z"
+  },
+  {
+    "name": "loki",
+    "namespace": "logging",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "grafana/loki:2.9.6",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-09-01T10:00:00Z"
+  },
+  {
+    "name": "tms-eval-web",
+    "namespace": "tms-eval",
+    "replicas": "1",
+    "available_replicas": "0",
+    "ready_replicas": "0",
+    "updated_replicas": "1",
+    "image": "routepoint/tms-eval:2.3.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2026-04-15T10:00:00Z"
+  },
+  {
+    "name": "argocd-server",
+    "namespace": "argocd",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "quay.io/argoproj/argocd:v2.10.4",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-09-20T10:00:00Z"
+  },
+  {
+    "name": "quote-request-api-v2",
+    "namespace": "website",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "whitakerfreight/quote-request:2.0.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2026-06-02T10:00:00Z"
+  }
+]

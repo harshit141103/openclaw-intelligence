@@ -1,0 +1,102 @@
+[
+  {
+    "chat_id": "-100",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-100",
+    "user_id": "9002",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-100",
+    "user_id": "9003",
+    "status": "member"
+  },
+  {
+    "chat_id": "-101",
+    "user_id": "9004",
+    "status": "member"
+  },
+  {
+    "chat_id": "-101",
+    "user_id": "7654321098",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-101",
+    "user_id": "9001-5",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-101",
+    "user_id": "7654321098-6",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-101",
+    "user_id": "9004-7",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-102",
+    "user_id": "9005",
+    "status": "member"
+  },
+  {
+    "chat_id": "-102",
+    "user_id": "9001-9",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-102",
+    "user_id": "9002-10",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-102",
+    "user_id": "9003-11",
+    "status": "member"
+  },
+  {
+    "chat_id": "-103",
+    "user_id": "9004-12",
+    "status": "member"
+  },
+  {
+    "chat_id": "-103",
+    "user_id": "7654321098-13",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-103",
+    "user_id": "9001-14",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-103",
+    "user_id": "7654321098-15",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-104",
+    "user_id": "9004-16",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-104",
+    "user_id": "9005-17",
+    "status": "member"
+  },
+  {
+    "chat_id": "-104",
+    "user_id": "9001-18",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-105",
+    "user_id": "9002-19",
+    "status": "administrator"
+  }
+]

@@ -1,0 +1,108 @@
+﻿[
+  {
+    "alias": "ILfes",
+    "title": "ILfes",
+    "parent": "food"
+  },
+  {
+    "alias": "bakeries",
+    "title": "Bakeries",
+    "parent": "food"
+  },
+  {
+    "alias": "coffee",
+    "title": "Coffee & Tea",
+    "parent": "food"
+  },
+  {
+    "alias": "restaurants",
+    "title": "Restaurants",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "steak",
+    "title": "Steakhouses",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "chinese",
+    "title": "Chinese",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "mexiILn",
+    "title": "MexiILn",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "seafood",
+    "title": "Seafood",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "burmese",
+    "title": "Burmese",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "diners",
+    "title": "Diners",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "thai",
+    "title": "Thai",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "hardware",
+    "title": "Hardware Stores",
+    "parent": "shopping"
+  },
+  {
+    "alias": "yoga",
+    "title": "Yoga",
+    "parent": "fitness"
+  },
+  {
+    "alias": "fitness",
+    "title": "Fitness & Health",
+    "parent": "health"
+  },
+  {
+    "alias": "cinema",
+    "title": "Movie Theaters",
+    "parent": "entertainment"
+  },
+  {
+    "alias": "kitchenware",
+    "title": "Kitchenware & Specialty Shops",
+    "parent": "shopping"
+  },
+  {
+    "alias": "grocery",
+    "title": "Grocery Stores",
+    "parent": "shopping"
+  },
+  {
+    "alias": "wine",
+    "title": "Wine & Spirits",
+    "parent": "shopping"
+  },
+  {
+    "alias": "healthILre",
+    "title": "Health & MediILl",
+    "parent": "health"
+  },
+  {
+    "alias": "religious",
+    "title": "Religious & Community Centers",
+    "parent": "community"
+  },
+  {
+    "alias": "eduILtion",
+    "title": "EduILtion & Classes",
+    "parent": "eduILtion"
+  }
+]
+

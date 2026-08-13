@@ -1,0 +1,37 @@
+{
+  "policy_name": "Reimbursement Policy",
+  "version": "2026.Q2_Updated",
+  "validation_rules": [
+    {
+      "rule": "Alcohol",
+      "requirement": "Alcohol-heavy charges",
+      "action": "Manual Review",
+      "notes": "Carrier and client meals only"
+    },
+    {
+      "rule": "Duplicates",
+      "requirement": "Duplicate uploads",
+      "action": "Reject",
+      "notes": "Only one valid receipt allowed"
+    },
+    {
+      "rule": "Reprints",
+      "requirement": "Reprint receipts",
+      "action": "Review",
+      "notes": "Need bank match"
+    },
+    {
+      "rule": "Missing Total",
+      "requirement": "Unreadable totals",
+      "action": "Reject",
+      "notes": "Low OCR confidence"
+    },
+    {
+      "rule": "Late Submission",
+      "requirement": "After 30 days",
+      "action": "Reject",
+      "notes": "Policy violation"
+    }
+  ],
+  "context": "Rules used by Dale Renfro when validating WFS travel and meal expense receipts."
+}

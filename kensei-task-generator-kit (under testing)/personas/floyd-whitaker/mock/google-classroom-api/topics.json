@@ -1,0 +1,122 @@
+[
+  {
+    "courseId": "cohort-2026-autumn",
+    "topicId": "topic_101",
+    "name": "Module 1: Broker Authority & Licensing",
+    "updateTime": "2026-08-28T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "topicId": "topic_102",
+    "name": "Module 2: Carrier Vetting & Onboarding",
+    "updateTime": "2026-09-04T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "topicId": "topic_103",
+    "name": "Module 3: Load Boards & Lane Fundamentals",
+    "updateTime": "2026-09-11T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "topicId": "topic_104",
+    "name": "Module 4: Rate Negotiation",
+    "updateTime": "2026-09-18T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "topicId": "topic_105",
+    "name": "Module 5: Bill of Lading & Paperwork",
+    "updateTime": "2026-09-25T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "topicId": "topic_106",
+    "name": "Module 6: DOT Compliance & Claims",
+    "updateTime": "2026-10-02T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2025",
+    "topicId": "topic_201",
+    "name": "Module 1: Broker Authority & Licensing",
+    "updateTime": "2025-08-29T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2025",
+    "topicId": "topic_202",
+    "name": "Module 2: Carrier Vetting & Onboarding",
+    "updateTime": "2025-09-05T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2025",
+    "topicId": "topic_203",
+    "name": "Module 3: Load Boards & Lane Fundamentals",
+    "updateTime": "2025-09-12T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2025",
+    "topicId": "topic_204",
+    "name": "Module 4: Rate Negotiation",
+    "updateTime": "2025-09-19T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2025",
+    "topicId": "topic_205",
+    "name": "Module 5: Capstone Live Loads",
+    "updateTime": "2025-11-14T08:00:00Z"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "topicId": "topic_301",
+    "name": "SOPs & Company Standards",
+    "updateTime": "2025-09-03T08:00:00Z"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "topicId": "topic_302",
+    "name": "TMS Workflow",
+    "updateTime": "2025-09-10T08:00:00Z"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "topicId": "topic_303",
+    "name": "Carrier Packets & BOL Handling",
+    "updateTime": "2025-09-17T08:00:00Z"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "topicId": "topic_304",
+    "name": "Customer Communication",
+    "updateTime": "2025-09-24T08:00:00Z"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "topicId": "topic_401",
+    "name": "Q1: Broker Bond & Authority Renewal",
+    "updateTime": "2026-01-15T08:00:00Z"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "topicId": "topic_402",
+    "name": "Q2: Carrier Safety Ratings",
+    "updateTime": "2026-04-10T08:00:00Z"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "topicId": "topic_403",
+    "name": "Q3: Hours of Service Basics",
+    "updateTime": "2026-06-01T08:00:00Z"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "topicId": "topic_404",
+    "name": "Q4: Recordkeeping for Audits",
+    "updateTime": "2026-06-01T08:00:00Z"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "topicId": "topic_107",
+    "name": "Module 7: Capstone Live Loads & Dispatch Shadowing",
+    "updateTime": "2026-10-09T08:00:00Z"
+  }
+]

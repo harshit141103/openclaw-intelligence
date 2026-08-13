@@ -1,0 +1,182 @@
+[
+  {
+    "name": "curiosity",
+    "status": "active",
+    "landing_date": "2012-08-06",
+    "launch_date": "2011-11-26",
+    "max_sol": "4101",
+    "max_date": "2026-04-13",
+    "total_photos": "712450"
+  },
+  {
+    "name": "perseverance",
+    "status": "active",
+    "landing_date": "2021-02-18",
+    "launch_date": "2020-07-30",
+    "max_sol": "1111",
+    "max_date": "2026-05-01",
+    "total_photos": "358900"
+  },
+  {
+    "name": "opportunity",
+    "status": "complete",
+    "landing_date": "2004-01-25",
+    "launch_date": "2003-07-07",
+    "max_sol": "5111",
+    "max_date": "2018-06-10",
+    "total_photos": "228771"
+  },
+  {
+    "name": "spirit",
+    "status": "complete",
+    "landing_date": "2004-01-04",
+    "launch_date": "2003-06-10",
+    "max_sol": "2208",
+    "max_date": "2010-03-21",
+    "total_photos": "124550"
+  },
+  {
+    "name": "sojourner",
+    "status": "complete",
+    "landing_date": "1997-07-04",
+    "launch_date": "1996-12-04",
+    "max_sol": "83",
+    "max_date": "1997-09-27",
+    "total_photos": "550"
+  },
+  {
+    "name": "zhurong",
+    "status": "complete",
+    "landing_date": "2021-05-14",
+    "launch_date": "2020-07-23",
+    "max_sol": "358",
+    "max_date": "2022-05-20",
+    "total_photos": "1640"
+  },
+  {
+    "name": "yutu",
+    "status": "complete",
+    "landing_date": "2013-12-14",
+    "launch_date": "2013-12-01",
+    "max_sol": "31",
+    "max_date": "2014-01-25",
+    "total_photos": "970"
+  },
+  {
+    "name": "yutu-2",
+    "status": "active",
+    "landing_date": "2019-01-03",
+    "launch_date": "2018-12-07",
+    "max_sol": "1100",
+    "max_date": "2026-03-15",
+    "total_photos": "4210"
+  },
+  {
+    "name": "pragyan",
+    "status": "complete",
+    "landing_date": "2023-08-23",
+    "launch_date": "2023-07-14",
+    "max_sol": "14",
+    "max_date": "2023-09-03",
+    "total_photos": "320"
+  },
+  {
+    "name": "lunokhod 1",
+    "status": "complete",
+    "landing_date": "1970-11-17",
+    "launch_date": "1970-11-10",
+    "max_sol": "322",
+    "max_date": "1971-09-14",
+    "total_photos": "20000"
+  },
+  {
+    "name": "lunokhod 2",
+    "status": "complete",
+    "landing_date": "1973-01-15",
+    "launch_date": "1973-01-08",
+    "max_sol": "125",
+    "max_date": "1973-05-09",
+    "total_photos": "86000"
+  },
+  {
+    "name": "apollo 15 lrv",
+    "status": "complete",
+    "landing_date": "1971-07-30",
+    "launch_date": "1971-07-26",
+    "max_sol": "3",
+    "max_date": "1971-08-02",
+    "total_photos": "1150"
+  },
+  {
+    "name": "apollo 16 lrv",
+    "status": "complete",
+    "landing_date": "1972-04-21",
+    "launch_date": "1972-04-16",
+    "max_sol": "3",
+    "max_date": "1972-04-24",
+    "total_photos": "1190"
+  },
+  {
+    "name": "apollo 17 lrv",
+    "status": "complete",
+    "landing_date": "1972-12-11",
+    "launch_date": "1972-12-07",
+    "max_sol": "3",
+    "max_date": "1972-12-14",
+    "total_photos": "1230"
+  },
+  {
+    "name": "rosalind franklin",
+    "status": "planned",
+    "landing_date": "2030-05-01",
+    "launch_date": "2028-10-01",
+    "max_sol": "0",
+    "max_date": "2030-05-01",
+    "total_photos": "0"
+  },
+  {
+    "name": "viper",
+    "status": "complete",
+    "landing_date": "2024-11-01",
+    "launch_date": "2024-09-01",
+    "max_sol": "100",
+    "max_date": "2025-02-09",
+    "total_photos": "2100"
+  },
+  {
+    "name": "pragyan 2",
+    "status": "planned",
+    "landing_date": "2028-09-01",
+    "launch_date": "2028-07-01",
+    "max_sol": "0",
+    "max_date": "2028-09-01",
+    "total_photos": "0"
+  },
+  {
+    "name": "rashid",
+    "status": "complete",
+    "landing_date": "2023-04-25",
+    "launch_date": "2022-12-11",
+    "max_sol": "1",
+    "max_date": "2023-04-25",
+    "total_photos": "0"
+  },
+  {
+    "name": "tianwen-3 rover",
+    "status": "planned",
+    "landing_date": "2031-06-01",
+    "launch_date": "2028-05-01",
+    "max_sol": "0",
+    "max_date": "2031-06-01",
+    "total_photos": "0"
+  },
+  {
+    "name": "marsokhod prop-m",
+    "status": "complete",
+    "landing_date": "1971-12-02",
+    "launch_date": "1971-05-28",
+    "max_sol": "1",
+    "max_date": "1971-12-02",
+    "total_photos": "0"
+  }
+]

@@ -1,0 +1,224 @@
+﻿[
+  {
+    "message_id": "msg-aa01",
+    "to_email": "amelia.ortega@meridianbenefits.com",
+    "from_email": "no-reply@meridianbenefits.com",
+    "subject": "Welcome to Meridian Benefits Group, Amelia!",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2026-05-20T10:01:00Z"
+  },
+  {
+    "message_id": "msg-aa02",
+    "to_email": "jonas.pereira@meridianbenefits.com",
+    "from_email": "no-reply@meridianbenefits.com",
+    "subject": "Reset your Meridian Benefits Group password",
+    "template_id": "d-2b3c4d5e6f708192",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "1",
+    "sent_at": "2026-05-21T09:30:00Z"
+  },
+  {
+    "message_id": "msg-aa03",
+    "to_email": "helena.park@meridianbenefits.com",
+    "from_email": "news@meridianbenefits.com",
+    "subject": "Meridian Benefits Group â€” May highlights",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "delivered",
+    "opens": "3",
+    "clicks": "0",
+    "sent_at": "2026-05-22T08:00:00Z"
+  },
+  {
+    "message_id": "msg-aa04",
+    "to_email": "rohit.bansal@meridianbenefits.com",
+    "from_email": "news@meridianbenefits.com",
+    "subject": "Meridian Benefits Group â€” May highlights",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "bounced",
+    "opens": "0",
+    "clicks": "0",
+    "sent_at": "2026-05-22T08:00:05Z"
+  },
+  {
+    "message_id": "msg-aa05",
+    "to_email": "noor.aziz@meridianbenefits.com",
+    "from_email": "billing@meridianbenefits.com",
+    "subject": "Your receipt for invoice INV-9001",
+    "template_id": "d-4d5e6f7081920314",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2026-05-23T14:00:00Z"
+  },
+  {
+    "message_id": "msg-aa06",
+    "to_email": "sofia.rossi@voissync.ai",
+    "from_email": "no-reply@meridianbenefits.com",
+    "subject": "Welcome to Meridian Benefits Group, Sofia!",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "opened",
+    "opens": "4",
+    "clicks": "2",
+    "sent_at": "2026-05-24T10:00:00Z"
+  },
+  {
+    "message_id": "msg-aa07",
+    "to_email": "marcus.chen@meridianbenefits.com",
+    "from_email": "support@meridianbenefits.com",
+    "subject": "Your support ticket #5432 has been resolved",
+    "template_id": "d-5e6f708192031425",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2026-05-25T11:00:00Z"
+  },
+  {
+    "message_id": "msg-aa08",
+    "to_email": "isabella.santos@meridianbenefits.com",
+    "from_email": "news@meridianbenefits.com",
+    "subject": "Feature Update: Advanced Analytics",
+    "template_id": "d-6f7081920314251a",
+    "status": "delivered",
+    "opens": "5",
+    "clicks": "3",
+    "sent_at": "2026-05-25T14:30:00Z"
+  },
+  {
+    "message_id": "msg-aa09",
+    "to_email": "luILs.kovalski@meridianbenefits.com",
+    "from_email": "billing@meridianbenefits.com",
+    "subject": "Invoice INV-9008 is ready",
+    "template_id": "d-4d5e6f7081920314",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2026-05-26T09:15:00Z"
+  },
+  {
+    "message_id": "msg-aa10",
+    "to_email": "yuki.tanaka@meridianbenefits.com",
+    "from_email": "no-reply@meridianbenefits.com",
+    "subject": "Special Offer: 30% Off Annual Plan",
+    "template_id": "d-7f7081920314251a2",
+    "status": "delivered",
+    "opens": "6",
+    "clicks": "4",
+    "sent_at": "2026-05-26T12:00:00Z"
+  },
+  {
+    "message_id": "msg-aa11",
+    "to_email": "anna.mueller@meridianbenefits.com",
+    "from_email": "news@meridianbenefits.com",
+    "subject": "Webinar: Best Practices for Growth",
+    "template_id": "d-8f7081920314251a3",
+    "status": "delivered",
+    "opens": "3",
+    "clicks": "2",
+    "sent_at": "2026-05-27T08:00:00Z"
+  },
+  {
+    "message_id": "msg-aa12",
+    "to_email": "gabriel.santos@meridianbenefits.com",
+    "from_email": "no-reply@meridianbenefits.com",
+    "subject": "Account Security Alert",
+    "template_id": "d-9f7081920314251a4",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "1",
+    "sent_at": "2026-05-27T10:30:00Z"
+  },
+  {
+    "message_id": "msg-aa13",
+    "to_email": "pierre.dupont@meridianbenefits.com",
+    "from_email": "sales@meridianbenefits.com",
+    "subject": "Your Enterprise Trial is Ready",
+    "template_id": "d-af7081920314251a5",
+    "status": "opened",
+    "opens": "8",
+    "clicks": "5",
+    "sent_at": "2026-05-27T13:00:00Z"
+  },
+  {
+    "message_id": "msg-aa14",
+    "to_email": "priya.sharma@meridianbenefits.com",
+    "from_email": "news@meridianbenefits.com",
+    "subject": "New Integration: Slack Workflow",
+    "template_id": "d-bf7081920314251a6",
+    "status": "delivered",
+    "opens": "4",
+    "clicks": "2",
+    "sent_at": "2026-05-28T09:00:00Z"
+  },
+  {
+    "message_id": "msg-aa15",
+    "to_email": "emma.wilson@meridianbenefits.com",
+    "from_email": "support@meridianbenefits.com",
+    "subject": "Documentation Update",
+    "template_id": "d-cf7081920314251a7",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2026-05-28T11:30:00Z"
+  },
+  {
+    "message_id": "msg-aa16",
+    "to_email": "david.lim@meridianbenefits.com",
+    "from_email": "billing@meridianbenefits.com",
+    "subject": "Payment Method Expiring Soon",
+    "template_id": "d-df7081920314251a8",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2026-05-28T14:00:00Z"
+  },
+  {
+    "message_id": "msg-aa17",
+    "to_email": "natalia.kwiatkowski@meridianbenefits.com",
+    "from_email": "no-reply@meridianbenefits.com",
+    "subject": "Welcome Bonus: Free Month Extended",
+    "template_id": "d-ef7081920314251a9",
+    "status": "delivered",
+    "opens": "7",
+    "clicks": "4",
+    "sent_at": "2026-05-29T10:00:00Z"
+  },
+  {
+    "message_id": "msg-aa18",
+    "to_email": "christopher.morris@meridianbenefits.com",
+    "from_email": "no-reply@meridianbenefits.com",
+    "subject": "Account Status Summary",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "message_id": "msg-aa19",
+    "to_email": "christopher.kumar@meridianbenefits.com",
+    "from_email": "news@meridianbenefits.com",
+    "subject": "June Product Roadmap",
+    "template_id": "d-ff7081920314251aa",
+    "status": "delivered",
+    "opens": "3",
+    "clicks": "2",
+    "sent_at": "2026-06-02T09:30:00Z"
+  },
+  {
+    "message_id": "msg-aa20",
+    "to_email": "zoe.patel@meridianbenefits.com",
+    "from_email": "sales@meridianbenefits.com",
+    "subject": "Exclusive Partner Program Invitation",
+    "template_id": "d-0g7081920314251ab",
+    "status": "opened",
+    "opens": "9",
+    "clicks": "6",
+    "sent_at": "2026-06-02T12:00:00Z"
+  }
+]
+
+

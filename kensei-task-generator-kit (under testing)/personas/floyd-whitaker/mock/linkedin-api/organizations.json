@@ -1,0 +1,222 @@
+[
+  {
+    "id": "5001",
+    "name": "Whitaker Freight Services",
+    "vanityName": "whitaker-freight-services",
+    "industry": "Truck Transportation",
+    "website": "https://whitakerfreight.com",
+    "location": "Knoxville Tennessee",
+    "staffCountRange": "2-10",
+    "followerCount": "1840",
+    "description": "Freight brokerage and logistics consulting serving the Southeast and Midwest. Automotive parts, agricultural products, and building materials."
+  },
+  {
+    "id": "5002",
+    "name": "Burgess Logistics",
+    "vanityName": "burgess-logistics",
+    "industry": "Logistics and Supply Chain",
+    "website": "https://burgesslogistics.com",
+    "location": "Knoxville Tennessee",
+    "staffCountRange": "11-50",
+    "followerCount": "2210",
+    "description": "Third-party logistics and freight brokerage across the Tennessee Valley and Southeast corridors."
+  },
+  {
+    "id": "5003",
+    "name": "Tennessee Freight Association",
+    "vanityName": "tn-freight-association",
+    "industry": "Truck Transportation",
+    "website": "https://tnfreight.org",
+    "location": "Nashville Tennessee",
+    "staffCountRange": "11-50",
+    "followerCount": "5630",
+    "description": "Statewide association of freight brokers, carriers, and logistics professionals. Advocacy, training, and the annual conference."
+  },
+  {
+    "id": "5004",
+    "name": "Cumberland Auto Parts",
+    "vanityName": "cumberland-auto-parts",
+    "industry": "Motor Vehicle Manufacturing",
+    "website": "https://cumberlandautoparts.com",
+    "location": "Knoxville Tennessee",
+    "staffCountRange": "51-200",
+    "followerCount": "1320",
+    "description": "Aftermarket automotive parts manufacturer and distributor across the Southeast."
+  },
+  {
+    "id": "5005",
+    "name": "Transportation Intermediaries Association",
+    "vanityName": "tianet",
+    "industry": "Truck Transportation",
+    "website": "https://www.tianet.org",
+    "location": "Alexandria Virginia",
+    "staffCountRange": "11-50",
+    "followerCount": "28400",
+    "description": "The professional organization representing North America's third-party logistics providers and freight brokers."
+  },
+  {
+    "id": "5006",
+    "name": "Federal Motor Carrier Safety Administration",
+    "vanityName": "fmcsa",
+    "industry": "Government Administration",
+    "website": "https://www.fmcsa.dot.gov",
+    "location": "Washington District of Columbia",
+    "staffCountRange": "1001-5000",
+    "followerCount": "61200",
+    "description": "Agency within the U.S. Department of Transportation regulating commercial motor vehicle safety and motor carrier registration."
+  },
+  {
+    "id": "5007",
+    "name": "Valley Grain Cooperative",
+    "vanityName": "valley-grain-cooperative",
+    "industry": "Farming",
+    "website": "https://valleygrainco.com",
+    "location": "Maryville Tennessee",
+    "staffCountRange": "51-200",
+    "followerCount": "640",
+    "description": "Agricultural grain cooperative serving East Tennessee growers and regional feed markets."
+  },
+  {
+    "id": "5008",
+    "name": "Smoky Mountain Building Supply",
+    "vanityName": "smoky-mountain-building-supply",
+    "industry": "Wholesale Building Materials",
+    "website": "https://smokymtnsupply.com",
+    "location": "Sevierville Tennessee",
+    "staffCountRange": "51-200",
+    "followerCount": "910",
+    "description": "Wholesale distributor of lumber, roofing, and building materials across East Tennessee and Western North Carolina."
+  },
+  {
+    "id": "5009",
+    "name": "Tri-State Manufacturing",
+    "vanityName": "tri-state-manufacturing",
+    "industry": "Manufacturing",
+    "website": "https://tristatemfg.com",
+    "location": "Bristol Tennessee",
+    "staffCountRange": "201-500",
+    "followerCount": "1480",
+    "description": "Precision metal fabrication and contract manufacturing for the automotive and industrial sectors."
+  },
+  {
+    "id": "5010",
+    "name": "Appalachian Ag Producers",
+    "vanityName": "appalachian-ag-producers",
+    "industry": "Farming",
+    "website": "https://appalachianag.com",
+    "location": "Greeneville Tennessee",
+    "staffCountRange": "11-50",
+    "followerCount": "520",
+    "description": "Regional producer network coordinating agricultural product distribution across the Appalachian corridor."
+  },
+  {
+    "id": "5011",
+    "name": "Ridgeline Trucking LLC",
+    "vanityName": "ridgeline-trucking",
+    "industry": "Truck Transportation",
+    "website": "https://ridgelinetrucking.com",
+    "location": "Morristown Tennessee",
+    "staffCountRange": "11-50",
+    "followerCount": "380",
+    "description": "Dry van and flatbed carrier running Southeast and Midwest lanes out of East Tennessee."
+  },
+  {
+    "id": "5012",
+    "name": "Cumberland Gap Carriers",
+    "vanityName": "cumberland-gap-carriers",
+    "industry": "Truck Transportation",
+    "website": "https://cumberlandgapcarriers.com",
+    "location": "Middlesboro Kentucky",
+    "staffCountRange": "11-50",
+    "followerCount": "295",
+    "description": "Regional trucking company specializing in automotive parts and building material freight."
+  },
+  {
+    "id": "5013",
+    "name": "Volunteer Logistics Carriers",
+    "vanityName": "volunteer-logistics-carriers",
+    "industry": "Truck Transportation",
+    "website": "https://volunteerlogistics.com",
+    "location": "Knoxville Tennessee",
+    "staffCountRange": "51-200",
+    "followerCount": "740",
+    "description": "Asset-based carrier providing dry van, reefer, and dedicated capacity across the Tennessee Valley."
+  },
+  {
+    "id": "5014",
+    "name": "Smoky Mountain Freight Lines",
+    "vanityName": "smoky-mountain-freight-lines",
+    "industry": "Truck Transportation",
+    "website": "https://smokymountainfreight.com",
+    "location": "Sevierville Tennessee",
+    "staffCountRange": "11-50",
+    "followerCount": "410",
+    "description": "Flatbed and LTL carrier serving building materials and agricultural shippers in East Tennessee."
+  },
+  {
+    "id": "5015",
+    "name": "Whitaker Hauling",
+    "vanityName": "whitaker-hauling",
+    "industry": "Truck Transportation",
+    "website": "https://whitakerhauling.com",
+    "location": "Harlan Kentucky",
+    "staffCountRange": "2-10",
+    "followerCount": "180",
+    "description": "Family-owned trucking outfit hauling coal-region and regional freight across Eastern Kentucky and Tennessee."
+  },
+  {
+    "id": "5016",
+    "name": "American Trucking Associations",
+    "vanityName": "american-trucking-associations",
+    "industry": "Truck Transportation",
+    "website": "https://www.trucking.org",
+    "location": "Washington District of Columbia",
+    "staffCountRange": "201-500",
+    "followerCount": "94300",
+    "description": "The largest national trade association for the trucking industry, representing carriers and industry suppliers."
+  },
+  {
+    "id": "5017",
+    "name": "Tennessee Trucking Association",
+    "vanityName": "tennessee-trucking-association",
+    "industry": "Truck Transportation",
+    "website": "https://www.tntrucking.org",
+    "location": "Nashville Tennessee",
+    "staffCountRange": "11-50",
+    "followerCount": "4120",
+    "description": "Statewide trade association advancing the interests of Tennessee's trucking and freight industry."
+  },
+  {
+    "id": "5018",
+    "name": "DAT Freight and Analytics",
+    "vanityName": "dat-freight-analytics",
+    "industry": "Software Development",
+    "website": "https://www.dat.com",
+    "location": "Beaverton Oregon",
+    "staffCountRange": "501-1000",
+    "followerCount": "78600",
+    "description": "Operator of the largest truckload freight marketplace and rate analytics platform in North America."
+  },
+  {
+    "id": "5019",
+    "name": "RoutePoint Logistics Suite",
+    "vanityName": "routepoint-logistics-suite",
+    "industry": "Software Development",
+    "website": "https://routepointlogistics.com",
+    "location": "Chattanooga Tennessee",
+    "staffCountRange": "51-200",
+    "followerCount": "2240",
+    "description": "Transportation management software for freight brokers and 3PLs handling load tracking, carrier vetting, and accounting."
+  },
+  {
+    "id": "5020",
+    "name": "Commercial Vehicle Safety Alliance",
+    "vanityName": "cvsa",
+    "industry": "Government Administration",
+    "website": "https://www.cvsa.org",
+    "location": "Greenbelt Maryland",
+    "staffCountRange": "11-50",
+    "followerCount": "33700",
+    "description": "International nonprofit of commercial motor vehicle safety officials and industry partners promoting uniform enforcement."
+  }
+]

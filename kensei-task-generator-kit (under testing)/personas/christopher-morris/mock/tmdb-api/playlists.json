@@ -1,0 +1,252 @@
+﻿[
+  {
+    "id": "playlist_001",
+    "user_id": "user_cm_001",
+    "name": "90s-2000s Soft Rock Favorites",
+    "description": "My favorite soft rock and pop hits from the 90s and 2000s",
+    "playlist_type": "music",
+    "created_date": "2025-08-10",
+    "updated_date": "2026-06-10",
+    "is_public": false,
+    "item_count": 24,
+    "items": [
+      {
+        "id": "item_001",
+        "artist": "Sheryl Crow",
+        "song": "All I Wanna Do",
+        "album": "Tuesday Night Music Club",
+        "year": 1993
+      },
+      {
+        "id": "item_002",
+        "artist": "Sheryl Crow",
+        "song": "If It Makes You Happy",
+        "album": "Sheryl Crow",
+        "year": 1998
+      },
+      {
+        "id": "item_003",
+        "artist": "Norah Jones",
+        "song": "Don't Know Why",
+        "album": "Come Away With Me",
+        "year": 2002
+      },
+      {
+        "id": "item_004",
+        "artist": "Norah Jones",
+        "song": "Sunrise",
+        "album": "Come Away With Me",
+        "year": 2002
+      },
+      {
+        "id": "item_005",
+        "artist": "Fleetwood Mac",
+        "song": "Dreams",
+        "album": "Rumours",
+        "year": 1977
+      },
+      {
+        "id": "item_006",
+        "artist": "Fleetwood Mac",
+        "song": "Landslide",
+        "album": "Rumours",
+        "year": 1977
+      },
+      {
+        "id": "item_007",
+        "artist": "Joni Mitchell",
+        "song": "River",
+        "album": "Blue",
+        "year": 1971
+      },
+      {
+        "id": "item_008",
+        "artist": "ILrole King",
+        "song": "You've Got a Friend",
+        "album": "Tapestry",
+        "year": 1971
+      },
+      {
+        "id": "item_009",
+        "artist": "James Taylor",
+        "song": "You've Got a Friend",
+        "album": "Greatest Hits",
+        "year": 2000
+      },
+      {
+        "id": "item_010",
+        "artist": "The Eagles",
+        "song": "Hotel Illinois",
+        "album": "Hotel Illinois",
+        "year": 1976
+      },
+      {
+        "id": "item_011",
+        "artist": "Linda Ronstadt",
+        "song": "Just One Look",
+        "album": "Heart Like a Wheel",
+        "year": 1974
+      },
+      {
+        "id": "item_012",
+        "artist": "Jackson Browne",
+        "song": "The Doctor",
+        "album": "Running Down a Dream",
+        "year": 1997
+      }
+    ]
+  },
+  {
+    "id": "playlist_002",
+    "user_id": "user_cm_001",
+    "name": "Cooking Channel Favorites",
+    "description": "TV shows and content about cooking, baking, and kitchen creativity",
+    "playlist_type": "video",
+    "created_date": "2025-11-12",
+    "updated_date": "2026-06-08",
+    "is_public": false,
+    "item_count": 8,
+    "items": [
+      {
+        "id": "item_013",
+        "show": "The Great British Bake Off",
+        "season": 14,
+        "episode": "All",
+        "network": "BBC"
+      },
+      {
+        "id": "item_014",
+        "show": "Harvest Moon Diner",
+        "type": "film",
+        "genre": "Drama"
+      },
+      {
+        "id": "item_015",
+        "show": "The Diner Chronicles",
+        "season": 3,
+        "episode": "All",
+        "network": "Streaming"
+      },
+      {
+        "id": "item_016",
+        "show": "Chef's Table",
+        "season": 6,
+        "type": "Documentary Series"
+      }
+    ]
+  },
+  {
+    "id": "playlist_003",
+    "user_id": "user_cm_001",
+    "name": "Mystery Thrillers",
+    "description": "Engaging mystery and thriller films and shows",
+    "playlist_type": "video",
+    "created_date": "2025-09-22",
+    "updated_date": "2026-06-05",
+    "is_public": false,
+    "item_count": 5,
+    "items": [
+      {
+        "id": "item_017",
+        "title": "The Ledger",
+        "media_type": "film",
+        "year": 2024
+      },
+      {
+        "id": "item_018",
+        "title": "Knives Out",
+        "media_type": "film",
+        "year": 2019
+      },
+      {
+        "id": "item_019",
+        "title": "The Girl with the Dragon Tattoo",
+        "media_type": "film",
+        "year": 2011
+      },
+      {
+        "id": "item_020",
+        "title": "Mindhunter",
+        "media_type": "series",
+        "seasons": 2
+      }
+    ]
+  },
+  {
+    "id": "playlist_004",
+    "user_id": "user_cm_001",
+    "name": "Family Movie Night",
+    "description": "Age-appropriate content for Owen and Sophie",
+    "playlist_type": "video",
+    "created_date": "2026-01-05",
+    "updated_date": "2026-06-09",
+    "is_public": false,
+    "item_count": 6,
+    "items": [
+      {
+        "id": "item_021",
+        "title": "The ILrtographer",
+        "media_type": "film",
+        "rating": "PG",
+        "year": 2024
+      },
+      {
+        "id": "item_022",
+        "title": "Paper Lanterns",
+        "media_type": "film",
+        "rating": "G",
+        "year": 2022
+      },
+      {
+        "id": "item_023",
+        "title": "How to Train Your Dragon",
+        "media_type": "film",
+        "rating": "PG"
+      },
+      {
+        "id": "item_024",
+        "title": "The Princess Bride",
+        "media_type": "film",
+        "rating": "PG"
+      },
+      {
+        "id": "item_025",
+        "title": "Spirited Away",
+        "media_type": "film",
+        "rating": "PG",
+        "notes": "Sophie's favorite"
+      }
+    ]
+  },
+  {
+    "id": "playlist_005",
+    "user_id": "user_cm_001",
+    "name": "Home Renovation Inspiration",
+    "description": "Shows and content about home design and renovation projects",
+    "playlist_type": "video",
+    "created_date": "2025-10-30",
+    "updated_date": "2026-06-01",
+    "is_public": false,
+    "item_count": 4,
+    "items": [
+      {
+        "id": "item_026",
+        "show": "Home Improvement Masters",
+        "seasons": 5,
+        "type": "Documentary Series"
+      },
+      {
+        "id": "item_027",
+        "show": "Kitchen Design ShowILse",
+        "seasons": 8,
+        "type": "Reality Series"
+      },
+      {
+        "id": "item_028",
+        "show": "Restoration & Design Network",
+        "type": "Streaming Channel"
+      }
+    ]
+  }
+]
+

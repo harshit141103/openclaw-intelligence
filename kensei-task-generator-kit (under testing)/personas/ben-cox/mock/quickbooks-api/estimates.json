@@ -1,0 +1,857 @@
+[
+  {
+    "Id": "4001",
+    "DocNumber": "E-1001",
+    "TxnDate": "2026-08-27",
+    "ExpirationDate": "2024-05-13",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Cherry pricing for the Henderson uppers"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 620.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Stage the bookshelf sections for the Cra"
+          },
+          "UnitPrice": 18.99,
+          "Qty": 250
+        }
+      }
+    ],
+    "TotalAmt": 4500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2024-03-31",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-09-26T17:15:00Z",
+      "LastUpdatedTime": "2025-03-06T14:15:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4002",
+    "DocNumber": "E-1002",
+    "TxnDate": "2025-03-20",
+    "ExpirationDate": "2026-05-11",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Lay out dovetails for the silverware dra"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Barn oak is summer 2027 - not pulling material yet.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Cut dadoes for the adjustable shelf pins"
+          },
+          "UnitPrice": 1850.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-11-09",
+    "LinkedTxn": [
+      {
+        "TxnId": "1010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-04-03T09:30:00Z",
+      "LastUpdatedTime": "2026-05-06T18:45:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4003",
+    "DocNumber": "E-1003",
+    "TxnDate": "2025-12-16",
+    "ExpirationDate": "2026-07-16",
+    "CustomerRef": {
+      "value": "23",
+      "name": "Cut dadoes for the adjustable shelf pins"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Splitting and stacking the winter firewo"
+          },
+          "UnitPrice": 24.0,
+          "Qty": 200
+        }
+      }
+    ],
+    "TotalAmt": 3600.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2024-09-03",
+    "LinkedTxn": [
+      {
+        "TxnId": "1021",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-07-31T12:00:00Z",
+      "LastUpdatedTime": "2026-05-19T07:30:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4004",
+    "DocNumber": "E-1004",
+    "TxnDate": "2025-05-12",
+    "ExpirationDate": "2026-10-02",
+    "CustomerRef": {
+      "value": "25",
+      "name": "Final fit of the Henderson island base c"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 3200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Set up the dado stack for the bookshelf rabbets",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "10",
+            "name": "Mock up the crown profile for the Hender"
+          },
+          "UnitPrice": 4800.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 5400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Cherry pricing for the Henderson uppers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Mock up the crown profile for the Hender"
+          },
+          "UnitPrice": 28.99,
+          "Qty": 5
+        }
+      }
+    ],
+    "TotalAmt": 950.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2023-10-21T10:45:00Z",
+      "LastUpdatedTime": "2025-01-01T15:45:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4005",
+    "DocNumber": "E-1005",
+    "TxnDate": "2024-11-23",
+    "ExpirationDate": "2025-02-19",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Stowe kitchen - cabinet hardware lead time"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 6200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Template the Stowe countertop radius for"
+          },
+          "UnitPrice": 34.5,
+          "Qty": 100
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "TxnStatus": "Closed",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2025-01-22T13:15:00Z",
+      "LastUpdatedTime": "2025-03-27T15:30:00Z"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4006",
+    "DocNumber": "E-1006",
+    "TxnDate": "2025-09-17",
+    "ExpirationDate": "2026-01-17",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Church pew repair"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 8500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Splitting and stacking the winter firewood",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "10",
+            "name": "Estimate for the Greensboro barn (2027)"
+          },
+          "UnitPrice": 12000.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 18500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Sharpened the chisels; the 1in was overdue.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Cota window seat & bookcase"
+          },
+          "UnitPrice": 41.0,
+          "Qty": 20
+        }
+      }
+    ],
+    "TotalAmt": 2200.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-03-30T08:00:00Z",
+      "LastUpdatedTime": "2024-08-18T09:45:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4007",
+    "DocNumber": "E-1007",
+    "TxnDate": "2025-11-16",
+    "ExpirationDate": "2026-07-21",
+    "CustomerRef": {
+      "value": "22",
+      "name": "Set up the dado stack for the bookshelf "
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 480.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Re: Bookshelf dimensions",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Stowe kitchen - cabinet hardware lead time"
+          },
+          "UnitPrice": 620.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 3200.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-08-07T13:00:00Z",
+      "LastUpdatedTime": "2026-04-03T08:15:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4902",
+    "DocNumber": "E-1001",
+    "TxnDate": "2024-09-17",
+    "ExpirationDate": "2025-12-28",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Replace the dust collector filter and cl"
+    },
+    "Line": [
+      {
+        "Id": "903",
+        "LineNum": 1,
+        "Amount": 1200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Final fit of the Henderson island base c"
+          },
+          "UnitPrice": 47.95,
+          "Qty": 250
+        }
+      }
+    ],
+    "TotalAmt": 4500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-09-22",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-22T18:15:00Z",
+      "LastUpdatedTime": "2025-03-19T06:45:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4905",
+    "DocNumber": "E-1002",
+    "TxnDate": "2025-06-08",
+    "ExpirationDate": "2026-06-10",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Re-saw the walnut for bookmatched panels"
+    },
+    "Line": [
+      {
+        "Id": "905",
+        "LineNum": 1,
+        "Amount": 1850.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Lay out dovetails for the silverware drawer",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Template the Stowe countertop radius for"
+          },
+          "UnitPrice": 2400.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-02-27",
+    "LinkedTxn": [
+      {
+        "TxnId": "1010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-08-13T07:15:00Z",
+      "LastUpdatedTime": "2026-03-13T12:15:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4908",
+    "DocNumber": "E-1003",
+    "TxnDate": "2024-10-12",
+    "ExpirationDate": "2025-10-23",
+    "CustomerRef": {
+      "value": "23",
+      "name": "Splitting and stacking the winter firewo"
+    },
+    "Line": [
+      {
+        "Id": "907",
+        "LineNum": 1,
+        "Amount": 3200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Hang the soft-close doors and adjust the hinges",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Replace the dust collector filter and cl"
+          },
+          "UnitPrice": 62.0,
+          "Qty": 200
+        }
+      }
+    ],
+    "TotalAmt": 3600.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-01",
+    "LinkedTxn": [
+      {
+        "TxnId": "1021",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-11-22T16:15:00Z",
+      "LastUpdatedTime": "2026-01-23T10:45:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4911",
+    "DocNumber": "E-1004",
+    "TxnDate": "2024-09-02",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "25",
+      "name": "Boucher mudroom built-ins"
+    },
+    "Line": [
+      {
+        "Id": "909",
+        "LineNum": 1,
+        "Amount": 4800.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Barn oak is summer 2027 - not pulling material yet.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "10",
+            "name": "Mock up the crown profile for the Hender"
+          },
+          "UnitPrice": 5400.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "911",
+        "LineNum": 2,
+        "Amount": 6200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Set up the dado stack for the bookshelf rabbets",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Final fit of the Henderson island base c"
+          },
+          "UnitPrice": 88.0,
+          "Qty": 5
+        }
+      }
+    ],
+    "TotalAmt": 950.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2024-10-07T12:30:00Z",
+      "LastUpdatedTime": "2025-11-09T15:45:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4915",
+    "DocNumber": "E-1005",
+    "TxnDate": "2025-07-11",
+    "ExpirationDate": "2026-03-10",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Henderson kitchen cabinets"
+    },
+    "Line": [
+      {
+        "Id": "912",
+        "LineNum": 1,
+        "Amount": 8500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Set up the dado stack for the bookshelf rabbets",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Template the Stowe countertop radius for"
+          },
+          "UnitPrice": 110.0,
+          "Qty": 100
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "TxnStatus": "Closed",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2025-11-04T07:00:00Z",
+      "LastUpdatedTime": "2025-06-15T11:30:00Z"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4918",
+    "DocNumber": "E-1006",
+    "TxnDate": "2025-04-06",
+    "ExpirationDate": "2024-12-14",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Mock up the crown profile for the Hender"
+    },
+    "Line": [
+      {
+        "Id": "914",
+        "LineNum": 1,
+        "Amount": 12000.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "10",
+            "name": "Hang the soft-close doors and adjust the"
+          },
+          "UnitPrice": 18500.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "916",
+        "LineNum": 2,
+        "Amount": 480.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Project schedule update",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Stage the bookshelf sections for the Cra"
+          },
+          "UnitPrice": 6.8,
+          "Qty": 20
+        }
+      }
+    ],
+    "TotalAmt": 2200.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2023-11-27T14:15:00Z",
+      "LastUpdatedTime": "2025-10-14T16:15:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4922",
+    "DocNumber": "E-1007",
+    "TxnDate": "2026-05-11",
+    "ExpirationDate": "2024-12-07",
+    "CustomerRef": {
+      "value": "22",
+      "name": "Re: Bookshelf dimensions"
+    },
+    "Line": [
+      {
+        "Id": "917",
+        "LineNum": 1,
+        "Amount": 620.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Plane the bookshelf shelves and ease the"
+          },
+          "UnitPrice": 1200.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 3200.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2024-08-05T11:15:00Z",
+      "LastUpdatedTime": "2025-05-04T10:45:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4918-14",
+    "DocNumber": "E-1001",
+    "TxnDate": "2025-11-02",
+    "ExpirationDate": "2024-11-16",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Mock up the crown profile for the Hender"
+    },
+    "Line": [
+      {
+        "Id": "919",
+        "LineNum": 1,
+        "Amount": 1850.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Build the drawer boxes with half-blind dovetails",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Cota window seat & bookcase"
+          },
+          "UnitPrice": 9.25,
+          "Qty": 250
+        }
+      }
+    ],
+    "TotalAmt": 4500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-09-20",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-05-05T12:45:00Z",
+      "LastUpdatedTime": "2025-06-13T11:30:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4921",
+    "DocNumber": "E-1002",
+    "TxnDate": "2025-12-08",
+    "ExpirationDate": "2024-12-18",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Mill cherry stock to thickness for the u"
+    },
+    "Line": [
+      {
+        "Id": "921",
+        "LineNum": 1,
+        "Amount": 2400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Built-ins - finish sample for your approval",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Cherry pricing for the Henderson uppers"
+          },
+          "UnitPrice": 3200.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-10-09",
+    "LinkedTxn": [
+      {
+        "TxnId": "1010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-06-23T12:00:00Z",
+      "LastUpdatedTime": "2026-02-13T09:15:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4924",
+    "DocNumber": "E-1003",
+    "TxnDate": "2026-06-21",
+    "ExpirationDate": "2025-11-23",
+    "CustomerRef": {
+      "value": "23",
+      "name": "Bookshelf install Friday the 16th"
+    },
+    "Line": [
+      {
+        "Id": "923",
+        "LineNum": 1,
+        "Amount": 4800.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Check the moisture content on the barn oak before joinery",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Check the moisture content on the barn o"
+          },
+          "UnitPrice": 12.5,
+          "Qty": 200
+        }
+      }
+    ],
+    "TotalAmt": 3600.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-08-14",
+    "LinkedTxn": [
+      {
+        "TxnId": "1021",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-07-09T08:45:00Z",
+      "LastUpdatedTime": "2025-07-13T08:45:00Z"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4927",
+    "DocNumber": "E-1004",
+    "TxnDate": "2023-08-30",
+    "ExpirationDate": "2024-11-24",
+    "CustomerRef": {
+      "value": "25",
+      "name": "Project schedule update"
+    },
+    "Line": [
+      {
+        "Id": "925",
+        "LineNum": 1,
+        "Amount": 5400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Sand to 220 and raise the grain before finish",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "10",
+            "name": "Sharpen the jointer knives and reset the"
+          },
+          "UnitPrice": 6200.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "927",
+        "LineNum": 2,
+        "Amount": 8500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Sharpened the chisels; the 1in was overdue.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Stage the bookshelf sections for the Cra"
+          },
+          "UnitPrice": 18.99,
+          "Qty": 5
+        }
+      }
+    ],
+    "TotalAmt": 950.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2025-08-11T12:45:00Z",
+      "LastUpdatedTime": "2026-06-25T10:30:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4931",
+    "DocNumber": "E-1005",
+    "TxnDate": "2026-06-28",
+    "ExpirationDate": "2026-02-07",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Stage the bookshelf sections for the Cra"
+    },
+    "Line": [
+      {
+        "Id": "928",
+        "LineNum": 1,
+        "Amount": 12000.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Diane flagged the Sloan invoice for QuickBooks.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "7",
+            "name": "Greensboro barn restoration"
+          },
+          "UnitPrice": 24.0,
+          "Qty": 100
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "TxnStatus": "Closed",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2025-08-20T06:15:00Z",
+      "LastUpdatedTime": "2023-08-19T16:00:00Z"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4934",
+    "DocNumber": "E-1006",
+    "TxnDate": "2024-09-14",
+    "ExpirationDate": "2025-11-15",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Apply second coat of Arm-R-Seal to the b"
+    },
+    "Line": [
+      {
+        "Id": "930",
+        "LineNum": 1,
+        "Amount": 18500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Stowe kitchen - cabinet hardware lead time",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "10",
+            "name": "Cota window seat & bookcase"
+          },
+          "UnitPrice": 480.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "932",
+        "LineNum": 2,
+        "Amount": 620.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Barn oak is summer 2027 - not pulling material yet.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Project schedule update"
+          },
+          "UnitPrice": 28.99,
+          "Qty": 20
+        }
+      }
+    ],
+    "TotalAmt": 2200.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2024-09-25T12:00:00Z",
+      "LastUpdatedTime": "2024-08-28T08:30:00Z"
+    },
+    "SyncToken": "0"
+  }
+]

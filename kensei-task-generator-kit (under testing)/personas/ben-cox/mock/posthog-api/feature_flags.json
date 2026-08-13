@@ -1,0 +1,162 @@
+[
+  {
+    "id": "flag_4001",
+    "project_id": "1",
+    "key": "new-onboarding",
+    "name": "Delivery window for the Stowe cabinets",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4002",
+    "project_id": "1",
+    "key": "beta-dashboard",
+    "name": "Re: Stowe install date",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4003",
+    "project_id": "1",
+    "key": "dark-mode",
+    "name": "Lafleur barn door (favor)",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4004",
+    "project_id": "1",
+    "key": "fast-checkout",
+    "name": "Greensboro barn restoration",
+    "active": "true",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4005",
+    "project_id": "2",
+    "key": "referral-program",
+    "name": "Build the drawer boxes with half-blind d",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4902",
+    "project_id": "1",
+    "key": "new-onboarding-b1",
+    "name": "Lay out dovetails for the silverware dra",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4904",
+    "project_id": "1",
+    "key": "beta-dashboard-b2",
+    "name": "Mill cherry stock to thickness for the u",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4906",
+    "project_id": "1",
+    "key": "dark-mode-b3",
+    "name": "Build the drawer boxes with half-blind d",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4908",
+    "project_id": "1",
+    "key": "fast-checkout-b4",
+    "name": "Re: Stowe install date",
+    "active": "true",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4910",
+    "project_id": "2",
+    "key": "referral-program-b5",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4907",
+    "project_id": "1",
+    "key": "new-onboarding-b6",
+    "name": "Final fit of the Henderson island base c",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4909",
+    "project_id": "1",
+    "key": "beta-dashboard-b7",
+    "name": "Check the moisture content on the barn o",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4911",
+    "project_id": "1",
+    "key": "dark-mode-b8",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4913",
+    "project_id": "1",
+    "key": "fast-checkout-b9",
+    "name": "Delivery window for the Stowe cabinets",
+    "active": "true",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4915",
+    "project_id": "2",
+    "key": "referral-program-b10",
+    "name": "Material order - Hardwick Lumber",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4912",
+    "project_id": "1",
+    "key": "new-onboarding-b11",
+    "name": "Set up the dado stack for the bookshelf ",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4914",
+    "project_id": "1",
+    "key": "beta-dashboard-b12",
+    "name": "Lafleur barn door (favor)",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4916",
+    "project_id": "1",
+    "key": "dark-mode-b13",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4918",
+    "project_id": "1",
+    "key": "fast-checkout-b14",
+    "name": "Dry-fit the face frames before glue-up",
+    "active": "true",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4920",
+    "project_id": "2",
+    "key": "referral-program-b15",
+    "name": "Project schedule update",
+    "active": "true",
+    "rollout_percentage": "100"
+  }
+]

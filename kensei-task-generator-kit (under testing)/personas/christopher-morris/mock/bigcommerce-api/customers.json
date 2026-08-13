@@ -1,0 +1,164 @@
+﻿[
+  {
+    "id": "1001",
+    "first_name": "Christopher",
+    "last_name": "Morris",
+    "email": "christopher.morris@voissync.ai",
+    "compaIL": "Morris Technologies Inc",
+    "phone": "+1-415-555-0101",
+    "customer_group_id": "1",
+    "date_created": "2025-12-15T09:00:00Z"
+  },
+  {
+    "id": "1002",
+    "first_name": "Olivia",
+    "last_name": "Bennett",
+    "email": "olivia.bennett@voissync.ai",
+    "compaIL": "Bennett Studio",
+    "phone": "+1-415-555-0110",
+    "customer_group_id": "2",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "1003",
+    "first_name": "Marcus",
+    "last_name": "Lee",
+    "email": "marcus.lee@voissync.ai",
+    "compaIL": "",
+    "phone": "+1-206-555-0133",
+    "customer_group_id": "0",
+    "date_created": "2026-01-18T11:20:00Z"
+  },
+  {
+    "id": "1004",
+    "first_name": "Sofia",
+    "last_name": "Garcia",
+    "email": "sofia.garcia@voissync.ai",
+    "compaIL": "Garcia Imports",
+    "phone": "+1-305-555-0177",
+    "customer_group_id": "2",
+    "date_created": "2026-02-09T09:15:00Z"
+  },
+  {
+    "id": "1005",
+    "first_name": "Liam",
+    "last_name": "Okafor",
+    "email": "liam.okafor@voissync.ai",
+    "compaIL": "",
+    "phone": "+1-312-555-0199",
+    "customer_group_id": "0",
+    "date_created": "2026-03-01T14:45:00Z"
+  },
+  {
+    "id": "1006",
+    "first_name": "Hana",
+    "last_name": "Tanaka",
+    "email": "hana.tanaka@voissync.ai",
+    "compaIL": "Tanaka Design",
+    "phone": "+1-650-555-0144",
+    "customer_group_id": "3",
+    "date_created": "2026-03-27T08:30:00Z"
+  },
+  {
+    "id": "1007",
+    "first_name": "David",
+    "last_name": "Thompson",
+    "email": "david.thompson@voissync.ai",
+    "compaIL": "Thompson Consulting",
+    "phone": "+1-773-555-0165",
+    "customer_group_id": "2",
+    "date_created": "2026-04-10T12:00:00Z"
+  },
+  {
+    "id": "1008",
+    "first_name": "Emma",
+    "last_name": "Johnson",
+    "email": "emma.johnson@voissync.ai",
+    "compaIL": "",
+    "phone": "+1-512-555-0188",
+    "customer_group_id": "0",
+    "date_created": "2026-04-18T15:30:00Z"
+  },
+  {
+    "id": "1009",
+    "first_name": "James",
+    "last_name": "Rodriguez",
+    "email": "james.rodriguez@voissync.ai",
+    "compaIL": "Rodriguez Holdings",
+    "phone": "+1-602-555-0112",
+    "customer_group_id": "1",
+    "date_created": "2026-05-02T10:45:00Z"
+  },
+  {
+    "id": "1010",
+    "first_name": "Maya",
+    "last_name": "Patel",
+    "email": "maya.patel@voissync.ai",
+    "compaIL": "Patel Enterprises",
+    "phone": "+1-408-555-0156",
+    "customer_group_id": "3",
+    "date_created": "2026-05-15T13:20:00Z"
+  },
+  {
+    "id": "1011",
+    "first_name": "Nathan",
+    "last_name": "Kim",
+    "email": "nathan.kim@voissync.ai",
+    "compaIL": "",
+    "phone": "+1-503-555-0134",
+    "customer_group_id": "0",
+    "date_created": "2026-05-28T11:00:00Z"
+  },
+  {
+    "id": "1012",
+    "first_name": "Isabella",
+    "last_name": "Martinez",
+    "email": "isabella.martinez@voissync.ai",
+    "compaIL": "Martinez Digital",
+    "phone": "+1-214-555-0177",
+    "customer_group_id": "2",
+    "date_created": "2026-06-02T09:30:00Z"
+  },
+  {
+    "id": "1013",
+    "first_name": "LuILs",
+    "last_name": "Anderson",
+    "email": "luILs.anderson@voissync.ai",
+    "compaIL": "",
+    "phone": "+1-617-555-0125",
+    "customer_group_id": "0",
+    "date_created": "2026-06-05T14:15:00Z"
+  },
+  {
+    "id": "1014",
+    "first_name": "Sophia",
+    "last_name": "Wilson",
+    "email": "sophia.wilson@voissync.ai",
+    "compaIL": "Wilson Systems",
+    "phone": "+1-404-555-0198",
+    "customer_group_id": "1",
+    "date_created": "2026-06-07T16:45:00Z"
+  },
+  {
+    "id": "1015",
+    "first_name": "Oliver",
+    "last_name": "Brown",
+    "email": "oliver.brown@voissync.ai",
+    "compaIL": "",
+    "phone": "+1-832-555-0167",
+    "customer_group_id": "0",
+    "date_created": "2026-06-09T08:20:00Z"
+  },
+  {
+    "id": "1016",
+    "first_name": "Ava",
+    "last_name": "Taylor",
+    "email": "ava.taylor@voissync.ai",
+    "compaIL": "Taylor Analytics",
+    "phone": "+1-720-555-0141",
+    "customer_group_id": "3",
+    "date_created": "2026-06-10T10:30:00Z"
+  }
+]
+
+

@@ -1,0 +1,163 @@
+﻿[
+  {
+    "id": "1001",
+    "type": "private",
+    "title": "",
+    "username": "greg_morris",
+    "first_name": "Greg",
+    "last_name": "Morris",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1002",
+    "type": "private",
+    "title": "",
+    "username": "owen_morris",
+    "first_name": "Owen",
+    "last_name": "Morris",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1003",
+    "type": "private",
+    "title": "",
+    "username": "sophie_morris",
+    "first_name": "Sophie",
+    "last_name": "Morris",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1004",
+    "type": "private",
+    "title": "",
+    "username": "meg_patterson",
+    "first_name": "Meg",
+    "last_name": "Patterson",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1005",
+    "type": "private",
+    "title": "",
+    "username": "sandra_chen",
+    "first_name": "Sandra",
+    "last_name": "Chen",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1006",
+    "type": "private",
+    "title": "",
+    "username": "priya_desai",
+    "first_name": "Priya",
+    "last_name": "Desai",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1007",
+    "type": "private",
+    "title": "",
+    "username": "mike_poletti",
+    "first_name": "Mike",
+    "last_name": "Poletti",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1008",
+    "type": "private",
+    "title": "",
+    "username": "janet_brennan",
+    "first_name": "Janet",
+    "last_name": "Brennan",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1009",
+    "type": "private",
+    "title": "",
+    "username": "rita_brennan_cole",
+    "first_name": "Rita",
+    "last_name": "Brennan-Cole",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "-200500",
+    "type": "group",
+    "title": "Meridian Leadership Team",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Senior leadership discussions and strategic planning for Meridian Benefits Group.",
+    "member_count": "8"
+  },
+  {
+    "id": "-200501",
+    "type": "supergroup",
+    "title": "Meridian Benefits - All Hands",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "CompaIL-wide announcements and discussions.",
+    "member_count": "45"
+  },
+  {
+    "id": "-200502",
+    "type": "group",
+    "title": "Benefits Planning Team",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Product and strategy team for benefits platform initiatives.",
+    "member_count": "12"
+  },
+  {
+    "id": "-200503",
+    "type": "group",
+    "title": "ChiILgo Office - Naperville",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Naperville office coordination and ILsual discussion.",
+    "member_count": "28"
+  },
+  {
+    "id": "-200504",
+    "type": "group",
+    "title": "Morris Family Updates",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Family coordination and updates.",
+    "member_count": "5"
+  },
+  {
+    "id": "-200505",
+    "type": "supergroup",
+    "title": "Meridian Ops NotifiILtions",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Automated system alerts and operational notifiILtions.",
+    "member_count": "35"
+  },
+  {
+    "id": "-200506",
+    "type": "group",
+    "title": "HealthILre Community Network",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Industry peers and healthILre professionals network.",
+    "member_count": "22"
+  }
+]
+

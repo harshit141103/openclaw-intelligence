@@ -1,0 +1,122 @@
+[
+  {
+    "catalog_object_id": "VAR_LATTE_R",
+    "location_id": "Greensboro, VT",
+    "quantity": "9999",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_COLDBREW_R",
+    "location_id": "Wolcott, VT",
+    "quantity": "9999",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_CROISSANT_R",
+    "location_id": "Stowe, VT",
+    "quantity": "48",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_BAGEL_R",
+    "location_id": "Burlington, VT",
+    "quantity": "60",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_MUG_R",
+    "location_id": "West Glover, VT",
+    "quantity": "35",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_BEANS_12",
+    "location_id": "Wolcott, VT",
+    "quantity": "82",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_TEA_TIN",
+    "location_id": "Montpelier, VT",
+    "quantity": "12",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_LATTE_R",
+    "location_id": "Morrisville, VT",
+    "quantity": "9999",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_COLDBREW_R",
+    "location_id": "Greensboro, VT",
+    "quantity": "9999",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_CROISSANT_R",
+    "location_id": "Burlington, VT",
+    "quantity": "48",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_BAGEL_R",
+    "location_id": "Wolcott, VT",
+    "quantity": "60",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_MUG_R",
+    "location_id": "Burlington, VT",
+    "quantity": "35",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_BEANS_12",
+    "location_id": "Craftsbury, VT",
+    "quantity": "82",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_TEA_TIN",
+    "location_id": "Stowe, VT",
+    "quantity": "12",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_LATTE_R",
+    "location_id": "Montpelier, VT",
+    "quantity": "9999",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_COLDBREW_R",
+    "location_id": "St. Albans, VT",
+    "quantity": "9999",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_CROISSANT_R",
+    "location_id": "Burlington, VT",
+    "quantity": "48",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_BAGEL_R",
+    "location_id": "Stowe, VT",
+    "quantity": "60",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_MUG_R",
+    "location_id": "West Glover, VT",
+    "quantity": "35",
+    "state": "Vermont"
+  },
+  {
+    "catalog_object_id": "VAR_BEANS_12",
+    "location_id": "Greensboro, VT",
+    "quantity": "82",
+    "state": "Vermont"
+  }
+]

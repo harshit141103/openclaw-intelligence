@@ -1,0 +1,182 @@
+[
+  {
+    "id": "20260501093012.1.A1B2C3D4E5F6@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "glen.mabry@cumberlandautoparts.com",
+    "subject": "Load WFS-20418 Confirmed: Knoxville to Atlanta",
+    "body": "Your load WFS-20418 is booked with Ridgeline Trucking. Pickup Thursday 8am. Tracking link inside.",
+    "timestamp": "2026-05-01T09:30:12Z"
+  },
+  {
+    "id": "20260503141522.2.B2C3D4E5F6A7@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "billing@whitakerfreight.com",
+    "recipient": "hal.eubanks@tristatemfg.com",
+    "subject": "Invoice INV-3082 from Whitaker Freight Services",
+    "body": "Invoice INV-3082 for May freight is ready. Net 30. Thank you for your business.",
+    "timestamp": "2026-05-03T14:15:22Z"
+  },
+  {
+    "id": "20260507081005.3.C3D4E5F6A7B8@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "ruth.lyle@valleygrainco.com",
+    "subject": "Pickup Update: Load WFS-20431 Delayed",
+    "body": "Carrier reports a two hour delay on WFS-20431 due to weather. New ETA 1pm. We are tracking it.",
+    "timestamp": "2026-05-07T08:10:05Z"
+  },
+  {
+    "id": "20260512162844.4.D4E5F6A7B8C9@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "news@whitakerfreight.com",
+    "recipient": "pete.arnett@smokymtnsupply.com",
+    "subject": "WFS May Freight Update",
+    "body": "Spring capacity is tight on building materials lanes. Book early to hold your rates this month.",
+    "timestamp": "2026-05-12T16:28:44Z"
+  },
+  {
+    "id": "20260515104733.5.E5F6A7B8C9D0@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "nan.coley@appalachianag.com",
+    "subject": "Load WFS-20447 Delivered",
+    "body": "Your load WFS-20447 delivered on time at 10:40am. POD attached. Thanks for shipping with WFS.",
+    "timestamp": "2026-05-15T10:47:33Z"
+  },
+  {
+    "id": "20260520113900.6.F6A7B8C9D0E1@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "compliance@whitakerfreight.com",
+    "recipient": "marcus.fields@cumberlandgapcarriers.com",
+    "subject": "Carrier Vetting: Insurance Certificate Needed",
+    "body": "Your insurance cert on file expires June 30. Please send an updated COI to keep your authority active with us.",
+    "timestamp": "2026-05-20T11:39:00Z"
+  },
+  {
+    "id": "20260524175611.7.A7B8C9D0E1F2@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "floyd.whitaker@whitakerfreight.com",
+    "recipient": "angela.mott@gmail.com",
+    "subject": "Mentorship Program: Next Session Materials",
+    "body": "Attached are the carrier vetting worksheets for our next mentorship session. Read through before we meet.",
+    "timestamp": "2026-05-24T17:56:11Z"
+  },
+  {
+    "id": "20260528092200.8.B8C9D0E1F2A3@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "billing@whitakerfreight.com",
+    "recipient": "roy.tackett@ridgelinetrucking.com",
+    "subject": "Carrier Payment Sent: Load WFS-20418",
+    "body": "Payment for load WFS-20418 has been sent via ACH. Allow 1 to 2 business days. Remittance attached.",
+    "timestamp": "2026-05-28T09:22:00Z"
+  },
+  {
+    "id": "20260529083344.9.C9D0E1F2A3B4@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "rick.honeycutt@smokymtnauto.com",
+    "subject": "Load WFS-20462 Confirmed: Alcoa to Charlotte",
+    "body": "Your load WFS-20462 is booked with Tri-County Express. Pickup Monday 7am. Tracking link inside.",
+    "timestamp": "2026-05-29T08:33:44Z"
+  },
+  {
+    "id": "20260601101522.10.D0E1F2A3B4C5@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "billing@whitakerfreight.com",
+    "recipient": "marlene.pugh@ohiovalleydist.com",
+    "subject": "Invoice INV-3104 from Whitaker Freight Services",
+    "body": "Invoice INV-3104 for your Cincinnati to Knoxville haul is ready. Net 30. Thank you for your business.",
+    "timestamp": "2026-06-01T10:15:22Z"
+  },
+  {
+    "id": "20260602134810.11.E1F2A3B4C5D6@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "burl.kincaid@tnvalleysteel.com",
+    "subject": "Load WFS-20470 Delivered",
+    "body": "Your steel coil load WFS-20470 delivered at 1:20pm. POD attached. Thanks for shipping with WFS.",
+    "timestamp": "2026-06-02T13:48:10Z"
+  },
+  {
+    "id": "20260603091133.12.F2A3B4C5D6E7@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "compliance@whitakerfreight.com",
+    "recipient": "dispatch@bluegrasshauling.com",
+    "subject": "Carrier Vetting: Updated W-9 Requested",
+    "body": "We are refreshing our carrier files. Please send an updated W-9 so we can keep your payments on schedule.",
+    "timestamp": "2026-06-03T09:11:33Z"
+  },
+  {
+    "id": "20260604160255.13.A3B4C5D6E7F8@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "news@whitakerfreight.com",
+    "recipient": "doyle.tipton@greatvalleylumber.com",
+    "subject": "WFS June Freight Update",
+    "body": "Flatbed capacity is firming up across the Southeast. Lock in lumber lanes now to hold your June rates.",
+    "timestamp": "2026-06-04T16:02:55Z"
+  },
+  {
+    "id": "20260605114700.14.B4C5D6E7F8A9@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "pam.easter@heritagefooddist.com",
+    "subject": "Pickup Update: Load WFS-20485 On Schedule",
+    "body": "Reefer load WFS-20485 picked up on time at 9am. Temp set to 34F. We are tracking it to Nashville.",
+    "timestamp": "2026-06-05T11:47:00Z"
+  },
+  {
+    "id": "20260605173011.15.C5D6E7F8A9B0@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "billing@whitakerfreight.com",
+    "recipient": "loads@deltastarlogistics.com",
+    "subject": "Carrier Payment Sent: Load WFS-20462",
+    "body": "Payment for load WFS-20462 has been sent via ACH. Allow 1 to 2 business days. Remittance attached.",
+    "timestamp": "2026-06-05T17:30:11Z"
+  },
+  {
+    "id": "20260608100422.16.D6E7F8A9B0C1@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "vance.pruett@carolinabuilding.com",
+    "subject": "Load WFS-20491 Confirmed: Asheville to Knoxville",
+    "body": "Your load WFS-20491 is booked with Highland Carrier Services. Pickup Wednesday 8am. Tracking link inside.",
+    "timestamp": "2026-06-08T10:04:22Z"
+  },
+  {
+    "id": "20260608145533.17.E7F8A9B0C1D2@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "compliance@whitakerfreight.com",
+    "recipient": "dispatch@apprefertransport.com",
+    "subject": "Carrier Vetting: Insurance Certificate Needed",
+    "body": "Your reefer COI on file expires June 25. Please send an updated certificate to keep your loads moving with us.",
+    "timestamp": "2026-06-08T14:55:33Z"
+  },
+  {
+    "id": "20260609083900.18.F8A9B0C1D2E3@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "floyd.whitaker@whitakerfreight.com",
+    "recipient": "keith.burgess@gmail.com",
+    "subject": "Mentorship Program: Autumn Cohort Outline",
+    "body": "Here is the draft outline for the autumn cohort sessions. Take a look and tell me what you want to add, Keith.",
+    "timestamp": "2026-06-09T08:39:00Z"
+  },
+  {
+    "id": "20260609161244.19.A9B0C1D2E3F4@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "billing@whitakerfreight.com",
+    "recipient": "mike.ledford@volunteerbev.com",
+    "subject": "Invoice INV-3119 from Whitaker Freight Services",
+    "body": "Invoice INV-3119 for your Knoxville to Memphis beverage haul is ready. Net 30. Thank you for your business.",
+    "timestamp": "2026-06-09T16:12:44Z"
+  },
+  {
+    "id": "20260610093015.20.B0C1D2E3F4A5@mg.whitakerfreight.com",
+    "domain": "mg.whitakerfreight.com",
+    "sender": "dispatch@whitakerfreight.com",
+    "recipient": "earl.dotson@memphisfreightpartners.com",
+    "subject": "Load WFS-20498 Delivered",
+    "body": "Co-brokered load WFS-20498 delivered at 8:55am. POD attached. Thanks for partnering with WFS.",
+    "timestamp": "2026-06-10T09:30:15Z"
+  }
+]

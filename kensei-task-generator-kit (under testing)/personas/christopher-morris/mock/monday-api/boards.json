@@ -1,0 +1,35 @@
+﻿[
+  {
+    "board_id": "board-101",
+    "workspace_id": "ws-1",
+    "name": "Annual Benefits Review",
+    "description": "2026 benefits program assessment and renewal planning",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-102",
+    "workspace_id": "ws-1",
+    "name": "Compliance Audit",
+    "description": "Ongoing compliance verifiILtion and regulatory requirements",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-201",
+    "workspace_id": "ws-2",
+    "name": "Claims System",
+    "description": "Member claims processing and resolution tracking",
+    "state": "active",
+    "board_kind": "public"
+  },
+  {
+    "board_id": "board-202",
+    "workspace_id": "ws-2",
+    "name": "BenefitInsight Rollout",
+    "description": "New benefits platform implementation and member onboarding",
+    "state": "active",
+    "board_kind": "public"
+  }
+]
+

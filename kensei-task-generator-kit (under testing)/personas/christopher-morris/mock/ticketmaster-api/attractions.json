@@ -1,0 +1,147 @@
+﻿[
+  {
+    "id": "att-001",
+    "name": "The Midnight Echoes",
+    "type": "band",
+    "segment": "Music",
+    "genre": "Rock",
+    "upcoming_events": "3"
+  },
+  {
+    "id": "att-002",
+    "name": "Aria Sloane",
+    "type": "musician",
+    "segment": "Music",
+    "genre": "Pop",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-003",
+    "name": "Blue Note Collective",
+    "type": "band",
+    "segment": "Music",
+    "genre": "Jazz",
+    "upcoming_events": "1"
+  },
+  {
+    "id": "att-004",
+    "name": "Metro City Hoops",
+    "type": "team",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "upcoming_events": "5"
+  },
+  {
+    "id": "att-005",
+    "name": "Bay United FC",
+    "type": "team",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "upcoming_events": "4"
+  },
+  {
+    "id": "att-006",
+    "name": "Starlight MusiILl Co.",
+    "type": "theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-007",
+    "name": "DanIL Vega",
+    "type": "comedian",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "upcoming_events": "3"
+  },
+  {
+    "id": "att-008",
+    "name": "Sheryl Crow",
+    "type": "musician",
+    "segment": "Music",
+    "genre": "Rock-Pop",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-009",
+    "name": "Norah Jones",
+    "type": "musician",
+    "segment": "Music",
+    "genre": "Jazz-Soul",
+    "upcoming_events": "1"
+  },
+  {
+    "id": "att-010",
+    "name": "Fleetwood Mac Tribute",
+    "type": "band",
+    "segment": "Music",
+    "genre": "Rock",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-011",
+    "name": "The Great British Bake-Off Live",
+    "type": "television_show",
+    "segment": "Arts & Theatre",
+    "genre": "Reality-Competition",
+    "upcoming_events": "3"
+  },
+  {
+    "id": "att-012",
+    "name": "Mystery Theatre Collective",
+    "type": "theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "upcoming_events": "4"
+  },
+  {
+    "id": "att-013",
+    "name": "90s Rock Revival Tour",
+    "type": "touring_show",
+    "segment": "Music",
+    "genre": "Rock",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-014",
+    "name": "Home & Garden Expo 2026",
+    "type": "exposition",
+    "segment": "Expo",
+    "genre": "Home Renovation",
+    "upcoming_events": "1"
+  },
+  {
+    "id": "att-015",
+    "name": "Kids' Science Adventure Theater",
+    "type": "theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Family Entertainment",
+    "upcoming_events": "5"
+  },
+  {
+    "id": "att-016",
+    "name": "Wellness & Walking Group Events",
+    "type": "community_group",
+    "segment": "Sports",
+    "genre": "Walking-Fitness",
+    "upcoming_events": "12"
+  },
+  {
+    "id": "att-017",
+    "name": "Culinary Arts ShowILse",
+    "type": "exposition",
+    "segment": "Expo",
+    "genre": "Culinary",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-018",
+    "name": "Mystery Crime Dinner Theater",
+    "type": "theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy-Mystery",
+    "upcoming_events": "6"
+  }
+]
+

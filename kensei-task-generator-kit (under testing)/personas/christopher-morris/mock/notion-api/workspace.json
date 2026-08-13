@@ -1,0 +1,14 @@
+{
+  "id": "workspace-meridian",
+  "name": "Meridian Benefits Group",
+  "domain": "meridian-benefits",
+  "owner_user_id": "user-christopher",
+  "plan": "team",
+  "created_time": "2025-09-01T10:00:00.000Z",
+  "icon": "https://www.notion.so/icons/building_blue.svg",
+  "settings": {
+    "default_page_size": 50,
+    "ai_blocks_enabled": true,
+    "public_sharing_enabled": false
+  }
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "message_id": "5001",
+    "chat_id": "-100",
+    "from_id": "9001",
+    "text": "Barn oak is summer 2027 - not pulling material yet.",
+    "date": "1707481800",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5002",
+    "chat_id": "-100",
+    "from_id": "9002",
+    "text": "Sharpen the jointer knives and reset the infeed table",
+    "date": "1695806100",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5003",
+    "chat_id": "-100",
+    "from_id": "9003",
+    "text": "Mill cherry stock to thickness for the upper cabinet doors",
+    "date": "1728644400",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5004",
+    "chat_id": "-101",
+    "from_id": "7654321098",
+    "text": "Final fit of the Henderson island base cabinets",
+    "date": "1728479700",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5005",
+    "chat_id": "-101",
+    "from_id": "7654321098",
+    "text": "Sharpen the jointer knives and reset the infeed table",
+    "date": "1750823100",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5006",
+    "chat_id": "-101",
+    "from_id": "7654321098",
+    "text": "Stage the bookshelf sections for the Craftsbury install",
+    "date": "1758082500",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5007",
+    "chat_id": "-101",
+    "from_id": "9001",
+    "text": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "date": "1770858900",
+    "reply_to_message_id": "5006"
+  },
+  {
+    "message_id": "5008",
+    "chat_id": "-101",
+    "from_id": "9004",
+    "text": "Re: Stowe install date",
+    "date": "1780560900",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5009",
+    "chat_id": "-102",
+    "from_id": "9005",
+    "text": "Replace the dust collector filter and clean the cyclone",
+    "date": "1771375500",
+    "reply_to_message_id": "5008"
+  },
+  {
+    "message_id": "5902",
+    "chat_id": "-102",
+    "from_id": "9001",
+    "text": "Check the moisture content on the barn oak before joinery",
+    "date": "1772344800",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5904",
+    "chat_id": "-102",
+    "from_id": "9002",
+    "text": "Mock up the crown profile for the Henderson uppers",
+    "date": "1768887000",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5906",
+    "chat_id": "-102",
+    "from_id": "9003",
+    "text": "Set up the dado stack for the bookshelf rabbets",
+    "date": "1790053200",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5908",
+    "chat_id": "-103",
+    "from_id": "7654321098",
+    "text": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "date": "1764636300",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5910",
+    "chat_id": "-103",
+    "from_id": "7654321098",
+    "text": "Sand to 220 and raise the grain before finish",
+    "date": "1728290700",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5912",
+    "chat_id": "-103",
+    "from_id": "7654321098",
+    "text": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "date": "1750822200",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5914",
+    "chat_id": "-103",
+    "from_id": "9001",
+    "text": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "date": "1782351900",
+    "reply_to_message_id": "5006"
+  },
+  {
+    "message_id": "5916",
+    "chat_id": "-104",
+    "from_id": "9004",
+    "text": "Sand to 220 and raise the grain before finish",
+    "date": "1766718900",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5918",
+    "chat_id": "-104",
+    "from_id": "9005",
+    "text": "Stowe kitchen - cabinet hardware lead time",
+    "date": "1784350800",
+    "reply_to_message_id": "5008"
+  },
+  {
+    "message_id": "5911",
+    "chat_id": "-104",
+    "from_id": "9001",
+    "text": "Set up the dado stack for the bookshelf rabbets",
+    "date": "1745031600",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5913",
+    "chat_id": "-105",
+    "from_id": "9002",
+    "text": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "date": "1746702900",
+    "reply_to_message_id": "5001"
+  }
+]

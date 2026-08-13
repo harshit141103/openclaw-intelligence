@@ -1,0 +1,119 @@
+[
+  {
+    "sys_id": "usr-christopher",
+    "user_name": "cmorris",
+    "name": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "title": "Benefits Administrator",
+    "department": "Benefits Administration",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-sandra",
+    "user_name": "schen",
+    "name": "Sandra Chen",
+    "email": "schen@meridianbenefits.com",
+    "title": "Senior Benefits Manager",
+    "department": "Benefits Administration",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-priya",
+    "user_name": "pdesai",
+    "name": "Priya Desai",
+    "email": "pdesai@meridianbenefits.com",
+    "title": "Compliance Specialist",
+    "department": "Compliance & Audit",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-mike",
+    "user_name": "mpoletti",
+    "name": "Mike Poletti",
+    "email": "mpoletti@meridianbenefits.com",
+    "title": "Claims Processor",
+    "department": "Claims Operations",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-trisha",
+    "user_name": "tgunderson",
+    "name": "Trisha Gunderson",
+    "email": "tgunderson@meridianbenefits.com",
+    "title": "Payroll Reconciliation Specialist",
+    "department": "Payroll Operations",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-jennifer",
+    "user_name": "jharrison",
+    "name": "Jennifer Harrison",
+    "email": "jharrison@meridianbenefits.com",
+    "title": "Enrollment Coordinator",
+    "department": "Benefits Administration",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-david",
+    "user_name": "dchen",
+    "name": "David Chen",
+    "email": "dchen@meridianbenefits.com",
+    "title": "Systems Analyst",
+    "department": "Technology Services",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-maria",
+    "user_name": "mlopez",
+    "name": "Maria Lopez",
+    "email": "mlopez@meridianbenefits.com",
+    "title": "Benefits Counselor",
+    "department": "Member Services",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-robert",
+    "user_name": "rjohnson",
+    "name": "Robert Johnson",
+    "email": "rjohnson@meridianbenefits.com",
+    "title": "Quality Assurance Analyst",
+    "department": "Quality Assurance",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-angela",
+    "user_name": "asmith",
+    "name": "Angela Smith",
+    "email": "asmith@meridianbenefits.com",
+    "title": "Project Coordinator",
+    "department": "Operations",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-thomas",
+    "user_name": "tbrown",
+    "name": "Thomas Brown",
+    "email": "tbrown@meridianbenefits.com",
+    "title": "Data Analyst",
+    "department": "Analytics & Reporting",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-lisa",
+    "user_name": "lwilson",
+    "name": "Lisa Wilson",
+    "email": "lwilson@meridianbenefits.com",
+    "title": "Compliance Auditor",
+    "department": "Compliance & Audit",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-marcus",
+    "user_name": "mdavis",
+    "name": "Marcus Davis",
+    "email": "mdavis@meridianbenefits.com",
+    "title": "Benefits System Administrator",
+    "department": "Technology Services",
+    "active": "true"
+  }
+]

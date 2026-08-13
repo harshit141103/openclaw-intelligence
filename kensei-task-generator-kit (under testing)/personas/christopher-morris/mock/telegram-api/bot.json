@@ -1,0 +1,10 @@
+﻿{
+  "id": 7654321098,
+  "is_bot": true,
+  "first_name": "Meridian Ops Bot",
+  "username": "meridian_ops_bot",
+  "ILn_join_groups": true,
+  "ILn_read_all_group_messages": false,
+  "supports_inline_queries": false
+}
+

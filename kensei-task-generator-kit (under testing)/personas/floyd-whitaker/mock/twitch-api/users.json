@@ -1,0 +1,233 @@
+[
+  {
+    "id": "40001",
+    "login": "smokypitbbq",
+    "display_name": "SmokyPitBBQ",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Low and slow BBQ. Brisket, ribs, pulled pork, and pit talk.",
+    "view_count": "9420000",
+    "created_at": "2016-02-10T18:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/smokypitbbq.png"
+  },
+  {
+    "id": "40002",
+    "login": "backyardpitmaster",
+    "display_name": "BackyardPitmaster",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Competition BBQ tips for the backyard cook.",
+    "view_count": "1820000",
+    "created_at": "2019-08-22T21:30:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/backyardpitmaster.png"
+  },
+  {
+    "id": "40003",
+    "login": "volnationlive",
+    "display_name": "VolNationLive",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Tennessee Volunteers watch parties and fan talk.",
+    "view_count": "5650000",
+    "created_at": "2014-11-03T16:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/volnationlive.png"
+  },
+  {
+    "id": "40004",
+    "login": "lakeandstream",
+    "display_name": "LakeAndStream",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Bass and crappie fishing across the Tennessee lakes.",
+    "view_count": "395400",
+    "created_at": "2021-05-14T19:45:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/lakeandstream.png"
+  },
+  {
+    "id": "40005",
+    "login": "porchpickinjam",
+    "display_name": "PorchPickinJam",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Bluegrass and classic country picking from the front porch.",
+    "view_count": "530000",
+    "created_at": "2018-01-09T17:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/porchpickinjam.png"
+  },
+  {
+    "id": "40050",
+    "login": "floyd_w_knox",
+    "display_name": "floyd_w_knox",
+    "type": "",
+    "broadcaster_type": "",
+    "description": "Knoxville. BBQ, Vols football, and fishing. Mostly here to watch.",
+    "view_count": "0",
+    "created_at": "2023-11-18T20:15:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/floyd_w_knox.png"
+  },
+  {
+    "id": "40006",
+    "login": "smokymountainbrews",
+    "display_name": "SmokyMountainBrews",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "East Tennessee craft beer reviews and brewery visits.",
+    "view_count": "212000",
+    "created_at": "2020-09-30T22:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/smokymountainbrews.png"
+  },
+  {
+    "id": "40007",
+    "login": "rockytopgameday",
+    "display_name": "RockyTopGameday",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Vols gameday reactions and SEC football breakdowns.",
+    "view_count": "880000",
+    "created_at": "2017-09-02T15:30:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/rockytopgameday.png"
+  },
+  {
+    "id": "40008",
+    "login": "appalachianpicker",
+    "display_name": "AppalachianPicker",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Old country, gospel, and bluegrass guitar lessons.",
+    "view_count": "146000",
+    "created_at": "2019-11-12T18:20:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/appalachianpicker.png"
+  },
+  {
+    "id": "40009",
+    "login": "douglaslakeangler",
+    "display_name": "DouglasLakeAngler",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Crappie and bass fishing on Douglas and Cherokee Lakes.",
+    "view_count": "98700",
+    "created_at": "2022-04-03T13:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/douglaslakeangler.png"
+  },
+  {
+    "id": "40010",
+    "login": "smokymtnsmokers",
+    "display_name": "SmokyMtnSmokers",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Backyard smoker rig builds and weekend pit cooks.",
+    "view_count": "78400",
+    "created_at": "2021-06-18T20:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/smokymtnsmokers.png"
+  },
+  {
+    "id": "40011",
+    "login": "flyfishthesmokies",
+    "display_name": "FlyFishTheSmokies",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Fly fishing the streams of the Great Smoky Mountains.",
+    "view_count": "64200",
+    "created_at": "2020-07-09T14:30:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/flyfishthesmokies.png"
+  },
+  {
+    "id": "40012",
+    "login": "brisketbrothers",
+    "display_name": "BrisketBrothers",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Two brothers, one smoker, all brisket all the time.",
+    "view_count": "2410000",
+    "created_at": "2017-03-21T18:45:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/brisketbrothers.png"
+  },
+  {
+    "id": "40013",
+    "login": "rockytoptailgate",
+    "display_name": "RockyTopTailgate",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Neyland tailgates, recipes, and Vols gameday prep.",
+    "view_count": "164000",
+    "created_at": "2019-09-14T15:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/rockytoptailgate.png"
+  },
+  {
+    "id": "40014",
+    "login": "bluegrassbarn",
+    "display_name": "BluegrassBarn",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Old time bluegrass and gospel jams from the barn.",
+    "view_count": "112000",
+    "created_at": "2018-05-27T17:30:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/bluegrassbarn.png"
+  },
+  {
+    "id": "40015",
+    "login": "cherokeelakebass",
+    "display_name": "CherokeeLakeBass",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Tournament bass fishing on Cherokee and Douglas Lakes.",
+    "view_count": "87600",
+    "created_at": "2022-02-11T13:15:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/cherokeelakebass.png"
+  },
+  {
+    "id": "40016",
+    "login": "southernsmokeco",
+    "display_name": "SouthernSmokeCo",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Southern style BBQ, ribs, and pulled pork done right.",
+    "view_count": "3180000",
+    "created_at": "2016-08-19T19:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/southernsmokeco.png"
+  },
+  {
+    "id": "40017",
+    "login": "secfootballtalk",
+    "display_name": "SECFootballTalk",
+    "type": "",
+    "broadcaster_type": "partner",
+    "description": "Live SEC football reactions, scores, and weekly breakdowns.",
+    "view_count": "4920000",
+    "created_at": "2015-09-05T14:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/secfootballtalk.png"
+  },
+  {
+    "id": "40018",
+    "login": "knoxvillecooks",
+    "display_name": "KnoxvilleCooks",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "East Tennessee home cooking, casseroles, and Sunday dinners.",
+    "view_count": "59300",
+    "created_at": "2021-10-02T16:20:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/knoxvillecooks.png"
+  },
+  {
+    "id": "40019",
+    "login": "pickinandgrinin",
+    "display_name": "PickinAndGrinin",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Classic country and Southern rock guitar covers.",
+    "view_count": "94100",
+    "created_at": "2019-02-28T18:00:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/pickinandgrinin.png"
+  },
+  {
+    "id": "40020",
+    "login": "tnoutdoorsman",
+    "display_name": "TNOutdoorsman",
+    "type": "",
+    "broadcaster_type": "affiliate",
+    "description": "Fishing, hunting, and camping across Tennessee.",
+    "view_count": "133000",
+    "created_at": "2020-11-23T13:40:00Z",
+    "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/tnoutdoorsman.png"
+  }
+]

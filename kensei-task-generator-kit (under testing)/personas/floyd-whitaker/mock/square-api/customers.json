@@ -1,0 +1,182 @@
+[
+  {
+    "id": "CUST_ROY01",
+    "given_name": "Roy",
+    "family_name": "Tackett",
+    "email_address": "roy.tackett@gmail.com",
+    "phone_number": "+18655557702",
+    "company_name": "",
+    "created_at": "2024-06-15T09:00:00Z"
+  },
+  {
+    "id": "CUST_JUNIOR02",
+    "given_name": "Junior",
+    "family_name": "Mullins",
+    "email_address": "junior.mullins@gmail.com",
+    "phone_number": "+18655557719",
+    "company_name": "",
+    "created_at": "2024-07-03T11:30:00Z"
+  },
+  {
+    "id": "CUST_EDDIE03",
+    "given_name": "Eddie",
+    "family_name": "Combs",
+    "email_address": "eddie.combs@gmail.com",
+    "phone_number": "+18655557733",
+    "company_name": "",
+    "created_at": "2024-07-21T14:10:00Z"
+  },
+  {
+    "id": "CUST_GAYLE04",
+    "given_name": "Gayle",
+    "family_name": "Munsey",
+    "email_address": "gayle.munsey@gmail.com",
+    "phone_number": "+18655550211",
+    "company_name": "",
+    "created_at": "2024-08-05T16:45:00Z"
+  },
+  {
+    "id": "CUST_BUDDY05",
+    "given_name": "Buddy",
+    "family_name": "Trent",
+    "email_address": "buddy.trent@gmail.com",
+    "phone_number": "+18655550224",
+    "company_name": "Trent's Tailgates",
+    "created_at": "2024-08-19T08:20:00Z"
+  },
+  {
+    "id": "CUST_SHEILA06",
+    "given_name": "Sheila",
+    "family_name": "Pruitt",
+    "email_address": "sheila.pruitt@outlook.com",
+    "phone_number": "+18655550237",
+    "company_name": "",
+    "created_at": "2024-09-02T13:00:00Z"
+  },
+  {
+    "id": "CUST_MARV07",
+    "given_name": "Marvin",
+    "family_name": "Hodge",
+    "email_address": "marvin.hodge@gmail.com",
+    "phone_number": "+18655550248",
+    "company_name": "",
+    "created_at": "2024-09-18T10:15:00Z"
+  },
+  {
+    "id": "CUST_PASTOR08",
+    "given_name": "James",
+    "family_name": "Harlan",
+    "email_address": "pastor.harlan@ridgeviewbaptist.org",
+    "phone_number": "+18655551100",
+    "company_name": "Ridgeview Baptist Church",
+    "created_at": "2024-10-04T09:30:00Z"
+  },
+  {
+    "id": "CUST_DELLA09",
+    "given_name": "Della",
+    "family_name": "Cantrell",
+    "email_address": "della.cantrell@gmail.com",
+    "phone_number": "+18655550259",
+    "company_name": "",
+    "created_at": "2024-10-22T15:00:00Z"
+  },
+  {
+    "id": "CUST_RANDY10",
+    "given_name": "Randy",
+    "family_name": "Sams",
+    "email_address": "randy.sams@gmail.com",
+    "phone_number": "+18655550262",
+    "company_name": "",
+    "created_at": "2024-11-09T12:30:00Z"
+  },
+  {
+    "id": "CUST_VERNON11",
+    "given_name": "Vernon",
+    "family_name": "Lacy",
+    "email_address": "vernon.lacy@outlook.com",
+    "phone_number": "+18655550275",
+    "company_name": "",
+    "created_at": "2024-11-25T11:00:00Z"
+  },
+  {
+    "id": "CUST_PEARL12",
+    "given_name": "Pearl",
+    "family_name": "Gibbs",
+    "email_address": "pearl.gibbs@gmail.com",
+    "phone_number": "+18655550288",
+    "company_name": "",
+    "created_at": "2024-12-10T10:45:00Z"
+  },
+  {
+    "id": "CUST_CLYDE13",
+    "given_name": "Clyde",
+    "family_name": "Dotson",
+    "email_address": "clyde.dotson@gmail.com",
+    "phone_number": "+18655550291",
+    "company_name": "Dotson Catering",
+    "created_at": "2025-01-08T09:15:00Z"
+  },
+  {
+    "id": "CUST_OPAL14",
+    "given_name": "Opal",
+    "family_name": "Reece",
+    "email_address": "opal.reece@outlook.com",
+    "phone_number": "+18655550304",
+    "company_name": "",
+    "created_at": "2025-01-26T14:00:00Z"
+  },
+  {
+    "id": "CUST_HOMER15",
+    "given_name": "Homer",
+    "family_name": "Frye",
+    "email_address": "homer.frye@gmail.com",
+    "phone_number": "+18655550317",
+    "company_name": "",
+    "created_at": "2025-02-14T08:30:00Z"
+  },
+  {
+    "id": "CUST_LOUISE16",
+    "given_name": "Louise",
+    "family_name": "Pyle",
+    "email_address": "louise.pyle@gmail.com",
+    "phone_number": "+18655550320",
+    "company_name": "",
+    "created_at": "2025-03-05T13:20:00Z"
+  },
+  {
+    "id": "CUST_GUS17",
+    "given_name": "Gus",
+    "family_name": "Whitt",
+    "email_address": "gus.whitt@outlook.com",
+    "phone_number": "+18655550333",
+    "company_name": "",
+    "created_at": "2025-03-23T11:10:00Z"
+  },
+  {
+    "id": "CUST_NADINE18",
+    "given_name": "Nadine",
+    "family_name": "Bowling",
+    "email_address": "nadine.bowling@gmail.com",
+    "phone_number": "+18655550346",
+    "company_name": "",
+    "created_at": "2025-04-11T10:00:00Z"
+  },
+  {
+    "id": "CUST_EARL19",
+    "given_name": "Earl",
+    "family_name": "Stamper",
+    "email_address": "earl.stamper@gmail.com",
+    "phone_number": "+18655550359",
+    "company_name": "Stamper Smokehouse",
+    "created_at": "2025-05-02T09:40:00Z"
+  },
+  {
+    "id": "CUST_BETTY20",
+    "given_name": "Betty",
+    "family_name": "Coker",
+    "email_address": "betty.coker@gmail.com",
+    "phone_number": "+18655550362",
+    "company_name": "",
+    "created_at": "2025-05-20T15:30:00Z"
+  }
+]

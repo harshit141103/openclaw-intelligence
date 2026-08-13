@@ -1,0 +1,15 @@
+{
+  "user_id": "user-emily",
+  "name": "Craig Figueroa",
+  "email": "craig.figueroa@gmail.com",
+  "default_zip": "IV54 8YX",
+  "membership": "instacart_plus",
+  "default_address": {
+    "line1": "Croft Road",
+    "line2": "",
+    "city": "Strathcarron",
+    "state": "Highland",
+    "zip": "IV54 8YX"
+  },
+  "default_payment_method_id": "pm-visa-1234"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "workspace-figueroavet",
+  "name": "Figueroa Veterinary Services",
+  "domain": "figueroavet",
+  "owner_user_id": "user-craig",
+  "plan": "team",
+  "created_time": "2025-09-01T10:00:00.000Z",
+  "icon": "https://www.notion.so/icons/figueroa_blue.svg",
+  "settings": {
+    "default_page_size": 50,
+    "ai_blocks_enabled": true,
+    "public_sharing_enabled": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "team": {
+    "id": "team-501",
+    "name": "Figueroa Veterinary Services Design"
+  },
+  "me": {
+    "id": "user-1001",
+    "handle": "Isabel Figueroa-Ross",
+    "email": "priya@figueroavet.co.uk",
+    "img_url": "https://figma-avatars.figueroavet.co.uk/user-1001.png"
+  },
+  "users": [
+    {
+      "id": "user-1001",
+      "handle": "Isabel Figueroa-Ross",
+      "email": "priya@figueroavet.co.uk",
+      "img_url": "https://figma-avatars.figueroavet.co.uk/user-1001.png"
+    },
+    {
+      "id": "user-1002",
+      "handle": "Diego Alvarez",
+      "email": "diego@figueroavet.co.uk",
+      "img_url": "https://figma-avatars.figueroavet.co.uk/user-1002.png"
+    },
+    {
+      "id": "user-1003",
+      "handle": "Mara Lindqvist",
+      "email": "mara@figueroavet.co.uk",
+      "img_url": "https://figma-avatars.figueroavet.co.uk/user-1003.png"
+    }
+  ]
+}

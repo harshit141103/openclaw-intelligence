@@ -1,0 +1,15 @@
+{
+  "id": "ACCT-7c2f4a91-6b3d-4e58-9a1c-2d7e8f0b3c5a",
+  "account_number": "PA8FWHITAKER1",
+  "status": "ACTIVE",
+  "currency": "USD",
+  "cash": "1240.55",
+  "portfolio_value": "3185.20",
+  "buying_power": "2480.10",
+  "equity": "3185.20",
+  "long_market_value": "1944.65",
+  "pattern_day_trader": false,
+  "trading_blocked": false,
+  "account_blocked": false,
+  "created_at": "2024-03-18T13:00:00Z"
+}

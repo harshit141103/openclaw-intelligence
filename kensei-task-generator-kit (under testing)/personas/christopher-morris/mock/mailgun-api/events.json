@@ -1,0 +1,184 @@
+﻿[
+  {
+    "id": "ev_0001",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260501093012.1.A1B2C3D4E5F6@sandbox.mailgun.org",
+    "event": "accepted",
+    "recipient": "alice@voissync.ai",
+    "timestamp": "2026-05-01T09:30:12Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0002",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260501093012.1.A1B2C3D4E5F6@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "alice@voissync.ai",
+    "timestamp": "2026-05-01T09:30:18Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0003",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260501093012.1.A1B2C3D4E5F6@sandbox.mailgun.org",
+    "event": "opened",
+    "recipient": "alice@voissync.ai",
+    "timestamp": "2026-05-01T10:02:41Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0004",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260503141522.2.B2C3D4E5F6A7@sandbox.mailgun.org",
+    "event": "accepted",
+    "recipient": "bob@voissync.ai",
+    "timestamp": "2026-05-03T14:15:22Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0005",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260503141522.2.B2C3D4E5F6A7@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "bob@voissync.ai",
+    "timestamp": "2026-05-03T14:15:30Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0006",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260507081005.3.C3D4E5F6A7B8@sandbox.mailgun.org",
+    "event": "accepted",
+    "recipient": "ILrol@voissync.ai",
+    "timestamp": "2026-05-07T08:10:05Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0007",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260507081005.3.C3D4E5F6A7B8@sandbox.mailgun.org",
+    "event": "failed",
+    "recipient": "ILrol@voissync.ai",
+    "timestamp": "2026-05-07T08:10:09Z",
+    "reason": "mailbox full"
+  },
+  {
+    "id": "ev_0008",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260512162844.4.D4E5F6A7B8C9@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "dave@voissync.ai",
+    "timestamp": "2026-05-12T16:28:50Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0009",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260515104733.5.E5F6A7B8C9D0@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "erin@voissync.ai",
+    "timestamp": "2026-05-15T10:47:39Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0010",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260515104733.5.E5F6A7B8C9D0@sandbox.mailgun.org",
+    "event": "clicked",
+    "recipient": "erin@voissync.ai",
+    "timestamp": "2026-05-15T11:20:14Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0011",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260520113900.6.F6A7B8C9D0E1@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "frank@voissync.ai",
+    "timestamp": "2026-05-20T11:39:06Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0012",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260524175611.7.A7B8C9D0E1F2@sandbox.mailgun.org",
+    "event": "accepted",
+    "recipient": "grace@voissync.ai",
+    "timestamp": "2026-05-24T17:56:11Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0013",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260528092645.8.B8C9D0E1F2G3@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "henry@voissync.ai",
+    "timestamp": "2026-05-28T09:26:52Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0014",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260528092645.8.B8C9D0E1F2G3@sandbox.mailgun.org",
+    "event": "opened",
+    "recipient": "henry@voissync.ai",
+    "timestamp": "2026-05-28T10:15:33Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0015",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260601143827.9.C9D0E1F2G3H4@sandbox.mailgun.org",
+    "event": "accepted",
+    "recipient": "iris@voissync.ai",
+    "timestamp": "2026-06-01T14:38:27Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0016",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260601143827.9.C9D0E1F2G3H4@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "iris@voissync.ai",
+    "timestamp": "2026-06-01T14:38:35Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0017",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260604161009.10.D0E1F2G3H4I5@sandbox.mailgun.org",
+    "event": "bounced",
+    "recipient": "jack@voissync.ai",
+    "timestamp": "2026-06-04T16:10:14Z",
+    "reason": "address not found"
+  },
+  {
+    "id": "ev_0018",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260607075542.11.E1F2G3H4I5J6@sandbox.mailgun.org",
+    "event": "delivered",
+    "recipient": "kate@voissync.ai",
+    "timestamp": "2026-06-07T07:55:48Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0019",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260607075542.11.E1F2G3H4I5J6@sandbox.mailgun.org",
+    "event": "opened",
+    "recipient": "kate@voissync.ai",
+    "timestamp": "2026-06-07T09:22:17Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0020",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "20260607075542.11.E1F2G3H4I5J6@sandbox.mailgun.org",
+    "event": "clicked",
+    "recipient": "kate@voissync.ai",
+    "timestamp": "2026-06-07T10:01:33Z",
+    "reason": ""
+  }
+]
+
+

@@ -1,0 +1,57 @@
+﻿[
+  {
+    "id": "state-ben-backlog",
+    "name": "Backlog",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": "0",
+    "teamId": "team-benefits",
+    "description": "Issues that are not yet prioritized"
+  },
+  {
+    "id": "state-ben-todo",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "1",
+    "teamId": "team-benefits",
+    "description": "Issues ready to be picked up"
+  },
+  {
+    "id": "state-ben-inprogress",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "2",
+    "teamId": "team-benefits",
+    "description": "Issues actively being worked on"
+  },
+  {
+    "id": "state-ben-inreview",
+    "name": "In Review",
+    "type": "started",
+    "color": "#f2994a",
+    "position": "3",
+    "teamId": "team-benefits",
+    "description": "Issues pending approval or review"
+  },
+  {
+    "id": "state-ben-done",
+    "name": "Done",
+    "type": "completed",
+    "color": "#2E7D32",
+    "position": "4",
+    "teamId": "team-benefits",
+    "description": "Completed issues"
+  },
+  {
+    "id": "state-ben-ILnceled",
+    "name": "ILnceled",
+    "type": "ILnceled",
+    "color": "#95a2b3",
+    "position": "5",
+    "teamId": "team-benefits",
+    "description": "Won't fix or otherwise ILnceled"
+  }
+]
+

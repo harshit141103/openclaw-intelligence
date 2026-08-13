@@ -1,0 +1,122 @@
+[
+  {
+    "id": "501",
+    "name": "Whitaker Freight Services",
+    "domain_names": "finthesiss.ai",
+    "created_at": "2025-11-02T10:00:00Z"
+  },
+  {
+    "id": "502",
+    "name": "RoutePoint Logistics Suite",
+    "domain_names": "routepointlogistics.com",
+    "created_at": "2025-09-15T09:30:00Z"
+  },
+  {
+    "id": "503",
+    "name": "Google Workspace Support",
+    "domain_names": "google.com",
+    "created_at": "2026-01-10T14:00:00Z"
+  },
+  {
+    "id": "504",
+    "name": "FreightFlow Pro",
+    "domain_names": "freightflowpro.com",
+    "created_at": "2026-02-20T16:00:00Z"
+  },
+  {
+    "id": "505",
+    "name": "Zoom Support",
+    "domain_names": "zoom.us",
+    "created_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "id": "506",
+    "name": "First Tennessee Valley Bank",
+    "domain_names": "firsttnvalleybank.com",
+    "created_at": "2025-12-01T09:00:00Z"
+  },
+  {
+    "id": "507",
+    "name": "PrePass Support",
+    "domain_names": "prepass.com",
+    "created_at": "2025-10-20T11:00:00Z"
+  },
+  {
+    "id": "508",
+    "name": "Spotify Support",
+    "domain_names": "spotify.com",
+    "created_at": "2026-03-01T14:00:00Z"
+  },
+  {
+    "id": "509",
+    "name": "LinkedIn Help",
+    "domain_names": "linkedin.com",
+    "created_at": "2026-02-05T13:00:00Z"
+  },
+  {
+    "id": "510",
+    "name": "QuickBooks Support",
+    "domain_names": "quickbooks.intuit.com",
+    "created_at": "2025-11-10T10:30:00Z"
+  },
+  {
+    "id": "511",
+    "name": "Microsoft 365 Support",
+    "domain_names": "microsoft.com",
+    "created_at": "2026-01-08T09:00:00Z"
+  },
+  {
+    "id": "512",
+    "name": "DAT Load Board Support",
+    "domain_names": "dat.com",
+    "created_at": "2025-09-25T08:30:00Z"
+  },
+  {
+    "id": "513",
+    "name": "Truckstop Support",
+    "domain_names": "truckstop.com",
+    "created_at": "2025-10-05T09:15:00Z"
+  },
+  {
+    "id": "514",
+    "name": "Venmo Support",
+    "domain_names": "venmo.com",
+    "created_at": "2026-04-12T15:00:00Z"
+  },
+  {
+    "id": "515",
+    "name": "RMIS Carrier Monitoring",
+    "domain_names": "rmis.com",
+    "created_at": "2026-02-18T11:30:00Z"
+  },
+  {
+    "id": "516",
+    "name": "Comdata Fuel Cards",
+    "domain_names": "comdata.com",
+    "created_at": "2025-11-22T10:00:00Z"
+  },
+  {
+    "id": "517",
+    "name": "Carrier411 Support",
+    "domain_names": "carrier411.com",
+    "created_at": "2026-01-30T14:30:00Z"
+  },
+  {
+    "id": "518",
+    "name": "Dropbox Support",
+    "domain_names": "dropbox.com",
+    "created_at": "2026-03-15T13:45:00Z"
+  },
+  {
+    "id": "519",
+    "name": "AT&T Business",
+    "domain_names": "att.com",
+    "created_at": "2025-12-15T09:00:00Z"
+  },
+  {
+    "id": "520",
+    "name": "Zelle Support",
+    "domain_names": "zellepay.com",
+    "created_at": "2026-04-18T10:00:00Z"
+  }
+]

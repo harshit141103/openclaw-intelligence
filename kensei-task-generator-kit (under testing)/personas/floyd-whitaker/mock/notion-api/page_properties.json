@@ -1,0 +1,194 @@
+[
+  {
+    "page_id": "page-carrier-001",
+    "property_name": "Vetting Status",
+    "property_type": "status",
+    "value": "Approved"
+  },
+  {
+    "page_id": "page-carrier-001",
+    "property_name": "Insurance Expiry",
+    "property_type": "date",
+    "value": "2026-11-30"
+  },
+  {
+    "page_id": "page-carrier-001",
+    "property_name": "Safety Rating",
+    "property_type": "select",
+    "value": "Satisfactory"
+  },
+  {
+    "page_id": "page-carrier-002",
+    "property_name": "Vetting Status",
+    "property_type": "status",
+    "value": "Approved"
+  },
+  {
+    "page_id": "page-carrier-002",
+    "property_name": "Insurance Expiry",
+    "property_type": "date",
+    "value": "2027-06-01"
+  },
+  {
+    "page_id": "page-carrier-002",
+    "property_name": "Safety Rating",
+    "property_type": "select",
+    "value": "Satisfactory"
+  },
+  {
+    "page_id": "page-carrier-003",
+    "property_name": "Vetting Status",
+    "property_type": "status",
+    "value": "Under review"
+  },
+  {
+    "page_id": "page-carrier-003",
+    "property_name": "Insurance Expiry",
+    "property_type": "date",
+    "value": "2026-08-15"
+  },
+  {
+    "page_id": "page-carrier-004",
+    "property_name": "Vetting Status",
+    "property_type": "status",
+    "value": "Approved"
+  },
+  {
+    "page_id": "page-carrier-004",
+    "property_name": "Safety Rating",
+    "property_type": "select",
+    "value": "Satisfactory"
+  },
+  {
+    "page_id": "page-client-001",
+    "property_name": "Industry",
+    "property_type": "select",
+    "value": "Automotive Parts"
+  },
+  {
+    "page_id": "page-client-001",
+    "property_name": "Account Owner",
+    "property_type": "people",
+    "value": "user-floyd"
+  },
+  {
+    "page_id": "page-client-002",
+    "property_name": "Industry",
+    "property_type": "select",
+    "value": "Agriculture"
+  },
+  {
+    "page_id": "page-client-002",
+    "property_name": "Account Owner",
+    "property_type": "people",
+    "value": "user-floyd"
+  },
+  {
+    "page_id": "page-client-003",
+    "property_name": "Industry",
+    "property_type": "select",
+    "value": "Building Materials"
+  },
+  {
+    "page_id": "page-client-003",
+    "property_name": "Account Owner",
+    "property_type": "people",
+    "value": "user-brand"
+  },
+  {
+    "page_id": "page-client-005",
+    "property_name": "Industry",
+    "property_type": "select",
+    "value": "Agriculture"
+  },
+  {
+    "page_id": "page-ops-001",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-ops-001",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-ops-001",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-travis"
+  },
+  {
+    "page_id": "page-ops-001",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-09-30"
+  },
+  {
+    "page_id": "page-ops-002",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-ops-002",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Medium"
+  },
+  {
+    "page_id": "page-ops-002",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-floyd"
+  },
+  {
+    "page_id": "page-ops-002",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-06-30"
+  },
+  {
+    "page_id": "page-ops-003",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-ops-003",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-bren"
+  },
+  {
+    "page_id": "page-ops-004",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Todo"
+  },
+  {
+    "page_id": "page-ops-004",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-10-23"
+  },
+  {
+    "page_id": "page-mentor-001",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Planning"
+  },
+  {
+    "page_id": "page-mentor-001",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-floyd"
+  },
+  {
+    "page_id": "page-mentor-001",
+    "property_name": "Cohort Size",
+    "property_type": "number",
+    "value": "6"
+  }
+]

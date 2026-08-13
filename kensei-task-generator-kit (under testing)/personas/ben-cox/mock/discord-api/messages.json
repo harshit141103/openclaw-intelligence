@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1001000200030004001",
+    "channel_id": "thr-100",
+    "author_id": "500100200300400001",
+    "author_username": "coxcustomwoodwork",
+    "content": "Replace the dust collector filter and clean the cyclone",
+    "timestamp": "2026-03-11T17:45:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004002",
+    "channel_id": "thr-100",
+    "author_id": "500100200300400002",
+    "author_username": "coxcustomwoodwork",
+    "content": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "timestamp": "2024-04-26T12:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004003",
+    "channel_id": "thr-100",
+    "author_id": "300100200300400001",
+    "author_username": "keithcox_dev",
+    "content": "Mill cherry stock to thickness for the upper cabinet doors",
+    "timestamp": "2025-05-24T09:15:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004004",
+    "channel_id": "thr-100",
+    "author_id": "500100200300400004",
+    "author_username": "dianecox",
+    "content": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "timestamp": "2026-05-27T17:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004005",
+    "channel_id": "thr-101",
+    "author_id": "500100200300400003",
+    "author_username": "bencox",
+    "content": "Hold the Stowe drive until the morning forecast clears.",
+    "timestamp": "2024-12-08T13:15:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004006",
+    "channel_id": "thr-101",
+    "author_id": "500100200300400002",
+    "author_username": "keithcox_dev",
+    "content": "Cherry pricing for the Henderson uppers",
+    "timestamp": "2024-04-05T13:45:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004007",
+    "channel_id": "thr-101",
+    "author_id": "500100200300400005",
+    "author_username": "mariegagne",
+    "content": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "timestamp": "2025-08-08T15:15:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004008",
+    "channel_id": "thr-101",
+    "author_id": "500100200300400006",
+    "author_username": "keithcox_dev",
+    "content": "Sharpen the jointer knives and reset the infeed table",
+    "timestamp": "2024-06-01T12:15:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004902",
+    "channel_id": "thr-102",
+    "author_id": "500100200300400001",
+    "author_username": "mariegagne",
+    "content": "Build the drawer boxes with half-blind dovetails",
+    "timestamp": "2026-03-23T08:45:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004904",
+    "channel_id": "thr-102",
+    "author_id": "500100200300400002",
+    "author_username": "coxcustomwoodwork",
+    "content": "Sharpen the jointer knives and reset the infeed table",
+    "timestamp": "2025-09-27T15:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004906",
+    "channel_id": "thr-102",
+    "author_id": "300100200300400001",
+    "author_username": "mariegagne",
+    "content": "Check the moisture content on the barn oak before joinery",
+    "timestamp": "2026-02-04T06:45:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004908",
+    "channel_id": "thr-103",
+    "author_id": "500100200300400004",
+    "author_username": "mariegagne",
+    "content": "Replace the dust collector filter and clean the cyclone",
+    "timestamp": "2024-11-30T10:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004910",
+    "channel_id": "thr-103",
+    "author_id": "500100200300400003",
+    "author_username": "keithcox_dev",
+    "content": "Lay out dovetails for the silverware drawer",
+    "timestamp": "2025-07-20T10:00:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004912",
+    "channel_id": "thr-103",
+    "author_id": "500100200300400002",
+    "author_username": "keithcox_dev",
+    "content": "Plane the bookshelf shelves and ease the front edges",
+    "timestamp": "2026-03-10T13:15:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004914",
+    "channel_id": "thr-103",
+    "author_id": "500100200300400005",
+    "author_username": "coxcustomwoodwork",
+    "content": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "timestamp": "2024-07-18T15:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004916",
+    "channel_id": "thr-104",
+    "author_id": "500100200300400006",
+    "author_username": "coxcustomwoodwork",
+    "content": "Barn oak is summer 2027 - not pulling material yet.",
+    "timestamp": "2025-05-20T17:15:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004910-16",
+    "channel_id": "thr-104",
+    "author_id": "500100200300400001",
+    "author_username": "dianecox",
+    "content": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "timestamp": "2024-12-04T10:30:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004912-17",
+    "channel_id": "thr-104",
+    "author_id": "500100200300400002",
+    "author_username": "coxcustomwoodwork",
+    "content": "Built-ins - finish sample for your approval",
+    "timestamp": "2025-11-17T11:00:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004914-18",
+    "channel_id": "thr-104",
+    "author_id": "300100200300400001",
+    "author_username": "dianecox",
+    "content": "Splitting and stacking the winter firewood",
+    "timestamp": "2025-03-04T06:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004916-19",
+    "channel_id": "thr-105",
+    "author_id": "500100200300400004",
+    "author_username": "keithcox_dev",
+    "content": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "timestamp": "2026-06-30T15:45:00Z",
+    "pinned": "false"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "3301",
+    "name": "Strathcarron Estate Loop",
+    "activity_type": "Run",
+    "distance": "6200",
+    "average_grade": "1.8",
+    "maximum_grade": "6.4",
+    "elevation_high": "48.2",
+    "elevation_low": "9.5",
+    "climb_category": "0",
+    "city": "Strathcarron",
+    "state": "Highland"
+  },
+  {
+    "id": "3302",
+    "name": "Beinn Liath Mhor Ascent",
+    "activity_type": "Hike",
+    "distance": "9400",
+    "average_grade": "12.6",
+    "maximum_grade": "31.0",
+    "elevation_high": "926.0",
+    "elevation_low": "210.0",
+    "climb_category": "2",
+    "city": "Achnashellach",
+    "state": "Highland"
+  },
+  {
+    "id": "3303",
+    "name": "Loch Carron Shore Swim",
+    "activity_type": "Swim",
+    "distance": "1100",
+    "average_grade": "0.0",
+    "maximum_grade": "0.0",
+    "elevation_high": "2.0",
+    "elevation_low": "0.0",
+    "climb_category": "0",
+    "city": "Lochcarron",
+    "state": "Highland"
+  }
+]

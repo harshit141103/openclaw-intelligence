@@ -1,0 +1,142 @@
+[
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "glen.mabry@cumberlandautoparts.com",
+    "name": "Glen Mabry",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"automotive\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "ruth.lyle@valleygrainco.com",
+    "name": "Ruth Lyle",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"agriculture\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "pete.arnett@smokymtnsupply.com",
+    "name": "Pete Arnett",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"building-materials\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "hal.eubanks@tristatemfg.com",
+    "name": "Hal Eubanks",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"manufacturing\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "nan.coley@appalachianag.com",
+    "name": "Nan Coley",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"agriculture\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "keith.burgess@gmail.com",
+    "name": "Keith Burgess",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"partner\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "darl.whitaker@gmail.com",
+    "name": "Darrell Whitaker",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"partner\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "carla.cooper@knoxshipping.com",
+    "name": "Carla Cooper",
+    "subscribed": "false",
+    "vars": "{\"segment\":\"manufacturing\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "wayne.prater@gmail.com",
+    "name": "Wayne Prater",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"accounting\"}"
+  },
+  {
+    "list_address": "clients@whitakerfreight.com",
+    "address": "gary.stamper@tnfreight.org",
+    "name": "Gary Stamper",
+    "subscribed": "true",
+    "vars": "{\"segment\":\"association\"}"
+  },
+  {
+    "list_address": "carriers@whitakerfreight.com",
+    "address": "marcus.fields@cumberlandgapcarriers.com",
+    "name": "Marcus Fields",
+    "subscribed": "true",
+    "vars": "{\"authority\":\"active\"}"
+  },
+  {
+    "list_address": "carriers@whitakerfreight.com",
+    "address": "roy.tackett@ridgelinetrucking.com",
+    "name": "Roy Tackett",
+    "subscribed": "true",
+    "vars": "{\"authority\":\"active\"}"
+  },
+  {
+    "list_address": "carriers@whitakerfreight.com",
+    "address": "denise.pruitt@volunteerlogistics.com",
+    "name": "Denise Pruitt",
+    "subscribed": "true",
+    "vars": "{\"authority\":\"active\"}"
+  },
+  {
+    "list_address": "carriers@whitakerfreight.com",
+    "address": "sheila.barnes@smokymountainfreight.com",
+    "name": "Sheila Barnes",
+    "subscribed": "true",
+    "vars": "{\"authority\":\"active\"}"
+  },
+  {
+    "list_address": "carriers@whitakerfreight.com",
+    "address": "dispatch@cumberlandgapcarriers.com",
+    "name": "Cumberland Gap Dispatch",
+    "subscribed": "true",
+    "vars": "{\"authority\":\"active\"}"
+  },
+  {
+    "list_address": "carriers@whitakerfreight.com",
+    "address": "ops@volunteerlogistics.com",
+    "name": "Volunteer Logistics Ops",
+    "subscribed": "false",
+    "vars": "{\"authority\":\"review\"}"
+  },
+  {
+    "list_address": "mentorship@whitakerfreight.com",
+    "address": "angela.mott@gmail.com",
+    "name": "Angela Mott",
+    "subscribed": "true",
+    "vars": "{\"cohort\":\"fall-2026\"}"
+  },
+  {
+    "list_address": "mentorship@whitakerfreight.com",
+    "address": "cole.driskell@gmail.com",
+    "name": "Cole Driskell",
+    "subscribed": "true",
+    "vars": "{\"cohort\":\"fall-2026\"}"
+  },
+  {
+    "list_address": "mentorship@whitakerfreight.com",
+    "address": "keith.burgess@gmail.com",
+    "name": "Keith Burgess",
+    "subscribed": "true",
+    "vars": "{\"cohort\":\"mentor\"}"
+  },
+  {
+    "list_address": "mentorship@whitakerfreight.com",
+    "address": "brand.whitaker@gmail.com",
+    "name": "Brandon Whitaker",
+    "subscribed": "true",
+    "vars": "{\"cohort\":\"fall-2026\"}"
+  }
+]

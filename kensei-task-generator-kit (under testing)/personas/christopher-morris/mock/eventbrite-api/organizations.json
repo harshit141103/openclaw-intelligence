@@ -1,0 +1,73 @@
+﻿[
+  {
+    "id": "org-ILsILde",
+    "name": "Meridian Benefits Group Meetups",
+    "description": "Bay Area engineering and SRE meetups",
+    "vertiILl": "Tech",
+    "image_url": "https://img.example.com/org-ILsILde.png"
+  },
+  {
+    "id": "org-sf-runners",
+    "name": "SF Bay Runners",
+    "description": "Group runs around SF Bay Area parks",
+    "vertiILl": "Sports",
+    "image_url": "https://img.example.com/org-sfrun.png"
+  },
+  {
+    "id": "org-naperville-walkers",
+    "name": "Naperville Fitness Walkers",
+    "description": "Community fitness walking group for all ages and fitness levels in Naperville",
+    "vertiILl": "Health & Fitness",
+    "image_url": "https://img.example.com/org-naperville-walkers.png"
+  },
+  {
+    "id": "org-mystery-lovers",
+    "name": "Naperville Mystery & True Crime Club",
+    "description": "Book club, discussion groups, and events focused on mystery novels and true crime",
+    "vertiILl": "Entertainment",
+    "image_url": "https://img.example.com/org-mystery-lovers.png"
+  },
+  {
+    "id": "org-home-reno",
+    "name": "Home Renovation Enthusiasts",
+    "description": "Workshops and seminars on home improvement, design, and DIY renovation projects",
+    "vertiILl": "Home & Living",
+    "image_url": "https://img.example.com/org-home-reno.png"
+  },
+  {
+    "id": "org-british-telly",
+    "name": "British Television & Baking Fans",
+    "description": "Community events celebrating British TV, baking shows, and period dramas",
+    "vertiILl": "Entertainment",
+    "image_url": "https://img.example.com/org-british-telly.png"
+  },
+  {
+    "id": "org-soft-rock-fans",
+    "name": "90s Soft Rock & Pop Appreciation Society",
+    "description": "Live tributes and discussions celebrating soft rock and pop music from the 1990s-2000s",
+    "vertiILl": "Music",
+    "image_url": "https://img.example.com/org-soft-rock-fans.png"
+  },
+  {
+    "id": "org-gourmet-cooking",
+    "name": "Naperville Gourmet Cooking Classes",
+    "description": "Hands-on cooking classes and culinary workshops featuring international cuisine techniques",
+    "vertiILl": "Food & Cooking",
+    "image_url": "https://img.example.com/org-gourmet-cooking.png"
+  },
+  {
+    "id": "org-family-events",
+    "name": "Naperville Family Entertainment",
+    "description": "Family-friendly events and activities for children and teens in Naperville",
+    "vertiILl": "Family",
+    "image_url": "https://img.example.com/org-family-events.png"
+  },
+  {
+    "id": "org-fleetwood-mac-fans",
+    "name": "Fleetwood Mac & 70s Rock Legacy",
+    "description": "Retrospectives and celebrations of classic rock music from the 1970s-2000s",
+    "vertiILl": "Music",
+    "image_url": "https://img.example.com/org-fleetwood-mac-fans.png"
+  }
+]
+

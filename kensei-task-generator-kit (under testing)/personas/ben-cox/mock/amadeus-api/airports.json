@@ -1,0 +1,222 @@
+[
+  {
+    "iata_code": "JFK",
+    "name": "Hang the soft-close doors and adjust the",
+    "city_name": "Craftsbury",
+    "city_code": "Craftsbury",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "40.6413",
+    "longitude": "-73.7781",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "LAX",
+    "name": "Project schedule update",
+    "city_name": "Burlington",
+    "city_code": "Burlington",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "33.9416",
+    "longitude": "-118.4085",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "LHR",
+    "name": "Whitcomb built-in bookshelves",
+    "city_name": "Montpelier",
+    "city_code": "Montpelier",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "51.4700",
+    "longitude": "-0.4543",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "CDG",
+    "name": "Build the drawer boxes with half-blind d",
+    "city_name": "Montpelier",
+    "city_code": "Montpelier",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "49.0097",
+    "longitude": "2.5479",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "FRA",
+    "name": "Cota window seat & bookcase",
+    "city_name": "Craftsbury",
+    "city_code": "Craftsbury",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "50.0379",
+    "longitude": "8.5622",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "DXB",
+    "name": "Build the drawer boxes with half-blind d",
+    "city_name": "Morrisville",
+    "city_code": "Morrisville",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "25.2532",
+    "longitude": "55.3657",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "SIN",
+    "name": "Template the Stowe countertop radius for",
+    "city_name": "Hardwick",
+    "city_code": "Hardwick",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "1.3644",
+    "longitude": "103.9915",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "NRT",
+    "name": "Sand to 220 and raise the grain before f",
+    "city_name": "Stowe",
+    "city_code": "Stowe",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "35.7720",
+    "longitude": "140.3929",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "SFO",
+    "name": "Henderson kitchen cabinets",
+    "city_name": "Stowe",
+    "city_code": "Stowe",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "37.6213",
+    "longitude": "-122.3790",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "BOS",
+    "name": "Plane the bookshelf shelves and ease the",
+    "city_name": "Craftsbury",
+    "city_code": "Craftsbury",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "42.3656",
+    "longitude": "-71.0096",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "ORD",
+    "name": "Delivery window for the Stowe cabinets",
+    "city_name": "St. Albans",
+    "city_code": "St. Albans",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "41.9742",
+    "longitude": "-87.9073",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "AMS",
+    "name": "Material order - Hardwick Lumber",
+    "city_name": "Hardwick",
+    "city_code": "Hardwick",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "52.3105",
+    "longitude": "4.7683",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "JFK",
+    "name": "Whitcomb built-in bookshelves",
+    "city_name": "Greensboro",
+    "city_code": "Greensboro",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "40.6413",
+    "longitude": "-73.7781",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "LAX",
+    "name": "Sloan cherry dining table",
+    "city_name": "Hardwick",
+    "city_code": "Hardwick",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "33.9416",
+    "longitude": "-118.4085",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "LHR",
+    "name": "Check the moisture content on the barn o",
+    "city_name": "Burlington",
+    "city_code": "Burlington",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "51.4700",
+    "longitude": "-0.4543",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "CDG",
+    "name": "Project schedule update",
+    "city_name": "Hardwick",
+    "city_code": "Hardwick",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "49.0097",
+    "longitude": "2.5479",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "FRA",
+    "name": "Lafleur barn door (favor)",
+    "city_name": "Greensboro",
+    "city_code": "Greensboro",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "50.0379",
+    "longitude": "8.5622",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "DXB",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "city_name": "Craftsbury",
+    "city_code": "Craftsbury",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "25.2532",
+    "longitude": "55.3657",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "SIN",
+    "name": "Lay out dovetails for the silverware dra",
+    "city_name": "Hardwick",
+    "city_code": "Hardwick",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "1.3644",
+    "longitude": "103.9915",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "NRT",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "city_name": "Morrisville",
+    "city_code": "Morrisville",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "35.7720",
+    "longitude": "140.3929",
+    "timezone": "America/New_York"
+  }
+]

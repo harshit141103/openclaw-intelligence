@@ -1,0 +1,201 @@
+﻿[
+  {
+    "id": "abc-123-def",
+    "title": "Platform Overview",
+    "description": "Top-level platform health and SLOs",
+    "layout_type": "ordered",
+    "author": "amelia-ortega",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2025-11-01T10:00:00+00:00",
+    "modified": "2026-05-26T09:00:00+00:00"
+  },
+  {
+    "id": "ghi-456-jkl",
+    "title": "Auth Service Deep Dive",
+    "description": "Latency and error breakdown for auth-service",
+    "layout_type": "ordered",
+    "author": "helena-park",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2025-11-10T10:00:00+00:00",
+    "modified": "2026-05-25T15:00:00+00:00"
+  },
+  {
+    "id": "mno-789-pqr",
+    "title": "Infra Hosts",
+    "description": "CPU memory and disk across hosts",
+    "layout_type": "free",
+    "author": "rohit-bansal",
+    "widget_count": "15",
+    "is_read_only": "true",
+    "created": "2025-12-01T10:00:00+00:00",
+    "modified": "2026-05-24T12:00:00+00:00"
+  },
+  {
+    "id": "stu-101-vwx",
+    "title": "Database Performance",
+    "description": "Query times and connection pool metrics",
+    "layout_type": "ordered",
+    "author": "christopher-morris",
+    "widget_count": "10",
+    "is_read_only": "false",
+    "created": "2025-12-15T08:30:00+00:00",
+    "modified": "2026-05-27T11:00:00+00:00"
+  },
+  {
+    "id": "yza-202-bcd",
+    "title": "API Request Flow Analysis",
+    "description": "Trace spans and request distribution across services",
+    "layout_type": "ordered",
+    "author": "priya-sharma",
+    "widget_count": "14",
+    "is_read_only": "false",
+    "created": "2026-01-05T09:00:00+00:00",
+    "modified": "2026-05-26T14:30:00+00:00"
+  },
+  {
+    "id": "efg-303-hij",
+    "title": "AppliILtion Errors",
+    "description": "Stack traces and error patterns by service",
+    "layout_type": "ordered",
+    "author": "marcus-lee",
+    "widget_count": "11",
+    "is_read_only": "false",
+    "created": "2026-01-10T10:00:00+00:00",
+    "modified": "2026-05-25T08:15:00+00:00"
+  },
+  {
+    "id": "klm-404-nop",
+    "title": "Real User Monitoring",
+    "description": "Frontend performance and user session analytics",
+    "layout_type": "free",
+    "author": "christopher-morris",
+    "widget_count": "9",
+    "is_read_only": "false",
+    "created": "2026-01-20T14:45:00+00:00",
+    "modified": "2026-05-26T16:20:00+00:00"
+  },
+  {
+    "id": "qrs-505-tuv",
+    "title": "Cost Optimization",
+    "description": "Resource usage and spending trends",
+    "layout_type": "ordered",
+    "author": "olivia-chen",
+    "widget_count": "8",
+    "is_read_only": "true",
+    "created": "2026-02-01T10:00:00+00:00",
+    "modified": "2026-05-24T10:00:00+00:00"
+  },
+  {
+    "id": "wxy-606-zab",
+    "title": "Security Events",
+    "description": "AuthentiILtion failures and suspicious patterns",
+    "layout_type": "ordered",
+    "author": "noah-williams",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2026-02-10T11:00:00+00:00",
+    "modified": "2026-05-25T13:45:00+00:00"
+  },
+  {
+    "id": "cde-707-fgh",
+    "title": "Service Dependencies",
+    "description": "Inter-service ILll graph and dependency health",
+    "layout_type": "free",
+    "author": "christopher-morris",
+    "widget_count": "7",
+    "is_read_only": "false",
+    "created": "2026-02-15T09:30:00+00:00",
+    "modified": "2026-05-27T10:00:00+00:00"
+  },
+  {
+    "id": "ijk-808-lmn",
+    "title": "Containerization Metrics",
+    "description": "Docker and Kubernetes resource alloILtion",
+    "layout_type": "ordered",
+    "author": "sofia-garcia",
+    "widget_count": "13",
+    "is_read_only": "false",
+    "created": "2026-03-01T08:00:00+00:00",
+    "modified": "2026-05-26T09:30:00+00:00"
+  },
+  {
+    "id": "opq-909-rst",
+    "title": "ILche Hit Rates",
+    "description": "Redis and memILched performance analysis",
+    "layout_type": "ordered",
+    "author": "james-martinez",
+    "widget_count": "6",
+    "is_read_only": "false",
+    "created": "2026-03-10T13:20:00+00:00",
+    "modified": "2026-05-25T11:00:00+00:00"
+  },
+  {
+    "id": "uvw-1010-xyz",
+    "title": "Network Throughput",
+    "description": "Bandwidth utilization and packet loss rates",
+    "layout_type": "free",
+    "author": "isabella-rodriguez",
+    "widget_count": "10",
+    "is_read_only": "false",
+    "created": "2026-03-20T15:45:00+00:00",
+    "modified": "2026-05-26T14:15:00+00:00"
+  },
+  {
+    "id": "abc-1111-def",
+    "title": "Compliance Audit",
+    "description": "Access logs and regulatory requirement tracking",
+    "layout_type": "ordered",
+    "author": "christopher-morris",
+    "widget_count": "9",
+    "is_read_only": "true",
+    "created": "2026-04-01T10:00:00+00:00",
+    "modified": "2026-05-27T09:00:00+00:00"
+  },
+  {
+    "id": "ghi-1212-jkl",
+    "title": "Synthetic Monitoring",
+    "description": "Uptime checks and endpoint availability",
+    "layout_type": "ordered",
+    "author": "luILs-thompson",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2026-04-15T12:30:00+00:00",
+    "modified": "2026-05-25T16:00:00+00:00"
+  },
+  {
+    "id": "mno-1313-pqr",
+    "title": "Log Analytics Summary",
+    "description": "Log ingestion rates and error message aggregation",
+    "layout_type": "ordered",
+    "author": "christopher-morris",
+    "widget_count": "11",
+    "is_read_only": "false",
+    "created": "2026-04-25T14:00:00+00:00",
+    "modified": "2026-05-27T11:30:00+00:00"
+  },
+  {
+    "id": "stu-1414-vwx",
+    "title": "Budget Alerts",
+    "description": "Spending notifiILtions and quota management",
+    "layout_type": "ordered",
+    "author": "emma-walker",
+    "widget_count": "5",
+    "is_read_only": "true",
+    "created": "2026-05-01T09:00:00+00:00",
+    "modified": "2026-05-26T12:00:00+00:00"
+  },
+  {
+    "id": "yza-1515-bcd",
+    "title": "Incident Response Timeline",
+    "description": "Event correlation and timeline reconstruction",
+    "layout_type": "ordered",
+    "author": "david-jackson",
+    "widget_count": "10",
+    "is_read_only": "false",
+    "created": "2026-05-10T11:15:00+00:00",
+    "modified": "2026-05-25T13:30:00+00:00"
+  }
+]
+

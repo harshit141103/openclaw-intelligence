@@ -1,0 +1,191 @@
+[
+  {
+    "id": "price_RubClub_M",
+    "product": "prod_RubClub",
+    "unit_amount": "2400",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Rub Club Monthly"
+  },
+  {
+    "id": "price_RubClub_Y",
+    "product": "prod_RubClub",
+    "unit_amount": "24000",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Rub Club Annual"
+  },
+  {
+    "id": "price_PitmasterKit",
+    "product": "prod_PitmasterKit",
+    "unit_amount": "4500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Pitmaster Starter Kit"
+  },
+  {
+    "id": "price_Thermometer",
+    "product": "prod_Thermometer",
+    "unit_amount": "6900",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Dual-Probe Thermometer"
+  },
+  {
+    "id": "price_WoodBundle",
+    "product": "prod_WoodBundle",
+    "unit_amount": "3200",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Hardwood Chip Bundle"
+  },
+  {
+    "id": "price_BrisketBox",
+    "product": "prod_BrisketBox",
+    "unit_amount": "12900",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Brisket Box"
+  },
+  {
+    "id": "price_SweetRub",
+    "product": "prod_SweetRub",
+    "unit_amount": "1100",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Smoky Mountain Sweet Rub"
+  },
+  {
+    "id": "price_BrisketRub",
+    "product": "prod_BrisketRub",
+    "unit_amount": "1100",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Great Valley Brisket Rub"
+  },
+  {
+    "id": "price_VinegarSauce",
+    "product": "prod_VinegarSauce",
+    "unit_amount": "1600",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Appalachian Vinegar Sauce 2-Pack"
+  },
+  {
+    "id": "price_TomatoSauce",
+    "product": "prod_TomatoSauce",
+    "unit_amount": "1600",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Knoxville Sweet Tomato Sauce 2-Pack"
+  },
+  {
+    "id": "price_Injector",
+    "product": "prod_Injector",
+    "unit_amount": "2900",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Stainless Meat Injector"
+  },
+  {
+    "id": "price_RibRack",
+    "product": "prod_RibRack",
+    "unit_amount": "2400",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Stainless Rib Rack"
+  },
+  {
+    "id": "price_Gloves",
+    "product": "prod_Gloves",
+    "unit_amount": "2200",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Heat-Resistant Pit Gloves"
+  },
+  {
+    "id": "price_Apron",
+    "product": "prod_Apron",
+    "unit_amount": "3400",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Whitaker Pitmaster Apron"
+  },
+  {
+    "id": "price_SauceFlight",
+    "product": "prod_SauceFlight",
+    "unit_amount": "2600",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Sauce Flight Sampler"
+  },
+  {
+    "id": "price_RubTrio",
+    "product": "prod_RubTrio",
+    "unit_amount": "3000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "House Rub Trio Tin"
+  },
+  {
+    "id": "price_PorkBox",
+    "product": "prod_PorkBox",
+    "unit_amount": "8900",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Pulled Pork Box"
+  },
+  {
+    "id": "price_RibBox",
+    "product": "prod_RibBox",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Baby Back Rib Box"
+  },
+  {
+    "id": "price_Tee",
+    "product": "prod_Tee",
+    "unit_amount": "2400",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Whitaker BBQ T-Shirt"
+  },
+  {
+    "id": "price_Cap",
+    "product": "prod_Cap",
+    "unit_amount": "2200",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Whitaker BBQ Trucker Cap"
+  },
+  {
+    "id": "price_OrigRub",
+    "product": "prod_OrigRub",
+    "unit_amount": "1100",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Whitaker Original House Rub"
+  }
+]

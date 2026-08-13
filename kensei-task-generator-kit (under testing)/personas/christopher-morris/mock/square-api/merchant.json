@@ -1,0 +1,23 @@
+﻿[
+  {
+    "id": "MERCH_MORRIS_PERSONAL",
+    "business_name": "Christopher Morris - Personal Finances",
+    "country": "US",
+    "language_code": "en-US",
+    "currency": "USD",
+    "status": "ACTIVE",
+    "main_loILtion_id": "LOC_MAIN",
+    "created_at": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "MERCH_MERIDIAN",
+    "business_name": "Meridian Benefits - Work Account",
+    "country": "US",
+    "language_code": "en-US",
+    "currency": "USD",
+    "status": "ACTIVE",
+    "main_loILtion_id": "LOC_WORK",
+    "created_at": "2023-06-01T00:00:00Z"
+  }
+]
+

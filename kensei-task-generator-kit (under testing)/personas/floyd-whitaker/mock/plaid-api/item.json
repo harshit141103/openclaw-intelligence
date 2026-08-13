@@ -1,0 +1,20 @@
+{
+  "item": {
+    "item_id": "item_ftvb_8a1f2c",
+    "institution_id": "ins_109512",
+    "webhook": "https://whitakerfreight.com/plaid/webhook",
+    "available_products": ["balance", "identity"],
+    "billed_products": ["transactions", "auth"],
+    "consent_expiration_time": null,
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_109512",
+    "name": "First Tennessee Valley Bank",
+    "products": ["transactions", "auth", "balance", "identity"],
+    "country_codes": ["US"],
+    "url": "https://www.firsttnvalleybank.com",
+    "primary_color": "#1a4d7a",
+    "routing_numbers": ["064108372"]
+  }
+}

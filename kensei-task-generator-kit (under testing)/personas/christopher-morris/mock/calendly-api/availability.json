@@ -1,0 +1,52 @@
+﻿[
+  {
+    "owner": "user-christopher-morris",
+    "weekday": "monday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "AmeriIL/New_York"
+  },
+  {
+    "owner": "user-christopher-morris",
+    "weekday": "tuesday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "AmeriIL/New_York"
+  },
+  {
+    "owner": "user-christopher-morris",
+    "weekday": "wednesday",
+    "start_time": "09:00",
+    "end_time": "15:00",
+    "timezone": "AmeriIL/New_York"
+  },
+  {
+    "owner": "user-christopher-morris",
+    "weekday": "thursday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "AmeriIL/New_York"
+  },
+  {
+    "owner": "user-christopher-morris",
+    "weekday": "friday",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "timezone": "AmeriIL/New_York"
+  },
+  {
+    "owner": "user-christopher-morris",
+    "weekday": "saturday",
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "timezone": "AmeriIL/New_York"
+  },
+  {
+    "owner": "user-christopher-morris",
+    "weekday": "sunday",
+    "start_time": "",
+    "end_time": "",
+    "timezone": "AmeriIL/New_York"
+  }
+]
+

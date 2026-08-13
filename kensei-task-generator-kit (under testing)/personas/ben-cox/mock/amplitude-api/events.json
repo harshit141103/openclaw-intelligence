@@ -1,0 +1,162 @@
+[
+  {
+    "event_id": "ev_900001",
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "event_type": "session_start",
+    "event_time": "2025-05-19T11:30:00Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900002",
+    "user_id": "user_2001-1",
+    "device_id": "dev_aa01",
+    "event_type": "page_view",
+    "event_time": "2023-11-07T15:30:00Z",
+    "event_properties": "page=home"
+  },
+  {
+    "event_id": "ev_900003",
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "event_type": "signup_completed",
+    "event_time": "2023-09-05T17:00:00Z",
+    "event_properties": "plan=free"
+  },
+  {
+    "event_id": "ev_900004",
+    "user_id": "user_2002-3",
+    "device_id": "dev_bb02",
+    "event_type": "feature_used",
+    "event_time": "2025-09-03T08:45:00Z",
+    "event_properties": "feature=export"
+  },
+  {
+    "event_id": "ev_900005",
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "event_type": "purchase",
+    "event_time": "2026-04-27T06:45:00Z",
+    "event_properties": "revenue=89.00;currency=USD"
+  },
+  {
+    "event_id": "ev_900006",
+    "user_id": "user_2001-5",
+    "device_id": "dev_aa01",
+    "event_type": "purchase",
+    "event_time": "2024-08-19T08:00:00Z",
+    "event_properties": "revenue=24.50;currency=USD"
+  },
+  {
+    "event_id": "ev_900007",
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "event_type": "session_start",
+    "event_time": "2026-01-15T10:00:00Z",
+    "event_properties": "platform=ios"
+  },
+  {
+    "event_id": "ev_900008",
+    "user_id": "user_2004-7",
+    "device_id": "dev_dd04",
+    "event_type": "feature_used",
+    "event_time": "2025-09-16T17:45:00Z",
+    "event_properties": "feature=share"
+  },
+  {
+    "event_id": "ev_900009",
+    "user_id": "user_2003-8",
+    "device_id": "dev_cc03",
+    "event_type": "page_view",
+    "event_time": "2024-12-09T12:00:00Z",
+    "event_properties": "page=pricing"
+  },
+  {
+    "event_id": "ev_900010",
+    "user_id": "user_2005",
+    "device_id": "dev_ee05",
+    "event_type": "signup_completed",
+    "event_time": "2025-08-14T10:45:00Z",
+    "event_properties": "plan=pro"
+  },
+  {
+    "event_id": "ev_900902",
+    "user_id": "user_2001-10",
+    "device_id": "dev_aa01",
+    "event_type": "session_start",
+    "event_time": "2024-07-22T07:15:00Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900904",
+    "user_id": "user_2001-11",
+    "device_id": "dev_aa01",
+    "event_type": "page_view",
+    "event_time": "2025-11-24T13:15:00Z",
+    "event_properties": "page=home"
+  },
+  {
+    "event_id": "ev_900906",
+    "user_id": "user_2002-12",
+    "device_id": "dev_bb02",
+    "event_type": "signup_completed",
+    "event_time": "2026-04-14T07:30:00Z",
+    "event_properties": "plan=free"
+  },
+  {
+    "event_id": "ev_900908",
+    "user_id": "user_2002-13",
+    "device_id": "dev_bb02",
+    "event_type": "feature_used",
+    "event_time": "2026-09-08T12:00:00Z",
+    "event_properties": "feature=export"
+  },
+  {
+    "event_id": "ev_900910",
+    "user_id": "user_2003-14",
+    "device_id": "dev_cc03",
+    "event_type": "purchase",
+    "event_time": "2026-03-19T15:30:00Z",
+    "event_properties": "revenue=89.00;currency=USD"
+  },
+  {
+    "event_id": "ev_900912",
+    "user_id": "user_2001-15",
+    "device_id": "dev_aa01",
+    "event_type": "purchase",
+    "event_time": "2026-06-25T14:15:00Z",
+    "event_properties": "revenue=24.50;currency=USD"
+  },
+  {
+    "event_id": "ev_900914",
+    "user_id": "user_2004-16",
+    "device_id": "dev_dd04",
+    "event_type": "session_start",
+    "event_time": "2025-11-21T07:00:00Z",
+    "event_properties": "platform=ios"
+  },
+  {
+    "event_id": "ev_900916",
+    "user_id": "user_2004-17",
+    "device_id": "dev_dd04",
+    "event_type": "feature_used",
+    "event_time": "2024-03-31T13:15:00Z",
+    "event_properties": "feature=share"
+  },
+  {
+    "event_id": "ev_900918",
+    "user_id": "user_2003-18",
+    "device_id": "dev_cc03",
+    "event_type": "page_view",
+    "event_time": "2025-08-14T18:00:00Z",
+    "event_properties": "page=pricing"
+  },
+  {
+    "event_id": "ev_900920",
+    "user_id": "user_2005-19",
+    "device_id": "dev_ee05",
+    "event_type": "signup_completed",
+    "event_time": "2026-05-22T17:00:00Z",
+    "event_properties": "plan=pro"
+  }
+]

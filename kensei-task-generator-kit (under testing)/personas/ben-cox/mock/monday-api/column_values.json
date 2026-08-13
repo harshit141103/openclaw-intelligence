@@ -1,0 +1,152 @@
+[
+  {
+    "item_id": "item-1001",
+    "column_id": "status",
+    "text": "Project schedule update",
+    "value": ""
+  },
+  {
+    "item_id": "item-1001",
+    "column_id": "owner",
+    "text": "Build the drawer boxes with half-blind dovetails",
+    "value": "usr-2"
+  },
+  {
+    "item_id": "item-1001",
+    "column_id": "due",
+    "text": "2025-01-27",
+    "value": ""
+  },
+  {
+    "item_id": "item-1001",
+    "column_id": "notes",
+    "text": "Build the drawer boxes with half-blind dovetails",
+    "value": ""
+  },
+  {
+    "item_id": "item-1002",
+    "column_id": "status",
+    "text": "Stage the bookshelf sections for the Craftsbury install",
+    "value": ""
+  },
+  {
+    "item_id": "item-1002",
+    "column_id": "owner",
+    "text": "Build the drawer boxes with half-blind dovetails",
+    "value": "usr-3"
+  },
+  {
+    "item_id": "item-1002",
+    "column_id": "due",
+    "text": "2025-08-30",
+    "value": ""
+  },
+  {
+    "item_id": "item-1003",
+    "column_id": "status",
+    "text": "Hold the Stowe drive until the morning forecast clears.",
+    "value": ""
+  },
+  {
+    "item_id": "item-1003",
+    "column_id": "owner",
+    "text": "Order Blum slides for the Stowe drawer banks",
+    "value": "usr-2"
+  },
+  {
+    "item_id": "item-1003",
+    "column_id": "due",
+    "text": "2025-01-26",
+    "value": ""
+  },
+  {
+    "item_id": "item-1004",
+    "column_id": "status",
+    "text": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "value": ""
+  },
+  {
+    "item_id": "item-1004",
+    "column_id": "owner",
+    "text": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "value": "usr-1"
+  },
+  {
+    "item_id": "item-1004",
+    "column_id": "due",
+    "text": "2025-02-28",
+    "value": ""
+  },
+  {
+    "item_id": "item-2001",
+    "column_id": "status",
+    "text": "Hang the soft-close doors and adjust the hinges",
+    "value": ""
+  },
+  {
+    "item_id": "item-2001",
+    "column_id": "owner",
+    "text": "Re-saw the walnut for bookmatched panels",
+    "value": "usr-3"
+  },
+  {
+    "item_id": "item-2001",
+    "column_id": "severity",
+    "text": "Re: Bookshelf dimensions",
+    "value": ""
+  },
+  {
+    "item_id": "item-2002",
+    "column_id": "status",
+    "text": "Material order - Hardwick Lumber",
+    "value": ""
+  },
+  {
+    "item_id": "item-2002",
+    "column_id": "owner",
+    "text": "Hang the soft-close doors and adjust the hinges",
+    "value": "usr-2"
+  },
+  {
+    "item_id": "item-2002",
+    "column_id": "severity",
+    "text": "Template the Stowe countertop radius for the corner cabinet",
+    "value": ""
+  },
+  {
+    "item_id": "item-3001",
+    "column_id": "status",
+    "text": "Built-ins - finish sample for your approval",
+    "value": ""
+  },
+  {
+    "item_id": "item-3001",
+    "column_id": "owner",
+    "text": "Re-saw the walnut for bookmatched panels",
+    "value": "usr-4"
+  },
+  {
+    "item_id": "item-3001",
+    "column_id": "launch",
+    "text": "2024-06-06",
+    "value": ""
+  },
+  {
+    "item_id": "item-3002",
+    "column_id": "status",
+    "text": "Hang the soft-close doors and adjust the hinges",
+    "value": ""
+  },
+  {
+    "item_id": "item-3002",
+    "column_id": "owner",
+    "text": "Final fit of the Henderson island base cabinets",
+    "value": "usr-5"
+  },
+  {
+    "item_id": "item-3002",
+    "column_id": "launch",
+    "text": "2025-03-18",
+    "value": ""
+  }
+]

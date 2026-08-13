@@ -1,0 +1,98 @@
+[
+  {
+    "id": "perm-001",
+    "file_id": "file-001",
+    "type": "user",
+    "role": "owner",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa"
+  },
+  {
+    "id": "perm-002",
+    "file_id": "file-002",
+    "type": "user",
+    "role": "reader",
+    "email": "rhona.matheson@apha.gov.uk",
+    "display_name": "Rhona Matheson"
+  },
+  {
+    "id": "perm-003",
+    "file_id": "file-002",
+    "type": "user",
+    "role": "owner",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa"
+  },
+  {
+    "id": "perm-004",
+    "file_id": "file-007",
+    "type": "user",
+    "role": "reader",
+    "email": "douglas@mackayandco.co.uk",
+    "display_name": "Douglas Mackay"
+  },
+  {
+    "id": "perm-005",
+    "file_id": "file-009",
+    "type": "user",
+    "role": "writer",
+    "email": "douglas@mackayandco.co.uk",
+    "display_name": "Douglas Mackay"
+  },
+  {
+    "id": "perm-006",
+    "file_id": "file-010",
+    "type": "user",
+    "role": "writer",
+    "email": "douglas@mackayandco.co.uk",
+    "display_name": "Douglas Mackay"
+  },
+  {
+    "id": "perm-007",
+    "file_id": "file-011",
+    "type": "user",
+    "role": "reader",
+    "email": "graeme.sutherland@gmail.com",
+    "display_name": "Graeme Sutherland"
+  },
+  {
+    "id": "perm-008",
+    "file_id": "file-015",
+    "type": "user",
+    "role": "reader",
+    "email": "jean.mackenzie@gmail.com",
+    "display_name": "Jean MacKenzie"
+  },
+  {
+    "id": "perm-009",
+    "file_id": "file-019",
+    "type": "user",
+    "role": "writer",
+    "email": "fiona.drummond@gmail.com",
+    "display_name": "Fiona Drummond"
+  },
+  {
+    "id": "perm-010",
+    "file_id": "file-008",
+    "type": "user",
+    "role": "reader",
+    "email": "duncan.fraser@btinternet.com",
+    "display_name": "Duncan Fraser"
+  },
+  {
+    "id": "perm-011",
+    "file_id": "file-001",
+    "type": "user",
+    "role": "owner",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa"
+  },
+  {
+    "id": "perm-012",
+    "file_id": "file-003",
+    "type": "user",
+    "role": "reader",
+    "email": "rhona.matheson@apha.gov.uk",
+    "display_name": "Rhona Matheson"
+  }
+]

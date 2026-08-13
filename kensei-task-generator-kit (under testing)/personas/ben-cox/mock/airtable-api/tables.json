@@ -1,0 +1,142 @@
+[
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects00001",
+    "name": "Sand to 220 and raise the grain before f",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks00000001",
+    "name": "Build the drawer boxes with half-blind d",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblContacts00001",
+    "name": "Material order - Hardwick Lumber",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects902",
+    "name": "Replace the dust collector filter and cl",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks903",
+    "name": "Hang the soft-close doors and adjust the",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblContacts904",
+    "name": "Project schedule update",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects905",
+    "name": "Cherry pricing for the Henderson uppers",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks906",
+    "name": "Hang the soft-close doors and adjust the",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblContacts907",
+    "name": "Material order - Hardwick Lumber",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects908",
+    "name": "Build the drawer boxes with half-blind d",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks909",
+    "name": "Re: Stowe install date",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblContacts910",
+    "name": "Final fit of the Henderson island base c",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects911",
+    "name": "Final fit of the Henderson island base c",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks912",
+    "name": "Check the moisture content on the barn o",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblContacts913",
+    "name": "Greensboro barn restoration",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects914",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks915",
+    "name": "Replace the dust collector filter and cl",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblContacts916",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects917",
+    "name": "Cherry pricing for the Henderson uppers",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks918",
+    "name": "Delivery window for the Stowe cabinets",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  }
+]

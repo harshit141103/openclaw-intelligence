@@ -1,0 +1,222 @@
+[
+  {
+    "id": "urn:li:person:keith-burgess",
+    "firstName": "Keith",
+    "lastName": "Burgess",
+    "headline": "Owner at Burgess Logistics | Co-lead TN Freight Mentorship Program",
+    "location": "Knoxville Tennessee",
+    "industry": "Logistics and Supply Chain",
+    "connectedAt": "2019-04-11T10:00:00.000Z",
+    "organizationId": "5002"
+  },
+  {
+    "id": "urn:li:person:brand-whitaker",
+    "firstName": "Brandon",
+    "lastName": "Whitaker",
+    "headline": "Junior Associate at Whitaker Freight Services",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2024-06-03T14:30:00.000Z",
+    "organizationId": "5001"
+  },
+  {
+    "id": "urn:li:person:bren-sizemore",
+    "firstName": "Brenda",
+    "lastName": "Sizemore",
+    "headline": "Office Manager at Whitaker Freight Services",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2018-09-19T09:15:00.000Z",
+    "organizationId": "5001"
+  },
+  {
+    "id": "urn:li:person:travis-hollis",
+    "firstName": "Travis",
+    "lastName": "Hollis",
+    "headline": "Freight Dispatch Specialist at Whitaker Freight Services",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2021-02-22T16:00:00.000Z",
+    "organizationId": "5001"
+  },
+  {
+    "id": "urn:li:person:lorrie-sexton",
+    "firstName": "Lorrie",
+    "lastName": "Sexton",
+    "headline": "Freight Dispatch Specialist at Whitaker Freight Services",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2021-08-30T11:00:00.000Z",
+    "organizationId": "5001"
+  },
+  {
+    "id": "urn:li:person:glen-mabry",
+    "firstName": "Glen",
+    "lastName": "Mabry",
+    "headline": "Logistics Manager at Cumberland Auto Parts",
+    "location": "Knoxville Tennessee",
+    "industry": "Motor Vehicle Manufacturing",
+    "connectedAt": "2020-03-21T08:45:00.000Z",
+    "organizationId": "5004"
+  },
+  {
+    "id": "urn:li:person:ruth-lyle",
+    "firstName": "Ruth",
+    "lastName": "Lyle",
+    "headline": "Operations Director at Valley Grain Cooperative",
+    "location": "Maryville Tennessee",
+    "industry": "Farming",
+    "connectedAt": "2020-11-09T13:20:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:pete-arnett",
+    "firstName": "Pete",
+    "lastName": "Arnett",
+    "headline": "Purchasing Lead at Smoky Mountain Building Supply",
+    "location": "Sevierville Tennessee",
+    "industry": "Wholesale Building Materials",
+    "connectedAt": "2021-01-05T10:30:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:hal-eubanks",
+    "firstName": "Hal",
+    "lastName": "Eubanks",
+    "headline": "Shipping Manager at Tri-State Manufacturing",
+    "location": "Chattanooga Tennessee",
+    "industry": "Manufacturing",
+    "connectedAt": "2022-05-14T11:00:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:nan-coley",
+    "firstName": "Nan",
+    "lastName": "Coley",
+    "headline": "Logistics Coordinator at Appalachian Ag Producers",
+    "location": "Johnson City Tennessee",
+    "industry": "Farming",
+    "connectedAt": "2022-07-18T09:00:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:darl-whitaker",
+    "firstName": "Darrell",
+    "lastName": "Whitaker",
+    "headline": "Owner at Whitaker Hauling | Harlan KY",
+    "location": "Harlan Kentucky",
+    "industry": "Truck Transportation",
+    "connectedAt": "2019-12-02T15:45:00.000Z",
+    "organizationId": "5002"
+  },
+  {
+    "id": "urn:li:person:dale-renfro",
+    "firstName": "Dale",
+    "lastName": "Renfro",
+    "headline": "Bookkeeper at Whitaker Freight Services",
+    "location": "Knoxville Tennessee",
+    "industry": "Accounting",
+    "connectedAt": "2020-06-10T08:30:00.000Z",
+    "organizationId": "5001"
+  },
+  {
+    "id": "urn:li:person:carla-whitfield",
+    "firstName": "Carla",
+    "lastName": "Whitfield",
+    "headline": "Administrative Assistant at Whitaker Freight Services",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2023-03-15T10:00:00.000Z",
+    "organizationId": "5001"
+  },
+  {
+    "id": "urn:li:person:wayne-prater",
+    "firstName": "Wayne",
+    "lastName": "Prater",
+    "headline": "CPA | Small Business Accounting | Knoxville",
+    "location": "Knoxville Tennessee",
+    "industry": "Accounting",
+    "connectedAt": "2017-10-25T12:00:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:ray-tackett",
+    "firstName": "Roy",
+    "lastName": "Tackett",
+    "headline": "Dispatch Manager at Ridgeline Trucking LLC",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2021-11-30T16:00:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:marcus-fields",
+    "firstName": "Marcus",
+    "lastName": "Fields",
+    "headline": "Owner Operator | Cumberland Gap Carriers",
+    "location": "Middlesboro Kentucky",
+    "industry": "Truck Transportation",
+    "connectedAt": "2022-02-11T10:00:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:denise-pruitt",
+    "firstName": "Denise",
+    "lastName": "Pruitt",
+    "headline": "Safety Director at Volunteer Logistics Carriers",
+    "location": "Nashville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2023-04-19T14:30:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:gary-stamper",
+    "firstName": "Gary",
+    "lastName": "Stamper",
+    "headline": "President at Tennessee Freight Association",
+    "location": "Nashville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2018-06-14T11:00:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:angela-mott",
+    "firstName": "Angela",
+    "lastName": "Mott",
+    "headline": "Freight Broker | TN Freight Mentorship Program Cohort 2026",
+    "location": "Chattanooga Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2025-09-08T09:30:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:cole-driskell",
+    "firstName": "Cole",
+    "lastName": "Driskell",
+    "headline": "New Freight Broker | TN Freight Mentorship Program Cohort 2026",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2025-09-08T09:45:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:sheila-barnes",
+    "firstName": "Sheila",
+    "lastName": "Barnes",
+    "headline": "Account Manager at Smoky Mountain Freight Lines",
+    "location": "Knoxville Tennessee",
+    "industry": "Truck Transportation",
+    "connectedAt": "2022-09-12T13:20:00.000Z",
+    "organizationId": "5003"
+  },
+  {
+    "id": "urn:li:person:dwayne-fugate",
+    "firstName": "Dwayne",
+    "lastName": "Fugate",
+    "headline": "Regional Sales at RoutePoint Logistics Suite",
+    "location": "Atlanta Georgia",
+    "industry": "Software Development",
+    "connectedAt": "2026-02-03T10:00:00.000Z",
+    "organizationId": "5003"
+  }
+]

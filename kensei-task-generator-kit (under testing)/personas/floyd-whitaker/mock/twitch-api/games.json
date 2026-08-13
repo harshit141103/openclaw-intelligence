@@ -1,0 +1,142 @@
+[
+  {
+    "id": "30001",
+    "name": "Food & Drink",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/food-and-drink.jpg",
+    "rank": "1",
+    "viewer_count": "38000"
+  },
+  {
+    "id": "30002",
+    "name": "Just Chatting",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/just-chatting.jpg",
+    "rank": "2",
+    "viewer_count": "420000"
+  },
+  {
+    "id": "30003",
+    "name": "Sports",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/sports.jpg",
+    "rank": "3",
+    "viewer_count": "92000"
+  },
+  {
+    "id": "30004",
+    "name": "Fishing Planet",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/fishing-planet.jpg",
+    "rank": "4",
+    "viewer_count": "4200"
+  },
+  {
+    "id": "30005",
+    "name": "Music",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/music.jpg",
+    "rank": "5",
+    "viewer_count": "21000"
+  },
+  {
+    "id": "30006",
+    "name": "Special Events",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/special-events.jpg",
+    "rank": "6",
+    "viewer_count": "15000"
+  },
+  {
+    "id": "30007",
+    "name": "Travel & Outdoors",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/travel-and-outdoors.jpg",
+    "rank": "7",
+    "viewer_count": "8600"
+  },
+  {
+    "id": "30008",
+    "name": "ASMR",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/asmr.jpg",
+    "rank": "8",
+    "viewer_count": "12400"
+  },
+  {
+    "id": "30009",
+    "name": "Talk Shows & Podcasts",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/talk-shows-and-podcasts.jpg",
+    "rank": "9",
+    "viewer_count": "9700"
+  },
+  {
+    "id": "30010",
+    "name": "Politics",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/politics.jpg",
+    "rank": "10",
+    "viewer_count": "6100"
+  },
+  {
+    "id": "30011",
+    "name": "Bass Pro Shops: The Strike",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/bass-pro-shops-the-strike.jpg",
+    "rank": "11",
+    "viewer_count": "1900"
+  },
+  {
+    "id": "30012",
+    "name": "Sports Talk",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/sports-talk.jpg",
+    "rank": "12",
+    "viewer_count": "7300"
+  },
+  {
+    "id": "30013",
+    "name": "Crafts & DIY",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/crafts-and-diy.jpg",
+    "rank": "13",
+    "viewer_count": "5400"
+  },
+  {
+    "id": "30014",
+    "name": "College Football",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/college-football.jpg",
+    "rank": "14",
+    "viewer_count": "18200"
+  },
+  {
+    "id": "30015",
+    "name": "Hunting Simulator",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/hunting-simulator.jpg",
+    "rank": "15",
+    "viewer_count": "2100"
+  },
+  {
+    "id": "30016",
+    "name": "Farming Simulator 25",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/farming-simulator-25.jpg",
+    "rank": "16",
+    "viewer_count": "3300"
+  },
+  {
+    "id": "30017",
+    "name": "American Truck Simulator",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/american-truck-simulator.jpg",
+    "rank": "17",
+    "viewer_count": "4800"
+  },
+  {
+    "id": "30018",
+    "name": "Euro Truck Simulator 2",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/euro-truck-simulator-2.jpg",
+    "rank": "18",
+    "viewer_count": "5600"
+  },
+  {
+    "id": "30019",
+    "name": "Science & Technology",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/science-and-technology.jpg",
+    "rank": "19",
+    "viewer_count": "6900"
+  },
+  {
+    "id": "30020",
+    "name": "Retro",
+    "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/retro.jpg",
+    "rank": "20",
+    "viewer_count": "8100"
+  }
+]

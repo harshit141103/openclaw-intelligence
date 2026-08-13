@@ -1,0 +1,130 @@
+[
+  {
+    "event_id": "evt-001",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-001",
+    "email": "alejandro.figueroa@gmail.com",
+    "display_name": "Alejandro Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-005",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-005",
+    "email": "fiona.drummond@gmail.com",
+    "display_name": "Fiona Drummond",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-008",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-008",
+    "email": "duncan.fraser@btinternet.com",
+    "display_name": "Duncan Fraser",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-008",
+    "email": "rhona.matheson@apha.gov.uk",
+    "display_name": "Rhona Matheson",
+    "response_status": "tentative",
+    "optional": "true",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-009",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-009",
+    "email": "graeme.sutherland@gmail.com",
+    "display_name": "Graeme Sutherland",
+    "response_status": "accepted",
+    "optional": "true",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-010",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-010",
+    "email": "isabel.ross@gmail.com",
+    "display_name": "Isabel Figueroa-Ross",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-010",
+    "email": "fiona.drummond@gmail.com",
+    "display_name": "Fiona Drummond",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "fiona.drummond@gmail.com",
+    "display_name": "Fiona Drummond",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "craig.figueroa@gmail.com",
+    "display_name": "Craig Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "elena.figueroa@gmail.com",
+    "display_name": "Elena Figueroa",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  }
+]

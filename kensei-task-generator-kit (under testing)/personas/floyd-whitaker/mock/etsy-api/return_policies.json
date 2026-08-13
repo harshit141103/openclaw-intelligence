@@ -1,0 +1,142 @@
+[
+  {
+    "return_policy_id": "60001",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "30"
+  },
+  {
+    "return_policy_id": "60002",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "14"
+  },
+  {
+    "return_policy_id": "60003",
+    "shop_id": "29457183",
+    "accepts_returns": "false",
+    "accepts_exchanges": "false",
+    "return_deadline": "0"
+  },
+  {
+    "return_policy_id": "60004",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "false",
+    "return_deadline": "30"
+  },
+  {
+    "return_policy_id": "60005",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "21"
+  },
+  {
+    "return_policy_id": "60006",
+    "shop_id": "29457183",
+    "accepts_returns": "false",
+    "accepts_exchanges": "true",
+    "return_deadline": "0"
+  },
+  {
+    "return_policy_id": "60007",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "45"
+  },
+  {
+    "return_policy_id": "60008",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "false",
+    "return_deadline": "14"
+  },
+  {
+    "return_policy_id": "60009",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "30"
+  },
+  {
+    "return_policy_id": "60010",
+    "shop_id": "29457183",
+    "accepts_returns": "false",
+    "accepts_exchanges": "false",
+    "return_deadline": "0"
+  },
+  {
+    "return_policy_id": "60011",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "60"
+  },
+  {
+    "return_policy_id": "60012",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "false",
+    "return_deadline": "21"
+  },
+  {
+    "return_policy_id": "60013",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "30"
+  },
+  {
+    "return_policy_id": "60014",
+    "shop_id": "29457183",
+    "accepts_returns": "false",
+    "accepts_exchanges": "true",
+    "return_deadline": "0"
+  },
+  {
+    "return_policy_id": "60015",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "14"
+  },
+  {
+    "return_policy_id": "60016",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "false",
+    "return_deadline": "30"
+  },
+  {
+    "return_policy_id": "60017",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "21"
+  },
+  {
+    "return_policy_id": "60018",
+    "shop_id": "29457183",
+    "accepts_returns": "false",
+    "accepts_exchanges": "false",
+    "return_deadline": "0"
+  },
+  {
+    "return_policy_id": "60019",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "true",
+    "return_deadline": "30"
+  },
+  {
+    "return_policy_id": "60020",
+    "shop_id": "29457183",
+    "accepts_returns": "true",
+    "accepts_exchanges": "false",
+    "return_deadline": "45"
+  }
+]

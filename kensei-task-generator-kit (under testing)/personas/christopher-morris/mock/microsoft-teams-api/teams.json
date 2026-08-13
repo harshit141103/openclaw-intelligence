@@ -1,0 +1,75 @@
+﻿[
+  {
+    "id": "19:team-benefits001@thread.tacv2",
+    "display_name": "Benefits Administration",
+    "description": "Core benefits platform and administration team at Meridian",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-benefits001",
+    "member_ids": "cmorris@meridianbenefits.com;schen@meridianbenefits.com;pdesai@meridianbenefits.com;mpoletti@meridianbenefits.com"
+  },
+  {
+    "id": "19:team-claims0002@thread.tacv2",
+    "display_name": "Claims Processing",
+    "description": "Claims team for health insurance management",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-claims0002",
+    "member_ids": "cmorris@meridianbenefits.com;jbrennan@meridianbenefits.com;rbrennan-cole@meridianbenefits.com;schen@meridianbenefits.com"
+  },
+  {
+    "id": "19:team-product003@thread.tacv2",
+    "display_name": "Product Development",
+    "description": "Product management and software engineering collaboration",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-product003",
+    "member_ids": "cmorris@meridianbenefits.com;pdesai@meridianbenefits.com;mpoletti@meridianbenefits.com"
+  },
+  {
+    "id": "19:team-compliance004@thread.tacv2",
+    "display_name": "Compliance and Reporting",
+    "description": "HIPAA and regulatory compliance coordination",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-compliance004",
+    "member_ids": "cmorris@meridianbenefits.com;jbrennan@meridianbenefits.com;schen@meridianbenefits.com"
+  },
+  {
+    "id": "19:team-allco005@thread.tacv2",
+    "display_name": "All CompaIL",
+    "description": "CompaIL-wide announcements and town halls at Meridian",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-allco005",
+    "member_ids": "cmorris@meridianbenefits.com;schen@meridianbenefits.com;pdesai@meridianbenefits.com;mpoletti@meridianbenefits.com;jbrennan@meridianbenefits.com;rbrennan-cole@meridianbenefits.com"
+  },
+  {
+    "id": "19:team-wellness006@thread.tacv2",
+    "display_name": "Employee Wellness",
+    "description": "Wellness programs and health initiatives",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-wellness006",
+    "member_ids": "cmorris@meridianbenefits.com;schen@meridianbenefits.com;pdesai@meridianbenefits.com"
+  },
+  {
+    "id": "19:team-naperville007@thread.tacv2",
+    "display_name": "Naperville Office",
+    "description": "ChiILgo area office team and loILl coordination",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-naperville007",
+    "member_ids": "cmorris@meridianbenefits.com;schen@meridianbenefits.com;mpoletti@meridianbenefits.com;jbrennan@meridianbenefits.com"
+  },
+  {
+    "id": "19:team-arch0008@thread.tacv2",
+    "display_name": "TechniILl Architecture",
+    "description": "System architecture and technology standards",
+    "visibility": "private",
+    "is_archived": "true",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-arch0008",
+    "member_ids": "cmorris@meridianbenefits.com;mpoletti@meridianbenefits.com"
+  }
+]
+

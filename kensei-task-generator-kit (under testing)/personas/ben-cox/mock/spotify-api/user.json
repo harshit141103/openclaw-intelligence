@@ -1,0 +1,15 @@
+{
+  "id": "user-leo",
+  "display_name": "Scott Henderson",
+  "email": "shenderson@stowevt.net",
+  "country": "US",
+  "product": "premium",
+  "followers": 312,
+  "images": [
+    {
+      "url": "https://coxcustomwoodwork.com",
+      "height": 300,
+      "width": 300
+    }
+  ]
+}

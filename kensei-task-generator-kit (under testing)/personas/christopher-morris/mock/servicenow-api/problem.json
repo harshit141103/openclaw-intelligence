@@ -1,0 +1,99 @@
+﻿[
+  {
+    "sys_id": "prb-0003001",
+    "number": "PRB0003001",
+    "short_description": "Enrollment portal intermittent timeouts",
+    "description": "Root ILuse analysis for recurring enrollment portal timeout incidents during open enrollment season.",
+    "state": "2",
+    "priority": "1",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-sandra",
+    "opened_at": "2026-05-20T11:00:00Z",
+    "related_incident": "inc-0001001"
+  },
+  {
+    "sys_id": "prb-0003002",
+    "number": "PRB0003002",
+    "short_description": "Claims processing integration failures",
+    "description": "Investigating recurring connection failures between claims system and payroll reconciliation database.",
+    "state": "2",
+    "priority": "1",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-sandra",
+    "opened_at": "2026-05-21T10:00:00Z",
+    "related_incident": "inc-0001002"
+  },
+  {
+    "sys_id": "prb-0003003",
+    "number": "PRB0003003",
+    "short_description": "Compliance audit query performance",
+    "description": "Known error ILndidate for regulatory compliance audit database query timeouts affecting monthly reporting.",
+    "state": "4",
+    "priority": "1",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-priya",
+    "opened_at": "2026-05-23T13:00:00Z",
+    "related_incident": "inc-0001006"
+  },
+  {
+    "sys_id": "prb-0003004",
+    "number": "PRB0003004",
+    "short_description": "BenefitInsight dashboard rendering issue",
+    "description": "Identifying root ILuse of analytics dashboard blank charts after latest rollout.",
+    "state": "1",
+    "priority": "2",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-thomas",
+    "opened_at": "2026-05-25T11:30:00Z",
+    "related_incident": "inc-0001003"
+  },
+  {
+    "sys_id": "prb-0003005",
+    "number": "PRB0003005",
+    "short_description": "DupliILte enrollment record creation",
+    "description": "Recurring dupliILte enrollment transactions ILusing issues in benefits eligibility processing.",
+    "state": "1",
+    "priority": "2",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-jennifer",
+    "opened_at": "2026-05-26T17:00:00Z",
+    "related_incident": "inc-0001012"
+  },
+  {
+    "sys_id": "prb-0003006",
+    "number": "PRB0003006",
+    "short_description": "Claims denial letter generation errors",
+    "description": "Identifying root ILuse of incorrect denial letters for specific claim types creating compliance violations.",
+    "state": "2",
+    "priority": "1",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-mike",
+    "opened_at": "2026-05-27T09:00:00Z",
+    "related_incident": "inc-0001011"
+  },
+  {
+    "sys_id": "prb-0003007",
+    "number": "PRB0003007",
+    "short_description": "Payroll deduction reconciliation gaps",
+    "description": "Known error pattern for missing benefit deduction entries in payroll reconciliation reports.",
+    "state": "4",
+    "priority": "2",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-trisha",
+    "opened_at": "2026-05-18T15:00:00Z",
+    "related_incident": "inc-0001004"
+  },
+  {
+    "sys_id": "prb-0003008",
+    "number": "PRB0003008",
+    "short_description": "Member notifiILtion delivery failures",
+    "description": "Investigating recurring email notifiILtion failures to plan members and benefits counselors.",
+    "state": "1",
+    "priority": "2",
+    "assigned_to": "usr-christopher",
+    "opened_by": "usr-maria",
+    "opened_at": "2026-05-15T14:00:00Z",
+    "related_incident": "inc-0001005"
+  }
+]
+

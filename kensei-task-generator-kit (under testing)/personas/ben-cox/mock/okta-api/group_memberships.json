@@ -1,0 +1,82 @@
+[
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u1ben"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u2keith"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u3diane"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u6priya"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u1ben-4"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u3diane-5"
+  },
+  {
+    "group_id": "00g3admins",
+    "user_id": "00u1ben-6"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u1ben-7"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u2keith-8"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u3diane-9"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u4pete"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u5walt"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u6priya-12"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u1ben-13"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u2keith-14"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u3diane-15"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u6priya-16"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u1ben-17"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u3diane-18"
+  },
+  {
+    "group_id": "00g3admins",
+    "user_id": "00u1ben-19"
+  }
+]

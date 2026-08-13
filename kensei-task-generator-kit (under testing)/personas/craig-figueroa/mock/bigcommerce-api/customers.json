@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1001",
+    "first_name": "Olivia",
+    "last_name": "Bennett",
+    "email": "elena.figueroa@gmail.com",
+    "company": "Bennett Studio",
+    "phone": "+447700900110",
+    "customer_group_id": "2",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "1002",
+    "first_name": "Marcus",
+    "last_name": "Lee",
+    "email": "marcus.lee@gmail.com",
+    "company": "",
+    "phone": "+447700900133",
+    "customer_group_id": "0",
+    "date_created": "2026-01-18T11:20:00Z"
+  },
+  {
+    "id": "1003",
+    "first_name": "Sofia",
+    "last_name": "Garcia",
+    "email": "sofia.garcia@gmail.com",
+    "company": "Garcia Imports",
+    "phone": "+447700900177",
+    "customer_group_id": "2",
+    "date_created": "2026-02-09T09:15:00Z"
+  },
+  {
+    "id": "1004",
+    "first_name": "Liam",
+    "last_name": "Okafor",
+    "email": "liam.okafor@gmail.com",
+    "company": "",
+    "phone": "+447700900199",
+    "customer_group_id": "0",
+    "date_created": "2026-03-01T14:45:00Z"
+  },
+  {
+    "id": "1005",
+    "first_name": "Hana",
+    "last_name": "Tanaka",
+    "email": "hana.tanaka@gmail.com",
+    "company": "Tanaka Design",
+    "phone": "+447700900144",
+    "customer_group_id": "3",
+    "date_created": "2026-03-27T08:30:00Z"
+  },
+  {
+    "id": "7000",
+    "first_name": "Fiona",
+    "last_name": "Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "company": "Bennett Studio",
+    "phone": "+447700900701",
+    "customer_group_id": "7000",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "7001",
+    "first_name": "Alejandro",
+    "last_name": "Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "company": "Bennett Studio",
+    "phone": "+447700900702",
+    "customer_group_id": "7001",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "7002",
+    "first_name": "Elena",
+    "last_name": "Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "company": "Bennett Studio",
+    "phone": "+447700900703",
+    "customer_group_id": "7002",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "7003",
+    "first_name": "Isabel",
+    "last_name": "Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "company": "Bennett Studio",
+    "phone": "+447700900704",
+    "customer_group_id": "7003",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "7004",
+    "first_name": "Callum",
+    "last_name": "Ross",
+    "email": "callum.ross@gmail.com",
+    "company": "Bennett Studio",
+    "phone": "+447700900711",
+    "customer_group_id": "7004",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "7005",
+    "first_name": "Duncan",
+    "last_name": "Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "company": "Bennett Studio",
+    "phone": "+447700900705",
+    "customer_group_id": "7005",
+    "date_created": "2026-01-05T10:00:00Z"
+  }
+]

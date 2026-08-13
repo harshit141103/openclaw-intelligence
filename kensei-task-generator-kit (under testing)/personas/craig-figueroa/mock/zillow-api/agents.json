@@ -1,0 +1,38 @@
+[
+  {
+    "agent_id": "agent-001",
+    "name": "Sarah Mackenzie",
+    "brokerage": "Highland Property",
+    "phone": "01349 860118",
+    "email": "sarah.whitfield@highlandproperty.co.uk",
+    "license_number": "WA-1284991",
+    "active_listings": "4",
+    "sold_last_12mo": "28",
+    "rating": "4.9",
+    "reviews": "142"
+  },
+  {
+    "agent_id": "agent-002",
+    "name": "Iain Campbell",
+    "brokerage": "Highland Properties",
+    "phone": "01349 860204",
+    "email": "hamish.boyd@highlandproperty.co.uk",
+    "license_number": "WA-1300218",
+    "active_listings": "3",
+    "sold_last_12mo": "22",
+    "rating": "4.8",
+    "reviews": "98"
+  },
+  {
+    "agent_id": "agent-003",
+    "name": "Craig Okafor",
+    "brokerage": "Highland Property",
+    "phone": "01349 860319",
+    "email": "catriona.wallace@highlandproperty.co.uk",
+    "license_number": "WA-1342877",
+    "active_listings": "3",
+    "sold_last_12mo": "17",
+    "rating": "4.7",
+    "reviews": "76"
+  }
+]

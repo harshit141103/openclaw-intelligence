@@ -1,0 +1,222 @@
+[
+  {
+    "id": "301",
+    "name": "Cumberland Auto Parts",
+    "domain": "cumberlandautoparts.com",
+    "industry": "Automotive Parts",
+    "city": "Knoxville",
+    "state": "TN",
+    "numberofemployees": "180",
+    "annualrevenue": "38000000",
+    "createdate": "2019-09-15T09:30:00Z"
+  },
+  {
+    "id": "302",
+    "name": "Valley Grain Cooperative",
+    "domain": "valleygrainco.com",
+    "industry": "Agriculture",
+    "city": "Dyersburg",
+    "state": "TN",
+    "numberofemployees": "95",
+    "annualrevenue": "22000000",
+    "createdate": "2020-01-10T14:00:00Z"
+  },
+  {
+    "id": "303",
+    "name": "Smoky Mountain Building Supply",
+    "domain": "smokymtnsupply.com",
+    "industry": "Building Materials",
+    "city": "Sevierville",
+    "state": "TN",
+    "numberofemployees": "120",
+    "annualrevenue": "28000000",
+    "createdate": "2021-02-20T16:00:00Z"
+  },
+  {
+    "id": "304",
+    "name": "Tri-State Manufacturing",
+    "domain": "tristatemfg.com",
+    "industry": "Manufacturing",
+    "city": "Chattanooga",
+    "state": "TN",
+    "numberofemployees": "240",
+    "annualrevenue": "52000000",
+    "createdate": "2022-12-01T08:00:00Z"
+  },
+  {
+    "id": "305",
+    "name": "Appalachian Ag Producers",
+    "domain": "appalachianag.com",
+    "industry": "Agriculture",
+    "city": "Greeneville",
+    "state": "TN",
+    "numberofemployees": "60",
+    "annualrevenue": "15000000",
+    "createdate": "2023-03-05T11:30:00Z"
+  },
+  {
+    "id": "306",
+    "name": "Ridgeline Trucking LLC",
+    "domain": "ridgelinetrucking.com",
+    "industry": "Carrier",
+    "city": "Morristown",
+    "state": "TN",
+    "numberofemployees": "45",
+    "annualrevenue": "9000000",
+    "createdate": "2023-06-18T10:00:00Z"
+  },
+  {
+    "id": "307",
+    "name": "Cumberland Gap Carriers",
+    "domain": "cumberlandgapcarriers.com",
+    "industry": "Carrier",
+    "city": "Middlesboro",
+    "state": "KY",
+    "numberofemployees": "28",
+    "annualrevenue": "6500000",
+    "createdate": "2024-08-02T10:00:00Z"
+  },
+  {
+    "id": "308",
+    "name": "Volunteer Logistics Carriers",
+    "domain": "volunteerlogistics.com",
+    "industry": "Carrier",
+    "city": "Knoxville",
+    "state": "TN",
+    "numberofemployees": "52",
+    "annualrevenue": "11000000",
+    "createdate": "2025-04-12T13:00:00Z"
+  },
+  {
+    "id": "309",
+    "name": "Smoky Mountain Freight Lines",
+    "domain": "smokymountainfreight.com",
+    "industry": "Carrier",
+    "city": "Maryville",
+    "state": "TN",
+    "numberofemployees": "37",
+    "annualrevenue": "8200000",
+    "createdate": "2025-10-25T10:15:00Z"
+  },
+  {
+    "id": "310",
+    "name": "Burgess Logistics",
+    "domain": "burgesslogistics.com",
+    "industry": "Logistics",
+    "city": "Knoxville",
+    "state": "TN",
+    "numberofemployees": "14",
+    "annualrevenue": "4800000",
+    "createdate": "2018-12-01T08:00:00Z"
+  },
+  {
+    "id": "311",
+    "name": "Whitaker Hauling",
+    "domain": "whitakerhauling.com",
+    "industry": "Carrier",
+    "city": "Harlan",
+    "state": "KY",
+    "numberofemployees": "9",
+    "annualrevenue": "2100000",
+    "createdate": "2019-04-12T13:00:00Z"
+  },
+  {
+    "id": "312",
+    "name": "Great Valley Distributors",
+    "domain": "greatvalleydist.com",
+    "industry": "Building Materials",
+    "city": "Kingsport",
+    "state": "TN",
+    "numberofemployees": "75",
+    "annualrevenue": "18500000",
+    "createdate": "2021-08-14T09:00:00Z"
+  },
+  {
+    "id": "313",
+    "name": "Holston River Mills",
+    "domain": "holstonrivermills.com",
+    "industry": "Agriculture",
+    "city": "Rogersville",
+    "state": "TN",
+    "numberofemployees": "48",
+    "annualrevenue": "12000000",
+    "createdate": "2022-05-19T10:30:00Z"
+  },
+  {
+    "id": "314",
+    "name": "Maryville Auto Components",
+    "domain": "maryvilleautocomp.com",
+    "industry": "Automotive Parts",
+    "city": "Maryville",
+    "state": "TN",
+    "numberofemployees": "130",
+    "annualrevenue": "29000000",
+    "createdate": "2020-10-06T08:30:00Z"
+  },
+  {
+    "id": "315",
+    "name": "Tennessee Valley Steel Supply",
+    "domain": "tnvalleysteel.com",
+    "industry": "Building Materials",
+    "city": "Alcoa",
+    "state": "TN",
+    "numberofemployees": "88",
+    "annualrevenue": "21000000",
+    "createdate": "2023-09-22T11:00:00Z"
+  },
+  {
+    "id": "316",
+    "name": "Bluegrass Ag Supply",
+    "domain": "bluegrassagsupply.com",
+    "industry": "Agriculture",
+    "city": "Bowling Green",
+    "state": "KY",
+    "numberofemployees": "66",
+    "annualrevenue": "14500000",
+    "createdate": "2024-02-11T09:45:00Z"
+  },
+  {
+    "id": "317",
+    "name": "Piedmont Components Group",
+    "domain": "piedmontcomponents.com",
+    "industry": "Manufacturing",
+    "city": "Charlotte",
+    "state": "NC",
+    "numberofemployees": "210",
+    "annualrevenue": "46000000",
+    "createdate": "2024-06-03T10:00:00Z"
+  },
+  {
+    "id": "318",
+    "name": "Delta Grain Partners",
+    "domain": "deltagrainpartners.com",
+    "industry": "Agriculture",
+    "city": "Memphis",
+    "state": "TN",
+    "numberofemployees": "112",
+    "annualrevenue": "31000000",
+    "createdate": "2024-11-18T14:00:00Z"
+  },
+  {
+    "id": "319",
+    "name": "Iron Mountain Carriers",
+    "domain": "ironmountaincarriers.com",
+    "industry": "Carrier",
+    "city": "Johnson City",
+    "state": "TN",
+    "numberofemployees": "41",
+    "annualrevenue": "9400000",
+    "createdate": "2025-01-27T09:00:00Z"
+  },
+  {
+    "id": "320",
+    "name": "Cherokee Freight Systems",
+    "domain": "cherokeefreightsystems.com",
+    "industry": "Carrier",
+    "city": "Cleveland",
+    "state": "TN",
+    "numberofemployees": "33",
+    "annualrevenue": "7600000",
+    "createdate": "2025-07-09T10:30:00Z"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "location_id": "loc_strathcarron_001",
+  "name": "Crofthouse, Strathcarron",
+  "address": {
+    "street1": "Croft Road",
+    "street2": "",
+    "city": "Strathcarron",
+    "state": "Highland",
+    "zip": "IV54 8YX",
+    "country": "GB"
+  },
+  "latitude": 57.42,
+  "longitude": -5.43,
+  "time_zone": "Europe/London",
+  "mode": "home",
+  "owner": {
+    "id": 100001,
+    "first_name": "Craig",
+    "last_name": "Figueroa",
+    "email": "craig.figueroa@gmail.com"
+  },
+  "subscription": {
+    "plan": "protect_plus",
+    "status": "active",
+    "video_history_days": 180
+  },
+  "created_at": "2022-06-15T10:00:00.000Z",
+  "updated_at": "2026-05-28T08:00:00.000Z"
+}

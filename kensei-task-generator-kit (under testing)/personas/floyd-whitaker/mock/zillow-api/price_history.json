@@ -1,0 +1,162 @@
+[
+  {
+    "zpid": "84120001",
+    "event_date": "2025-09-15",
+    "event": "Zestimate update",
+    "price": "512300",
+    "price_per_sqft": "180",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120001",
+    "event_date": "2010-06-20",
+    "event": "Sold",
+    "price": "298000",
+    "price_per_sqft": "105",
+    "source": "County"
+  },
+  {
+    "zpid": "84120001",
+    "event_date": "2009-08-12",
+    "event": "Sold",
+    "price": "62000",
+    "price_per_sqft": "22",
+    "source": "County"
+  },
+  {
+    "zpid": "84120002",
+    "event_date": "2026-05-08",
+    "event": "Listed for sale",
+    "price": "485000",
+    "price_per_sqft": "185",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120002",
+    "event_date": "2018-09-04",
+    "event": "Sold",
+    "price": "352000",
+    "price_per_sqft": "134",
+    "source": "County"
+  },
+  {
+    "zpid": "84120003",
+    "event_date": "2026-05-21",
+    "event": "Listed for sale",
+    "price": "420000",
+    "price_per_sqft": "250",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120003",
+    "event_date": "2018-12-01",
+    "event": "Sold",
+    "price": "298000",
+    "price_per_sqft": "177",
+    "source": "County"
+  },
+  {
+    "zpid": "84120004",
+    "event_date": "2026-03-20",
+    "event": "Listed for sale",
+    "price": "789000",
+    "price_per_sqft": "216",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120005",
+    "event_date": "2026-05-26",
+    "event": "Sold",
+    "price": "395000",
+    "price_per_sqft": "256",
+    "source": "Listing"
+  },
+  {
+    "zpid": "84120005",
+    "event_date": "2026-05-01",
+    "event": "Listed for sale",
+    "price": "405000",
+    "price_per_sqft": "263",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120005",
+    "event_date": "2015-06-12",
+    "event": "Sold",
+    "price": "225000",
+    "price_per_sqft": "146",
+    "source": "County"
+  },
+  {
+    "zpid": "84120006",
+    "event_date": "2026-05-12",
+    "event": "Listed for sale",
+    "price": "525000",
+    "price_per_sqft": "212",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120007",
+    "event_date": "2026-05-04",
+    "event": "Listed for sale",
+    "price": "365000",
+    "price_per_sqft": "173",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120008",
+    "event_date": "2024-07-30",
+    "event": "Sold",
+    "price": "610000",
+    "price_per_sqft": "205",
+    "source": "County"
+  },
+  {
+    "zpid": "84120009",
+    "event_date": "2026-05-15",
+    "event": "Listed for sale",
+    "price": "560000",
+    "price_per_sqft": "190",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120009",
+    "event_date": "2014-07-30",
+    "event": "Sold",
+    "price": "385000",
+    "price_per_sqft": "131",
+    "source": "County"
+  },
+  {
+    "zpid": "84120010",
+    "event_date": "2026-05-20",
+    "event": "Listed for rent",
+    "price": "1600",
+    "price_per_sqft": "1.45",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120015",
+    "event_date": "2026-06-01",
+    "event": "Pending sale",
+    "price": "545000",
+    "price_per_sqft": "203",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120019",
+    "event_date": "2026-06-04",
+    "event": "Sold",
+    "price": "712000",
+    "price_per_sqft": "233",
+    "source": "Listing"
+  },
+  {
+    "zpid": "84120011",
+    "event_date": "2026-05-25",
+    "event": "Listed for sale",
+    "price": "729000",
+    "price_per_sqft": "264",
+    "source": "Zillow"
+  }
+]

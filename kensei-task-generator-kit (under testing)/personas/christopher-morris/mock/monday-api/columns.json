@@ -1,0 +1,93 @@
+[
+  {
+    "column_id": "status",
+    "board_id": "board-101",
+    "title": "Status",
+    "type": "status",
+    "position": "1"
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board-101",
+    "title": "Assigned To",
+    "type": "person",
+    "position": "2"
+  },
+  {
+    "column_id": "due",
+    "board_id": "board-101",
+    "title": "Due Date",
+    "type": "date",
+    "position": "3"
+  },
+  {
+    "column_id": "notes",
+    "board_id": "board-101",
+    "title": "Comments",
+    "type": "text",
+    "position": "4"
+  },
+  {
+    "column_id": "status",
+    "board_id": "board-102",
+    "title": "Status",
+    "type": "status",
+    "position": "1"
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board-102",
+    "title": "Assigned To",
+    "type": "person",
+    "position": "2"
+  },
+  {
+    "column_id": "severity",
+    "board_id": "board-102",
+    "title": "Priority",
+    "type": "text",
+    "position": "3"
+  },
+  {
+    "column_id": "status",
+    "board_id": "board-201",
+    "title": "Status",
+    "type": "status",
+    "position": "1"
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board-201",
+    "title": "Handler",
+    "type": "person",
+    "position": "2"
+  },
+  {
+    "column_id": "launch",
+    "board_id": "board-201",
+    "title": "Resolution Date",
+    "type": "date",
+    "position": "3"
+  },
+  {
+    "column_id": "status",
+    "board_id": "board-202",
+    "title": "Status",
+    "type": "status",
+    "position": "1"
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board-202",
+    "title": "Assigned To",
+    "type": "person",
+    "position": "2"
+  },
+  {
+    "column_id": "launch",
+    "board_id": "board-202",
+    "title": "Target Date",
+    "type": "date",
+    "position": "3"
+  }
+]

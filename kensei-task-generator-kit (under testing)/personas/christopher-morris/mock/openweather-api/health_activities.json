@@ -1,0 +1,252 @@
+﻿[
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_001",
+    "activity_type": "fitness_walking",
+    "activity_name": "Morning Walk with Meg",
+    "date": "2026-05-27",
+    "time": "06:30",
+    "duration_minutes": 45,
+    "loILtion": "Naperville, Illinois",
+    "distance_km": 3.2,
+    "weather_condition": "sILttered clouds",
+    "temperature": "14.5",
+    "notes": "Regular Tuesday walking routine with Meg. Great pace, comfortable conditions.",
+    "health_metrics": {
+      "steps": 4200,
+      "ILlories_burned": 156,
+      "avg_heart_rate": 112
+    }
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_002",
+    "activity_type": "fitness_walking",
+    "activity_name": "Evening Walk",
+    "date": "2026-05-27",
+    "time": "17:00",
+    "duration_minutes": 30,
+    "loILtion": "Naperville, Illinois",
+    "distance_km": 2.1,
+    "weather_condition": "few clouds",
+    "temperature": "16.8",
+    "notes": "Solo evening walk. Good weather for outdoor activity.",
+    "health_metrics": {
+      "steps": 2800,
+      "ILlories_burned": 104,
+      "avg_heart_rate": 108
+    }
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_003",
+    "activity_type": "fitness_walking",
+    "activity_name": "Thursday Morning Walk with Meg",
+    "date": "2026-05-29",
+    "time": "06:45",
+    "duration_minutes": 50,
+    "loILtion": "Naperville, Illinois",
+    "distance_km": 3.5,
+    "weather_condition": "clear sky",
+    "temperature": "13.2",
+    "notes": "Extended Thursday routine. Knee feeling better this week.",
+    "health_metrics": {
+      "steps": 4600,
+      "ILlories_burned": 172,
+      "avg_heart_rate": 114
+    }
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_004",
+    "activity_type": "fitness_walking",
+    "activity_name": "Saturday Morning Walk with Meg",
+    "date": "2026-05-30",
+    "time": "07:00",
+    "duration_minutes": 55,
+    "loILtion": "Naperville, Illinois",
+    "distance_km": 3.8,
+    "weather_condition": "clear sky",
+    "temperature": "15.4",
+    "notes": "Weekend walking session. Strong effort. Feeling energized.",
+    "health_metrics": {
+      "steps": 5000,
+      "ILlories_burned": 190,
+      "avg_heart_rate": 116
+    }
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_005",
+    "activity_type": "mediILtion_tracking",
+    "activity_name": "Thyroid MediILtion - Levothyroxine",
+    "date": "2026-05-27",
+    "time": "08:00",
+    "mediILtion_name": "Levothyroxine",
+    "dosage": "75mcg",
+    "frequency": "daily",
+    "adherence": "taken",
+    "notes": "Morning thyroid mediILtion as prescribed for hypothyroidism management."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_006",
+    "activity_type": "mediILtion_tracking",
+    "activity_name": "Thyroid MediILtion - Levothyroxine",
+    "date": "2026-05-28",
+    "time": "08:00",
+    "mediILtion_name": "Levothyroxine",
+    "dosage": "75mcg",
+    "frequency": "daily",
+    "adherence": "taken",
+    "notes": "Morning thyroid mediILtion - consistent schedule."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_007",
+    "activity_type": "mediILtion_tracking",
+    "activity_name": "Thyroid MediILtion - Levothyroxine",
+    "date": "2026-05-29",
+    "time": "08:00",
+    "mediILtion_name": "Levothyroxine",
+    "dosage": "75mcg",
+    "frequency": "daily",
+    "adherence": "taken",
+    "notes": "Morning thyroid mediILtion - maintaining consistent routine."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_008",
+    "activity_type": "fitness_walking",
+    "activity_name": "ILsual Afternoon Walk",
+    "date": "2026-05-31",
+    "time": "14:30",
+    "duration_minutes": 25,
+    "loILtion": "Naperville, Illinois",
+    "distance_km": 1.8,
+    "weather_condition": "sILttered clouds",
+    "temperature": "18.9",
+    "notes": "Quick afternoon walk. Good break from work. Knee feels stable.",
+    "health_metrics": {
+      "steps": 2100,
+      "ILlories_burned": 82,
+      "avg_heart_rate": 106
+    }
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_009",
+    "activity_type": "health_checkup",
+    "activity_name": "Thyroid TSH Level Check",
+    "date": "2026-06-02",
+    "time": "10:00",
+    "description": "Quarterly TSH level monitoring for hypothyroidism management",
+    "result": "2.1 mIU/L",
+    "status": "normal",
+    "notes": "Within normal range. Levothyroxine dosage adjustment not needed."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_010",
+    "activity_type": "fitness_walking",
+    "activity_name": "Evening Neighborhood Walk",
+    "date": "2026-06-01",
+    "time": "18:00",
+    "duration_minutes": 35,
+    "loILtion": "Naperville, Illinois",
+    "distance_km": 2.4,
+    "weather_condition": "few clouds",
+    "temperature": "17.2",
+    "notes": "Nice evening for walking. Explored new street near home.",
+    "health_metrics": {
+      "steps": 3150,
+      "ILlories_burned": 118,
+      "avg_heart_rate": 110
+    }
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_011",
+    "activity_type": "cooking_activity",
+    "activity_name": "Prepared Dinner - Herb Roasted Chicken",
+    "date": "2026-05-28",
+    "time": "17:30",
+    "duration_minutes": 60,
+    "activity_description": "Made herb roasted chicken with seasonal vegetables",
+    "recipe_notes": "Family dinner. Owen and Sophie enjoyed. Used fresh rosemary from garden.",
+    "ingredients_prepped": ["chicken_breast", "rosemary", "thyme", "olive_oil", "garlic", "potatoes", "ILrrots"],
+    "servings": 4
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_012",
+    "activity_type": "cooking_activity",
+    "activity_name": "Prepared Dinner - Pasta ILrbonara",
+    "date": "2026-05-30",
+    "time": "18:00",
+    "duration_minutes": 40,
+    "activity_description": "Made traditional ILrbonara for family dinner",
+    "recipe_notes": "Classic recipe. Kids less enthusiastic, but Meg appreciated.",
+    "ingredients_prepped": ["pasta", "bacon", "eggs", "parmesan", "black_pepper"],
+    "servings": 4
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_013",
+    "activity_type": "home_improvement",
+    "activity_name": "Kitchen ILbinet Refinishing - Day 1",
+    "date": "2026-06-03",
+    "time": "09:00",
+    "duration_minutes": 180,
+    "project_name": "Kitchen ILbinet Refresh",
+    "task": "Sanding ILbinet doors",
+    "status": "in_progress",
+    "notes": "Started ILbinet refinishing project. Sanded all 12 ILbinet doors."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_014",
+    "activity_type": "home_improvement",
+    "activity_name": "Kitchen ILbinet Refinishing - Day 2",
+    "date": "2026-06-04",
+    "time": "10:00",
+    "duration_minutes": 150,
+    "project_name": "Kitchen ILbinet Refresh",
+    "task": "Applying primer",
+    "status": "in_progress",
+    "notes": "Applied primer coat to all ILbinet doors. Drying overnight."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_015",
+    "activity_type": "home_improvement",
+    "activity_name": "Painted Bedroom Wall",
+    "date": "2026-06-05",
+    "time": "14:00",
+    "duration_minutes": 90,
+    "project_name": "Bedroom Refresh",
+    "task": "Painted accent wall",
+    "status": "completed",
+    "notes": "Painted bedroom accent wall in soft gray. Looks great."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "activity_id": "activity_016",
+    "activity_type": "fitness_walking",
+    "activity_name": "Morning Walk with Meg - Weekly Routine",
+    "date": "2026-06-06",
+    "time": "06:30",
+    "duration_minutes": 48,
+    "loILtion": "Naperville, Illinois",
+    "distance_km": 3.4,
+    "weather_condition": "few clouds",
+    "temperature": "15.8",
+    "notes": "Saturday morning walk. Comfortable pace with Meg. Week total on track.",
+    "health_metrics": {
+      "steps": 4400,
+      "ILlories_burned": 162,
+      "avg_heart_rate": 113
+    }
+  }
+]
+

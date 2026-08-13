@@ -1,0 +1,182 @@
+[
+  {
+    "sys_id": "usr-floyd",
+    "user_name": "floyd.whitaker",
+    "name": "Floyd Whitaker",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "title": "Owner / Broker",
+    "department": "Management",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-bren",
+    "user_name": "bren.sizemore",
+    "name": "Brenda Sizemore",
+    "email": "bren.sizemore@gmail.com",
+    "title": "Office Manager",
+    "department": "Operations",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-brand",
+    "user_name": "brand.whitaker",
+    "name": "Brandon Whitaker",
+    "email": "brand.whitaker@gmail.com",
+    "title": "Junior Associate",
+    "department": "Brokerage",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-travis",
+    "user_name": "travis.hollis",
+    "name": "Travis Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "title": "Dispatch Specialist",
+    "department": "Dispatch",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-lorrie",
+    "user_name": "lorrie.sexton",
+    "name": "Lorrie Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "title": "Dispatch Specialist",
+    "department": "Dispatch",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-dale",
+    "user_name": "dale.renfro",
+    "name": "Dale Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "title": "Bookkeeper",
+    "department": "Finance",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-carla",
+    "user_name": "carla.whitfield",
+    "name": "Carla Whitfield",
+    "email": "carla.whitfield@finthesiss.ai",
+    "title": "Admin Assistant",
+    "department": "Operations",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-msp",
+    "user_name": "knoxit.support",
+    "name": "Knox IT Support",
+    "email": "support@finthesiss.ai",
+    "title": "Managed IT Technician",
+    "department": "IT Support",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-greer",
+    "user_name": "marvin.greer",
+    "name": "Marvin Greer",
+    "email": "marvin.greer@finthesiss.ai",
+    "title": "Senior IT Technician",
+    "department": "IT Support",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-wayne",
+    "user_name": "wayne.prater",
+    "name": "Wayne Prater",
+    "email": "wayne.prater@gmail.com",
+    "title": "Accountant (External)",
+    "department": "Finance",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-keith",
+    "user_name": "keith.burgess",
+    "name": "Keith Burgess",
+    "email": "keith.burgess@gmail.com",
+    "title": "Mentorship Partner (External)",
+    "department": "Management",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-donna",
+    "user_name": "donna.whitaker",
+    "name": "Donna Whitaker",
+    "email": "donna.whitaker@gmail.com",
+    "title": "Bookkeeping Assistant",
+    "department": "Finance",
+    "active": "false"
+  },
+  {
+    "sys_id": "usr-helpdesk",
+    "user_name": "knoxit.helpdesk",
+    "name": "Knox IT Helpdesk",
+    "email": "helpdesk@finthesiss.ai",
+    "title": "Helpdesk Queue",
+    "department": "IT Support",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-rollins",
+    "user_name": "dana.rollins",
+    "name": "Dana Rollins",
+    "email": "dana.rollins@finthesiss.ai",
+    "title": "Network Administrator",
+    "department": "IT Support",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-sturgill",
+    "user_name": "kent.sturgill",
+    "name": "Kent Sturgill",
+    "email": "kent.sturgill@finthesiss.ai",
+    "title": "Dispatch Specialist",
+    "department": "Dispatch",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-mabe",
+    "user_name": "abe.fortner",
+    "name": "Abe Fortner",
+    "email": "abe.fortner@finthesiss.ai",
+    "title": "Carrier Relations Associate",
+    "department": "Brokerage",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-gail",
+    "user_name": "gail.osborne",
+    "name": "Gail Osborne",
+    "email": "gail.osborne@finthesiss.ai",
+    "title": "Customer Service Rep",
+    "department": "Operations",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-tucker",
+    "user_name": "tucker.hyde",
+    "name": "Tucker Hyde",
+    "email": "tucker.hyde@finthesiss.ai",
+    "title": "Junior Associate",
+    "department": "Brokerage",
+    "active": "true"
+  },
+  {
+    "sys_id": "usr-vernon",
+    "user_name": "vernon.gibbs",
+    "name": "Vernon Gibbs",
+    "email": "vernon.gibbs@finthesiss.ai",
+    "title": "Billing Clerk",
+    "department": "Finance",
+    "active": "false"
+  },
+  {
+    "sys_id": "usr-loretta",
+    "user_name": "loretta.combs",
+    "name": "Loretta Combs",
+    "email": "loretta.combs@finthesiss.ai",
+    "title": "Receptionist",
+    "department": "Operations",
+    "active": "true"
+  }
+]

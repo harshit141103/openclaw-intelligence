@@ -1,0 +1,13 @@
+{
+  "login": "floyd-whitaker-wfs",
+  "id": 4001001,
+  "name": "Floyd Whitaker",
+  "email": "floyd.w@outlook.com",
+  "avatar_url": "https://avatars.githubusercontent.com/floyd-whitaker-wfs.png",
+  "type": "User",
+  "site_admin": false,
+  "company": "Whitaker Freight Services",
+  "public_repos": 1,
+  "followers": 2,
+  "following": 5
+}

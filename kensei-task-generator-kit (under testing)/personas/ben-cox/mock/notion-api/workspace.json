@@ -1,0 +1,14 @@
+{
+  "id": "workspace-cox-woodwork",
+  "name": "Whitcomb built-in bookshelves",
+  "domain": "cox-woodwork",
+  "owner_user_id": "user-Ben",
+  "plan": "team",
+  "created_time": "2026-03-27T17:15:00Z",
+  "icon": "https://www.notion.so/icons/gem_green.svg",
+  "settings": {
+    "default_page_size": 50,
+    "ai_blocks_enabled": true,
+    "public_sharing_enabled": false
+  }
+}

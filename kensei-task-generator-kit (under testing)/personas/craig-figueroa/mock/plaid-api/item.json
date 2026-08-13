@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item_figueroa_8a1f2c",
+    "institution_id": "ins_109512",
+    "webhook": "https://figueroavet.co.uk/plaid/webhook",
+    "available_products": [
+      "balance",
+      "identity"
+    ],
+    "billed_products": [
+      "transactions",
+      "auth"
+    ],
+    "consent_expiration_time": null,
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_109512",
+    "name": "Bank of Scotland",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.bankofscotland.co.uk",
+    "primary_color": "#1a73a8",
+    "routing_numbers": [
+      "122105155"
+    ]
+  }
+}

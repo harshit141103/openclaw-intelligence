@@ -1,0 +1,202 @@
+[
+  {
+    "id": "AAMkAGcnt0000001",
+    "display_name": "Diane Cox",
+    "given_name": "Diane",
+    "surname": "Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "job_title": "Cut dadoes for the adjustable shelf pins",
+    "company": "Vermont Tool & Die",
+    "mobile_phone": "+18025550112"
+  },
+  {
+    "id": "AAMkAGcnt0000002",
+    "display_name": "Keith Cox",
+    "given_name": "Keith",
+    "surname": "Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "job_title": "Dry-fit the face frames before glue-up",
+    "company": "Buffalo Mountain Food Co-op",
+    "mobile_phone": "+18025550145"
+  },
+  {
+    "id": "AAMkAGcnt0000003",
+    "display_name": "Marie Cox-Gagne",
+    "given_name": "Marie",
+    "surname": "Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "job_title": "Plane the bookshelf shelves and ease the front edges",
+    "company": "Cox Custom Woodwork",
+    "mobile_phone": "+18025550155"
+  },
+  {
+    "id": "AAMkAGcnt0000004",
+    "display_name": "Tom Gagne",
+    "given_name": "Tom",
+    "surname": "Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "job_title": "Mock up the crown profile for the Henderson uppers",
+    "company": "Vermont Tool & Die",
+    "mobile_phone": "+18025550156"
+  },
+  {
+    "id": "AAMkAGcnt0000005",
+    "display_name": "Pete Lafleur",
+    "given_name": "Pete",
+    "surname": "Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "job_title": "Splitting and stacking the winter firewood",
+    "company": "Hardwick Lumber",
+    "mobile_phone": "+18025550178"
+  },
+  {
+    "id": "AAMkAGcnt0000006",
+    "display_name": "Dr. James Whitfield",
+    "given_name": "James",
+    "surname": "Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "job_title": "Bookshelf install Friday the 16th",
+    "company": "Parker Pie Co.",
+    "mobile_phone": "+18025550410"
+  },
+  {
+    "id": "AAMkAGcnt0000007",
+    "display_name": "Dr. Paul LeBlanc",
+    "given_name": "Paul",
+    "surname": "LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "job_title": "Cherry pricing for the Henderson uppers",
+    "company": "Vermont Tool & Die",
+    "mobile_phone": "+18025550425"
+  },
+  {
+    "id": "AAMkAGcnt902",
+    "display_name": "Scott Henderson",
+    "given_name": "Scott",
+    "surname": "Henderson",
+    "email": "shenderson@stowevt.net",
+    "job_title": "Stowe kitchen - cabinet hardware lead time",
+    "company": "Hardwick Lumber",
+    "mobile_phone": "+18025550500"
+  },
+  {
+    "id": "AAMkAGcnt904",
+    "display_name": "Linda Henderson",
+    "given_name": "Linda",
+    "surname": "Henderson",
+    "email": "lhenderson@stowevt.net",
+    "job_title": "Sharpen the jointer knives and reset the infeed table",
+    "company": "Vermont Tool & Die",
+    "mobile_phone": "+18025550501"
+  },
+  {
+    "id": "AAMkAGcnt906",
+    "display_name": "Alan Whitcomb",
+    "given_name": "Alan",
+    "surname": "Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "job_title": "Re-saw the walnut for bookmatched panels",
+    "company": "Craftsbury General Store",
+    "mobile_phone": "+18025550512"
+  },
+  {
+    "id": "AAMkAGcnt908",
+    "display_name": "Paul Dufresne",
+    "given_name": "Paul",
+    "surname": "Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "job_title": "Sand to 220 and raise the grain before finish",
+    "company": "Willey's Store",
+    "mobile_phone": "+18025550720"
+  },
+  {
+    "id": "AAMkAGcnt910",
+    "display_name": "Marc Belanger",
+    "given_name": "Marc",
+    "surname": "Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "job_title": "Build the drawer boxes with half-blind dovetails",
+    "company": "Aubuchon Hardware Hardwick",
+    "mobile_phone": "+18025550733"
+  },
+  {
+    "id": "AAMkAGcnt912",
+    "display_name": "Gary Stoddard",
+    "given_name": "Gary",
+    "surname": "Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "job_title": "Sand to 220 and raise the grain before finish",
+    "company": "Aubuchon Hardware Hardwick",
+    "mobile_phone": "+18025550741"
+  },
+  {
+    "id": "AAMkAGcnt914",
+    "display_name": "Hardwick Lumber",
+    "given_name": "Hardwick",
+    "surname": "Lumber",
+    "email": "orders@hardwicklumber.com",
+    "job_title": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "company": "Positive Pie",
+    "mobile_phone": "+18025550700"
+  },
+  {
+    "id": "AAMkAGcnt909",
+    "display_name": "Green Mountain Hardwoods",
+    "given_name": "Green",
+    "surname": "Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "job_title": "Stage the bookshelf sections for the Craftsbury install",
+    "company": "Aubuchon Hardware Hardwick",
+    "mobile_phone": "+18025550810"
+  },
+  {
+    "id": "AAMkAGcnt911",
+    "display_name": "Ray Tetreault",
+    "given_name": "Ray",
+    "surname": "Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "job_title": "Set up the dado stack for the bookshelf rabbets",
+    "company": "Green Mountain Hardwoods",
+    "mobile_phone": "+18025550715"
+  },
+  {
+    "id": "AAMkAGcnt913",
+    "display_name": "Nancy Beaulieu",
+    "given_name": "Nancy",
+    "surname": "Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "job_title": "Re-saw the walnut for bookmatched panels",
+    "company": "Green Mountain Hardwoods",
+    "mobile_phone": "+18025550523"
+  },
+  {
+    "id": "AAMkAGcnt915",
+    "display_name": "Rev. Susan Mills",
+    "given_name": "Susan",
+    "surname": "Mills",
+    "email": "office@craftsburychurch.org",
+    "job_title": "Hang the soft-close doors and adjust the hinges",
+    "company": "Green Mountain Hardwoods",
+    "mobile_phone": "+18025550630"
+  },
+  {
+    "id": "AAMkAGcnt917",
+    "display_name": "Walt Perreault",
+    "given_name": "Walt",
+    "surname": "Perreault",
+    "email": "walt.perreault@gmail.com",
+    "job_title": "Plane the bookshelf shelves and ease the front edges",
+    "company": "Vermont Tool & Die",
+    "mobile_phone": "+18025550766"
+  },
+  {
+    "id": "AAMkAGcnt919",
+    "display_name": "Donna Sloan",
+    "given_name": "Donna",
+    "surname": "Sloan",
+    "email": "donna.sloan@comcast.net",
+    "job_title": "Material order - Hardwick Lumber",
+    "company": "Positive Pie",
+    "mobile_phone": "+18025550544"
+  }
+]

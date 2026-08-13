@@ -1,0 +1,66 @@
+﻿[
+  {
+    "id": "prod_Mortgage",
+    "name": "Home Mortgage",
+    "description": "Primary residence mortgage payment",
+    "active": "true",
+    "created": "1684108800"
+  },
+  {
+    "id": "prod_Salary",
+    "name": "Employment Income",
+    "description": "VoiceSync Inc payroll - Christopher Morris",
+    "active": "true",
+    "created": "1706745600"
+  },
+  {
+    "id": "prod_Utilities",
+    "name": "Utility Services",
+    "description": "BGE electric and gas service",
+    "active": "true",
+    "created": "1694865600"
+  },
+  {
+    "id": "prod_Internet",
+    "name": "Internet and TV Service",
+    "description": "Xfinity broadband and ILble",
+    "active": "true",
+    "created": "1694865600"
+  },
+  {
+    "id": "prod_Insurance",
+    "name": "Health Insurance",
+    "description": "Meridian Health Plus mediILl coverage",
+    "active": "true",
+    "created": "1709251200"
+  },
+  {
+    "id": "prod_AutoInsurance",
+    "name": "Auto Insurance",
+    "description": "State Farm auto insurance - Morris family",
+    "active": "true",
+    "created": "1694779200"
+  },
+  {
+    "id": "prod_Gym",
+    "name": "Gym Membership",
+    "description": "Equinox fitness annual membership",
+    "active": "true",
+    "created": "1717200000"
+  },
+  {
+    "id": "prod_LinkedIn",
+    "name": "LinkedIn Premium",
+    "description": "Professional networking subscription",
+    "active": "true",
+    "created": "1718755200"
+  },
+  {
+    "id": "prod_Streaming",
+    "name": "Streaming Services",
+    "description": "Netflix/Disney+ household subscription",
+    "active": "true",
+    "created": "1715212800"
+  }
+]
+

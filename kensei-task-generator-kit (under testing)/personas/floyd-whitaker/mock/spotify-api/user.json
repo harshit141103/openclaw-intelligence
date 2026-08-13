@@ -1,0 +1,11 @@
+{
+  "id": "floyd-whitaker",
+  "display_name": "Floyd Whitaker",
+  "email": "floyd.whitaker@Finthesiss.ai",
+  "country": "US",
+  "product": "premium",
+  "followers": 27,
+  "images": [
+    {"url": "https://img.scdn.co/floyd-whitaker.png", "height": 300, "width": 300}
+  ]
+}

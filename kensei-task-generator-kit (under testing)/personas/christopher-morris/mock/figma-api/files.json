@@ -1,0 +1,202 @@
+[
+  {
+    "file_key": "FK001abcdefg",
+    "project_id": "proj-201",
+    "name": "Onboarding Flow",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK001.png",
+    "last_modified": "2026-05-22T14:30:00Z",
+    "version": "4920183",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK002hijklmn",
+    "project_id": "proj-201",
+    "name": "Checkout Redesign",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK002.png",
+    "last_modified": "2026-05-24T09:12:00Z",
+    "version": "4920455",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK003opqrstu",
+    "project_id": "proj-202",
+    "name": "Landing Page",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK003.png",
+    "last_modified": "2026-05-20T18:45:00Z",
+    "version": "4918002",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK004vwxyz12",
+    "project_id": "proj-203",
+    "name": "Component Library",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK004.png",
+    "last_modified": "2026-05-25T11:05:00Z",
+    "version": "4921330",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK005abcd123",
+    "project_id": "proj-201",
+    "name": "Typography System",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK005.png",
+    "last_modified": "2026-05-26T08:20:00Z",
+    "version": "4922100",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK006efgh456",
+    "project_id": "proj-202",
+    "name": "Color Palette",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK006.png",
+    "last_modified": "2026-05-21T13:55:00Z",
+    "version": "4919587",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK007ijkl789",
+    "project_id": "proj-203",
+    "name": "Icon Set v2",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK007.png",
+    "last_modified": "2026-05-27T10:15:00Z",
+    "version": "4923450",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK008mnop012",
+    "project_id": "proj-201",
+    "name": "Mobile Navigation",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK008.png",
+    "last_modified": "2026-05-23T16:40:00Z",
+    "version": "4920920",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK009qrst345",
+    "project_id": "proj-202",
+    "name": "Dashboard Layout",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK009.png",
+    "last_modified": "2026-05-25T14:25:00Z",
+    "version": "4921640",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK010uvwx678",
+    "project_id": "proj-203",
+    "name": "Form Components",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK010.png",
+    "last_modified": "2026-05-26T11:30:00Z",
+    "version": "4922550",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK011yzab901",
+    "project_id": "proj-201",
+    "name": "Animation Specs",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK011.png",
+    "last_modified": "2026-05-24T12:05:00Z",
+    "version": "4920680",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK012cdef234",
+    "project_id": "proj-202",
+    "name": "Email Templates",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK012.png",
+    "last_modified": "2026-05-22T09:50:00Z",
+    "version": "4919900",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK013ghij567",
+    "project_id": "proj-203",
+    "name": "Accessibility Guidelines",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK013.png",
+    "last_modified": "2026-05-27T15:35:00Z",
+    "version": "4923800",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK014klmn890",
+    "project_id": "proj-201",
+    "name": "Responsive Grid",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK014.png",
+    "last_modified": "2026-05-23T10:20:00Z",
+    "version": "4920300",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK015opqr123",
+    "project_id": "proj-202",
+    "name": "Button Variants",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK015.png",
+    "last_modified": "2026-05-26T14:15:00Z",
+    "version": "4922300",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK016stuv456",
+    "project_id": "proj-203",
+    "name": "Dialog & Modal",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK016.png",
+    "last_modified": "2026-05-25T09:40:00Z",
+    "version": "4921750",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK017wxyz789",
+    "project_id": "proj-201",
+    "name": "Data Visualization",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK017.png",
+    "last_modified": "2026-05-24T17:25:00Z",
+    "version": "4920950",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK018abcd012",
+    "project_id": "proj-202",
+    "name": "Search Interface",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK018.png",
+    "last_modified": "2026-05-22T13:35:00Z",
+    "version": "4920050",
+    "role": "editor",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK019efgh345",
+    "project_id": "proj-203",
+    "name": "Payment Flow",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK019.png",
+    "last_modified": "2026-05-27T11:50:00Z",
+    "version": "4923150",
+    "role": "owner",
+    "editor_type": "figma"
+  },
+  {
+    "file_key": "FK020ijkl678",
+    "project_id": "proj-201",
+    "name": "Loading States",
+    "thumbnail_url": "https://figma-thumbs.example.com/FK020.png",
+    "last_modified": "2026-05-23T14:45:00Z",
+    "version": "4920520",
+    "role": "editor",
+    "editor_type": "figma"
+  }
+]

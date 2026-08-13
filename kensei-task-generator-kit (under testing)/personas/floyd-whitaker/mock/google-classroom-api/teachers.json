@@ -1,0 +1,205 @@
+[
+  {
+    "courseId": "cohort-2026-autumn",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "userId": "teacher_002",
+    "fullName": "Keith Burgess",
+    "emailAddress": "keith.burgess@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "cohort-2025",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "cohort-2025",
+    "userId": "teacher_002",
+    "fullName": "Keith Burgess",
+    "emailAddress": "keith.burgess@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "userId": "teacher_003",
+    "fullName": "Brenda Sizemore",
+    "emailAddress": "bren.sizemore@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "userId": "teacher_002",
+    "fullName": "Keith Burgess",
+    "emailAddress": "keith.burgess@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "module-carrier-vetting",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "module-carrier-vetting",
+    "userId": "teacher_004",
+    "fullName": "Travis Hollis",
+    "emailAddress": "travis.hollis@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher004"
+  },
+  {
+    "courseId": "module-rate-negotiation",
+    "userId": "teacher_002",
+    "fullName": "Keith Burgess",
+    "emailAddress": "keith.burgess@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "module-load-boards",
+    "userId": "teacher_004",
+    "fullName": "Travis Hollis",
+    "emailAddress": "travis.hollis@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher004"
+  },
+  {
+    "courseId": "module-broker-authority",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "module-tms-workflow",
+    "userId": "teacher_003",
+    "fullName": "Brenda Sizemore",
+    "emailAddress": "bren.sizemore@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "module-tms-workflow",
+    "userId": "teacher_007",
+    "fullName": "Lorrie Sexton",
+    "emailAddress": "lorrie.sexton@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher007"
+  },
+  {
+    "courseId": "guest-series-2026",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "guest-series-2026",
+    "userId": "teacher_009",
+    "fullName": "Glen Mabry",
+    "emailAddress": "glen.mabry@cumberlandautoparts.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher009"
+  },
+  {
+    "courseId": "module-customer-service",
+    "userId": "teacher_003",
+    "fullName": "Brenda Sizemore",
+    "emailAddress": "bren.sizemore@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "module-claims-handling",
+    "userId": "teacher_002",
+    "fullName": "Keith Burgess",
+    "emailAddress": "keith.burgess@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "module-lane-pricing",
+    "userId": "teacher_004",
+    "fullName": "Travis Hollis",
+    "emailAddress": "travis.hollis@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher004"
+  },
+  {
+    "courseId": "dot-compliance-2025",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "module-bol-paperwork",
+    "userId": "teacher_005",
+    "fullName": "Carla Whitfield",
+    "emailAddress": "carla.whitfield@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher005"
+  },
+  {
+    "courseId": "module-dispatch-shadow",
+    "userId": "teacher_004",
+    "fullName": "Travis Hollis",
+    "emailAddress": "travis.hollis@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher004"
+  },
+  {
+    "courseId": "module-dispatch-shadow",
+    "userId": "teacher_007",
+    "fullName": "Lorrie Sexton",
+    "emailAddress": "lorrie.sexton@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher007"
+  },
+  {
+    "courseId": "module-broker-finance",
+    "userId": "teacher_006",
+    "fullName": "Dale Renfro",
+    "emailAddress": "dale.renfro@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher006"
+  },
+  {
+    "courseId": "module-broker-finance",
+    "userId": "teacher_008",
+    "fullName": "Wayne Prater",
+    "emailAddress": "wayne.prater@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher008"
+  },
+  {
+    "courseId": "module-sales-prospecting",
+    "userId": "teacher_002",
+    "fullName": "Keith Burgess",
+    "emailAddress": "keith.burgess@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "module-safety-hos",
+    "userId": "teacher_001",
+    "fullName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "onboarding-2025",
+    "userId": "teacher_003",
+    "fullName": "Brenda Sizemore",
+    "emailAddress": "bren.sizemore@finthesiss.ai",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  }
+]

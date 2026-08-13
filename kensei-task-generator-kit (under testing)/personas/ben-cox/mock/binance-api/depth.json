@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "620.00",
+    "qty": "0.512"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "1200.00",
+    "qty": "1.230"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "1850.00",
+    "qty": "0.875"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "2400.00",
+    "qty": "2.140"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "3200.00",
+    "qty": "0.330"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "ask",
+    "price": "4800.00",
+    "qty": "0.640"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "ask",
+    "price": "5400.00",
+    "qty": "1.080"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "ask",
+    "price": "6200.00",
+    "qty": "0.420"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "ask",
+    "price": "8500.00",
+    "qty": "1.770"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "ask",
+    "price": "12000.00",
+    "qty": "0.295"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "side": "bid",
+    "price": "18500.00",
+    "qty": "4.120"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "side": "bid",
+    "price": "480.00",
+    "qty": "8.330"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "side": "bid",
+    "price": "620.00",
+    "qty": "2.600"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "side": "ask",
+    "price": "1200.00",
+    "qty": "3.940"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "side": "ask",
+    "price": "1850.00",
+    "qty": "6.210"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "side": "ask",
+    "price": "2400.00",
+    "qty": "1.880"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "3200.00",
+    "qty": "0.512"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "4800.00",
+    "qty": "1.230"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "5400.00",
+    "qty": "0.875"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "side": "bid",
+    "price": "6200.00",
+    "qty": "2.140"
+  }
+]

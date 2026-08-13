@@ -1,0 +1,222 @@
+[
+  {
+    "id": "201",
+    "title": "About",
+    "slug": "about",
+    "status": "publish",
+    "author": "1",
+    "content": "Whitaker Freight Services is a Knoxville-based freight brokerage and logistics consultancy founded in 2008. This blog shares how we vet carriers and keep freight moving.",
+    "date": "2025-01-10T10:00:00",
+    "modified": "2025-06-01T10:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "202",
+    "title": "Contact",
+    "slug": "contact",
+    "status": "publish",
+    "author": "1",
+    "content": "Reach the team at info@whitakerfreight.com or call the office. We answer the phone, every time.",
+    "date": "2025-01-10T10:05:00",
+    "modified": "2025-01-10T10:05:00",
+    "parent": "0"
+  },
+  {
+    "id": "203",
+    "title": "Privacy Policy",
+    "slug": "privacy-policy",
+    "status": "publish",
+    "author": "1",
+    "content": "How we handle your information on this site. Short version: we collect only what we need to serve you.",
+    "date": "2025-01-12T09:00:00",
+    "modified": "2025-04-02T09:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "204",
+    "title": "Our Team",
+    "slug": "our-team",
+    "status": "publish",
+    "author": "1",
+    "content": "Meet the people behind Whitaker Freight Services, from dispatch to the front office.",
+    "date": "2025-02-01T11:00:00",
+    "modified": "2025-05-20T11:00:00",
+    "parent": "201"
+  },
+  {
+    "id": "205",
+    "title": "Services",
+    "slug": "services",
+    "status": "publish",
+    "author": "1",
+    "content": "Truckload, reefer, flatbed, and cross-border brokerage across the Southeast and Midwest. Automotive parts, agricultural products, and building materials are our bread and butter.",
+    "date": "2025-01-15T10:00:00",
+    "modified": "2026-03-10T10:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "206",
+    "title": "Carrier Setup",
+    "slug": "carrier-setup",
+    "status": "publish",
+    "author": "2",
+    "content": "Ready to haul for WFS? Send your operating authority, W-9, and certificate of insurance and we will get you set up. We answer the phone, every time.",
+    "date": "2025-02-10T09:00:00",
+    "modified": "2026-05-15T09:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "207",
+    "title": "Request a Quote",
+    "slug": "request-a-quote",
+    "status": "publish",
+    "author": "1",
+    "content": "Tell us your lane, commodity, and pickup window and we will get you a rate. Most quotes back same day.",
+    "date": "2025-02-12T09:30:00",
+    "modified": "2026-04-20T09:30:00",
+    "parent": "205"
+  },
+  {
+    "id": "208",
+    "title": "Cross-Border Freight",
+    "slug": "cross-border-freight",
+    "status": "publish",
+    "author": "3",
+    "content": "We move freight to and from Mexico and Canada with vetted cross-border carriers. Laredo and Detroit-Windsor crossings are routine for us.",
+    "date": "2025-03-01T10:00:00",
+    "modified": "2026-05-19T10:00:00",
+    "parent": "205"
+  },
+  {
+    "id": "209",
+    "title": "DOT Compliance Webinars",
+    "slug": "dot-compliance-webinars",
+    "status": "publish",
+    "author": "1",
+    "content": "Join our quarterly DOT compliance webinars. We cover FMCSA rules, audits, and what keeps your authority clean. Next session details posted soon.",
+    "date": "2025-04-01T10:00:00",
+    "modified": "2026-05-23T10:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "210",
+    "title": "TN Freight Mentorship Program",
+    "slug": "mentorship-program",
+    "status": "publish",
+    "author": "4",
+    "content": "Our autumn cohort, run with Keith Burgess of Burgess Logistics, pairs new brokers with seasoned ones. Applications open for the next cohort.",
+    "date": "2026-03-12T13:00:00",
+    "modified": "2026-05-18T13:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "211",
+    "title": "Careers",
+    "slug": "careers",
+    "status": "publish",
+    "author": "2",
+    "content": "WFS is a six-person shop with room to grow. We hire dispatchers and associates who answer the phone and treat carriers right.",
+    "date": "2025-05-01T11:00:00",
+    "modified": "2026-05-12T11:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "212",
+    "title": "Testimonials",
+    "slug": "testimonials",
+    "status": "publish",
+    "author": "8",
+    "content": "What our clients say. From Cumberland Auto Parts to Valley Grain Cooperative, shippers count on WFS to keep freight moving.",
+    "date": "2025-06-01T10:00:00",
+    "modified": "2026-05-21T10:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "213",
+    "title": "Carrier Resources",
+    "slug": "carrier-resources",
+    "status": "publish",
+    "author": "17",
+    "content": "Checklists, packets, and guides for the carriers who haul for us. Download the carrier setup packet and insurance requirements here.",
+    "date": "2026-02-03T09:00:00",
+    "modified": "2026-05-22T09:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "214",
+    "title": "Insurance Requirements",
+    "slug": "insurance-requirements",
+    "status": "publish",
+    "author": "12",
+    "content": "Minimum coverage to haul for WFS: auto liability, cargo, and a current certificate naming Whitaker Freight Services as certificate holder.",
+    "date": "2026-02-05T09:00:00",
+    "modified": "2026-05-16T09:00:00",
+    "parent": "213"
+  },
+  {
+    "id": "215",
+    "title": "Whitaker Smoke Shop",
+    "slug": "smoke-shop",
+    "status": "publish",
+    "author": "20",
+    "content": "Rubs, sauces, and BBQ gear Floyd swears by. A little side project from the brick smoker pit out back.",
+    "date": "2026-04-01T16:00:00",
+    "modified": "2026-05-24T16:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "216",
+    "title": "BBQ Recipes",
+    "slug": "bbq-recipes",
+    "status": "publish",
+    "author": "11",
+    "content": "Floyd's brisket, ribs, and pulled pork recipes, plus Mama June's chicken and dumplings. Low and slow is the only way.",
+    "date": "2026-04-06T17:00:00",
+    "modified": "2026-05-30T17:00:00",
+    "parent": "215"
+  },
+  {
+    "id": "217",
+    "title": "Fishing Reports",
+    "slug": "fishing-reports",
+    "status": "publish",
+    "author": "13",
+    "content": "Douglas Lake and Cherokee Lake reports, plus fly fishing notes from the Smokies. Updated when the bite is on.",
+    "date": "2026-04-13T18:00:00",
+    "modified": "2026-05-31T18:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "218",
+    "title": "Appalachian Railroad History",
+    "slug": "railroad-history",
+    "status": "publish",
+    "author": "1",
+    "content": "Maps and stories from the Great Valley and Cumberland Gap railroads. A passion of Floyd's going back to Harlan.",
+    "date": "2026-04-18T14:00:00",
+    "modified": "2026-05-20T14:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "219",
+    "title": "Faith and Community",
+    "slug": "faith-community",
+    "status": "publish",
+    "author": "14",
+    "content": "WFS supports Ridgeview Baptist Church outreach and East Tennessee community events. Faith and freight both run on showing up.",
+    "date": "2026-05-01T10:00:00",
+    "modified": "2026-05-12T10:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "220",
+    "title": "Lane Rate Index",
+    "slug": "lane-rate-index",
+    "status": "draft",
+    "author": "1",
+    "content": "A running index of the lanes we run most, from Laredo to Knoxville and the Midwest grain corridors. Updated monthly.",
+    "date": "2026-02-26T08:00:00",
+    "modified": "2026-05-23T08:00:00",
+    "parent": "205"
+  }
+]

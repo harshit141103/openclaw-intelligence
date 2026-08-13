@@ -1,0 +1,242 @@
+[
+  {
+    "id": "section_001",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Ribs and Pork",
+      "position": 0
+    },
+    "contentDetails": {
+      "playlists": ["PL_001"]
+    }
+  },
+  {
+    "id": "section_002",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Smoking Basics",
+      "position": 1
+    },
+    "contentDetails": {
+      "playlists": ["PL_002"]
+    }
+  },
+  {
+    "id": "section_003",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Fire and Smoke Management",
+      "position": 2
+    },
+    "contentDetails": {
+      "playlists": ["PL_003"]
+    }
+  },
+  {
+    "id": "section_004",
+    "snippet": {
+      "type": "popularUploads",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Popular Uploads",
+      "position": 3
+    },
+    "contentDetails": {
+      "playlists": []
+    }
+  },
+  {
+    "id": "section_005",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Freight Broker Tips",
+      "position": 4
+    },
+    "contentDetails": {
+      "playlists": ["PL_005"]
+    }
+  },
+  {
+    "id": "section_006",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Quick Tips and Shorts",
+      "position": 5
+    },
+    "contentDetails": {
+      "playlists": ["PL_008"]
+    }
+  },
+  {
+    "id": "section_007",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Beef and Brisket",
+      "position": 6
+    },
+    "contentDetails": {
+      "playlists": ["PL_004"]
+    }
+  },
+  {
+    "id": "section_008",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Sauces and Rubs",
+      "position": 7
+    },
+    "contentDetails": {
+      "playlists": ["PL_006"]
+    }
+  },
+  {
+    "id": "section_009",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Seasonal Cooking",
+      "position": 8
+    },
+    "contentDetails": {
+      "playlists": ["PL_007"]
+    }
+  },
+  {
+    "id": "section_010",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Starting a Brokerage",
+      "position": 9
+    },
+    "contentDetails": {
+      "playlists": ["PL_009"]
+    }
+  },
+  {
+    "id": "section_011",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Appalachian Roots",
+      "position": 10
+    },
+    "contentDetails": {
+      "playlists": ["PL_010"]
+    }
+  },
+  {
+    "id": "section_012",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Poultry on the Smoker",
+      "position": 11
+    },
+    "contentDetails": {
+      "playlists": ["PL_011"]
+    }
+  },
+  {
+    "id": "section_013",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Cookout Planning",
+      "position": 12
+    },
+    "contentDetails": {
+      "playlists": ["PL_012"]
+    }
+  },
+  {
+    "id": "section_014",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Carrier Vetting Deep Dives",
+      "position": 13
+    },
+    "contentDetails": {
+      "playlists": ["PL_013"]
+    }
+  },
+  {
+    "id": "section_015",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "DOT Compliance Webinars",
+      "position": 14
+    },
+    "contentDetails": {
+      "playlists": ["PL_014"]
+    }
+  },
+  {
+    "id": "section_016",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Cross-Border Freight",
+      "position": 15
+    },
+    "contentDetails": {
+      "playlists": ["PL_015"]
+    }
+  },
+  {
+    "id": "section_017",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Vols Tailgate Cooks",
+      "position": 16
+    },
+    "contentDetails": {
+      "playlists": ["PL_016"]
+    }
+  },
+  {
+    "id": "section_018",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Lake Fishing Reports",
+      "position": 17
+    },
+    "contentDetails": {
+      "playlists": ["PL_017"]
+    }
+  },
+  {
+    "id": "section_019",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "Railroad and TVA History",
+      "position": 18
+    },
+    "contentDetails": {
+      "playlists": ["PL_018"]
+    }
+  },
+  {
+    "id": "section_020",
+    "snippet": {
+      "type": "singlePlaylist",
+      "channelId": "UC_WhitakerSmokeFreight",
+      "title": "TN Freight Mentorship",
+      "position": 19
+    },
+    "contentDetails": {
+      "playlists": ["PL_020"]
+    }
+  }
+]

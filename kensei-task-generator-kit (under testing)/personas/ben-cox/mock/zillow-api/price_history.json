@@ -1,0 +1,162 @@
+[
+  {
+    "zpid": "84120001",
+    "event_date": "2026-04-19",
+    "event": "Stage the bookshelf sections for the Craftsbury install",
+    "price": "620",
+    "price_per_sqft": "1200",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120001",
+    "event_date": "2024-08-10",
+    "event": "Sold",
+    "price": "1850",
+    "price_per_sqft": "2400",
+    "source": "County"
+  },
+  {
+    "zpid": "84120001",
+    "event_date": "2025-01-21",
+    "event": "Sold",
+    "price": "3200",
+    "price_per_sqft": "4800",
+    "source": "County"
+  },
+  {
+    "zpid": "84120002",
+    "event_date": "2024-11-20",
+    "event": "Mill cherry stock to thickness for the upper cabinet doors",
+    "price": "5400",
+    "price_per_sqft": "6200",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120002",
+    "event_date": "2025-04-14",
+    "event": "Sold",
+    "price": "8500",
+    "price_per_sqft": "12000",
+    "source": "County"
+  },
+  {
+    "zpid": "84120003",
+    "event_date": "2026-04-01",
+    "event": "Stage the bookshelf sections for the Craftsbury install",
+    "price": "18500",
+    "price_per_sqft": "480",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120003",
+    "event_date": "2024-12-25",
+    "event": "Sold",
+    "price": "620",
+    "price_per_sqft": "1200",
+    "source": "County"
+  },
+  {
+    "zpid": "84120004",
+    "event_date": "2024-12-05",
+    "event": "Check the moisture content on the barn oak before joinery",
+    "price": "1850",
+    "price_per_sqft": "2400",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120005",
+    "event_date": "2026-03-10",
+    "event": "Sold",
+    "price": "3200",
+    "price_per_sqft": "4800",
+    "source": "Listing"
+  },
+  {
+    "zpid": "84120005",
+    "event_date": "2025-03-01",
+    "event": "Project schedule update",
+    "price": "5400",
+    "price_per_sqft": "6200",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120005",
+    "event_date": "2025-12-21",
+    "event": "Sold",
+    "price": "8500",
+    "price_per_sqft": "12000",
+    "source": "County"
+  },
+  {
+    "zpid": "84120006",
+    "event_date": "2025-02-10",
+    "event": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "price": "18500",
+    "price_per_sqft": "480",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120007",
+    "event_date": "2026-01-20",
+    "event": "Barn oak is summer 2027 - not pulling material yet.",
+    "price": "620",
+    "price_per_sqft": "1200",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120009",
+    "event_date": "2026-02-09",
+    "event": "Dry-fit the face frames before glue-up",
+    "price": "1850",
+    "price_per_sqft": "2400",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120009",
+    "event_date": "2026-02-28",
+    "event": "Sold",
+    "price": "3200",
+    "price_per_sqft": "4800",
+    "source": "County"
+  },
+  {
+    "zpid": "84120010",
+    "event_date": "2025-04-21",
+    "event": "Bookshelf install Friday the 16th",
+    "price": "5400",
+    "price_per_sqft": "18.99",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120001",
+    "event_date": "2026-01-06",
+    "event": "Barn oak is summer 2027 - not pulling material yet.",
+    "price": "6200",
+    "price_per_sqft": "8500",
+    "source": "Zillow"
+  },
+  {
+    "zpid": "84120001",
+    "event_date": "2026-01-12",
+    "event": "Sold",
+    "price": "12000",
+    "price_per_sqft": "18500",
+    "source": "County"
+  },
+  {
+    "zpid": "84120001",
+    "event_date": "2025-08-13",
+    "event": "Sold",
+    "price": "480",
+    "price_per_sqft": "620",
+    "source": "County"
+  },
+  {
+    "zpid": "84120002",
+    "event_date": "2024-01-29",
+    "event": "Hold the Stowe drive until the morning forecast clears.",
+    "price": "1200",
+    "price_per_sqft": "1850",
+    "source": "Zillow"
+  }
+]

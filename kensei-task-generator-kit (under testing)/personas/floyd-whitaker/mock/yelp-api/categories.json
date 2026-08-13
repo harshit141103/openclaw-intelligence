@@ -1,0 +1,102 @@
+[
+  {
+    "alias": "diners",
+    "title": "Diners",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "bbq",
+    "title": "Barbeque",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "breweries",
+    "title": "Breweries",
+    "parent": "food"
+  },
+  {
+    "alias": "southern",
+    "title": "Southern",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "steak",
+    "title": "Steakhouses",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "coffee",
+    "title": "Coffee & Tea",
+    "parent": "food"
+  },
+  {
+    "alias": "seafood",
+    "title": "Seafood",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "tradamerican",
+    "title": "American (Traditional)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "burgers",
+    "title": "Burgers",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "newamerican",
+    "title": "American (New)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "smokehouse",
+    "title": "Smokehouse",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "comfortfood",
+    "title": "Comfort Food",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "breakfast_brunch",
+    "title": "Breakfast & Brunch",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "chicken_wings",
+    "title": "Chicken Wings",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "cajun",
+    "title": "Cajun/Creole",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "brewpubs",
+    "title": "Brewpubs",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "beerbar",
+    "title": "Beer Bar",
+    "parent": "bars"
+  },
+  {
+    "alias": "sportsbars",
+    "title": "Sports Bars",
+    "parent": "bars"
+  },
+  {
+    "alias": "meats",
+    "title": "Meat Shops",
+    "parent": "food"
+  },
+  {
+    "alias": "fishing",
+    "title": "Fishing",
+    "parent": "active"
+  }
+]

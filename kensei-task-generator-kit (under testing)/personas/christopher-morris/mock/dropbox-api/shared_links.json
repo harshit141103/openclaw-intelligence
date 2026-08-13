@@ -1,0 +1,130 @@
+[
+  {
+    "id": "sl_0001",
+    "url": "https://www.dropbox.com/s/abc123def456/Q2-Report.pdf?dl=0",
+    "name": "Q2-Report.pdf",
+    "path_lower": "/documents/q2-report.pdf",
+    "visibility": "public",
+    "file_id": "id:a4ayc_80000000000000000000004"
+  },
+  {
+    "id": "sl_0002",
+    "url": "https://www.dropbox.com/s/ghi789jkl012/Budget-2026.xlsx?dl=0",
+    "name": "Budget-2026.xlsx",
+    "path_lower": "/documents/budget-2026.xlsx",
+    "visibility": "team_only",
+    "file_id": "id:a4ayc_80000000000000000000005"
+  },
+  {
+    "id": "sl_0003",
+    "url": "https://www.dropbox.com/s/mno345pqr678/launch.png?dl=0",
+    "name": "launch.png",
+    "path_lower": "/photos/launch.png",
+    "visibility": "public",
+    "file_id": "id:a4ayc_80000000000000000000007"
+  },
+  {
+    "id": "sl_0004",
+    "url": "https://www.dropbox.com/s/stu901vwx234/proposal.pdf?dl=0",
+    "name": "proposal.pdf",
+    "path_lower": "/projects/proposal.pdf",
+    "visibility": "password",
+    "file_id": "id:a4ayc_80000000000000000000009"
+  },
+  {
+    "id": "sl_0005",
+    "url": "https://www.dropbox.com/s/vwx567yza890/Roadmap.docx?dl=0",
+    "name": "Roadmap.docx",
+    "path_lower": "/documents/roadmap.docx",
+    "visibility": "public",
+    "file_id": "id:a4ayc_80000000000000000000006"
+  },
+  {
+    "id": "sl_0006",
+    "url": "https://www.dropbox.com/s/bcd123efg456/team-offsite.jpg?dl=0",
+    "name": "team-offsite.jpg",
+    "path_lower": "/photos/team-offsite.jpg",
+    "visibility": "team_only",
+    "file_id": "id:a4ayc_80000000000000000000008"
+  },
+  {
+    "id": "sl_0007",
+    "url": "https://www.dropbox.com/s/hij789klm012/annual-review-2025.pdf?dl=0",
+    "name": "annual-review-2025.pdf",
+    "path_lower": "/documents/annual-review-2025.pdf",
+    "visibility": "password",
+    "file_id": "id:a4ayc_80000000000000000000013"
+  },
+  {
+    "id": "sl_0008",
+    "url": "https://www.dropbox.com/s/nop345qrs678/contract-template.docx?dl=0",
+    "name": "contract-template.docx",
+    "path_lower": "/documents/contract-template.docx",
+    "visibility": "team_only",
+    "file_id": "id:a4ayc_80000000000000000000014"
+  },
+  {
+    "id": "sl_0009",
+    "url": "https://www.dropbox.com/s/tuv901wxy234/team-photo.jpg?dl=0",
+    "name": "team-photo.jpg",
+    "path_lower": "/photos/team-photo.jpg",
+    "visibility": "public",
+    "file_id": "id:a4ayc_80000000000000000000015"
+  },
+  {
+    "id": "sl_0010",
+    "url": "https://www.dropbox.com/s/zab567cde890/conference-presentation.pptx?dl=0",
+    "name": "conference-presentation.pptx",
+    "path_lower": "/marketing/conference-presentation.pptx",
+    "visibility": "public",
+    "file_id": "id:a4ayc_80000000000000000000016"
+  },
+  {
+    "id": "sl_0011",
+    "url": "https://www.dropbox.com/s/fgh123ijk456/marketing-strategy.xlsx?dl=0",
+    "name": "marketing-strategy.xlsx",
+    "path_lower": "/marketing/marketing-strategy.xlsx",
+    "visibility": "team_only",
+    "file_id": "id:a4ayc_80000000000000000000017"
+  },
+  {
+    "id": "sl_0012",
+    "url": "https://www.dropbox.com/s/lmn789opq012/q1-results-backup.zip?dl=0",
+    "name": "q1-results-backup.zip",
+    "path_lower": "/archives/q1-results-backup.zip",
+    "visibility": "password",
+    "file_id": "id:a4ayc_80000000000000000000018"
+  },
+  {
+    "id": "sl_0013",
+    "url": "https://www.dropbox.com/s/rst345uvw678/old-records-2024.tar?dl=0",
+    "name": "old-records-2024.tar",
+    "path_lower": "/archives/old-records-2024.tar",
+    "visibility": "team_only",
+    "file_id": "id:a4ayc_80000000000000000000019"
+  },
+  {
+    "id": "sl_0014",
+    "url": "https://www.dropbox.com/s/xyz901abc234/notes.txt?dl=0",
+    "name": "notes.txt",
+    "path_lower": "/projects/notes.txt",
+    "visibility": "public",
+    "file_id": "id:a4ayc_80000000000000000000010"
+  },
+  {
+    "id": "sl_0015",
+    "url": "https://www.dropbox.com/s/def567ghi890/meeting-notes.txt?dl=0",
+    "name": "meeting-notes.txt",
+    "path_lower": "/projects/meeting-notes.txt",
+    "visibility": "password",
+    "file_id": "id:a4ayc_80000000000000000000020"
+  },
+  {
+    "id": "sl_0016",
+    "url": "https://www.dropbox.com/s/jkl123mno456/client-feedback.pdf?dl=0",
+    "name": "client-feedback.pdf",
+    "path_lower": "/documents/client-feedback.pdf",
+    "visibility": "public",
+    "file_id": "id:a4ayc_80000000000000000000021"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "workspace_id": "ws-1",
+    "name": "Benefits Administration",
+    "kind": "open",
+    "description": "Benefits program management and compliance operations"
+  },
+  {
+    "workspace_id": "ws-2",
+    "name": "Claims & Enrollment",
+    "kind": "open",
+    "description": "Member enrollment, claims processing, and support"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "account_type": "BUSINESS",
+    "username": "christopher_morris_orchids",
+    "profile_image": "https://i.pinimg.com/avatars/christopher_morris_orchids_1680000000_150.jpg",
+    "website_url": "https://www.christopher-morris-orchids.com",
+    "business_name": "Christopher Morris Orchids",
+    "board_count": 9,
+    "pin_count": 127,
+    "follower_count": 12043,
+    "following_count": 340,
+    "monthly_views": 285000,
+    "created_at": "2023-03-12T08:15:00"
+  },
+  {
+    "account_type": "BUSINESS",
+    "username": "christopher_morris_plants",
+    "profile_image": "https://i.pinimg.com/avatars/christopher_morris_plants_1700000000_150.jpg",
+    "website_url": "https://www.christopher-morris-greenhouse.com",
+    "business_name": "Christopher Morris Greenhouse & Horticulture",
+    "board_count": 12,
+    "pin_count": 89,
+    "follower_count": 4320,
+    "following_count": 215,
+    "monthly_views": 67000,
+    "created_at": "2024-06-18T10:30:00"
+  },
+  {
+    "account_type": "BUSINESS",
+    "username": "christopher_morris_baker",
+    "profile_image": "https://i.pinimg.com/avatars/christopher_morris_baker_150.jpg",
+    "website_url": "https://www.christopher-morris-bakery.com",
+    "business_name": "Christopher Morris Artisan Bakery",
+    "board_count": 3,
+    "pin_count": 8,
+    "follower_count": 890,
+    "following_count": 145,
+    "monthly_views": 15200,
+    "created_at": "2023-06-10T08:00:00"
+  },
+  {
+    "account_type": "PERSONAL",
+    "username": "christopher_morris_home",
+    "profile_image": "https://i.pinimg.com/avatars/christopher_morris_home_1710000000_150.jpg",
+    "website_url": "",
+    "business_name": "",
+    "board_count": 6,
+    "pin_count": 58,
+    "follower_count": 842,
+    "following_count": 191,
+    "monthly_views": 18400,
+    "created_at": "2024-01-18T09:20:00"
+  },
+  {
+    "account_type": "BUSINESS",
+    "username": "christopher_morris_wellness",
+    "profile_image": "https://i.pinimg.com/avatars/christopher_morris_wellness_150.jpg",
+    "website_url": "https://www.christopher-morris-wellness.com",
+    "business_name": "Christopher Morris Wellness",
+    "board_count": 4,
+    "pin_count": 45,
+    "follower_count": 2150,
+    "following_count": 320,
+    "monthly_views": 42000,
+    "created_at": "2023-09-15T11:00:00"
+  },
+  {
+    "account_type": "PERSONAL",
+    "username": "christopher.morris.design",
+    "profile_image": "https://i.pinimg.com/avatars/christopher_morris_design_150.jpg",
+    "website_url": "https://christopher-morris-design.portfolio.com",
+    "business_name": "",
+    "board_count": 8,
+    "pin_count": 156,
+    "follower_count": 5420,
+    "following_count": 278,
+    "monthly_views": 89000,
+    "created_at": "2022-11-20T14:30:00"
+  }
+]

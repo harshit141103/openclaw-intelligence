@@ -1,0 +1,142 @@
+[
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400001",
+    "username": "gregmorris",
+    "global_name": "Greg Morris",
+    "nick": "Greg",
+    "bot": "false",
+    "joined_at": "2024-11-02T10:00:00Z",
+    "roles": "700100200300400001;700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400002",
+    "username": "owenmorris",
+    "global_name": "Owen Morris",
+    "nick": "Owen",
+    "bot": "false",
+    "joined_at": "2024-11-05T12:30:00Z",
+    "roles": "700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400003",
+    "username": "sophiemorris",
+    "global_name": "Sophie Morris",
+    "nick": "Sophie",
+    "bot": "false",
+    "joined_at": "2024-12-01T09:15:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400004",
+    "username": "megpatterson",
+    "global_name": "Meg Patterson",
+    "nick": "Meg",
+    "bot": "false",
+    "joined_at": "2025-01-10T14:45:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400005",
+    "username": "sandraschen",
+    "global_name": "Sandra Chen",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-01-15T08:20:00Z",
+    "roles": "700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400006",
+    "username": "priyadesai",
+    "global_name": "Priya Desai",
+    "nick": "Priya",
+    "bot": "false",
+    "joined_at": "2025-01-20T11:00:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400007",
+    "username": "mikepoletti",
+    "global_name": "Mike Poletti",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-02-01T09:30:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400008",
+    "username": "janetbrenna",
+    "global_name": "Janet Brennan",
+    "nick": "Janet",
+    "bot": "false",
+    "joined_at": "2025-02-10T13:15:00Z",
+    "roles": "700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "300100200300400001",
+    "username": "meridianbot",
+    "global_name": "Meridian Bot",
+    "nick": "",
+    "bot": "true",
+    "joined_at": "2024-11-02T10:05:00Z",
+    "roles": "700100200300400004"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400003",
+    "username": "sophiemorris",
+    "global_name": "Sophie Morris",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-02-01T08:00:00Z",
+    "roles": "700100200300400005"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400009",
+    "username": "ritabrennancole",
+    "global_name": "Rita Brennan-Cole",
+    "nick": "Rita",
+    "bot": "false",
+    "joined_at": "2025-02-03T11:20:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400010",
+    "username": "jsmith",
+    "global_name": "Jennifer Smith",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-02-09T17:40:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400003",
+    "user_id": "500100200300400005",
+    "username": "sandraschen",
+    "global_name": "Sandra Chen",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-02-15T10:00:00Z",
+    "roles": "700100200300400005"
+  },
+  {
+    "guild_id": "900100200300400003",
+    "user_id": "500100200300400006",
+    "username": "priyadesai",
+    "global_name": "Priya Desai",
+    "nick": "Priya",
+    "bot": "false",
+    "joined_at": "2025-02-18T14:30:00Z",
+    "roles": "700100200300400006"
+  }
+]

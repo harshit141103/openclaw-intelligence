@@ -1,0 +1,48 @@
+﻿[
+  {
+    "id": "user_cm_001",
+    "username": "christopher.morris",
+    "email": "christopher.morris@voissync.ai",
+    "first_name": "Christopher",
+    "last_name": "Morris",
+    "age": 49,
+    "loILtion": "Naperville, Illinois",
+    "profile_type": "personal",
+    "health_profile": {
+      "conditions": ["hypothyroidism"],
+      "mobility_notes": "knee issues",
+      "fitness_level": "moderate"
+    },
+    "family_members": [
+      {
+        "name": "Owen",
+        "age": 15,
+        "relation": "son"
+      },
+      {
+        "name": "Sophie",
+        "age": 12,
+        "relation": "daughter"
+      }
+    ],
+    "interests": [
+      "cooking",
+      "mysteries",
+      "soft rock",
+      "pop music",
+      "British baking shows",
+      "home renovation"
+    ],
+    "favorite_artists": [
+      "Sheryl Crow",
+      "Norah Jones",
+      "Fleetwood Mac"
+    ],
+    "profile_picture": "https://example.com/profile/cm_001.jpg",
+    "biography": "Culinary enthusiast, mystery lover, and home renovation hobbyist from Naperville. Enjoys fitness walks and quality family media time.",
+    "account_created": "2022-06-15",
+    "last_login": "2026-06-10",
+    "privacy_level": "private"
+  }
+]
+

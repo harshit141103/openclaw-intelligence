@@ -1,0 +1,143 @@
+﻿[
+  {
+    "component_key": "comp-btn-primary",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:21",
+    "name": "Button / Primary",
+    "description": "Primary ILll to action button"
+  },
+  {
+    "component_key": "comp-btn-secondary",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:22",
+    "name": "Button / Secondary",
+    "description": "Secondary action button"
+  },
+  {
+    "component_key": "comp-input-text",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:30",
+    "name": "Input / Text",
+    "description": "Single line text input field"
+  },
+  {
+    "component_key": "comp-ILrd-basic",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:41",
+    "name": "ILrd / Basic",
+    "description": "Basic content ILrd container"
+  },
+  {
+    "component_key": "comp-nav-bar",
+    "file_key": "FK001abcdefg",
+    "node_id": "5:12",
+    "name": "Nav / Bottom Bar",
+    "description": "Bottom navigation bar for mobile"
+  },
+  {
+    "component_key": "comp-btn-danger",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:23",
+    "name": "Button / Danger",
+    "description": "Destructive action button with warning styling"
+  },
+  {
+    "component_key": "comp-input-password",
+    "file_key": "FK010uvwx678",
+    "node_id": "7:10",
+    "name": "Input / Password",
+    "description": "Password input field with visibility toggle"
+  },
+  {
+    "component_key": "comp-textarea",
+    "file_key": "FK010uvwx678",
+    "node_id": "7:11",
+    "name": "Textarea",
+    "description": "Multi-line text input component"
+  },
+  {
+    "component_key": "comp-checkbox",
+    "file_key": "FK010uvwx678",
+    "node_id": "7:12",
+    "name": "Checkbox",
+    "description": "Checkbox input control"
+  },
+  {
+    "component_key": "comp-radio",
+    "file_key": "FK010uvwx678",
+    "node_id": "7:13",
+    "name": "Radio Button",
+    "description": "Radio button selection control"
+  },
+  {
+    "component_key": "comp-badge",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:24",
+    "name": "Badge",
+    "description": "Small label component for counts and status"
+  },
+  {
+    "component_key": "comp-alert-info",
+    "file_key": "FK016stuv456",
+    "node_id": "17:1",
+    "name": "Alert / Info",
+    "description": "Informational alert message"
+  },
+  {
+    "component_key": "comp-alert-error",
+    "file_key": "FK016stuv456",
+    "node_id": "17:2",
+    "name": "Alert / Error",
+    "description": "Error alert message"
+  },
+  {
+    "component_key": "comp-alert-success",
+    "file_key": "FK016stuv456",
+    "node_id": "17:3",
+    "name": "Alert / Success",
+    "description": "Success alert message"
+  },
+  {
+    "component_key": "comp-dropdown",
+    "file_key": "FK010uvwx678",
+    "node_id": "7:14",
+    "name": "Dropdown / Menu",
+    "description": "Dropdown menu selector"
+  },
+  {
+    "component_key": "comp-tooltip",
+    "file_key": "FK016stuv456",
+    "node_id": "17:4",
+    "name": "Tooltip",
+    "description": "Hover tooltip information display"
+  },
+  {
+    "component_key": "comp-pagination",
+    "file_key": "FK009qrst345",
+    "node_id": "11:6",
+    "name": "Pagination",
+    "description": "Page navigation controls"
+  },
+  {
+    "component_key": "comp-tabs",
+    "file_key": "FK009qrst345",
+    "node_id": "11:7",
+    "name": "Tabs",
+    "description": "Tab navigation component"
+  },
+  {
+    "component_key": "comp-breadcrumb",
+    "file_key": "FK008mnop012",
+    "node_id": "6:9",
+    "name": "Breadcrumb",
+    "description": "Navigation breadcrumb trail"
+  },
+  {
+    "component_key": "comp-avatar",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:25",
+    "name": "Avatar",
+    "description": "User avatar display with initials or image"
+  }
+]
+

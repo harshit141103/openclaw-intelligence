@@ -1,0 +1,27 @@
+{
+  "rider_id": "rider-craig",
+  "first_name": "Craig",
+  "last_name": "Figueroa",
+  "email": "craig.figueroa@gmail.com",
+  "phone_number": "+447700900700",
+  "rating": 4.91,
+  "member_since": "2021-03-14",
+  "promo_code": "RIDE5OFF",
+  "payment_methods": [
+    {
+      "payment_method_id": "pm-visa-9921",
+      "type": "card",
+      "brand": "Visa",
+      "last_four": "9921",
+      "default": true
+    },
+    {
+      "payment_method_id": "pm-ubercash",
+      "type": "uber_cash",
+      "balance": 18.5,
+      "default": false
+    }
+  ],
+  "home_address": "Croft Road, Strathcarron, IV54 8YX",
+  "work_address": "Crofthouse Dispensary, Strathcarron, IV54 8YX"
+}

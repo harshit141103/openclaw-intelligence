@@ -1,0 +1,17 @@
+{
+  "team": {
+    "id": "team-501",
+    "name": "Whitaker Freight Services"
+  },
+  "me": {
+    "id": "user-1001",
+    "handle": "Floyd Whitaker",
+    "email": "floyd.w@outlook.com",
+    "img_url": "https://figma-avatars.figma.com/user-1001.png"
+  },
+  "users": [
+    {"id": "user-1001", "handle": "Floyd Whitaker", "email": "floyd.w@outlook.com", "img_url": "https://figma-avatars.figma.com/user-1001.png"},
+    {"id": "user-1002", "handle": "Marcus Caudill", "email": "marcus@knoxwebworks.com", "img_url": "https://figma-avatars.figma.com/user-1002.png"},
+    {"id": "user-1003", "handle": "Brenda Sizemore", "email": "bren.sizemore@gmail.com", "img_url": "https://figma-avatars.figma.com/user-1003.png"}
+  ]
+}

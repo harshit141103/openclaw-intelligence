@@ -1,0 +1,14 @@
+[
+  {
+    "id": "gcon-501",
+    "company_id": "comp-001",
+    "first_name": "Graeme",
+    "last_name": "Sutherland",
+    "business_name": "",
+    "type": "Individual",
+    "email": "graeme.sutherland@gmail.com",
+    "hourly_rate": "85.00",
+    "wage_type": "Hourly",
+    "start_date": "2025-02-01"
+  }
+]

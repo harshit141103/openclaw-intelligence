@@ -1,0 +1,38 @@
+[
+  {
+    "album_id": "5aB3cD4eF5gH6iJ7kL8mN1",
+    "name": "9 Dead Alive",
+    "artist_id": "0RpddSzMBmSdb5e5q5g2N1",
+    "album_type": "album",
+    "release_date": "2014-04-29",
+    "total_tracks": "10",
+    "label": "Rubyworks"
+  },
+  {
+    "album_id": "5aB3cD4eF5gH6iJ7kL8mN2",
+    "name": "Ciudad de las Ideas",
+    "artist_id": "2pCqZLeavM2BMovJXsJEIV",
+    "album_type": "album",
+    "release_date": "2000-10-17",
+    "total_tracks": "9",
+    "label": "Sony Music"
+  },
+  {
+    "album_id": "5aB3cD4eF5gH6iJ7kL8mN3",
+    "name": "Crack-Up",
+    "artist_id": "4nQBcAj3M3FQZF1k3v0a0K",
+    "album_type": "album",
+    "release_date": "2017-06-16",
+    "total_tracks": "11",
+    "label": "Nonesuch"
+  },
+  {
+    "album_id": "5aB3cD4eF5gH6iJ7kL8mN4",
+    "name": "Brothers in Arms",
+    "artist_id": "6mdiAmATAx73kdxrNrnlao",
+    "album_type": "album",
+    "release_date": "1985-05-13",
+    "total_tracks": "9",
+    "label": "Vertigo"
+  }
+]

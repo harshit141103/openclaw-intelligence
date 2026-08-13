@@ -1,0 +1,142 @@
+[
+  {
+    "id": "prod_RubClub",
+    "name": "Whitaker BBQ Rub Club",
+    "description": "Monthly shipment of two house-blend BBQ rubs",
+    "active": "true",
+    "created": "1690000000"
+  },
+  {
+    "id": "prod_PitmasterKit",
+    "name": "Pitmaster Starter Kit",
+    "description": "Rub, sauce, and injector bundle for new smokers",
+    "active": "true",
+    "created": "1690000000"
+  },
+  {
+    "id": "prod_Thermometer",
+    "name": "Dual-Probe Smoker Thermometer",
+    "description": "Wireless dual-probe thermometer for low and slow cooks",
+    "active": "true",
+    "created": "1692000000"
+  },
+  {
+    "id": "prod_WoodBundle",
+    "name": "Tennessee Hardwood Chip Bundle",
+    "description": "Hickory, cherry, and oak smoking chips, 3-bag bundle",
+    "active": "true",
+    "created": "1694000000"
+  },
+  {
+    "id": "prod_BrisketBox",
+    "name": "Brisket Box",
+    "description": "Trimmed brisket plus rub and butcher paper, shipped cold",
+    "active": "true",
+    "created": "1696000000"
+  },
+  {
+    "id": "prod_SweetRub",
+    "name": "Smoky Mountain Sweet Rub",
+    "description": "Brown sugar and paprika rub for ribs and pulled pork",
+    "active": "true",
+    "created": "1698000000"
+  },
+  {
+    "id": "prod_BrisketRub",
+    "name": "Great Valley Brisket Rub",
+    "description": "Coarse salt and pepper Texas-style rub for beef",
+    "active": "true",
+    "created": "1698500000"
+  },
+  {
+    "id": "prod_VinegarSauce",
+    "name": "Appalachian Vinegar Sauce",
+    "description": "Carolina-style thin vinegar sauce, two-bottle pack",
+    "active": "true",
+    "created": "1699000000"
+  },
+  {
+    "id": "prod_TomatoSauce",
+    "name": "Knoxville Sweet Tomato Sauce",
+    "description": "Thick tomato-molasses BBQ sauce, two-bottle pack",
+    "active": "true",
+    "created": "1699500000"
+  },
+  {
+    "id": "prod_Injector",
+    "name": "Stainless Meat Injector",
+    "description": "Heavy stainless injector with three needle sizes",
+    "active": "true",
+    "created": "1700000000"
+  },
+  {
+    "id": "prod_RibRack",
+    "name": "Stainless Rib Rack",
+    "description": "Holds five racks of ribs upright in the smoker",
+    "active": "true",
+    "created": "1700500000"
+  },
+  {
+    "id": "prod_Gloves",
+    "name": "Heat-Resistant Pit Gloves",
+    "description": "Insulated gloves for handling hot grates and meat",
+    "active": "true",
+    "created": "1701000000"
+  },
+  {
+    "id": "prod_Apron",
+    "name": "Whitaker Pitmaster Apron",
+    "description": "Heavy canvas apron with the Whitaker BBQ logo",
+    "active": "true",
+    "created": "1701500000"
+  },
+  {
+    "id": "prod_SauceFlight",
+    "name": "Sauce Flight Sampler",
+    "description": "Four small bottles of every house sauce",
+    "active": "true",
+    "created": "1702000000"
+  },
+  {
+    "id": "prod_RubTrio",
+    "name": "House Rub Trio",
+    "description": "Original, sweet, and brisket rubs in a gift tin",
+    "active": "true",
+    "created": "1702500000"
+  },
+  {
+    "id": "prod_PorkBox",
+    "name": "Pulled Pork Box",
+    "description": "Pork shoulder, rub, and sauce shipped cold",
+    "active": "true",
+    "created": "1703000000"
+  },
+  {
+    "id": "prod_RibBox",
+    "name": "Baby Back Rib Box",
+    "description": "Two racks of baby backs with rub and sauce, shipped cold",
+    "active": "true",
+    "created": "1703500000"
+  },
+  {
+    "id": "prod_Tee",
+    "name": "Whitaker BBQ T-Shirt",
+    "description": "Cotton tee with the brick-pit logo",
+    "active": "true",
+    "created": "1704000000"
+  },
+  {
+    "id": "prod_Cap",
+    "name": "Whitaker BBQ Trucker Cap",
+    "description": "Mesh-back cap with embroidered logo",
+    "active": "true",
+    "created": "1704500000"
+  },
+  {
+    "id": "prod_OrigRub",
+    "name": "Whitaker Original House Rub",
+    "description": "The everyday all-purpose rub for pork, chicken, and ribs",
+    "active": "true",
+    "created": "1689000000"
+  }
+]

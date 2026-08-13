@@ -1,0 +1,222 @@
+[
+  {
+    "id": "C01GENERAL",
+    "name": "general",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Company-wide announcements",
+    "purpose": "Default channel for the whole WFS team",
+    "creator": "U01FLOYD",
+    "created": "1672531200",
+    "num_members": "7"
+  },
+  {
+    "id": "C01DISPATCH",
+    "name": "dispatch",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Active loads and carrier dispatch",
+    "purpose": "Coordinate loads, trucks, and pickups",
+    "creator": "U01FLOYD",
+    "created": "1672534800",
+    "num_members": "5"
+  },
+  {
+    "id": "C01VETTING",
+    "name": "carrier-vetting",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Carrier vetting and compliance",
+    "purpose": "MC authority, insurance, safety checks before we book",
+    "creator": "U01FLOYD",
+    "created": "1672538400",
+    "num_members": "5"
+  },
+  {
+    "id": "C01VOLS",
+    "name": "vols-football",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Go Vols",
+    "purpose": "Tennessee football talk, no work allowed",
+    "creator": "U01TRAVIS",
+    "created": "1693526400",
+    "num_members": "6"
+  },
+  {
+    "id": "C01MENTOR",
+    "name": "mentorship",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "TN Freight Mentorship Program",
+    "purpose": "Autumn cohort planning with Keith Burgess",
+    "creator": "U01FLOYD",
+    "created": "1714521600",
+    "num_members": "6"
+  },
+  {
+    "id": "G01OWNERS",
+    "name": "owners",
+    "is_private": "true",
+    "is_archived": "false",
+    "topic": "Owner and manager sync",
+    "purpose": "Private channel for Floyd and Bren",
+    "creator": "U01FLOYD",
+    "created": "1714525200",
+    "num_members": "2"
+  },
+  {
+    "id": "C01CLIENTS",
+    "name": "clients",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Client accounts and updates",
+    "purpose": "Account status, shipping windows, and client follow-ups",
+    "creator": "U01BREN",
+    "created": "1675209600",
+    "num_members": "5"
+  },
+  {
+    "id": "C01CARRIERS",
+    "name": "carriers",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Carrier relations",
+    "purpose": "Working carriers, capacity, and lane coverage",
+    "creator": "U01TRAVIS",
+    "created": "1675296000",
+    "num_members": "5"
+  },
+  {
+    "id": "C01BILLING",
+    "name": "billing",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Invoices and payments",
+    "purpose": "Accounts receivable, carrier payouts, and aging",
+    "creator": "U01DALE",
+    "created": "1675382400",
+    "num_members": "4"
+  },
+  {
+    "id": "C01COMPLIANCE",
+    "name": "dot-compliance",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "DOT compliance webinars",
+    "purpose": "Quarterly DOT compliance prep and FMCSA updates",
+    "creator": "U01FLOYD",
+    "created": "1680307200",
+    "num_members": "5"
+  },
+  {
+    "id": "C01SOFTWARE",
+    "name": "software-eval",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "FreightFlow Pro vs RoutePoint",
+    "purpose": "Freight software evaluation and demo notes",
+    "creator": "U01FLOYD",
+    "created": "1709251200",
+    "num_members": "4"
+  },
+  {
+    "id": "C01ONBOARD",
+    "name": "brand-onboarding",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Brandon onboarding",
+    "purpose": "Training checklist and notes for Brand",
+    "creator": "U01BREN",
+    "created": "1711584000",
+    "num_members": "4"
+  },
+  {
+    "id": "C01SMOKER",
+    "name": "cookout-crew",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Office cookouts and BBQ",
+    "purpose": "Fall cookout planning and smoker talk",
+    "creator": "U01FLOYD",
+    "created": "1716163200",
+    "num_members": "6"
+  },
+  {
+    "id": "C01RANDOM",
+    "name": "random",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Anything goes",
+    "purpose": "Non-work chatter and good news",
+    "creator": "U01CARLA",
+    "created": "1672538400",
+    "num_members": "7"
+  },
+  {
+    "id": "C01SAFETY",
+    "name": "safety",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Office and load safety",
+    "purpose": "Insurance, claims, and incident reporting",
+    "creator": "U01LORRIE",
+    "created": "1682899200",
+    "num_members": "5"
+  },
+  {
+    "id": "C01ASSOC",
+    "name": "tn-freight-assoc",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "TN Freight Association",
+    "purpose": "Board updates and October conference planning",
+    "creator": "U01FLOYD",
+    "created": "1696118400",
+    "num_members": "4"
+  },
+  {
+    "id": "C01RATES",
+    "name": "spot-rates",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Spot market and lane rates",
+    "purpose": "Daily spot rate watching for SE and Midwest lanes",
+    "creator": "U01TRAVIS",
+    "created": "1685577600",
+    "num_members": "5"
+  },
+  {
+    "id": "C01HELP",
+    "name": "help-desk",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "IT and tools help",
+    "purpose": "Login issues, printers, and software questions",
+    "creator": "U01CARLA",
+    "created": "1687564800",
+    "num_members": "6"
+  },
+  {
+    "id": "G01PARTNERS",
+    "name": "partners",
+    "is_private": "true",
+    "is_archived": "false",
+    "topic": "Partner coordination",
+    "purpose": "Private channel with Keith Burgess on shared lanes",
+    "creator": "U01FLOYD",
+    "created": "1690848000",
+    "num_members": "3"
+  },
+  {
+    "id": "C01ARCHIVE",
+    "name": "summer-interns-2025",
+    "is_private": "false",
+    "is_archived": "true",
+    "topic": "Summer 2025 interns",
+    "purpose": "Archived channel from last summer intern run",
+    "creator": "U01BREN",
+    "created": "1717200000",
+    "num_members": "4"
+  }
+]

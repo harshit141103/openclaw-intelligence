@@ -1,0 +1,200 @@
+[
+  {
+    "objectID": "svc-001",
+    "name": "Dry Van Truckload - Southeast Corridor",
+    "description": "Full truckload dry van service across the Southeast freight corridor",
+    "category": "truckload",
+    "brand": "Whitaker Freight Services",
+    "price": "1850.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-002",
+    "name": "Refrigerated Truckload - Produce",
+    "description": "Temperature-controlled reefer service for agricultural produce",
+    "category": "truckload",
+    "brand": "Whitaker Freight Services",
+    "price": "2400.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-003",
+    "name": "Flatbed - Steel and Building Materials",
+    "description": "Flatbed freight for steel, lumber, and building supplies",
+    "category": "flatbed",
+    "brand": "Whitaker Freight Services",
+    "price": "2100.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-004",
+    "name": "LTL Knoxville to Atlanta",
+    "description": "Less-than-truckload service on the Knoxville to Atlanta lane",
+    "category": "ltl",
+    "brand": "Whitaker Freight Services",
+    "price": "420.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-005",
+    "name": "LTL Knoxville to Memphis",
+    "description": "Less-than-truckload service on the Knoxville to Memphis lane",
+    "category": "ltl",
+    "brand": "Whitaker Freight Services",
+    "price": "395.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-006",
+    "name": "Automotive Parts Dedicated Lane",
+    "description": "Dedicated truckload lane for automotive parts shippers",
+    "category": "dedicated",
+    "brand": "Whitaker Freight Services",
+    "price": "2750.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-007",
+    "name": "Expedited Hot Shot - Charlotte",
+    "description": "Expedited hot shot delivery to the Charlotte metro area",
+    "category": "expedited",
+    "brand": "Whitaker Freight Services",
+    "price": "980.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-008",
+    "name": "Grain Hauling - Midwest Backhaul",
+    "description": "Bulk grain hauling with Midwest backhaul optimization",
+    "category": "truckload",
+    "brand": "Whitaker Freight Services",
+    "price": "1650.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-009",
+    "name": "Logistics Consulting - Lane Analysis",
+    "description": "Freight lane analysis and rate benchmarking consulting",
+    "category": "consulting",
+    "brand": "Whitaker Freight Services",
+    "price": "1200.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-010",
+    "name": "Carrier Vetting Service",
+    "description": "Full carrier authority, insurance, and safety vetting package",
+    "category": "consulting",
+    "brand": "Whitaker Freight Services",
+    "price": "650.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-011",
+    "name": "Reefer Truckload - Knoxville to Nashville",
+    "description": "Refrigerated freight on the Knoxville to Nashville lane",
+    "category": "truckload",
+    "brand": "Whitaker Freight Services",
+    "price": "880.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-012",
+    "name": "Dry Van - Detroit Auto Run",
+    "description": "Dry van truckload service to Detroit automotive plants",
+    "category": "truckload",
+    "brand": "Whitaker Freight Services",
+    "price": "2950.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-013",
+    "name": "Building Supply Drayage",
+    "description": "Short-haul drayage for building supply distribution centers",
+    "category": "drayage",
+    "brand": "Whitaker Freight Services",
+    "price": "540.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-014",
+    "name": "Partial Truckload - Mixed Freight",
+    "description": "Partial truckload option for shippers with under-deck loads",
+    "category": "partial",
+    "brand": "Whitaker Freight Services",
+    "price": "1100.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-015",
+    "name": "Harvest Surge Capacity",
+    "description": "Seasonal surge capacity reservation for fall harvest hauling",
+    "category": "dedicated",
+    "brand": "Whitaker Freight Services",
+    "price": "3450.00",
+    "in_stock": "false"
+  },
+  {
+    "objectID": "svc-016",
+    "name": "Flatbed - Atlanta Steel Lane",
+    "description": "Flatbed service moving steel into the Atlanta market",
+    "category": "flatbed",
+    "brand": "Whitaker Freight Services",
+    "price": "2280.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-017",
+    "name": "Cold Chain Pilot Program",
+    "description": "Pilot cold chain freight program for perishable ag products",
+    "category": "dedicated",
+    "brand": "Whitaker Freight Services",
+    "price": "2050.00",
+    "in_stock": "false"
+  },
+  {
+    "objectID": "svc-018",
+    "name": "LTL Knoxville to Charlotte",
+    "description": "Less-than-truckload service on the Knoxville to Charlotte lane",
+    "category": "ltl",
+    "brand": "Whitaker Freight Services",
+    "price": "445.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-019",
+    "name": "Memphis Crossdock Transfer",
+    "description": "Crossdock transfer and consolidation at the Memphis hub",
+    "category": "drayage",
+    "brand": "Whitaker Freight Services",
+    "price": "720.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-020",
+    "name": "Freight Brokerage Onboarding",
+    "description": "New shipper onboarding and account setup with WFS",
+    "category": "consulting",
+    "brand": "Whitaker Freight Services",
+    "price": "0.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-021",
+    "name": "Dry Van - Nashville Express",
+    "description": "Express dry van truckload to the Nashville distribution market",
+    "category": "expedited",
+    "brand": "Whitaker Freight Services",
+    "price": "760.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "svc-022",
+    "name": "DOT Compliance Review",
+    "description": "Carrier DOT compliance review and documentation audit",
+    "category": "consulting",
+    "brand": "Whitaker Freight Services",
+    "price": "850.00",
+    "in_stock": "true"
+  }
+]

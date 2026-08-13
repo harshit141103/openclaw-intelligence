@@ -1,0 +1,162 @@
+[
+  {
+    "service_id": "PS001",
+    "name": "whitakerfreight.com",
+    "description": "Public company website uptime monitoring",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "WFS Email Routing",
+    "description": "Business email and contact form delivery",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "RoutePoint Portal",
+    "description": "Freight software portal availability check",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS004",
+    "name": "WFS Database Backups",
+    "description": "Nightly backup job monitoring for the client database",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS005",
+    "name": "whitakerfreight.com SSL Monitor",
+    "description": "TLS certificate expiry monitoring for the public website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS006",
+    "name": "DNS Health Check",
+    "description": "Cloudflare DNS resolution check for whitakerfreight.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS007",
+    "name": "Contact Form Endpoint",
+    "description": "Lead capture form submission delivery monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS008",
+    "name": "QuickBooks Sync",
+    "description": "Accounting data sync job health monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS009",
+    "name": "DAT Load Board Integration",
+    "description": "Load board API connectivity monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS010",
+    "name": "MacroPoint Tracking Feed",
+    "description": "Carrier location tracking feed availability",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS011",
+    "name": "WFS Web Hosting",
+    "description": "Web host server CPU and memory monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS012",
+    "name": "Office Internet Uptime",
+    "description": "Pellissippi Parkway office WAN connectivity monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS013",
+    "name": "WFS VPN Gateway",
+    "description": "Remote access VPN gateway health check",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS014",
+    "name": "Email Spam Filter",
+    "description": "Inbound mail filtering service monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS015",
+    "name": "RoutePoint API Sync",
+    "description": "RoutePoint freight suite data sync monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS016",
+    "name": "Invoice PDF Generator",
+    "description": "Settlement and invoice PDF render service monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS017",
+    "name": "Website Analytics Collector",
+    "description": "Visitor analytics ingestion endpoint monitor",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS018",
+    "name": "Document Storage",
+    "description": "Carrier agreement and COI storage availability",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS019",
+    "name": "Old Marketing Site",
+    "description": "Decommissioned legacy marketing microsite",
+    "status": "disabled",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS020",
+    "name": "Staging Portal",
+    "description": "Internal staging environment for portal testing",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  }
+]

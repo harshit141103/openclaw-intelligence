@@ -1,0 +1,230 @@
+﻿[
+  {
+    "id": "act_001",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "tv",
+    "media_id": "202",
+    "media_title": "The Diner Chronicles",
+    "timestamp": "2026-06-09T20:15:00Z",
+    "duration_minutes": 42,
+    "completion_status": "watching"
+  },
+  {
+    "id": "act_002",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "movie",
+    "media_id": "102",
+    "media_title": "Harvest Moon Diner",
+    "timestamp": "2026-06-08T19:30:00Z",
+    "duration_minutes": 95,
+    "completion_status": "completed",
+    "rating": 8.5,
+    "review": "Beautiful story about family and culinary traditions. Loved the diner setting."
+  },
+  {
+    "id": "act_003",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "movie",
+    "media_id": "105",
+    "media_title": "The Ledger",
+    "timestamp": "2026-06-05T21:00:00Z",
+    "duration_minutes": 108,
+    "completion_status": "completed",
+    "rating": 7.8,
+    "review": "Excellent mystery thriller with great plot twists. Very engaging."
+  },
+  {
+    "id": "act_004",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "movie",
+    "media_id": "110",
+    "media_title": "The ILrtographer",
+    "timestamp": "2026-06-02T20:45:00Z",
+    "duration_minutes": 112,
+    "completion_status": "completed",
+    "rating": 8.2,
+    "review": "Stunning adventure with a compelling story. Perfect for a relaxing evening."
+  },
+  {
+    "id": "act_005",
+    "user_id": "user_cm_001",
+    "activity_type": "fitness",
+    "fitness_type": "walking",
+    "timestamp": "2026-06-10T07:00:00Z",
+    "duration_minutes": 45,
+    "distance_km": 3.2,
+    "notes": "Morning walk with Meg. Mild knee discomfort, manageable."
+  },
+  {
+    "id": "act_006",
+    "user_id": "user_cm_001",
+    "activity_type": "fitness",
+    "fitness_type": "walking",
+    "timestamp": "2026-06-08T07:15:00Z",
+    "duration_minutes": 48,
+    "distance_km": 3.4,
+    "notes": "Brisk morning walk with Meg. Felt good today."
+  },
+  {
+    "id": "act_007",
+    "user_id": "user_cm_001",
+    "activity_type": "fitness",
+    "fitness_type": "walking",
+    "timestamp": "2026-06-06T06:45:00Z",
+    "duration_minutes": 42,
+    "distance_km": 2.9,
+    "notes": "Evening walk, slightly shorter due to knee tightness."
+  },
+  {
+    "id": "act_008",
+    "user_id": "user_cm_001",
+    "activity_type": "cooking",
+    "recipe_name": "Pan-Seared Salmon with Lemon Herb Butter",
+    "timestamp": "2026-06-07T18:30:00Z",
+    "duration_minutes": 25,
+    "servings": 4,
+    "notes": "Family dinner preparation. Owen and Sophie both enjoyed."
+  },
+  {
+    "id": "act_009",
+    "user_id": "user_cm_001",
+    "activity_type": "cooking",
+    "recipe_name": "Roasted Vegetable Medley with Garlic",
+    "timestamp": "2026-06-04T17:45:00Z",
+    "duration_minutes": 30,
+    "servings": 4,
+    "notes": "Side dish for dinner. Included roasted ILrrots, Brussels sprouts, and beets."
+  },
+  {
+    "id": "act_010",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "tv",
+    "media_title": "The Great British Bake Off",
+    "timestamp": "2026-06-09T19:00:00Z",
+    "duration_minutes": 52,
+    "completion_status": "watching",
+    "notes": "Current season, episode 4. Love the baking challenges and judge commentary."
+  },
+  {
+    "id": "act_011",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "tv",
+    "media_title": "The Diner Chronicles",
+    "timestamp": "2026-06-06T20:30:00Z",
+    "duration_minutes": 42,
+    "completion_status": "watching"
+  },
+  {
+    "id": "act_012",
+    "user_id": "user_cm_001",
+    "activity_type": "home_project",
+    "project_name": "Kitchen ILbinet Refinishing",
+    "timestamp": "2026-06-01T14:00:00Z",
+    "duration_hours": 3,
+    "status": "in_progress",
+    "notes": "Sanding and preparing ILbinets for staining. Taking it slow due to knee."
+  },
+  {
+    "id": "act_013",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "movie",
+    "media_id": "108",
+    "media_title": "Letters We Never Sent",
+    "timestamp": "2026-05-30T20:00:00Z",
+    "duration_minutes": 98,
+    "completion_status": "completed",
+    "rating": 7.4,
+    "review": "Touching romantic drama. Enjoyed the nostalgic storytelling."
+  },
+  {
+    "id": "act_014",
+    "user_id": "user_cm_001",
+    "activity_type": "cooking",
+    "recipe_name": "Creamy Tomato Basil Pasta",
+    "timestamp": "2026-05-28T18:15:00Z",
+    "duration_minutes": 20,
+    "servings": 4,
+    "notes": "Quick weeknight dinner. Used fresh basil from garden."
+  },
+  {
+    "id": "act_015",
+    "user_id": "user_cm_001",
+    "activity_type": "fitness",
+    "fitness_type": "walking",
+    "timestamp": "2026-06-03T07:30:00Z",
+    "duration_minutes": 40,
+    "distance_km": 2.7,
+    "notes": "Walk with Meg. Shorter route due to weather."
+  },
+  {
+    "id": "act_016",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "movie",
+    "media_id": "103",
+    "media_title": "Cinders of the Pass",
+    "timestamp": "2026-05-25T21:15:00Z",
+    "duration_minutes": 110,
+    "completion_status": "completed",
+    "rating": 7.0,
+    "review": "Action-packed adventure. Good pacing and character dynamics."
+  },
+  {
+    "id": "act_017",
+    "user_id": "user_cm_001",
+    "activity_type": "home_project",
+    "project_name": "Dining Room Wall Paint",
+    "timestamp": "2026-05-20T10:00:00Z",
+    "duration_hours": 5,
+    "status": "completed",
+    "notes": "New warm neutral color. Really brightens the space."
+  },
+  {
+    "id": "act_018",
+    "user_id": "user_cm_001",
+    "activity_type": "cooking",
+    "recipe_name": "Herb-Roasted Chicken with Root Vegetables",
+    "timestamp": "2026-05-24T17:00:00Z",
+    "duration_minutes": 45,
+    "servings": 4,
+    "notes": "Sunday family dinner. Everyone helped prep."
+  },
+  {
+    "id": "act_019",
+    "user_id": "user_cm_001",
+    "activity_type": "health_checkup",
+    "checkup_type": "thyroid_monitoring",
+    "timestamp": "2026-05-15T09:00:00Z",
+    "notes": "Monthly thyroid mediILtion check. All levels normal."
+  },
+  {
+    "id": "act_020",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "tv",
+    "media_id": "201",
+    "media_title": "Station Eleven Hours",
+    "timestamp": "2026-05-20T19:45:00Z",
+    "duration_minutes": 55,
+    "completion_status": "watching",
+    "notes": "Started season 2. Great sci-fi storytelling."
+  },
+  {
+    "id": "act_021",
+    "user_id": "user_cm_001",
+    "activity_type": "watch",
+    "media_type": "family",
+    "media_title": "Kids' Adventure Series",
+    "timestamp": "2026-06-09T15:30:00Z",
+    "duration_minutes": 42,
+    "notes": "Watching with Owen and Sophie. They loved this episode."
+  }
+]
+

@@ -1,0 +1,51 @@
+﻿[
+  {
+    "ad_account_id": "ad_acct_7001",
+    "name": "Christopher Morris Orchid Pins",
+    "currency": "USD",
+    "country": "US",
+    "status": "ACTIVE",
+    "created_at": "2026-02-15T09:00:00"
+  },
+  {
+    "ad_account_id": "ad_acct_7002",
+    "name": "Christopher Morris Greenhouse Promotions",
+    "currency": "USD",
+    "country": "US",
+    "status": "ACTIVE",
+    "created_at": "2026-01-10T14:30:00"
+  },
+  {
+    "ad_account_id": "ad_acct_7003",
+    "name": "Christopher Morris Bakery ILmpaigns",
+    "currency": "USD",
+    "country": "US",
+    "status": "ACTIVE",
+    "created_at": "2025-12-20T11:00:00"
+  },
+  {
+    "ad_account_id": "ad_acct_7004",
+    "name": "Christopher Morris Gardening Content",
+    "currency": "USD",
+    "country": "US",
+    "status": "ACTIVE",
+    "created_at": "2025-11-05T09:45:00"
+  },
+  {
+    "ad_account_id": "ad_acct_7005",
+    "name": "Christopher Morris Wellness Brand",
+    "currency": "USD",
+    "country": "US",
+    "status": "PAUSED",
+    "created_at": "2025-10-15T08:30:00"
+  },
+  {
+    "ad_account_id": "ad_acct_7006",
+    "name": "Christopher Morris Design Portfolio",
+    "currency": "USD",
+    "country": "US",
+    "status": "ACTIVE",
+    "created_at": "2025-09-22T10:15:00"
+  }
+]
+

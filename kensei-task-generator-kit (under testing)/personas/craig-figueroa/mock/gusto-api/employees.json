@@ -1,0 +1,16 @@
+[
+  {
+    "id": "gemp-201",
+    "company_id": "comp-001",
+    "first_name": "Craig",
+    "last_name": "Figueroa",
+    "email": "craig.figueroa@gmail.com",
+    "department": "Veterinary Practice",
+    "job_title": "Owner",
+    "rate": "210000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "start_date": "2015-06-01",
+    "terminated": "false"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "default",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-01T09:00:00Z"
+  },
+  {
+    "name": "kube-system",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-01T09:00:00Z"
+  },
+  {
+    "name": "website",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=website;app=whitakerfreight",
+    "created_time": "2025-08-12T11:30:00Z"
+  },
+  {
+    "name": "blog",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=blog;app=whitakerfreight",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "shop",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=shop;app=whitakerfreight",
+    "created_time": "2026-01-20T10:00:00Z"
+  },
+  {
+    "name": "mail",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=mail;app=whitakerfreight",
+    "created_time": "2025-08-20T10:00:00Z"
+  },
+  {
+    "name": "monitoring",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=monitoring",
+    "created_time": "2025-08-12T12:00:00Z"
+  },
+  {
+    "name": "ingress-nginx",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=ingress-nginx",
+    "created_time": "2025-08-12T09:30:00Z"
+  },
+  {
+    "name": "cert-manager",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=cert-manager",
+    "created_time": "2025-08-12T09:40:00Z"
+  },
+  {
+    "name": "kube-public",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-public",
+    "created_time": "2025-08-01T09:00:00Z"
+  },
+  {
+    "name": "kube-node-lease",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-node-lease",
+    "created_time": "2025-08-01T09:00:00Z"
+  },
+  {
+    "name": "analytics",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=analytics;app=whitakerfreight",
+    "created_time": "2025-10-01T10:00:00Z"
+  },
+  {
+    "name": "staging",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=staging;app=whitakerfreight",
+    "created_time": "2025-11-01T10:00:00Z"
+  },
+  {
+    "name": "backup",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=backup",
+    "created_time": "2025-08-25T10:00:00Z"
+  },
+  {
+    "name": "logging",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=logging",
+    "created_time": "2025-09-01T10:00:00Z"
+  },
+  {
+    "name": "redis",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=redis;app=whitakerfreight",
+    "created_time": "2025-09-10T10:00:00Z"
+  },
+  {
+    "name": "database",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=database;app=whitakerfreight",
+    "created_time": "2025-08-13T10:00:00Z"
+  },
+  {
+    "name": "tms-eval",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=tms-eval;app=whitakerfreight",
+    "created_time": "2026-04-15T10:00:00Z"
+  },
+  {
+    "name": "argocd",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=argocd",
+    "created_time": "2025-09-20T10:00:00Z"
+  },
+  {
+    "name": "staging-blog",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=staging-blog;app=whitakerfreight",
+    "created_time": "2025-11-05T10:00:00Z"
+  }
+]

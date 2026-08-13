@@ -1,0 +1,178 @@
+[
+  {
+    "review_id": "rev-001",
+    "listing_id": "lst-101",
+    "guest_name": "Floyd W.",
+    "rating": "5",
+    "comment": "Perfect base for our fall fishing trip. Dock was solid and the cabin slept all of us easy.",
+    "created_at": "2025-11-10"
+  },
+  {
+    "review_id": "rev-002",
+    "listing_id": "lst-101",
+    "guest_name": "Keith B.",
+    "rating": "5",
+    "comment": "Came up with the poker crew. Quiet, clean, and right on the water. Would book again.",
+    "created_at": "2025-11-12"
+  },
+  {
+    "review_id": "rev-003",
+    "listing_id": "lst-101",
+    "guest_name": "Roy T.",
+    "rating": "4",
+    "comment": "Great spot, just a long gravel drive in. Bass were biting though.",
+    "created_at": "2025-08-22"
+  },
+  {
+    "review_id": "rev-004",
+    "listing_id": "lst-103",
+    "guest_name": "Donna W.",
+    "rating": "5",
+    "comment": "Loved the creek out back. Cozy and spotless, great anniversary weekend.",
+    "created_at": "2026-03-30"
+  },
+  {
+    "review_id": "rev-005",
+    "listing_id": "lst-103",
+    "guest_name": "Sara M.",
+    "rating": "4",
+    "comment": "Beautiful cabin, a little tight parking but the host helped us out.",
+    "created_at": "2026-05-02"
+  },
+  {
+    "review_id": "rev-006",
+    "listing_id": "lst-104",
+    "guest_name": "Floyd W.",
+    "rating": "5",
+    "comment": "Fly fishing access right out the door. Caught a few rainbows before breakfast.",
+    "created_at": "2025-06-14"
+  },
+  {
+    "review_id": "rev-007",
+    "listing_id": "lst-104",
+    "guest_name": "Junior M.",
+    "rating": "4",
+    "comment": "Quiet and clean. Wifi was spotty but we were there to fish anyhow.",
+    "created_at": "2025-07-19"
+  },
+  {
+    "review_id": "rev-008",
+    "listing_id": "lst-106",
+    "guest_name": "Megan W.",
+    "rating": "5",
+    "comment": "Stayed when Dad came down for a visit. Walkable to everything downtown.",
+    "created_at": "2026-02-15"
+  },
+  {
+    "review_id": "rev-009",
+    "listing_id": "lst-106",
+    "guest_name": "Tammy C.",
+    "rating": "5",
+    "comment": "Clean condo, comfy beds, and an easy walk to Broadway. Highly recommend.",
+    "created_at": "2026-04-08"
+  },
+  {
+    "review_id": "rev-010",
+    "listing_id": "lst-107",
+    "guest_name": "Floyd W.",
+    "rating": "4",
+    "comment": "Solid business stay for the freight conference. Close to the convention center.",
+    "created_at": "2025-10-12"
+  },
+  {
+    "review_id": "rev-011",
+    "listing_id": "lst-107",
+    "guest_name": "Brand W.",
+    "rating": "5",
+    "comment": "Good spot for my first conference trip. Quiet at night, easy check-in.",
+    "created_at": "2026-03-20"
+  },
+  {
+    "review_id": "rev-012",
+    "listing_id": "lst-108",
+    "guest_name": "Floyd W.",
+    "rating": "4",
+    "comment": "Right by Beale Street. Got some good barbecue ideas while I was in town.",
+    "created_at": "2025-09-18"
+  },
+  {
+    "review_id": "rev-013",
+    "listing_id": "lst-111",
+    "guest_name": "Floyd W.",
+    "rating": "5",
+    "comment": "Best lake cabin we have rented. Boat ramp close, deck perfect for cleaning fish.",
+    "created_at": "2024-11-09"
+  },
+  {
+    "review_id": "rev-014",
+    "listing_id": "lst-111",
+    "guest_name": "Eddie C.",
+    "rating": "5",
+    "comment": "Plenty of room for the whole group. Buford was a great host.",
+    "created_at": "2024-11-11"
+  },
+  {
+    "review_id": "rev-015",
+    "listing_id": "lst-112",
+    "guest_name": "Darl W.",
+    "rating": "4",
+    "comment": "Big rustic lodge, good for a family weekend. Heat took a while to kick on.",
+    "created_at": "2026-01-18"
+  },
+  {
+    "review_id": "rev-016",
+    "listing_id": "lst-115",
+    "guest_name": "Donna W.",
+    "rating": "5",
+    "comment": "Brought the kids for a long weekend. Clean, roomy, and close to everything.",
+    "created_at": "2025-07-04"
+  },
+  {
+    "review_id": "rev-017",
+    "listing_id": "lst-115",
+    "guest_name": "Carla W.",
+    "rating": "5",
+    "comment": "Great family cabin, plenty of space and a nice game room downstairs.",
+    "created_at": "2026-04-25"
+  },
+  {
+    "review_id": "rev-018",
+    "listing_id": "lst-116",
+    "guest_name": "Floyd W.",
+    "rating": "5",
+    "comment": "Hot tub after a day on the water was just right. Hilltop views were a bonus.",
+    "created_at": "2025-05-24"
+  },
+  {
+    "review_id": "rev-019",
+    "listing_id": "lst-119",
+    "guest_name": "Floyd W.",
+    "rating": "4",
+    "comment": "Stayed for an Atlanta client meeting. Good value, quiet building.",
+    "created_at": "2026-02-22"
+  },
+  {
+    "review_id": "rev-020",
+    "listing_id": "lst-121",
+    "guest_name": "Floyd W.",
+    "rating": "5",
+    "comment": "Easy walk to the Charlotte conference venue. Clean and well stocked.",
+    "created_at": "2025-04-15"
+  },
+  {
+    "review_id": "rev-021",
+    "listing_id": "lst-122",
+    "guest_name": "Roy T.",
+    "rating": "5",
+    "comment": "A-frame right on Cherokee Lake. Fishing was great and the host was easy to work with.",
+    "created_at": "2025-09-06"
+  },
+  {
+    "review_id": "rev-022",
+    "listing_id": "lst-113",
+    "guest_name": "Floyd W.",
+    "rating": "4",
+    "comment": "Close to Mama's place in Harlan. Plenty of room when the whole family comes in.",
+    "created_at": "2025-12-26"
+  }
+]

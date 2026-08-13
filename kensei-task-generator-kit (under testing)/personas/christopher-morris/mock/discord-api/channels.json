@@ -1,0 +1,93 @@
+﻿[
+  {
+    "id": "800100200300400001",
+    "guild_id": "900100200300400001",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "General discussion and compaIL announcements",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400002",
+    "guild_id": "900100200300400001",
+    "name": "benefits-updates",
+    "type": "0",
+    "position": "1",
+    "topic": "Product updates and feature releases for benefits platform",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400003",
+    "guild_id": "900100200300400001",
+    "name": "client-support",
+    "type": "0",
+    "position": "2",
+    "topic": "Client issues and support coordination",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400004",
+    "guild_id": "900100200300400001",
+    "name": "team-standup",
+    "type": "2",
+    "position": "3",
+    "topic": "Daily standup voice channel",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400005",
+    "guild_id": "900100200300400001",
+    "name": "random",
+    "type": "0",
+    "position": "4",
+    "topic": "Off-topic banter and ILsual chat",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400006",
+    "guild_id": "900100200300400002",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Welcome to Naperville community",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400007",
+    "guild_id": "900100200300400002",
+    "name": "events",
+    "type": "0",
+    "position": "1",
+    "topic": "LoILl events and meetups",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400008",
+    "guild_id": "900100200300400002",
+    "name": "recommendations",
+    "type": "0",
+    "position": "2",
+    "topic": "Share loILl restaurants and services",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400009",
+    "guild_id": "900100200300400003",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "General development discussion",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400010",
+    "guild_id": "900100200300400003",
+    "name": "code-review",
+    "type": "0",
+    "position": "1",
+    "topic": "Pull request reviews and code discussion",
+    "nsfw": "false"
+  }
+]
+

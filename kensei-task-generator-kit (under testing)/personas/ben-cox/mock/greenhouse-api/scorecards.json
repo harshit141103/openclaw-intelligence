@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sc-6001",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7005",
+    "interviewer": "Ben Cox",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2024-02-13T06:45:00Z",
+    "notes": "Barn oak is summer 2027 - not pulling material yet."
+  },
+  {
+    "id": "sc-6002",
+    "application_id": "app-4003",
+    "candidate_id": "cand-7002",
+    "interviewer": "Keith Cox",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2024-11-18T09:45:00Z",
+    "notes": "Apply second coat of Arm-R-Seal to the bookcase carcase"
+  },
+  {
+    "id": "sc-6003",
+    "application_id": "app-4004",
+    "candidate_id": "cand-7003",
+    "interviewer": "Diane Cox",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2025-05-21T10:30:00Z",
+    "notes": "Hold the Stowe drive until the morning forecast clears."
+  },
+  {
+    "id": "sc-6004",
+    "application_id": "app-4006",
+    "candidate_id": "cand-7004",
+    "interviewer": "Pete Lafleur",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2026-09-07T18:30:00Z",
+    "notes": "Hang the soft-close doors and adjust the hinges"
+  },
+  {
+    "id": "sc-6005",
+    "application_id": "app-4008",
+    "candidate_id": "cand-7008",
+    "interviewer": "Ben Cox",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2026-02-19T17:15:00Z",
+    "notes": "Dry-fit the face frames before glue-up"
+  },
+  {
+    "id": "sc-6006",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7005",
+    "interviewer": "Diane Cox",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2025-06-29T17:00:00Z",
+    "notes": "Set up the dado stack for the bookshelf rabbets"
+  },
+  {
+    "id": "sc-6902",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7906",
+    "interviewer": "Ben Cox",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-07-02T14:30:00Z",
+    "notes": "Stowe kitchen - cabinet hardware lead time"
+  },
+  {
+    "id": "sc-6904",
+    "application_id": "app-4003",
+    "candidate_id": "cand-7904",
+    "interviewer": "Keith Cox",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2025-03-16T08:45:00Z",
+    "notes": "Cherry pricing for the Henderson uppers"
+  },
+  {
+    "id": "sc-6906",
+    "application_id": "app-4004",
+    "candidate_id": "cand-7906",
+    "interviewer": "Diane Cox",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2024-09-20T06:45:00Z",
+    "notes": "Replace the dust collector filter and clean the cyclone"
+  },
+  {
+    "id": "sc-6908",
+    "application_id": "app-4006",
+    "candidate_id": "cand-7908",
+    "interviewer": "Pete Lafleur",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2025-12-19T08:15:00Z",
+    "notes": "Sharpen the jointer knives and reset the infeed table"
+  },
+  {
+    "id": "sc-6910",
+    "application_id": "app-4008",
+    "candidate_id": "cand-7913",
+    "interviewer": "Ben Cox",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2025-08-15T11:15:00Z",
+    "notes": "Estimate for the Greensboro barn (2027)"
+  },
+  {
+    "id": "sc-6912",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7911",
+    "interviewer": "Diane Cox",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-03-23T16:15:00Z",
+    "notes": "Mill cherry stock to thickness for the upper cabinet doors"
+  },
+  {
+    "id": "sc-6908-12",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7912",
+    "interviewer": "Ben Cox",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-02-09T07:30:00Z",
+    "notes": "Bookshelf install Friday the 16th"
+  },
+  {
+    "id": "sc-6910-13",
+    "application_id": "app-4003",
+    "candidate_id": "cand-7910",
+    "interviewer": "Keith Cox",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2025-10-21T06:15:00Z",
+    "notes": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "sc-6912-14",
+    "application_id": "app-4004",
+    "candidate_id": "cand-7912",
+    "interviewer": "Diane Cox",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-09-08T13:30:00Z",
+    "notes": "Sharpened the chisels; the 1in was overdue."
+  },
+  {
+    "id": "sc-6914",
+    "application_id": "app-4006",
+    "candidate_id": "cand-7914",
+    "interviewer": "Pete Lafleur",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2026-01-06T07:30:00Z",
+    "notes": "Pete coming by Saturday for coffee; shop's a mess."
+  },
+  {
+    "id": "sc-6916",
+    "application_id": "app-4008",
+    "candidate_id": "cand-7919",
+    "interviewer": "Ben Cox",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2023-09-14T08:15:00Z",
+    "notes": "Barn oak is summer 2027 - not pulling material yet."
+  },
+  {
+    "id": "sc-6918",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7917",
+    "interviewer": "Diane Cox",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2024-07-05T17:30:00Z",
+    "notes": "Cherry pricing for the Henderson uppers"
+  },
+  {
+    "id": "sc-6914-18",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7918",
+    "interviewer": "Ben Cox",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2025-12-06T18:30:00Z",
+    "notes": "Material order - Hardwick Lumber"
+  },
+  {
+    "id": "sc-6916-19",
+    "application_id": "app-4003",
+    "candidate_id": "cand-7916",
+    "interviewer": "Keith Cox",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-06-12T14:15:00Z",
+    "notes": "Project schedule update"
+  }
+]

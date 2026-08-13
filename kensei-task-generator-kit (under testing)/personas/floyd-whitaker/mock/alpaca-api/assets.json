@@ -1,0 +1,200 @@
+[
+  {
+    "id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "name": "Apple Inc. Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "f30d734c-2806-4d0d-b145-f9fee271c5cd",
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "b6d1aa75-5c14-4920-aef3-7eb33a01c123",
+    "symbol": "F",
+    "name": "Ford Motor Company Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "69b6d1aa-5c14-4920-aef3-7eb33a01c456",
+    "symbol": "KO",
+    "name": "Coca-Cola Company Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "0d1aa75b-5c14-4920-aef3-7eb33a01c789",
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc. Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc. Class A",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "symbol": "SPY",
+    "name": "SPDR S&P 500 ETF Trust",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "false"
+  },
+  {
+    "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f90",
+    "symbol": "T",
+    "name": "AT&T Inc. Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9012",
+    "symbol": "VZ",
+    "name": "Verizon Communications Inc. Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f901234",
+    "symbol": "WMT",
+    "name": "Walmart Inc. Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f90123456",
+    "symbol": "XOM",
+    "name": "Exxon Mobil Corporation Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9012345678",
+    "symbol": "CVX",
+    "name": "Chevron Corporation Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "9c0d1e2f-3a4b-5c6d-7e8f-901234567890",
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co. Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "0d1e2f3a-4b5c-6d7e-8f90-123456789012",
+    "symbol": "HD",
+    "name": "Home Depot Inc. Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "1e2f3a4b-5c6d-7e8f-9012-345678901234",
+    "symbol": "PG",
+    "name": "Procter & Gamble Company Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "2f3a4b5c-6d7e-8f90-1234-567890123456",
+    "symbol": "DIS",
+    "name": "Walt Disney Company Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "3a4b5c6d-7e8f-9012-3456-789012345678",
+    "symbol": "PEP",
+    "name": "PepsiCo Inc. Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "4b5c6d7e-8f90-1234-5678-901234567890",
+    "symbol": "VTI",
+    "name": "Vanguard Total Stock Market ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "false"
+  },
+  {
+    "id": "5c6d7e8f-9012-3456-7890-123456789012",
+    "symbol": "SCHD",
+    "name": "Schwab US Dividend Equity ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "false"
+  },
+  {
+    "id": "6d7e8f90-1234-5678-9012-345678901234",
+    "symbol": "O",
+    "name": "Realty Income Corporation Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "7e8f9012-3456-7890-1234-567890123456",
+    "symbol": "JNK",
+    "name": "SPDR Bloomberg High Yield Bond ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "false"
+  }
+]

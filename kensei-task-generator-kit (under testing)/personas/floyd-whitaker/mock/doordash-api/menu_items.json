@@ -1,0 +1,233 @@
+[
+  {
+    "item_id": "item-cal-001",
+    "store_id": "store-calhouns",
+    "name": "Hickory Smoked Ribs (Full Rack)",
+    "description": "Slow smoked pork ribs with Calhoun's BBQ sauce",
+    "category": "BBQ",
+    "price": "26.99",
+    "calories": "1240",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cal-002",
+    "store_id": "store-calhouns",
+    "name": "Pulled Pork Plate",
+    "description": "Smoked pulled pork with two sides and cornbread",
+    "category": "BBQ",
+    "price": "15.99",
+    "calories": "910",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cal-003",
+    "store_id": "store-calhouns",
+    "name": "Smoked Brisket Sandwich",
+    "description": "Sliced beef brisket on a brioche bun",
+    "category": "BBQ",
+    "price": "13.50",
+    "calories": "760",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cal-004",
+    "store_id": "store-calhouns",
+    "name": "Loaded Baked Potato",
+    "description": "Butter cheese bacon and sour cream",
+    "category": "Sides",
+    "price": "6.50",
+    "calories": "480",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-brv-001",
+    "store_id": "store-bravo",
+    "name": "Large Pepperoni Pizza",
+    "description": "Hand tossed crust with mozzarella and pepperoni",
+    "category": "Pizza",
+    "price": "17.00",
+    "calories": "2120",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-brv-002",
+    "store_id": "store-bravo",
+    "name": "Large Supreme Pizza",
+    "description": "Sausage pepperoni peppers onion and mushroom",
+    "category": "Pizza",
+    "price": "20.50",
+    "calories": "2380",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-brv-003",
+    "store_id": "store-bravo",
+    "name": "Garlic Knots (6 pc)",
+    "description": "Oven baked knots with garlic butter and parmesan",
+    "category": "Sides",
+    "price": "6.00",
+    "calories": "560",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-brv-004",
+    "store_id": "store-bravo",
+    "name": "House Salad",
+    "description": "Romaine tomato cucumber and Italian dressing",
+    "category": "Salads",
+    "price": "7.50",
+    "calories": "320",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cfa-001",
+    "store_id": "store-chickfila",
+    "name": "Chick-fil-A Deluxe Sandwich",
+    "description": "Breaded chicken breast with lettuce tomato and cheese",
+    "category": "Sandwiches",
+    "price": "6.79",
+    "calories": "500",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cfa-002",
+    "store_id": "store-chickfila",
+    "name": "12 ct Chicken Nuggets",
+    "description": "Bite sized pieces of breaded chicken breast",
+    "category": "Entrees",
+    "price": "7.49",
+    "calories": "380",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cfa-003",
+    "store_id": "store-chickfila",
+    "name": "Waffle Fries (Large)",
+    "description": "Waffle cut potatoes cooked in canola oil",
+    "category": "Sides",
+    "price": "3.29",
+    "calories": "460",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cfa-004",
+    "store_id": "store-chickfila",
+    "name": "Sweet Tea (Large)",
+    "description": "Freshly brewed sweetened iced tea",
+    "category": "Drinks",
+    "price": "2.29",
+    "calories": "200",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-aub-001",
+    "store_id": "store-aubreys",
+    "name": "Country Fried Steak",
+    "description": "Hand breaded steak with white pepper gravy and two sides",
+    "category": "Entrees",
+    "price": "14.99",
+    "calories": "1050",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-aub-002",
+    "store_id": "store-aubreys",
+    "name": "Grilled Chicken Plate",
+    "description": "Marinated grilled chicken with two sides",
+    "category": "Entrees",
+    "price": "13.50",
+    "calories": "640",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-aub-003",
+    "store_id": "store-aubreys",
+    "name": "Fried Green Tomatoes",
+    "description": "Cornmeal crusted green tomatoes with remoulade",
+    "category": "Appetizers",
+    "price": "8.50",
+    "calories": "520",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-chn-001",
+    "store_id": "store-chinagarden",
+    "name": "General Tso's Chicken",
+    "description": "Crispy chicken in a sweet and spicy sauce with rice",
+    "category": "Entrees",
+    "price": "11.95",
+    "calories": "880",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-chn-002",
+    "store_id": "store-chinagarden",
+    "name": "Beef and Broccoli",
+    "description": "Sliced beef and broccoli in brown sauce with rice",
+    "category": "Entrees",
+    "price": "12.50",
+    "calories": "720",
+    "popular": "true",
+    "available": "false"
+  },
+  {
+    "item_id": "item-chn-003",
+    "store_id": "store-chinagarden",
+    "name": "Crab Rangoon (6 pc)",
+    "description": "Fried wontons with cream cheese filling",
+    "category": "Appetizers",
+    "price": "5.95",
+    "calories": "440",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cal-005",
+    "store_id": "store-calhouns",
+    "name": "Smoked Chicken Half",
+    "description": "Hickory smoked half chicken with two sides",
+    "category": "BBQ",
+    "price": "14.50",
+    "calories": "830",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-cal-006",
+    "store_id": "store-calhouns",
+    "name": "Sweet Tea (Gallon)",
+    "description": "Freshly brewed sweet tea by the gallon",
+    "category": "Drinks",
+    "price": "7.99",
+    "calories": "640",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-aub-004",
+    "store_id": "store-aubreys",
+    "name": "Smokehouse Burger",
+    "description": "Half pound burger with cheddar bacon and onion rings",
+    "category": "Entrees",
+    "price": "12.99",
+    "calories": "1120",
+    "popular": "true",
+    "available": "true"
+  }
+]

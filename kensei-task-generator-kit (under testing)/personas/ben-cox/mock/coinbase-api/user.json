@@ -1,0 +1,13 @@
+{
+  "id": "user-shop-001",
+  "name": "Tom Gagne",
+  "username": "coxcustomwoodwork",
+  "profile_location": "Montpelier, VT",
+  "email": "tom.gagne.vt@gmail.com",
+  "country": {
+    "code": "US",
+    "name": "Rachel Cota"
+  },
+  "native_currency": "USD",
+  "created_at": "2026-02-18T07:45:00Z"
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "user_id": "usr-1",
+    "name": "Diane Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "title": "Dry-fit the face frames before glue-up",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2",
+    "name": "Keith Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "title": "Whitcomb built-in bookshelves",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-3",
+    "name": "Marie Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "title": "Stage the bookshelf sections for the Cra",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-4",
+    "name": "Tom Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "title": "Delivery window for the Stowe cabinets",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-5",
+    "name": "Pete Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "title": "Dry-fit the face frames before glue-up",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-1-5",
+    "name": "Dr. James Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "title": "Greensboro barn restoration",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2-6",
+    "name": "Dr. Paul LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "title": "Greensboro barn restoration",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-3-7",
+    "name": "Scott Henderson",
+    "email": "shenderson@stowevt.net",
+    "title": "Build the drawer boxes with half-blind d",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-4-8",
+    "name": "Linda Henderson",
+    "email": "lhenderson@stowevt.net",
+    "title": "Bookshelf install Friday the 16th",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-5-9",
+    "name": "Alan Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "title": "Replace the dust collector filter and cl",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-1-10",
+    "name": "Paul Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "title": "Set up the dado stack for the bookshelf ",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2-11",
+    "name": "Marc Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "title": "Project schedule update",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-3-12",
+    "name": "Gary Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "title": "Lafleur barn door (favor)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-4-13",
+    "name": "Hardwick Lumber",
+    "email": "orders@hardwicklumber.com",
+    "title": "Cherry pricing for the Henderson uppers",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-5-14",
+    "name": "Green Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "title": "Estimate for the Greensboro barn (2027)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-1-15",
+    "name": "Ray Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "title": "Replace the dust collector filter and cl",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2-16",
+    "name": "Nancy Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "title": "Sand to 220 and raise the grain before f",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-3-17",
+    "name": "Rev. Susan Mills",
+    "email": "office@craftsburychurch.org",
+    "title": "Re: Stowe install date",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-4-18",
+    "name": "Walt Perreault",
+    "email": "walt.perreault@gmail.com",
+    "title": "Lafleur barn door (favor)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-5-19",
+    "name": "Donna Sloan",
+    "email": "donna.sloan@comcast.net",
+    "title": "Order Blum slides for the Stowe drawer b",
+    "is_admin": "false"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Id": "006Ax000001AAAAAA1",
+    "Name": "Lafleur barn door (favor)",
+    "AccountId": "001Ax000001AAAAAA1",
+    "StageName": "Prospecting",
+    "Amount": "620",
+    "Probability": "20",
+    "CloseDate": "2025-08-14",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002BBBBBB2",
+    "Name": "Re: Stowe install date",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Built-ins - finish sample for your approval",
+    "Amount": "1200",
+    "Probability": "60",
+    "CloseDate": "2024-05-05",
+    "Type": "Re: Bookshelf dimensions"
+  },
+  {
+    "Id": "006Ax000003CCCCCC3",
+    "Name": "Splitting and stacking the winter firewo",
+    "AccountId": "001Ax000003CCCCCC3",
+    "StageName": "Negotiation/Review",
+    "Amount": "1850",
+    "Probability": "75",
+    "CloseDate": "2023-10-30",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000004DDDDDD4",
+    "Name": "Final fit of the Henderson island base c",
+    "AccountId": "001Ax000004DDDDDD4",
+    "StageName": "Closed Won",
+    "Amount": "2400",
+    "Probability": "100",
+    "CloseDate": "2026-09-24",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000005EEEEEE5",
+    "Name": "Estimate for the Greensboro barn (2027)",
+    "AccountId": "001Ax000005EEEEEE5",
+    "StageName": "Qualification",
+    "Amount": "3200",
+    "Probability": "40",
+    "CloseDate": "2026-08-06",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000006FFFFFF6",
+    "Name": "Sand to 220 and raise the grain before f",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Closed Lost",
+    "Amount": "4800",
+    "Probability": "0",
+    "CloseDate": "2026-03-13",
+    "Type": "Delivery window for the Stowe cabinets"
+  },
+  {
+    "Id": "006Ax000001AAAAAA902",
+    "Name": "Estimate for the Greensboro barn (2027)",
+    "AccountId": "001Ax000001AAAAAA1",
+    "StageName": "Prospecting",
+    "Amount": "5400",
+    "Probability": "20",
+    "CloseDate": "2025-03-12",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002BBBBBB904",
+    "Name": "Project schedule update",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "Amount": "6200",
+    "Probability": "60",
+    "CloseDate": "2024-05-23",
+    "Type": "Order Blum slides for the Stowe drawer banks"
+  },
+  {
+    "Id": "006Ax000003CCCCCC906",
+    "Name": "Re-saw the walnut for bookmatched panels",
+    "AccountId": "001Ax000003CCCCCC3",
+    "StageName": "Negotiation/Review",
+    "Amount": "8500",
+    "Probability": "75",
+    "CloseDate": "2026-07-02",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000004DDDDDD908",
+    "Name": "Re-saw the walnut for bookmatched panels",
+    "AccountId": "001Ax000004DDDDDD4",
+    "StageName": "Closed Won",
+    "Amount": "12000",
+    "Probability": "100",
+    "CloseDate": "2024-06-26",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000005EEEEEE910",
+    "Name": "Re: Stowe install date",
+    "AccountId": "001Ax000005EEEEEE5",
+    "StageName": "Qualification",
+    "Amount": "18500",
+    "Probability": "40",
+    "CloseDate": "2025-08-31",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000006FFFFFF912",
+    "Name": "Re: Bookshelf dimensions",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Closed Lost",
+    "Amount": "480",
+    "Probability": "0",
+    "CloseDate": "2024-08-26",
+    "Type": "Delivery window for the Stowe cabinets"
+  },
+  {
+    "Id": "006Ax000001AAAAAA908",
+    "Name": "Template the Stowe countertop radius for",
+    "AccountId": "001Ax000001AAAAAA1",
+    "StageName": "Prospecting",
+    "Amount": "620",
+    "Probability": "20",
+    "CloseDate": "2026-04-26",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002BBBBBB910",
+    "Name": "Mill cherry stock to thickness for the u",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "Amount": "1200",
+    "Probability": "60",
+    "CloseDate": "2026-08-05",
+    "Type": "Barn oak is summer 2027 - not pulling material yet."
+  },
+  {
+    "Id": "006Ax000003CCCCCC912",
+    "Name": "Cut dadoes for the adjustable shelf pins",
+    "AccountId": "001Ax000003CCCCCC3",
+    "StageName": "Negotiation/Review",
+    "Amount": "1850",
+    "Probability": "75",
+    "CloseDate": "2026-06-06",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000004DDDDDD914",
+    "Name": "Cota window seat & bookcase",
+    "AccountId": "001Ax000004DDDDDD4",
+    "StageName": "Closed Won",
+    "Amount": "2400",
+    "Probability": "100",
+    "CloseDate": "2024-08-09",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000005EEEEEE916",
+    "Name": "Project schedule update",
+    "AccountId": "001Ax000005EEEEEE5",
+    "StageName": "Qualification",
+    "Amount": "3200",
+    "Probability": "40",
+    "CloseDate": "2025-03-10",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000006FFFFFF918",
+    "Name": "Stage the bookshelf sections for the Cra",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Closed Lost",
+    "Amount": "4800",
+    "Probability": "0",
+    "CloseDate": "2025-05-20",
+    "Type": "Material order - Hardwick Lumber"
+  },
+  {
+    "Id": "006Ax000001AAAAAA914",
+    "Name": "Apply second coat of Arm-R-Seal to the b",
+    "AccountId": "001Ax000001AAAAAA1",
+    "StageName": "Prospecting",
+    "Amount": "5400",
+    "Probability": "20",
+    "CloseDate": "2025-12-23",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002BBBBBB916",
+    "Name": "Build the drawer boxes with half-blind d",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Stowe kitchen - cabinet hardware lead time",
+    "Amount": "6200",
+    "Probability": "60",
+    "CloseDate": "2024-08-19",
+    "Type": "Need to confirm material lead time on the Blum hardware before ordering."
+  }
+]

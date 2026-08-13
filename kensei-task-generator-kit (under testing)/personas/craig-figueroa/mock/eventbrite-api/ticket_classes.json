@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tc-001",
+    "event_id": "evt-7000001",
+    "name": "BCVA Member",
+    "quantity_total": "60",
+    "quantity_sold": "44",
+    "cost": "18500",
+    "fee": "0",
+    "free": "false",
+    "sales_start": "2026-06-01T10:00:00Z",
+    "sales_end": "2026-09-21T23:00:00Z"
+  },
+  {
+    "id": "tc-002",
+    "event_id": "evt-7000002",
+    "name": "Adult Entry",
+    "quantity_total": "800",
+    "quantity_sold": "512",
+    "cost": "800",
+    "fee": "50",
+    "free": "false",
+    "sales_start": "2026-08-01T10:00:00Z",
+    "sales_end": "2026-11-07T08:00:00Z"
+  },
+  {
+    "id": "tc-003",
+    "event_id": "evt-7000003",
+    "name": "CPD Delegate",
+    "quantity_total": "40",
+    "quantity_sold": "31",
+    "cost": "9500",
+    "fee": "0",
+    "free": "false",
+    "sales_start": "2026-01-05T10:00:00Z",
+    "sales_end": "2026-02-18T08:00:00Z"
+  },
+  {
+    "id": "tc-004",
+    "event_id": "evt-7000004",
+    "name": "Free Briefing",
+    "quantity_total": "50",
+    "quantity_sold": "38",
+    "cost": "0",
+    "fee": "0",
+    "free": "true",
+    "sales_start": "2026-09-01T10:00:00Z",
+    "sales_end": "2026-10-28T12:00:00Z"
+  },
+  {
+    "id": "tc-005",
+    "event_id": "evt-7000005",
+    "name": "Showground Entry",
+    "quantity_total": "300",
+    "quantity_sold": "176",
+    "cost": "600",
+    "fee": "40",
+    "free": "false",
+    "sales_start": "2026-06-01T10:00:00Z",
+    "sales_end": "2026-08-15T08:00:00Z"
+  }
+]

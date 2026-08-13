@@ -1,0 +1,62 @@
+[
+  {
+    "object_id": "addr-sender-01",
+    "name": "Figueroa Veterinary Services Fulfillment",
+    "company": "Figueroa Veterinary Services",
+    "street1": "500 Treat Ave",
+    "street2": "Suite 200",
+    "city": "Inverness",
+    "state": "Highland",
+    "zip": "94110",
+    "country": "GB",
+    "phone": "4155550111",
+    "email": "ship@figueroavet.co.uk",
+    "is_residential": "false",
+    "validated": "true"
+  },
+  {
+    "object_id": "addr-recv-01",
+    "name": "Craig Figueroa",
+    "company": "",
+    "street1": "1842 Maple Grove Rd",
+    "street2": "Apt 4B",
+    "city": "Inverness",
+    "state": "Highland",
+    "zip": "78704",
+    "country": "GB",
+    "phone": "5125550182",
+    "email": "craig.figueroa@gmail.com",
+    "is_residential": "true",
+    "validated": "true"
+  },
+  {
+    "object_id": "addr-recv-02",
+    "name": "Duncan Fraser",
+    "company": "Pereira Studio",
+    "street1": "77 Beacon St",
+    "street2": "",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02108",
+    "country": "GB",
+    "phone": "6175550199",
+    "email": "jonas@gmail.com",
+    "is_residential": "false",
+    "validated": "true"
+  },
+  {
+    "object_id": "addr-recv-03",
+    "name": "Fiona Drummond",
+    "company": "",
+    "street1": "940 NE 12th Ave",
+    "street2": "Unit 310",
+    "city": "Inverness",
+    "state": "Highland",
+    "zip": "97232",
+    "country": "GB",
+    "phone": "5035550144",
+    "email": "fiona.drummond@gmail.com",
+    "is_residential": "true",
+    "validated": "false"
+  }
+]

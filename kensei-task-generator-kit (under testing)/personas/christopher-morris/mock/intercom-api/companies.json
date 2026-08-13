@@ -1,0 +1,153 @@
+﻿[
+  {
+    "id": "compaIL-brightpath",
+    "compaIL_id": "BP-001",
+    "name": "Brightpath",
+    "plan": "Pro",
+    "monthly_spend": "499.0",
+    "user_count": "4",
+    "industry": "Software",
+    "created_at": "2025-09-01T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-nimbus",
+    "compaIL_id": "NB-002",
+    "name": "Nimbus Co",
+    "plan": "Growth",
+    "monthly_spend": "199.0",
+    "user_count": "4",
+    "industry": "Marketing",
+    "created_at": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-helio",
+    "compaIL_id": "HL-003",
+    "name": "Helio Labs",
+    "plan": "Enterprise",
+    "monthly_spend": "1499.0",
+    "user_count": "4",
+    "industry": "Hardware",
+    "created_at": "2025-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-vela",
+    "compaIL_id": "VT-004",
+    "name": "Vela Tech",
+    "plan": "Starter",
+    "monthly_spend": "49.0",
+    "user_count": "2",
+    "industry": "Consulting",
+    "created_at": "2025-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-acme",
+    "compaIL_id": "AC-005",
+    "name": "Meridian Benefits Grouporation",
+    "plan": "Growth",
+    "monthly_spend": "299.0",
+    "user_count": "2",
+    "industry": "Manufacturing",
+    "created_at": "2025-12-08T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-zenith",
+    "compaIL_id": "ZS-006",
+    "name": "Zenith Solutions",
+    "plan": "Pro",
+    "monthly_spend": "599.0",
+    "user_count": "2",
+    "industry": "Consulting",
+    "created_at": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-prism",
+    "compaIL_id": "PM-007",
+    "name": "Prism Analytics",
+    "plan": "Enterprise",
+    "monthly_spend": "1999.0",
+    "user_count": "2",
+    "industry": "Data & Analytics",
+    "created_at": "2026-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-apex",
+    "compaIL_id": "AX-008",
+    "name": "Apex Innovations",
+    "plan": "Starter",
+    "monthly_spend": "49.0",
+    "user_count": "1",
+    "industry": "Technology",
+    "created_at": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-quantum",
+    "compaIL_id": "QT-009",
+    "name": "Quantum Dynamics",
+    "plan": "Pro",
+    "monthly_spend": "449.0",
+    "user_count": "3",
+    "industry": "Software",
+    "created_at": "2026-02-05T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-nexus",
+    "compaIL_id": "NX-010",
+    "name": "Nexus Partners",
+    "plan": "Growth",
+    "monthly_spend": "249.0",
+    "user_count": "2",
+    "industry": "Finance",
+    "created_at": "2026-02-15T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-stellar",
+    "compaIL_id": "ST-011",
+    "name": "Stellar Ventures",
+    "plan": "Enterprise",
+    "monthly_spend": "1799.0",
+    "user_count": "5",
+    "industry": "Venture ILpital",
+    "created_at": "2026-02-20T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-horizon",
+    "compaIL_id": "HZ-012",
+    "name": "Horizon Enterprises",
+    "plan": "Pro",
+    "monthly_spend": "549.0",
+    "user_count": "3",
+    "industry": "Logistics",
+    "created_at": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-velocity",
+    "compaIL_id": "VL-013",
+    "name": "Velocity Brands",
+    "plan": "Growth",
+    "monthly_spend": "349.0",
+    "user_count": "2",
+    "industry": "E-commerce",
+    "created_at": "2026-03-05T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-pioneer",
+    "compaIL_id": "PN-014",
+    "name": "Pioneer Digital",
+    "plan": "Starter",
+    "monthly_spend": "99.0",
+    "user_count": "1",
+    "industry": "Media",
+    "created_at": "2026-03-10T08:00:00.000Z"
+  },
+  {
+    "id": "compaIL-beacon",
+    "compaIL_id": "BC-015",
+    "name": "Beacon Technologies",
+    "plan": "Pro",
+    "monthly_spend": "499.0",
+    "user_count": "3",
+    "industry": "Software",
+    "created_at": "2026-03-15T08:00:00.000Z"
+  }
+]
+

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1001",
+    "type": "private",
+    "title": "",
+    "username": "darl_hauling",
+    "first_name": "Darrell",
+    "last_name": "Whitaker",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1002",
+    "type": "private",
+    "title": "",
+    "username": "keith_burgess",
+    "first_name": "Keith",
+    "last_name": "Burgess",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1003",
+    "type": "private",
+    "title": "",
+    "username": "marco_ridgeline",
+    "first_name": "Marco",
+    "last_name": "Reyes",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "-200500",
+    "type": "group",
+    "title": "TN Freight Brokers Network",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Tennessee freight brokers and carriers swapping lanes and rates.",
+    "member_count": "5"
+  },
+  {
+    "id": "-200501",
+    "type": "supergroup",
+    "title": "Southeast Lane Rates",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Daily spot rate alerts for Southeast and Midwest corridors.",
+    "member_count": "5"
+  },
+  {
+    "id": "1004",
+    "type": "private",
+    "title": "",
+    "username": "travis_hollis_wfs",
+    "first_name": "Travis",
+    "last_name": "Hollis",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1005",
+    "type": "private",
+    "title": "",
+    "username": "donna_whitaker",
+    "first_name": "Donna",
+    "last_name": "Whitaker",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1006",
+    "type": "private",
+    "title": "",
+    "username": "glen_cumberlandauto",
+    "first_name": "Glen",
+    "last_name": "Mabry",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1007",
+    "type": "private",
+    "title": "",
+    "username": "pete_smokymtnsupply",
+    "first_name": "Pete",
+    "last_name": "Arnett",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1008",
+    "type": "private",
+    "title": "",
+    "username": "nan_appalachianag",
+    "first_name": "Nan",
+    "last_name": "Coley",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1009",
+    "type": "private",
+    "title": "",
+    "username": "brand_whitaker",
+    "first_name": "Brandon",
+    "last_name": "Whitaker",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1010",
+    "type": "private",
+    "title": "",
+    "username": "ruth_valleygrain",
+    "first_name": "Ruth",
+    "last_name": "Lyle",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1011",
+    "type": "private",
+    "title": "",
+    "username": "earl_napierhauling",
+    "first_name": "Earl",
+    "last_name": "Napier",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1012",
+    "type": "private",
+    "title": "",
+    "username": "bren_sizemore_wfs",
+    "first_name": "Bren",
+    "last_name": "Sizemore",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "-200502",
+    "type": "group",
+    "title": "Whitaker Family",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Family group for the Whitakers, Knoxville and Harlan.",
+    "member_count": "5"
+  },
+  {
+    "id": "-200503",
+    "type": "group",
+    "title": "WFS Dispatch Crew",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Whitaker Freight Services dispatch and after-hours coverage.",
+    "member_count": "4"
+  },
+  {
+    "id": "-200504",
+    "type": "group",
+    "title": "Saturday Poker",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Card night crew from The Back Porch.",
+    "member_count": "5"
+  },
+  {
+    "id": "-200505",
+    "type": "supergroup",
+    "title": "TN Freight Mentorship Cohort",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Autumn mentorship cohort with Keith Burgess.",
+    "member_count": "5"
+  },
+  {
+    "id": "-200506",
+    "type": "group",
+    "title": "Vols Tailgate Crew",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Neyland Stadium tailgate planning, go Vols.",
+    "member_count": "4"
+  },
+  {
+    "id": "1013",
+    "type": "private",
+    "title": "",
+    "username": "junior_mullins",
+    "first_name": "Junior",
+    "last_name": "Mullins",
+    "description": "",
+    "member_count": "2"
+  }
+]

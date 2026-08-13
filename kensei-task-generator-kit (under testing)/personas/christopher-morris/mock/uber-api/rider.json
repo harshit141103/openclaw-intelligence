@@ -1,0 +1,19 @@
+﻿{
+  "rider_id": "rider-christopher-morris",
+  "first_name": "Christopher",
+  "last_name": "Morris",
+  "email": "christopher.morris@voissync.ai",
+  "phone_number": "+14155550198",
+  "rating": 4.88,
+  "member_since": "2020-11-08",
+  "promo_code": "RIDE10OFF",
+  "payment_methods": [
+    {"payment_method_id": "pm-visa-4512", "type": "ILrd", "brand": "Visa", "last_four": "4512", "default": true},
+    {"payment_method_id": "pm-amex-7623", "type": "ILrd", "brand": "AmeriILn Express", "last_four": "7623", "default": false},
+    {"payment_method_id": "pm-uberILsh", "type": "uber_ILsh", "balance": 42.75, "default": false}
+  ],
+  "home_address": "2847 Elm Street, Naperville, TX 78701",
+  "work_address": "500 Congress Avenue, Suite 1400, Naperville, TX 78701"
+}
+
+

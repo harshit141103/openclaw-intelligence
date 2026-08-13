@@ -1,0 +1,162 @@
+[
+  {
+    "name": "products",
+    "records_csv": "records_products.csv",
+    "entries": "22",
+    "data_size": "11264",
+    "created_at": "2023-03-01T10:00:00.000Z",
+    "updated_at": "2026-05-26T10:00:00.000Z"
+  },
+  {
+    "name": "docs",
+    "records_csv": "records_docs.csv",
+    "entries": "22",
+    "data_size": "9216",
+    "created_at": "2023-03-01T10:00:00.000Z",
+    "updated_at": "2026-05-20T10:00:00.000Z"
+  },
+  {
+    "name": "carriers",
+    "records_csv": "records_carriers.csv",
+    "entries": "84",
+    "data_size": "43008",
+    "created_at": "2023-04-15T10:00:00.000Z",
+    "updated_at": "2026-06-02T10:00:00.000Z"
+  },
+  {
+    "name": "lanes",
+    "records_csv": "records_lanes.csv",
+    "entries": "61",
+    "data_size": "31232",
+    "created_at": "2023-04-15T10:00:00.000Z",
+    "updated_at": "2026-05-29T10:00:00.000Z"
+  },
+  {
+    "name": "shippers",
+    "records_csv": "records_shippers.csv",
+    "entries": "38",
+    "data_size": "19456",
+    "created_at": "2023-05-01T10:00:00.000Z",
+    "updated_at": "2026-06-05T10:00:00.000Z"
+  },
+  {
+    "name": "loads",
+    "records_csv": "records_loads.csv",
+    "entries": "412",
+    "data_size": "210944",
+    "created_at": "2023-05-01T10:00:00.000Z",
+    "updated_at": "2026-06-09T10:00:00.000Z"
+  },
+  {
+    "name": "invoices",
+    "records_csv": "records_invoices.csv",
+    "entries": "389",
+    "data_size": "199168",
+    "created_at": "2023-05-20T10:00:00.000Z",
+    "updated_at": "2026-06-08T10:00:00.000Z"
+  },
+  {
+    "name": "rate_confirmations",
+    "records_csv": "records_rateconfs.csv",
+    "entries": "367",
+    "data_size": "187904",
+    "created_at": "2023-06-01T10:00:00.000Z",
+    "updated_at": "2026-06-07T10:00:00.000Z"
+  },
+  {
+    "name": "lane_rates",
+    "records_csv": "records_lanerates.csv",
+    "entries": "143",
+    "data_size": "73216",
+    "created_at": "2023-06-10T10:00:00.000Z",
+    "updated_at": "2026-05-31T10:00:00.000Z"
+  },
+  {
+    "name": "claims",
+    "records_csv": "records_claims.csv",
+    "entries": "19",
+    "data_size": "9728",
+    "created_at": "2023-07-01T10:00:00.000Z",
+    "updated_at": "2026-04-22T10:00:00.000Z"
+  },
+  {
+    "name": "quotes",
+    "records_csv": "records_quotes.csv",
+    "entries": "97",
+    "data_size": "49664",
+    "created_at": "2023-07-15T10:00:00.000Z",
+    "updated_at": "2026-06-06T10:00:00.000Z"
+  },
+  {
+    "name": "insurance_certs",
+    "records_csv": "records_inscerts.csv",
+    "entries": "76",
+    "data_size": "38912",
+    "created_at": "2023-08-01T10:00:00.000Z",
+    "updated_at": "2026-06-01T10:00:00.000Z"
+  },
+  {
+    "name": "webinars",
+    "records_csv": "records_webinars.csv",
+    "entries": "14",
+    "data_size": "7168",
+    "created_at": "2024-03-01T10:00:00.000Z",
+    "updated_at": "2026-05-10T10:00:00.000Z"
+  },
+  {
+    "name": "mentees",
+    "records_csv": "records_mentees.csv",
+    "entries": "27",
+    "data_size": "13824",
+    "created_at": "2025-08-01T10:00:00.000Z",
+    "updated_at": "2026-05-15T10:00:00.000Z"
+  },
+  {
+    "name": "contacts",
+    "records_csv": "records_contacts.csv",
+    "entries": "58",
+    "data_size": "29696",
+    "created_at": "2023-03-10T10:00:00.000Z",
+    "updated_at": "2026-06-04T10:00:00.000Z"
+  },
+  {
+    "name": "referrals",
+    "records_csv": "records_referrals.csv",
+    "entries": "16",
+    "data_size": "8192",
+    "created_at": "2024-10-01T10:00:00.000Z",
+    "updated_at": "2026-05-28T10:00:00.000Z"
+  },
+  {
+    "name": "fuel_surcharges",
+    "records_csv": "records_fuelsurcharges.csv",
+    "entries": "52",
+    "data_size": "26624",
+    "created_at": "2023-09-01T10:00:00.000Z",
+    "updated_at": "2026-06-03T10:00:00.000Z"
+  },
+  {
+    "name": "accessorials",
+    "records_csv": "records_accessorials.csv",
+    "entries": "33",
+    "data_size": "16896",
+    "created_at": "2023-09-15T10:00:00.000Z",
+    "updated_at": "2026-05-25T10:00:00.000Z"
+  },
+  {
+    "name": "tnfa_events",
+    "records_csv": "records_tnfaevents.csv",
+    "entries": "21",
+    "data_size": "10752",
+    "created_at": "2024-04-22T10:00:00.000Z",
+    "updated_at": "2026-05-18T10:00:00.000Z"
+  },
+  {
+    "name": "eval_criteria",
+    "records_csv": "records_evalcriteria.csv",
+    "entries": "18",
+    "data_size": "9216",
+    "created_at": "2025-10-06T10:00:00.000Z",
+    "updated_at": "2026-05-12T10:00:00.000Z"
+  }
+]

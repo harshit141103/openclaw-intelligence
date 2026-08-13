@@ -1,0 +1,222 @@
+[
+  {
+    "id": "770c3b0000000000000003c1",
+    "collection_id": "660b2a0000000000000002b1",
+    "name": "How to Vet a Carrier Before You Book the Load",
+    "slug": "how-to-vet-a-carrier",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "The checks WFS runs on every new carrier.",
+    "created_on": "2026-05-02T08:00:00.000Z",
+    "last_updated": "2026-05-02T09:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c2",
+    "collection_id": "660b2a0000000000000002b1",
+    "name": "DOT Compliance Basics for Small Shippers",
+    "slug": "dot-compliance-basics",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "What the FMCSA expects and how to stay clean.",
+    "created_on": "2026-05-09T11:30:00.000Z",
+    "last_updated": "2026-05-09T12:15:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c3",
+    "collection_id": "660b2a0000000000000002b1",
+    "name": "Draft - Freight Software Upgrade Notes",
+    "slug": "draft-freight-software-notes",
+    "is_draft": "true",
+    "is_archived": "false",
+    "summary": "Internal draft on FreightFlow vs RoutePoint.",
+    "created_on": "2026-05-15T14:00:00.000Z",
+    "last_updated": "2026-05-15T14:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c4",
+    "collection_id": "660b2a0000000000000002b2",
+    "name": "Floyd Whitaker",
+    "slug": "floyd-whitaker",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Owner of WFS and Certified Transportation Broker.",
+    "created_on": "2026-04-20T10:00:00.000Z",
+    "last_updated": "2026-05-01T10:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c5",
+    "collection_id": "660b2a0000000000000002b3",
+    "name": "Setting Up Your Carrier Packet",
+    "slug": "setting-up-carrier-packet",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Step-by-step onboarding for new carriers.",
+    "created_on": "2026-05-04T09:00:00.000Z",
+    "last_updated": "2026-05-20T13:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c6",
+    "collection_id": "660b2a0000000000000002b4",
+    "name": "Autumn Cohort Kickoff Session",
+    "slug": "autumn-cohort-kickoff",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "First session of the fall mentorship cohort.",
+    "created_on": "2026-05-06T07:30:00.000Z",
+    "last_updated": "2026-05-17T07:45:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c7",
+    "collection_id": "660b2a0000000000000002b5",
+    "name": "18-inch Offset Smoker",
+    "slug": "18-inch-offset-smoker",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Heavy-gauge offset for low and slow cooks.",
+    "created_on": "2026-05-12T16:00:00.000Z",
+    "last_updated": "2026-05-24T17:30:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c8",
+    "collection_id": "660b2a0000000000000002b5",
+    "name": "Hickory Lump Charcoal 20lb",
+    "slug": "hickory-lump-charcoal-20lb",
+    "is_draft": "false",
+    "is_archived": "true",
+    "summary": "Discontinued bag size, see new 15lb.",
+    "created_on": "2026-03-01T16:00:00.000Z",
+    "last_updated": "2026-05-10T17:30:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003c9",
+    "collection_id": "660b2a0000000000000002b1",
+    "name": "Why Agricultural Freight Needs a Different Playbook",
+    "slug": "agricultural-freight-playbook",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "How seasonality and reefer capacity change ag lanes.",
+    "created_on": "2026-05-22T09:00:00.000Z",
+    "last_updated": "2026-05-22T09:30:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003ca",
+    "collection_id": "660b2a0000000000000002b1",
+    "name": "Five Questions to Ask Before You Sign a Broker",
+    "slug": "five-questions-before-signing-broker",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "What every shipper should ask a freight broker.",
+    "created_on": "2026-06-08T08:00:00.000Z",
+    "last_updated": "2026-06-08T08:30:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003cb",
+    "collection_id": "660b2a0000000000000002b1",
+    "name": "Why We Still Pick Up the Phone",
+    "slug": "why-we-still-pick-up-the-phone",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Freight is still a relationship business.",
+    "created_on": "2026-06-01T08:00:00.000Z",
+    "last_updated": "2026-06-01T08:15:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003cc",
+    "collection_id": "660b2a0000000000000002b2",
+    "name": "Brenda Sizemore",
+    "slug": "brenda-sizemore",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Office manager at Whitaker Freight Services.",
+    "created_on": "2026-04-20T10:05:00.000Z",
+    "last_updated": "2026-05-01T10:05:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003cd",
+    "collection_id": "660b2a0000000000000002b2",
+    "name": "Brandon Whitaker",
+    "slug": "brandon-whitaker",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Junior associate covering carrier relations.",
+    "created_on": "2026-04-28T10:00:00.000Z",
+    "last_updated": "2026-05-21T17:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003ce",
+    "collection_id": "660b2a0000000000000002b2",
+    "name": "Keith Burgess",
+    "slug": "keith-burgess",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Guest author and TN Freight Mentorship co-lead.",
+    "created_on": "2026-04-22T10:00:00.000Z",
+    "last_updated": "2026-05-06T10:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003cf",
+    "collection_id": "660b2a0000000000000002b3",
+    "name": "Submitting Your Insurance Certificate",
+    "slug": "submitting-insurance-certificate",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "How carriers send and renew their COI with WFS.",
+    "created_on": "2026-05-07T09:00:00.000Z",
+    "last_updated": "2026-05-22T11:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003d0",
+    "collection_id": "660b2a0000000000000002b3",
+    "name": "Understanding Quick Pay Options",
+    "slug": "understanding-quick-pay-options",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "What quick pay costs and when to use it.",
+    "created_on": "2026-05-15T09:00:00.000Z",
+    "last_updated": "2026-05-30T12:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003d1",
+    "collection_id": "660b2a0000000000000002b4",
+    "name": "Session 2 - Reading Carrier Safety Scores",
+    "slug": "session-2-carrier-safety-scores",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Mentorship session on FMCSA BASIC scores.",
+    "created_on": "2026-05-13T07:30:00.000Z",
+    "last_updated": "2026-05-28T08:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003d2",
+    "collection_id": "660b2a0000000000000002b4",
+    "name": "Draft - Session 3 Rate Negotiation",
+    "slug": "draft-session-3-rate-negotiation",
+    "is_draft": "true",
+    "is_archived": "false",
+    "summary": "Outline for the fall cohort negotiation session.",
+    "created_on": "2026-05-27T07:30:00.000Z",
+    "last_updated": "2026-05-27T07:30:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003d3",
+    "collection_id": "660b2a0000000000000002b5",
+    "name": "Post Oak Splits 1 Cubic Foot",
+    "slug": "post-oak-splits-1cuft",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Seasoned post oak for clean brisket smoke.",
+    "created_on": "2026-05-18T16:00:00.000Z",
+    "last_updated": "2026-05-25T17:00:00.000Z"
+  },
+  {
+    "id": "770c3b0000000000000003d4",
+    "collection_id": "660b2a0000000000000002b5",
+    "name": "Digital Pit Thermometer Dual Probe",
+    "slug": "digital-pit-thermometer-dual-probe",
+    "is_draft": "false",
+    "is_archived": "false",
+    "summary": "Two-probe thermometer for pit and meat temps.",
+    "created_on": "2026-05-20T16:00:00.000Z",
+    "last_updated": "2026-05-26T17:00:00.000Z"
+  }
+]

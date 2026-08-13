@@ -1,0 +1,222 @@
+[
+  {
+    "Id": "1",
+    "Name": "Henderson kitchen cabinets",
+    "Description": "Set up the dado stack for the bookshelf rabbets",
+    "Type": "Service",
+    "UnitPrice": "620.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Diane Cox",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "2",
+    "Name": "Sharpen the jointer knives and reset the",
+    "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "Type": "Service",
+    "UnitPrice": "18.99",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Keith Cox",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "3",
+    "Name": "Cota window seat & bookcase",
+    "Description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "Type": "Service",
+    "UnitPrice": "24.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Marie Cox-Gagne",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "4",
+    "Name": "Re: Stowe install date",
+    "Description": "Re: Bookshelf dimensions",
+    "Type": "Service",
+    "UnitPrice": "1200.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tom Gagne",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "5",
+    "Name": "Re: Bookshelf dimensions",
+    "Description": "Hold the Stowe drive until the morning forecast clears.",
+    "Type": "Service",
+    "UnitPrice": "1850.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Pete Lafleur",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "6",
+    "Name": "Delivery window for the Stowe cabinets",
+    "Description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "Type": "Service",
+    "UnitPrice": "2400.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Dr. James Whitfield",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "7",
+    "Name": "Build the drawer boxes with half-blind d",
+    "Description": "Splitting and stacking the winter firewood",
+    "Type": "Service",
+    "UnitPrice": "3200.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Dr. Paul LeBlanc",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "8",
+    "Name": "Sharpen the jointer knives and reset the",
+    "Description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "Type": "Service",
+    "UnitPrice": "4800.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Scott Henderson",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "9",
+    "Name": "Re-saw the walnut for bookmatched panels",
+    "Description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "Type": "Service",
+    "UnitPrice": "28.99",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Linda Henderson",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "902",
+    "Name": "Check the moisture content on the barn o",
+    "Description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "Type": "Service",
+    "UnitPrice": "5400.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Alan Whitcomb",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "904",
+    "Name": "Cota window seat & bookcase",
+    "Description": "Sharpened the chisels; the 1in was overdue.",
+    "Type": "Service",
+    "UnitPrice": "34.50",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Paul Dufresne",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "906",
+    "Name": "Re: Bookshelf dimensions",
+    "Description": "Build the drawer boxes with half-blind dovetails",
+    "Type": "Service",
+    "UnitPrice": "41.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Marc Belanger",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "908",
+    "Name": "Sand to 220 and raise the grain before f",
+    "Description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "Type": "Service",
+    "UnitPrice": "6200.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Gary Stoddard",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "910",
+    "Name": "Stowe kitchen - cabinet hardware lead time",
+    "Description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "Type": "Service",
+    "UnitPrice": "8500.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Hardwick Lumber",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "912",
+    "Name": "Re-saw the walnut for bookmatched panels",
+    "Description": "Stage the bookshelf sections for the Craftsbury install",
+    "Type": "Service",
+    "UnitPrice": "12000.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Green Mountain Hardwoods",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "914",
+    "Name": "Lay out dovetails for the silverware dra",
+    "Description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "Type": "Service",
+    "UnitPrice": "18500.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Ray Tetreault",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "916",
+    "Name": "Cota window seat & bookcase",
+    "Description": "Order Blum slides for the Stowe drawer banks",
+    "Type": "Service",
+    "UnitPrice": "480.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Nancy Beaulieu",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "918",
+    "Name": "Project schedule update",
+    "Description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "Type": "Service",
+    "UnitPrice": "47.95",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Rev. Susan Mills",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "911",
+    "Name": "Sharpen the jointer knives and reset the",
+    "Description": "Sharpen the jointer knives and reset the infeed table",
+    "Type": "Service",
+    "UnitPrice": "620.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Walt Perreault",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "913",
+    "Name": "Hang the soft-close doors and adjust the",
+    "Description": "Lay out dovetails for the silverware drawer",
+    "Type": "Service",
+    "UnitPrice": "62.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Donna Sloan",
+    "Active": "true",
+    "Taxable": "false"
+  }
+]

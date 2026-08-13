@@ -1,0 +1,202 @@
+[
+  {
+    "courseId": "course_001",
+    "id": "ann_001",
+    "text": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "state": "Vermont",
+    "creationTime": "2025-10-02T16:30:00Z",
+    "updateTime": "2026-01-19T12:30:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_001"
+  },
+  {
+    "courseId": "course_001",
+    "id": "ann_002",
+    "text": "Splitting and stacking the winter firewood",
+    "state": "Vermont",
+    "creationTime": "2024-11-06T16:00:00Z",
+    "updateTime": "2026-05-25T06:45:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_002"
+  },
+  {
+    "courseId": "course_001",
+    "id": "ann_003",
+    "text": "Template the Stowe countertop radius for the corner cabinet",
+    "state": "Vermont",
+    "creationTime": "2024-09-30T17:30:00Z",
+    "updateTime": "2023-12-14T06:30:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_003"
+  },
+  {
+    "courseId": "course_001",
+    "id": "ann_004",
+    "text": "Set up the dado stack for the bookshelf rabbets",
+    "state": "Vermont",
+    "creationTime": "2026-09-04T16:00:00Z",
+    "updateTime": "2026-04-28T11:15:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_004"
+  },
+  {
+    "courseId": "course_002",
+    "id": "ann_005",
+    "text": "Sharpened the chisels; the 1in was overdue.",
+    "state": "Vermont",
+    "creationTime": "2024-02-10T07:15:00Z",
+    "updateTime": "2026-04-02T16:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_002/p/ann_005"
+  },
+  {
+    "courseId": "course_002",
+    "id": "ann_006",
+    "text": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "state": "Vermont",
+    "creationTime": "2025-10-18T06:30:00Z",
+    "updateTime": "2026-01-07T07:30:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_002/p/ann_006"
+  },
+  {
+    "courseId": "course_002",
+    "id": "ann_007",
+    "text": "Set up the dado stack for the bookshelf rabbets",
+    "state": "Vermont",
+    "creationTime": "2025-07-04T12:45:00Z",
+    "updateTime": "2026-08-18T15:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_002/p/ann_007"
+  },
+  {
+    "courseId": "course_003",
+    "id": "ann_008",
+    "text": "Replace the dust collector filter and clean the cyclone",
+    "state": "Vermont",
+    "creationTime": "2025-08-12T08:00:00Z",
+    "updateTime": "2024-02-15T12:45:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_003/p/ann_008"
+  },
+  {
+    "courseId": "course_003",
+    "id": "ann_009",
+    "text": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "state": "Vermont",
+    "creationTime": "2024-07-29T08:00:00Z",
+    "updateTime": "2025-05-03T12:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_003/p/ann_009"
+  },
+  {
+    "courseId": "course_003",
+    "id": "ann_010",
+    "text": "Check the moisture content on the barn oak before joinery",
+    "state": "Vermont",
+    "creationTime": "2026-07-12T06:15:00Z",
+    "updateTime": "2026-01-31T11:15:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_003/p/ann_010"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2026",
+    "id": "ann_011",
+    "text": "Dry-fit the face frames before glue-up",
+    "state": "Vermont",
+    "creationTime": "2024-12-02T12:45:00Z",
+    "updateTime": "2026-05-12T08:00:00Z",
+    "creatorUserId": "teacher_004",
+    "alternateLink": "https://classroom.google.com/c/uscg-charter-inspection-2026/p/ann_011"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2026",
+    "id": "ann_012",
+    "text": "Pete coming by Saturday for coffee; shop's a mess.",
+    "state": "Vermont",
+    "creationTime": "2026-03-26T12:45:00Z",
+    "updateTime": "2024-06-02T13:00:00Z",
+    "creatorUserId": "teacher_004",
+    "alternateLink": "https://classroom.google.com/c/uscg-charter-inspection-2026/p/ann_012"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2026",
+    "id": "ann_013",
+    "text": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "state": "Vermont",
+    "creationTime": "2023-11-21T10:45:00Z",
+    "updateTime": "2025-07-06T06:30:00Z",
+    "creatorUserId": "teacher_004",
+    "alternateLink": "https://classroom.google.com/c/uscg-charter-inspection-2026/p/ann_013"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2026",
+    "id": "ann_014",
+    "text": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "state": "Vermont",
+    "creationTime": "2023-11-29T10:00:00Z",
+    "updateTime": "2025-09-15T12:45:00Z",
+    "creatorUserId": "teacher_004",
+    "alternateLink": "https://classroom.google.com/c/uscg-charter-inspection-2026/p/ann_014"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2025",
+    "id": "ann_015",
+    "text": "Hang the soft-close doors and adjust the hinges",
+    "state": "Vermont",
+    "creationTime": "2024-01-05T11:45:00Z",
+    "updateTime": "2026-05-26T08:30:00Z",
+    "creatorUserId": "teacher_004",
+    "alternateLink": "https://classroom.google.com/c/uscg-charter-inspection-2025/p/ann_015"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2025",
+    "id": "ann_016",
+    "text": "Barn oak is summer 2027 - not pulling material yet.",
+    "state": "Vermont",
+    "creationTime": "2026-05-10T07:45:00Z",
+    "updateTime": "2024-05-29T14:30:00Z",
+    "creatorUserId": "teacher_004",
+    "alternateLink": "https://classroom.google.com/c/uscg-charter-inspection-2025/p/ann_016"
+  },
+  {
+    "courseId": "course_001",
+    "id": "ann_902",
+    "text": "Splitting and stacking the winter firewood",
+    "state": "Vermont",
+    "creationTime": "2024-02-15T18:15:00Z",
+    "updateTime": "2025-09-01T15:30:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_001"
+  },
+  {
+    "courseId": "course_001",
+    "id": "ann_904",
+    "text": "Check the moisture content on the barn oak before joinery",
+    "state": "Vermont",
+    "creationTime": "2026-05-13T12:15:00Z",
+    "updateTime": "2026-03-31T09:45:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_002"
+  },
+  {
+    "courseId": "course_001",
+    "id": "ann_906",
+    "text": "Splitting and stacking the winter firewood",
+    "state": "Vermont",
+    "creationTime": "2023-10-24T07:30:00Z",
+    "updateTime": "2025-09-12T11:15:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_003"
+  },
+  {
+    "courseId": "course_001",
+    "id": "ann_908",
+    "text": "Replace the dust collector filter and clean the cyclone",
+    "state": "Vermont",
+    "creationTime": "2025-08-16T10:15:00Z",
+    "updateTime": "2025-06-17T13:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/course_001/p/ann_004"
+  }
+]

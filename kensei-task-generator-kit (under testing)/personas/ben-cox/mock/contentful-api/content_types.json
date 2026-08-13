@@ -1,0 +1,142 @@
+[
+  {
+    "id": "blogPost",
+    "name": "Henderson kitchen cabinets",
+    "displayField": "title",
+    "description": "Material order - Hardwick Lumber",
+    "fields_json": "Mock up the crown profile for the Henderson uppers"
+  },
+  {
+    "id": "author",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "displayField": "name",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category",
+    "name": "Hang the soft-close doors and adjust the",
+    "displayField": "title",
+    "description": "Re: Bookshelf dimensions",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-b1",
+    "name": "Sloan cherry dining table",
+    "displayField": "title",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "fields_json": "Mock up the crown profile for the Henderson uppers"
+  },
+  {
+    "id": "author-b2",
+    "name": "Final fit of the Henderson island base c",
+    "displayField": "name",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-b3",
+    "name": "Mock up the crown profile for the Hender",
+    "displayField": "title",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-b4",
+    "name": "Whitcomb built-in bookshelves",
+    "displayField": "title",
+    "description": "Check the moisture content on the barn oak before joinery",
+    "fields_json": "Apply second coat of Arm-R-Seal to the bookcase carcase"
+  },
+  {
+    "id": "author-b5",
+    "name": "Sand to 220 and raise the grain before f",
+    "displayField": "name",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-b6",
+    "name": "Re: Bookshelf dimensions",
+    "displayField": "title",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-b7",
+    "name": "Splitting and stacking the winter firewo",
+    "displayField": "title",
+    "description": "Splitting and stacking the winter firewood",
+    "fields_json": "Set up the dado stack for the bookshelf rabbets"
+  },
+  {
+    "id": "author-b8",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "displayField": "name",
+    "description": "Plane the bookshelf shelves and ease the front edges",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-b9",
+    "name": "Sharpen the jointer knives and reset the",
+    "displayField": "title",
+    "description": "Re: Bookshelf dimensions",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-b10",
+    "name": "Lafleur barn door (favor)",
+    "displayField": "title",
+    "description": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "fields_json": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "author-b11",
+    "name": "Built-ins - finish sample for your approval",
+    "displayField": "name",
+    "description": "Barn oak is summer 2027 - not pulling material yet.",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-b12",
+    "name": "Whitcomb built-in bookshelves",
+    "displayField": "title",
+    "description": "Build the drawer boxes with half-blind dovetails",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-b13",
+    "name": "Henderson kitchen cabinets",
+    "displayField": "title",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "fields_json": "Lay out dovetails for the silverware drawer"
+  },
+  {
+    "id": "author-b14",
+    "name": "Mill cherry stock to thickness for the u",
+    "displayField": "name",
+    "description": "Lay out dovetails for the silverware drawer",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-b15",
+    "name": "Mill cherry stock to thickness for the u",
+    "displayField": "title",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-b16",
+    "name": "Template the Stowe countertop radius for",
+    "displayField": "title",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "fields_json": "Lay out dovetails for the silverware drawer"
+  },
+  {
+    "id": "author-b17",
+    "name": "Template the Stowe countertop radius for",
+    "displayField": "name",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  }
+]

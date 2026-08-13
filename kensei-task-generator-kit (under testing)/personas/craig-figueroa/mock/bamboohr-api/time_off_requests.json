@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tor-5001",
+    "employeeId": "emp-102",
+    "type": "Vacation",
+    "status": "approved",
+    "start": "2026-06-08",
+    "end": "2026-06-12",
+    "amount": "5",
+    "unit": "days",
+    "notes": "Family trip",
+    "created": "2026-05-10"
+  },
+  {
+    "id": "tor-5002",
+    "employeeId": "emp-103",
+    "type": "Sick",
+    "status": "approved",
+    "start": "2026-05-19",
+    "end": "2026-05-20",
+    "amount": "2",
+    "unit": "days",
+    "notes": "Flu recovery",
+    "created": "2026-05-18"
+  },
+  {
+    "id": "tor-5003",
+    "employeeId": "emp-104",
+    "type": "Vacation",
+    "status": "requested",
+    "start": "2026-07-01",
+    "end": "2026-07-10",
+    "amount": "8",
+    "unit": "days",
+    "notes": "Summer holiday",
+    "created": "2026-05-22"
+  },
+  {
+    "id": "tor-5004",
+    "employeeId": "emp-106",
+    "type": "Personal",
+    "status": "denied",
+    "start": "2026-06-15",
+    "end": "2026-06-16",
+    "amount": "2",
+    "unit": "days",
+    "notes": "Overlaps with quarter close",
+    "created": "2026-05-12"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ITEM_LATTE",
+    "type": "ITEM",
+    "name": "Set up the dado stack for the bookshelf ",
+    "description": "Template the Stowe countertop radius for the corner cabinet",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R",
+    "variation_name": "Regular",
+    "price_amount": "620",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW",
+    "type": "ITEM",
+    "name": "Mill cherry stock to thickness for the u",
+    "description": "Splitting and stacking the winter firewood",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R",
+    "variation_name": "Regular",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT",
+    "type": "ITEM",
+    "name": "Boucher mudroom built-ins",
+    "description": "Template the Stowe countertop radius for the corner cabinet",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R",
+    "variation_name": "Regular",
+    "price_amount": "1850",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL",
+    "type": "ITEM",
+    "name": "Boucher mudroom built-ins",
+    "description": "Final fit of the Henderson island base cabinets",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R",
+    "variation_name": "Regular",
+    "price_amount": "2400",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG",
+    "type": "ITEM",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R",
+    "variation_name": "Standard",
+    "price_amount": "3200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS",
+    "type": "ITEM",
+    "name": "Final fit of the Henderson island base c",
+    "description": "Built-ins - finish sample for your approval",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12",
+    "variation_name": "12oz",
+    "price_amount": "4800",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TEA",
+    "type": "ITEM",
+    "name": "Splitting and stacking the winter firewo",
+    "description": "Material order - Hardwick Lumber",
+    "category": "Drinks",
+    "variation_id": "VAR_TEA_TIN",
+    "variation_name": "Tin",
+    "price_amount": "5400",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_LATTE-b1",
+    "type": "ITEM",
+    "name": "Greensboro barn restoration",
+    "description": "Sand to 220 and raise the grain before finish",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R",
+    "variation_name": "Regular",
+    "price_amount": "6200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW-b2",
+    "type": "ITEM",
+    "name": "Boucher mudroom built-ins",
+    "description": "Material order - Hardwick Lumber",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R",
+    "variation_name": "Regular",
+    "price_amount": "8500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT-b3",
+    "type": "ITEM",
+    "name": "Template the Stowe countertop radius for",
+    "description": "Sand to 220 and raise the grain before finish",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R",
+    "variation_name": "Regular",
+    "price_amount": "12000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL-b4",
+    "type": "ITEM",
+    "name": "Sloan cherry dining table",
+    "description": "Delivery window for the Stowe cabinets",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R",
+    "variation_name": "Regular",
+    "price_amount": "18500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG-b5",
+    "type": "ITEM",
+    "name": "Boucher mudroom built-ins",
+    "description": "Delivery window for the Stowe cabinets",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R",
+    "variation_name": "Standard",
+    "price_amount": "480",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS-b6",
+    "type": "ITEM",
+    "name": "Mill cherry stock to thickness for the u",
+    "description": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12",
+    "variation_name": "12oz",
+    "price_amount": "620",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TEA-b7",
+    "type": "ITEM",
+    "name": "Check the moisture content on the barn o",
+    "description": "Lay out dovetails for the silverware drawer",
+    "category": "Drinks",
+    "variation_id": "VAR_TEA_TIN",
+    "variation_name": "Tin",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_LATTE-b8",
+    "type": "ITEM",
+    "name": "Plane the bookshelf shelves and ease the",
+    "description": "Project schedule update",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R",
+    "variation_name": "Regular",
+    "price_amount": "1850",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW-b9",
+    "type": "ITEM",
+    "name": "Sharpen the jointer knives and reset the",
+    "description": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R",
+    "variation_name": "Regular",
+    "price_amount": "2400",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT-b10",
+    "type": "ITEM",
+    "name": "Set up the dado stack for the bookshelf ",
+    "description": "Cut dadoes for the adjustable shelf pins",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R",
+    "variation_name": "Regular",
+    "price_amount": "3200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL-b11",
+    "type": "ITEM",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R",
+    "variation_name": "Regular",
+    "price_amount": "4800",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG-b12",
+    "type": "ITEM",
+    "name": "Build the drawer boxes with half-blind d",
+    "description": "Lay out dovetails for the silverware drawer",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R",
+    "variation_name": "Standard",
+    "price_amount": "5400",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS-b13",
+    "type": "ITEM",
+    "name": "Re: Stowe install date",
+    "description": "Plane the bookshelf shelves and ease the front edges",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12",
+    "variation_name": "12oz",
+    "price_amount": "6200",
+    "currency": "USD"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "query": "crofthouse strathcarron",
+    "formatted_address": "Croft Road, Strathcarron, IV54 8YX",
+    "lat": "57.4200",
+    "lng": "-5.4300",
+    "place_id": "ChIJgeocraig00001",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "achnasheen farm",
+    "formatted_address": "Achnasheen, IV22 2EJ",
+    "lat": "57.5780",
+    "lng": "-5.0640",
+    "place_id": "ChIJgeocraig00002",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "applecross",
+    "formatted_address": "Applecross, IV54 8LR",
+    "lat": "57.4310",
+    "lng": "-5.8160",
+    "place_id": "ChIJgeocraig00003",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "lochcarron",
+    "formatted_address": "Lochcarron, Highland, IV54",
+    "lat": "57.4007",
+    "lng": "-5.4928",
+    "place_id": "ChIJgeocraig00004",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "inverness",
+    "formatted_address": "Inverness, Highland, IV1",
+    "lat": "57.4778",
+    "lng": "-4.2247",
+    "place_id": "ChIJgeocraig00005",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "plockton",
+    "formatted_address": "Plockton, Highland, IV52",
+    "lat": "57.3360",
+    "lng": "-5.6570",
+    "place_id": "ChIJgeocraig00006",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "torridon",
+    "formatted_address": "Torridon, Highland, IV22",
+    "lat": "57.5460",
+    "lng": "-5.5010",
+    "place_id": "ChIJgeocraig00007",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "strathpeffer",
+    "formatted_address": "Strathpeffer, Highland, IV14",
+    "lat": "57.5850",
+    "lng": "-4.5400",
+    "place_id": "ChIJgeocraig00008",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "kinlochewe",
+    "formatted_address": "Kinlochewe, Highland, IV22",
+    "lat": "57.6030",
+    "lng": "-5.3000",
+    "place_id": "ChIJgeocraig00009",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "harrogate",
+    "formatted_address": "Harrogate, North Yorkshire, HG1",
+    "lat": "53.9920",
+    "lng": "-1.5418",
+    "place_id": "ChIJgeocraig00010",
+    "location_type": "APPROXIMATE"
+  }
+]

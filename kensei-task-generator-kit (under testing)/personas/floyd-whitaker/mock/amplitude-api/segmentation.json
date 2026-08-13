@@ -1,0 +1,112 @@
+[
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-01",
+    "count": "1"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-02",
+    "count": "0"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-03",
+    "count": "2"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-04",
+    "count": "1"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-05",
+    "count": "1"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-06",
+    "count": "0"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-07",
+    "count": "1"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-08",
+    "count": "2"
+  },
+  {
+    "event_type": "signup_completed",
+    "date": "2026-06-09",
+    "count": "1"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-01",
+    "count": "31"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-02",
+    "count": "38"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-03",
+    "count": "42"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-04",
+    "count": "29"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-05",
+    "count": "35"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-06",
+    "count": "18"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-07",
+    "count": "22"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-08",
+    "count": "44"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-06-09",
+    "count": "40"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-06-01",
+    "count": "96"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-06-02",
+    "count": "112"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-06-03",
+    "count": "128"
+  },
+  {
+    "event_type": "page_view",
+    "date": "2026-06-08",
+    "count": "131"
+  }
+]

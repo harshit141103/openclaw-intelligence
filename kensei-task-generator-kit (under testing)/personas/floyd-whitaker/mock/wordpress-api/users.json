@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Floyd Whitaker",
+    "slug": "floyd-whitaker",
+    "description": "Owner of WFS and Certified Transportation Broker.",
+    "url": "https://www.whitakerfreight.com/author/floyd",
+    "roles": "administrator",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/floyd.png"
+  },
+  {
+    "id": "2",
+    "name": "Brenda Sizemore",
+    "slug": "brenda-sizemore",
+    "description": "Office manager at Whitaker Freight Services.",
+    "url": "https://www.whitakerfreight.com/author/brenda",
+    "roles": "editor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/brenda.png"
+  },
+  {
+    "id": "3",
+    "name": "Brandon Whitaker",
+    "slug": "brandon-whitaker",
+    "description": "Junior associate covering carrier relations.",
+    "url": "https://www.whitakerfreight.com/author/brandon",
+    "roles": "author",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/brandon.png"
+  },
+  {
+    "id": "4",
+    "name": "Keith Burgess",
+    "slug": "keith-burgess",
+    "description": "Guest author and TN Freight Mentorship co-lead.",
+    "url": "https://www.whitakerfreight.com/author/keith",
+    "roles": "author",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/keith.png"
+  },
+  {
+    "id": "5",
+    "name": "Travis Hollis",
+    "slug": "travis-hollis",
+    "description": "Dispatch specialist and occasional contributor.",
+    "url": "https://www.whitakerfreight.com/author/travis",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/travis.png"
+  },
+  {
+    "id": "6",
+    "name": "Lorrie Sexton",
+    "slug": "lorrie-sexton",
+    "description": "Dispatch specialist covering Midwest corridors.",
+    "url": "https://www.whitakerfreight.com/author/lorrie",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/lorrie.png"
+  },
+  {
+    "id": "7",
+    "name": "Dale Renfro",
+    "slug": "dale-renfro",
+    "description": "Bookkeeper handling WFS settlements and billing.",
+    "url": "https://www.whitakerfreight.com/author/dale",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/dale.png"
+  },
+  {
+    "id": "8",
+    "name": "Carla Whitfield",
+    "slug": "carla-whitfield",
+    "description": "Administrative assistant and content coordinator.",
+    "url": "https://www.whitakerfreight.com/author/carla",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/carla.png"
+  },
+  {
+    "id": "9",
+    "name": "Wayne Prater",
+    "slug": "wayne-prater",
+    "description": "Accountant and guest contributor on freight finance.",
+    "url": "https://www.whitakerfreight.com/author/wayne",
+    "roles": "author",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/wayne.png"
+  },
+  {
+    "id": "10",
+    "name": "Floyd Whitaker (Newsletter)",
+    "slug": "wfs-newsletter",
+    "description": "Whitaker Freight Services monthly newsletter byline.",
+    "url": "https://www.whitakerfreight.com/author/newsletter",
+    "roles": "editor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/newsletter.png"
+  },
+  {
+    "id": "11",
+    "name": "Donna Whitaker",
+    "slug": "donna-whitaker",
+    "description": "Guest author on the Whitaker BBQ and family recipes blog.",
+    "url": "https://www.whitakerfreight.com/author/donna",
+    "roles": "author",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/donna.png"
+  },
+  {
+    "id": "12",
+    "name": "Brandon Whitaker (Carrier Relations)",
+    "slug": "brandon-carrier-relations",
+    "description": "Junior associate byline for carrier resource articles.",
+    "url": "https://www.whitakerfreight.com/author/brandon-carriers",
+    "roles": "author",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/brandon-carriers.png"
+  },
+  {
+    "id": "13",
+    "name": "Roy Tackett",
+    "slug": "roy-tackett",
+    "description": "Guest contributor on Smoky Mountain fishing reports.",
+    "url": "https://www.whitakerfreight.com/author/roy",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/roy.png"
+  },
+  {
+    "id": "14",
+    "name": "Pastor James Harlan",
+    "slug": "james-harlan",
+    "description": "Guest writer on faith and community outreach.",
+    "url": "https://www.whitakerfreight.com/author/james",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/james.png"
+  },
+  {
+    "id": "15",
+    "name": "Darrell Whitaker",
+    "slug": "darrell-whitaker",
+    "description": "Whitaker Hauling owner and guest author on Appalachian trucking.",
+    "url": "https://www.whitakerfreight.com/author/darrell",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/darrell.png"
+  },
+  {
+    "id": "16",
+    "name": "Megan Whitaker",
+    "slug": "megan-whitaker",
+    "description": "Pre-law student and occasional contributor on freight law topics.",
+    "url": "https://www.whitakerfreight.com/author/megan",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/megan.png"
+  },
+  {
+    "id": "17",
+    "name": "WFS Carrier Resources",
+    "slug": "carrier-resources-byline",
+    "description": "Shared byline for the carrier resources knowledge base.",
+    "url": "https://www.whitakerfreight.com/author/carrier-resources",
+    "roles": "editor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/carrier-resources.png"
+  },
+  {
+    "id": "18",
+    "name": "WFS Web Admin",
+    "slug": "wfs-web-admin",
+    "description": "Site administrator account for whitakerfreight.com.",
+    "url": "https://www.whitakerfreight.com/author/web-admin",
+    "roles": "administrator",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/web-admin.png"
+  },
+  {
+    "id": "19",
+    "name": "Tammy Caldwell",
+    "slug": "tammy-caldwell",
+    "description": "Guest author on community events and the fall cookout.",
+    "url": "https://www.whitakerfreight.com/author/tammy",
+    "roles": "contributor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/tammy.png"
+  },
+  {
+    "id": "20",
+    "name": "Whitaker Smoke Shop",
+    "slug": "smoke-shop-byline",
+    "description": "Shared byline for the Whitaker Smoke Shop product blog.",
+    "url": "https://www.whitakerfreight.com/author/smoke-shop",
+    "roles": "editor",
+    "avatar_url": "https://www.whitakerfreight.com/avatars/smoke-shop.png"
+  }
+]

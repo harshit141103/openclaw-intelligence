@@ -1,0 +1,162 @@
+[
+  {
+    "device_id": "987002",
+    "zone_id": "zone_013",
+    "zone_name": "Smoker Pit Area",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.9"
+  },
+  {
+    "device_id": "987002",
+    "zone_id": "zone_014",
+    "zone_name": "Covered Patio",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987002",
+    "zone_id": "zone_015",
+    "zone_name": "Vegetable Garden",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.7,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "987003",
+    "zone_id": "zone_016",
+    "zone_name": "Driveway Approach",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.3,0.9"
+  },
+  {
+    "device_id": "987003",
+    "zone_id": "zone_017",
+    "zone_name": "Mailbox",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.3,0.3,0.6,0.8"
+  },
+  {
+    "device_id": "987003",
+    "zone_id": "zone_018",
+    "zone_name": "Sidewalk",
+    "sensitivity": "4",
+    "enabled": "false",
+    "coordinates": "0.6,0.4,1.0,0.9"
+  },
+  {
+    "device_id": "987001",
+    "zone_id": "zone_019",
+    "zone_name": "Front Porch",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.1,0.2,0.7,0.9"
+  },
+  {
+    "device_id": "987001",
+    "zone_id": "zone_020",
+    "zone_name": "Front Walkway",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.0,0.4,0.4,1.0"
+  },
+  {
+    "device_id": "987001",
+    "zone_id": "zone_021",
+    "zone_name": "Package Drop",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.2,0.6,0.6,1.0"
+  },
+  {
+    "device_id": "987001",
+    "zone_id": "zone_022",
+    "zone_name": "Street View",
+    "sensitivity": "3",
+    "enabled": "false",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987002",
+    "zone_id": "zone_023",
+    "zone_name": "Brick Smoker Pit",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.3,0.3,0.7,0.9"
+  },
+  {
+    "device_id": "987002",
+    "zone_id": "zone_024",
+    "zone_name": "Back Fence Line",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.4"
+  },
+  {
+    "device_id": "987004",
+    "zone_id": "zone_025",
+    "zone_name": "Garage Door",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.9"
+  },
+  {
+    "device_id": "987004",
+    "zone_id": "zone_026",
+    "zone_name": "Silverado Bay",
+    "sensitivity": "4",
+    "enabled": "true",
+    "coordinates": "0.0,0.4,0.5,1.0"
+  },
+  {
+    "device_id": "987004",
+    "zone_id": "zone_027",
+    "zone_name": "Workbench",
+    "sensitivity": "3",
+    "enabled": "false",
+    "coordinates": "0.5,0.4,1.0,1.0"
+  },
+  {
+    "device_id": "987005",
+    "zone_id": "zone_028",
+    "zone_name": "Side Gate Entry",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.2,0.2,0.8,0.9"
+  },
+  {
+    "device_id": "987005",
+    "zone_id": "zone_029",
+    "zone_name": "Trash Bins",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.5,0.4,1.0"
+  },
+  {
+    "device_id": "987005",
+    "zone_id": "zone_030",
+    "zone_name": "AC Unit",
+    "sensitivity": "4",
+    "enabled": "true",
+    "coordinates": "0.6,0.5,1.0,1.0"
+  },
+  {
+    "device_id": "987002",
+    "zone_id": "zone_031",
+    "zone_name": "Garden Beds",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.5,0.6,1.0,1.0"
+  },
+  {
+    "device_id": "987003",
+    "zone_id": "zone_032",
+    "zone_name": "Basketball Hoop",
+    "sensitivity": "3",
+    "enabled": "false",
+    "coordinates": "0.7,0.5,1.0,1.0"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "group_id": "grp-todo",
+    "board_id": "board-101",
+    "title": "To Vet",
+    "color": "#fdab3d",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-doing",
+    "board_id": "board-101",
+    "title": "In Review",
+    "color": "#0086c0",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-done",
+    "board_id": "board-101",
+    "title": "Cleared",
+    "color": "#00c875",
+    "position": "3"
+  },
+  {
+    "group_id": "grp-open",
+    "board_id": "board-102",
+    "title": "Active Loads",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-closed",
+    "board_id": "board-102",
+    "title": "Delivered",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-planned",
+    "board_id": "board-201",
+    "title": "Planned",
+    "color": "#a25ddc",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-live",
+    "board_id": "board-201",
+    "title": "Confirmed",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-eval",
+    "board_id": "board-202",
+    "title": "Evaluation",
+    "color": "#a25ddc",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-decided",
+    "board_id": "board-202",
+    "title": "Decided",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-active",
+    "board_id": "board-301",
+    "title": "Active Loads",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-delivered",
+    "board_id": "board-301",
+    "title": "Delivered",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-open",
+    "board_id": "board-302",
+    "title": "Active Loads",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-roster",
+    "board_id": "board-401",
+    "title": "Approved",
+    "color": "#00c875",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-watch",
+    "board_id": "board-401",
+    "title": "Watchlist",
+    "color": "#fdab3d",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-cap",
+    "board_id": "board-402",
+    "title": "Available",
+    "color": "#00c875",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-upcoming",
+    "board_id": "board-501",
+    "title": "Upcoming",
+    "color": "#a25ddc",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-flagged",
+    "board_id": "board-502",
+    "title": "Flagged",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-outstanding",
+    "board_id": "board-601",
+    "title": "Outstanding",
+    "color": "#fdab3d",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-paid",
+    "board_id": "board-601",
+    "title": "Paid",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-planning",
+    "board_id": "board-701",
+    "title": "Planning",
+    "color": "#a25ddc",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-new",
+    "board_id": "board-1001",
+    "title": "New Quotes",
+    "color": "#fdab3d",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-won",
+    "board_id": "board-1001",
+    "title": "Won",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-onboard",
+    "board_id": "board-1101",
+    "title": "In Progress",
+    "color": "#0086c0",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-conf",
+    "board_id": "board-1501",
+    "title": "To Do",
+    "color": "#fdab3d",
+    "position": "1"
+  }
+]

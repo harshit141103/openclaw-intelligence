@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OptimizationTest>
+    <TestID>RT-994</TestID>
+    <Timestamp>2026-10-02T14:30:00Z</Timestamp>
+    <Software>RoutePoint Logistics Suite</Software>
+    <Parameters>
+        <Origin>Knoxville, TN</Origin>
+        <Destination>Chicago, IL</Destination>
+        <AvoidTolls>True</AvoidTolls>
+        <WeighStationBypass>True</WeighStationBypass>
+    </Parameters>
+    <Results>
+        <EstimatedMiles>535</EstimatedMiles>
+        <EstimatedHours>8.5</EstimatedHours>
+        <ComplianceCheck>Passed</ComplianceCheck>
+    </Results>
+</OptimizationTest>

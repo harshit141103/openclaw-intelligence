@@ -1,0 +1,162 @@
+[
+  {
+    "symbol": "AAPL",
+    "bid_price": "18.99",
+    "bid_size": "3",
+    "ask_price": "24.00",
+    "ask_size": "2",
+    "timestamp": "2024-06-15T09:30:00Z"
+  },
+  {
+    "symbol": "MSFT",
+    "bid_price": "620.00",
+    "bid_size": "1",
+    "ask_price": "1200.00",
+    "ask_size": "4",
+    "timestamp": "2026-03-28T06:45:00Z"
+  },
+  {
+    "symbol": "TSLA",
+    "bid_price": "1850.00",
+    "bid_size": "5",
+    "ask_price": "2400.00",
+    "ask_size": "3",
+    "timestamp": "2026-01-08T17:30:00Z"
+  },
+  {
+    "symbol": "NVDA",
+    "bid_price": "28.99",
+    "bid_size": "2",
+    "ask_price": "34.50",
+    "ask_size": "2",
+    "timestamp": "2025-02-11T17:45:00Z"
+  },
+  {
+    "symbol": "AMZN",
+    "bid_price": "41.00",
+    "bid_size": "6",
+    "ask_price": "47.95",
+    "ask_size": "1",
+    "timestamp": "2025-11-29T09:45:00Z"
+  },
+  {
+    "symbol": "GOOGL",
+    "bid_price": "62.00",
+    "bid_size": "2",
+    "ask_price": "88.00",
+    "ask_size": "3",
+    "timestamp": "2026-08-06T08:00:00Z"
+  },
+  {
+    "symbol": "SPY",
+    "bid_price": "3200.00",
+    "bid_size": "8",
+    "ask_price": "4800.00",
+    "ask_size": "7",
+    "timestamp": "2025-01-27T10:15:00Z"
+  },
+  {
+    "symbol": "AAPL",
+    "bid_price": "110.00",
+    "bid_size": "3",
+    "ask_price": "6.80",
+    "ask_size": "2",
+    "timestamp": "2024-10-30T15:45:00Z"
+  },
+  {
+    "symbol": "MSFT",
+    "bid_price": "5400.00",
+    "bid_size": "1",
+    "ask_price": "6200.00",
+    "ask_size": "4",
+    "timestamp": "2026-09-19T12:45:00Z"
+  },
+  {
+    "symbol": "TSLA",
+    "bid_price": "8500.00",
+    "bid_size": "5",
+    "ask_price": "12000.00",
+    "ask_size": "3",
+    "timestamp": "2025-02-16T13:45:00Z"
+  },
+  {
+    "symbol": "NVDA",
+    "bid_price": "9.25",
+    "bid_size": "2",
+    "ask_price": "12.50",
+    "ask_size": "2",
+    "timestamp": "2025-11-28T12:15:00Z"
+  },
+  {
+    "symbol": "AMZN",
+    "bid_price": "18.99",
+    "bid_size": "6",
+    "ask_price": "24.00",
+    "ask_size": "1",
+    "timestamp": "2025-07-19T11:15:00Z"
+  },
+  {
+    "symbol": "GOOGL",
+    "bid_price": "28.99",
+    "bid_size": "2",
+    "ask_price": "34.50",
+    "ask_size": "3",
+    "timestamp": "2023-07-13T12:30:00Z"
+  },
+  {
+    "symbol": "SPY",
+    "bid_price": "18500.00",
+    "bid_size": "8",
+    "ask_price": "480.00",
+    "ask_size": "7",
+    "timestamp": "2025-12-30T18:45:00Z"
+  },
+  {
+    "symbol": "AAPL",
+    "bid_price": "41.00",
+    "bid_size": "3",
+    "ask_price": "47.95",
+    "ask_size": "2",
+    "timestamp": "2024-11-30T06:30:00Z"
+  },
+  {
+    "symbol": "MSFT",
+    "bid_price": "620.00",
+    "bid_size": "1",
+    "ask_price": "1200.00",
+    "ask_size": "4",
+    "timestamp": "2026-02-18T10:30:00Z"
+  },
+  {
+    "symbol": "TSLA",
+    "bid_price": "1850.00",
+    "bid_size": "5",
+    "ask_price": "2400.00",
+    "ask_size": "3",
+    "timestamp": "2024-04-20T16:15:00Z"
+  },
+  {
+    "symbol": "NVDA",
+    "bid_price": "62.00",
+    "bid_size": "2",
+    "ask_price": "88.00",
+    "ask_size": "2",
+    "timestamp": "2025-10-17T17:15:00Z"
+  },
+  {
+    "symbol": "AMZN",
+    "bid_price": "110.00",
+    "bid_size": "6",
+    "ask_price": "6.80",
+    "ask_size": "1",
+    "timestamp": "2024-11-06T13:00:00Z"
+  },
+  {
+    "symbol": "GOOGL",
+    "bid_price": "9.25",
+    "bid_size": "2",
+    "ask_price": "12.50",
+    "ask_size": "3",
+    "timestamp": "2026-09-08T06:30:00Z"
+  }
+]

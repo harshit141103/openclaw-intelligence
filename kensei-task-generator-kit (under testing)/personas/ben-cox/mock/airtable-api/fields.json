@@ -1,0 +1,122 @@
+[
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjName00001",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjStatus001",
+    "name": "Plane the bookshelf shelves and ease the",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjOwner0001",
+    "name": "Sand to 220 and raise the grain before f",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjBudget001",
+    "name": "Mock up the crown profile for the Hender",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskName00001",
+    "name": "Bookshelf install Friday the 16th",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskStatus001",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskProject01",
+    "name": "Template the Stowe countertop radius for",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskHours0001",
+    "name": "Template the Stowe countertop radius for",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskDone00001",
+    "name": "Project schedule update",
+    "type": "checkbox"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactNm0001",
+    "name": "Stage the bookshelf sections for the Cra",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactEml001",
+    "name": "Built-ins - finish sample for your approval",
+    "type": "email"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactCo0001",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactRl0001",
+    "name": "Henderson kitchen cabinets",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjName902",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjStatus903",
+    "name": "Church pew repair",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjOwner904",
+    "name": "Re: Stowe install date",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjBudget905",
+    "name": "Build the drawer boxes with half-blind d",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskName906",
+    "name": "Dry-fit the face frames before glue-up",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskStatus907",
+    "name": "Plane the bookshelf shelves and ease the",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskProject908",
+    "name": "Cherry pricing for the Henderson uppers",
+    "type": "singleLineText"
+  }
+]

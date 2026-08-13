@@ -1,0 +1,194 @@
+[
+  {
+    "list_id": "list-newsletter",
+    "email_address": "glen.mabry@cumberlandautoparts.com",
+    "full_name": "Glen Mabry",
+    "status": "subscribed",
+    "timestamp_signup": "2024-01-16T08:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "ruth.lyle@valleygrainco.com",
+    "full_name": "Ruth Lyle",
+    "status": "subscribed",
+    "timestamp_signup": "2024-01-18T09:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "pete.arnett@smokymtnsupply.com",
+    "full_name": "Pete Arnett",
+    "status": "subscribed",
+    "timestamp_signup": "2024-01-20T10:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "hal.eubanks@tristatemfg.com",
+    "full_name": "Hal Eubanks",
+    "status": "subscribed",
+    "timestamp_signup": "2024-01-22T11:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "nan.coley@appalachianag.com",
+    "full_name": "Nan Coley",
+    "status": "subscribed",
+    "timestamp_signup": "2024-01-25T12:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "keith.burgess@gmail.com",
+    "full_name": "Keith Burgess",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-02T08:30:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "darl.whitaker@gmail.com",
+    "full_name": "Darrell Whitaker",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-05T09:30:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "wayne.prater@gmail.com",
+    "full_name": "Wayne Prater",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-08T10:30:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "denise.pruitt@volunteerlogistics.com",
+    "full_name": "Denise Pruitt",
+    "status": "subscribed",
+    "timestamp_signup": "2024-03-01T08:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "sheila.barnes@smokymountainfreight.com",
+    "full_name": "Sheila Barnes",
+    "status": "subscribed",
+    "timestamp_signup": "2024-03-05T09:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "marcus.fields@cumberlandgapcarriers.com",
+    "full_name": "Marcus Fields",
+    "status": "subscribed",
+    "timestamp_signup": "2024-03-10T10:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "roy.tackett@ridgelinetrucking.com",
+    "full_name": "Roy Tackett",
+    "status": "subscribed",
+    "timestamp_signup": "2024-03-15T11:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "gary.stamper@tnfreight.org",
+    "full_name": "Gary Stamper",
+    "status": "subscribed",
+    "timestamp_signup": "2024-04-01T08:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "bren.sizemore@gmail.com",
+    "full_name": "Brenda Sizemore",
+    "status": "subscribed",
+    "timestamp_signup": "2024-04-10T09:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "carla.cooper@knoxshipping.com",
+    "full_name": "Carla Cooper",
+    "status": "unsubscribed",
+    "timestamp_signup": "2024-05-01T10:00:00.000Z",
+    "member_rating": "2"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "dwayne.fugate@routepointlogistics.com",
+    "full_name": "Dwayne Fugate",
+    "status": "subscribed",
+    "timestamp_signup": "2025-01-12T11:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "marcus.fields@cumberlandgapcarriers.com",
+    "full_name": "Marcus Fields",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-03T08:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "denise.pruitt@volunteerlogistics.com",
+    "full_name": "Denise Pruitt",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-05T09:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "roy.tackett@ridgelinetrucking.com",
+    "full_name": "Roy Tackett",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-08T10:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "sheila.barnes@smokymountainfreight.com",
+    "full_name": "Sheila Barnes",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-12T11:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "angela.mott@gmail.com",
+    "full_name": "Angela Mott",
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-08T08:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "cole.driskell@gmail.com",
+    "full_name": "Cole Driskell",
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-08T09:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "keith.burgess@gmail.com",
+    "full_name": "Keith Burgess",
+    "status": "subscribed",
+    "timestamp_signup": "2024-02-02T08:30:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "brand.whitaker@gmail.com",
+    "full_name": "Brandon Whitaker",
+    "status": "subscribed",
+    "timestamp_signup": "2024-06-03T10:00:00.000Z",
+    "member_rating": "4"
+  }
+]

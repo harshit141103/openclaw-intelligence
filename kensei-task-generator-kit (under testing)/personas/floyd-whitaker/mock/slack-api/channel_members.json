@@ -1,0 +1,126 @@
+[
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01FLOYD"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01BREN"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01BRAND"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01TRAVIS"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01LORRIE"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01DALE"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01CARLA"
+  },
+  {
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01FLOYD"
+  },
+  {
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01BRAND"
+  },
+  {
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01TRAVIS"
+  },
+  {
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01LORRIE"
+  },
+  {
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01CARLA"
+  },
+  {
+    "channel_id": "C01VETTING",
+    "user_id": "U01FLOYD"
+  },
+  {
+    "channel_id": "C01VETTING",
+    "user_id": "U01BREN"
+  },
+  {
+    "channel_id": "C01VETTING",
+    "user_id": "U01BRAND"
+  },
+  {
+    "channel_id": "C01VETTING",
+    "user_id": "U01TRAVIS"
+  },
+  {
+    "channel_id": "C01VETTING",
+    "user_id": "U01LORRIE"
+  },
+  {
+    "channel_id": "C01VOLS",
+    "user_id": "U01FLOYD"
+  },
+  {
+    "channel_id": "C01VOLS",
+    "user_id": "U01BRAND"
+  },
+  {
+    "channel_id": "C01VOLS",
+    "user_id": "U01TRAVIS"
+  },
+  {
+    "channel_id": "C01VOLS",
+    "user_id": "U01LORRIE"
+  },
+  {
+    "channel_id": "C01VOLS",
+    "user_id": "U01DALE"
+  },
+  {
+    "channel_id": "C01VOLS",
+    "user_id": "U01CARLA"
+  },
+  {
+    "channel_id": "C01MENTOR",
+    "user_id": "U01FLOYD"
+  },
+  {
+    "channel_id": "C01MENTOR",
+    "user_id": "U01KEITH"
+  },
+  {
+    "channel_id": "C01MENTOR",
+    "user_id": "U01BREN"
+  },
+  {
+    "channel_id": "C01MENTOR",
+    "user_id": "U01BRAND"
+  },
+  {
+    "channel_id": "G01OWNERS",
+    "user_id": "U01FLOYD"
+  },
+  {
+    "channel_id": "G01OWNERS",
+    "user_id": "U01BREN"
+  },
+  {
+    "channel_id": "C01MENTOR",
+    "user_id": "U01EARL"
+  },
+  {
+    "channel_id": "C01MENTOR",
+    "user_id": "U01ROYM"
+  }
+]

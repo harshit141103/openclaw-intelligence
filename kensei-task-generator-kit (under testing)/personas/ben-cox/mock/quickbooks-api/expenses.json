@@ -1,0 +1,285 @@
+[
+  {
+    "Id": "5201",
+    "TxnDate": "2024-11-05",
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Description": "Pete coming by Saturday for coffee; shop's a mess.",
+        "Amount": 620.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-04T08:45:00Z"
+    }
+  },
+  {
+    "Id": "5202",
+    "TxnDate": "2026-06-08",
+    "TotalAmt": 42000.0,
+    "Line": [
+      {
+        "Description": "Final fit of the Henderson island base cabinets",
+        "Amount": 1200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-11T07:45:00Z"
+    }
+  },
+  {
+    "Id": "5203",
+    "TxnDate": "2025-08-10",
+    "TotalAmt": 5400.0,
+    "Line": [
+      {
+        "Description": "Bookshelf install Friday the 16th",
+        "Amount": 1850.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2023-09-10T16:30:00Z"
+    }
+  },
+  {
+    "Id": "5204",
+    "TxnDate": "2026-04-04",
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Description": "Order Blum slides for the Stowe drawer banks",
+        "Amount": 2400.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-06-26T12:15:00Z"
+    }
+  },
+  {
+    "Id": "5205",
+    "TxnDate": "2024-12-03",
+    "TotalAmt": 95000.0,
+    "Line": [
+      {
+        "Description": "Sharpen the jointer knives and reset the infeed table",
+        "Amount": 3200.0
+      }
+    ],
+    "PrivateNote": "Mill cherry stock to thickness for the upper cabinet doors",
+    "MetaData": {
+      "CreateTime": "2025-03-26T15:30:00Z"
+    }
+  },
+  {
+    "Id": "5206",
+    "TxnDate": "2026-02-25",
+    "TotalAmt": 6800.0,
+    "Line": [
+      {
+        "Description": "Project schedule update",
+        "Amount": 4800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-08-06T13:30:00Z"
+    }
+  },
+  {
+    "Id": "5207",
+    "TxnDate": "2026-02-09",
+    "TotalAmt": 9600.0,
+    "Line": [
+      {
+        "Description": "Template the Stowe countertop radius for the corner cabinet",
+        "Amount": 5400.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-03-07T06:45:00Z"
+    }
+  },
+  {
+    "Id": "6102",
+    "TxnDate": "2025-04-09",
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Description": "Re: Bookshelf dimensions",
+        "Amount": 6200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-11T08:00:00Z"
+    }
+  },
+  {
+    "Id": "6104",
+    "TxnDate": "2026-06-21",
+    "TotalAmt": 42000.0,
+    "Line": [
+      {
+        "Description": "Re-saw the walnut for bookmatched panels",
+        "Amount": 8500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-06-13T07:30:00Z"
+    }
+  },
+  {
+    "Id": "6106",
+    "TxnDate": "2023-10-19",
+    "TotalAmt": 5400.0,
+    "Line": [
+      {
+        "Description": "Check the moisture content on the barn oak before joinery",
+        "Amount": 12000.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-09-04T06:45:00Z"
+    }
+  },
+  {
+    "Id": "6108",
+    "TxnDate": "2023-08-30",
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Description": "Cherry came in a shade darker than the sample - will read better after finish.",
+        "Amount": 18500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-07-01T13:15:00Z"
+    }
+  },
+  {
+    "Id": "6110",
+    "TxnDate": "2026-09-12",
+    "TotalAmt": 95000.0,
+    "Line": [
+      {
+        "Description": "Build the drawer boxes with half-blind dovetails",
+        "Amount": 480.0
+      }
+    ],
+    "PrivateNote": "Cut dadoes for the adjustable shelf pins",
+    "MetaData": {
+      "CreateTime": "2026-07-26T09:00:00Z"
+    }
+  },
+  {
+    "Id": "6112",
+    "TxnDate": "2025-12-30",
+    "TotalAmt": 6800.0,
+    "Line": [
+      {
+        "Description": "Build the drawer boxes with half-blind dovetails",
+        "Amount": 620.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-07-04T07:45:00Z"
+    }
+  },
+  {
+    "Id": "6114",
+    "TxnDate": "2025-04-18",
+    "TotalAmt": 9600.0,
+    "Line": [
+      {
+        "Description": "Built-ins - finish sample for your approval",
+        "Amount": 1200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-12-06T12:45:00Z"
+    }
+  },
+  {
+    "Id": "6109",
+    "TxnDate": "2025-06-28",
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Description": "Final fit of the Henderson island base cabinets",
+        "Amount": 1850.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-13T11:15:00Z"
+    }
+  },
+  {
+    "Id": "6111",
+    "TxnDate": "2024-08-21",
+    "TotalAmt": 42000.0,
+    "Line": [
+      {
+        "Description": "Material order - Hardwick Lumber",
+        "Amount": 2400.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-01-16T09:00:00Z"
+    }
+  },
+  {
+    "Id": "6113",
+    "TxnDate": "2025-05-21",
+    "TotalAmt": 5400.0,
+    "Line": [
+      {
+        "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+        "Amount": 3200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-18T14:15:00Z"
+    }
+  },
+  {
+    "Id": "6115",
+    "TxnDate": "2026-09-23",
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Description": "Built-ins - finish sample for your approval",
+        "Amount": 4800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-05T06:30:00Z"
+    }
+  },
+  {
+    "Id": "6117",
+    "TxnDate": "2026-08-31",
+    "TotalAmt": 95000.0,
+    "Line": [
+      {
+        "Description": "Re-saw the walnut for bookmatched panels",
+        "Amount": 5400.0
+      }
+    ],
+    "PrivateNote": "Lay out dovetails for the silverware drawer",
+    "MetaData": {
+      "CreateTime": "2024-05-11T13:30:00Z"
+    }
+  },
+  {
+    "Id": "6119",
+    "TxnDate": "2026-05-10",
+    "TotalAmt": 6800.0,
+    "Line": [
+      {
+        "Description": "Final fit of the Henderson island base cabinets",
+        "Amount": 6200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-02T09:00:00Z"
+    }
+  }
+]

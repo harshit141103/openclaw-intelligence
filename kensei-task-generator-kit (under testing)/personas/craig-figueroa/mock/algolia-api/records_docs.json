@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "doc-quickstart",
+    "title": "Drug Withdrawal Periods",
+    "body": "Meat and milk withdrawal periods for commonly dispensed products",
+    "section": "formulary",
+    "tags": "reference"
+  },
+  {
+    "objectID": "doc-tb",
+    "title": "TB Testing Procedure",
+    "body": "Intradermal comparative test steps and APHA recording",
+    "section": "compliance",
+    "tags": "tb;apha"
+  },
+  {
+    "objectID": "doc-cd",
+    "title": "Controlled Drugs SOP",
+    "body": "Recording, storage and disposal of controlled drugs",
+    "section": "compliance",
+    "tags": "controlled-drugs"
+  },
+  {
+    "objectID": "doc-calving",
+    "title": "Calving Assistance Guide",
+    "body": "Presentation, malpresentation and when to refer",
+    "section": "clinical",
+    "tags": "cattle"
+  },
+  {
+    "objectID": "doc-lambing",
+    "title": "Lambing Kit Checklist",
+    "body": "Equipment and drugs to carry during lambing season",
+    "section": "clinical",
+    "tags": "sheep"
+  },
+  {
+    "objectID": "doc-apha",
+    "title": "APHA Reporting Steps",
+    "body": "Notifiable disease and TB result submission process",
+    "section": "compliance",
+    "tags": "apha"
+  }
+]

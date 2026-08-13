@@ -1,0 +1,481 @@
+﻿[
+  {
+    "Id": "3201",
+    "DocNumber": "RENT-2026-05",
+    "VendorRef": {
+      "value": "4",
+      "name": "Affordable Housing Management Corp"
+    },
+    "TxnDate": "2026-05-01",
+    "DueDate": "2026-05-05",
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Monthly rent - May 2026. 1425 Oak Ridge Drive, Portland OR 97214",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Rent Expense",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time via bank transfer.",
+    "Status": "Paid"
+  },
+  {
+    "Id": "3202",
+    "DocNumber": "PGE-2026-05",
+    "VendorRef": {
+      "value": "1",
+      "name": "Portland General Electric"
+    },
+    "TxnDate": "2026-05-03",
+    "DueDate": "2026-05-20",
+    "Line": [
+      {
+        "Amount": 285.75,
+        "Description": "Electric service Apr 15 - May 15. Account #8827-4401-55.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 285.75,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3203",
+    "DocNumber": "WATER-2026-05",
+    "VendorRef": {
+      "value": "2",
+      "name": "City of Portland Water Bureau"
+    },
+    "TxnDate": "2026-05-08",
+    "DueDate": "2026-05-31",
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Water/sewer service - May. Account #WS-91204.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 62.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3204",
+    "DocNumber": "WIND-2026-05",
+    "VendorRef": {
+      "value": "3",
+      "name": "Windstream CommuniILtions"
+    },
+    "TxnDate": "2026-05-06",
+    "DueDate": "2026-05-25",
+    "Line": [
+      {
+        "Amount": 79.99,
+        "Description": "Internet and phone service - May. Account #INTL-2026-7742.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 79.99,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3205",
+    "DocNumber": "COMILST-2026-05",
+    "VendorRef": {
+      "value": "11",
+      "name": "ComILst Xfinity"
+    },
+    "TxnDate": "2026-05-02",
+    "DueDate": "2026-05-20",
+    "Line": [
+      {
+        "Amount": 250.0,
+        "Description": "ILble and broadband service - May. Account #XFINITY-7742.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 250.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3206",
+    "DocNumber": "TIRE-2026-05",
+    "VendorRef": {
+      "value": "8",
+      "name": "Les Schwab Tire Centers"
+    },
+    "TxnDate": "2026-05-14",
+    "DueDate": "2026-05-21",
+    "Line": [
+      {
+        "Amount": 320.0,
+        "Description": "Tire rotation, alignment, and inspection service",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Transportation & Fuel",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 320.0,
+    "Balance": 0,
+    "PrivateNote": "Regular maintenance - both vehicles checked.",
+    "Status": "Paid"
+  },
+  {
+    "Id": "3207",
+    "DocNumber": "AUTO-2026-05",
+    "VendorRef": {
+      "value": "9",
+      "name": "Stumptown Automotive"
+    },
+    "TxnDate": "2026-05-04",
+    "DueDate": "2026-05-11",
+    "Line": [
+      {
+        "Amount": 125.5,
+        "Description": "Vehicle inspection and minor service work",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Transportation & Fuel",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 125.5,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3208",
+    "DocNumber": "PROF-2026-05",
+    "VendorRef": {
+      "value": "10",
+      "name": "Amazon Business"
+    },
+    "TxnDate": "2026-05-09",
+    "DueDate": "2026-05-20",
+    "Line": [
+      {
+        "Amount": 89.5,
+        "Description": "Professional development materials - Office supplies and tech accessories",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Professional Services",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 89.5,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3209",
+    "DocNumber": "SUBS-2026-05",
+    "VendorRef": {
+      "value": "5",
+      "name": "Safeway Inc."
+    },
+    "TxnDate": "2026-05-10",
+    "DueDate": "2026-05-17",
+    "Line": [
+      {
+        "Amount": 187.45,
+        "Description": "Weekly grocery shopping",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Groceries & Food",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 187.45,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3210",
+    "DocNumber": "GROC-2026-05-2",
+    "VendorRef": {
+      "value": "5",
+      "name": "Safeway Inc."
+    },
+    "TxnDate": "2026-05-12",
+    "DueDate": "2026-05-19",
+    "Line": [
+      {
+        "Amount": 145.75,
+        "Description": "Weekly grocery shopping",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Groceries & Food",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 145.75,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3211",
+    "DocNumber": "GROC-2026-05-3",
+    "VendorRef": {
+      "value": "5",
+      "name": "Safeway Inc."
+    },
+    "TxnDate": "2026-05-16",
+    "DueDate": "2026-05-23",
+    "Line": [
+      {
+        "Amount": 195.85,
+        "Description": "Weekly grocery shopping",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Groceries & Food",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 195.85,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3212",
+    "DocNumber": "GROC-2026-05-4",
+    "VendorRef": {
+      "value": "5",
+      "name": "Safeway Inc."
+    },
+    "TxnDate": "2026-05-20",
+    "DueDate": "2026-05-27",
+    "Line": [
+      {
+        "Amount": 175.45,
+        "Description": "Weekly grocery shopping",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Groceries & Food",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 175.45,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3213",
+    "DocNumber": "SHOP-2026-05",
+    "VendorRef": {
+      "value": "6",
+      "name": "Fred Meyer Stores"
+    },
+    "TxnDate": "2026-05-12",
+    "DueDate": "2026-05-22",
+    "Line": [
+      {
+        "Amount": 125.3,
+        "Description": "Household supplies and personal items",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Household Expenses",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 125.3,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3214",
+    "DocNumber": "SHOP-2026-05-2",
+    "VendorRef": {
+      "value": "6",
+      "name": "Fred Meyer Stores"
+    },
+    "TxnDate": "2026-05-18",
+    "DueDate": "2026-05-25",
+    "Line": [
+      {
+        "Amount": 250.0,
+        "Description": "Household supplies and personal ILre items",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Household Expenses",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 250.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3215",
+    "DocNumber": "FUEL-2026-05-1",
+    "VendorRef": {
+      "value": "7",
+      "name": "Shell Gas Stations"
+    },
+    "TxnDate": "2026-05-07",
+    "DueDate": "2026-05-14",
+    "Line": [
+      {
+        "Amount": 52.85,
+        "Description": "Vehicle fuel - Regular fill-up",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Transportation & Fuel",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 52.85,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3216",
+    "DocNumber": "FUEL-2026-05-2",
+    "VendorRef": {
+      "value": "7",
+      "name": "Shell Gas Stations"
+    },
+    "TxnDate": "2026-05-13",
+    "DueDate": "2026-05-20",
+    "Line": [
+      {
+        "Amount": 68.5,
+        "Description": "Vehicle fuel and oil",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Transportation & Fuel",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 68.5,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3217",
+    "DocNumber": "FUEL-2026-05-3",
+    "VendorRef": {
+      "value": "7",
+      "name": "Shell Gas Stations"
+    },
+    "TxnDate": "2026-05-17",
+    "DueDate": "2026-05-24",
+    "Line": [
+      {
+        "Amount": 72.0,
+        "Description": "Vehicle fuel - Regular fill-up",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Transportation & Fuel",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 72.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3218",
+    "DocNumber": "FUEL-2026-05-4",
+    "VendorRef": {
+      "value": "7",
+      "name": "Shell Gas Stations"
+    },
+    "TxnDate": "2026-05-21",
+    "DueDate": "2026-05-28",
+    "Line": [
+      {
+        "Amount": 55.0,
+        "Description": "Vehicle fuel - Regular fill-up",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Transportation & Fuel",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 55.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "3219",
+    "DocNumber": "PROF-SUBS-2026-05",
+    "VendorRef": {
+      "value": "10",
+      "name": "Amazon Business"
+    },
+    "TxnDate": "2026-05-01",
+    "DueDate": "2026-05-15",
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Professional development subscriptions - Coursera, LinkedIn Learning, techniILl certifiILtions",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Professional Services",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "PrivateNote": "Monthly recurring for skill development and ILreer advancement.",
+    "Status": "Paid"
+  }
+]
+

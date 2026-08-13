@@ -1,0 +1,18 @@
+[
+  {
+    "id": "who-9001",
+    "employeeId": "emp-102",
+    "name": "Duncan Fraser",
+    "type": "Vacation",
+    "start": "2026-06-08",
+    "end": "2026-06-12"
+  },
+  {
+    "id": "who-9002",
+    "employeeId": "emp-107",
+    "name": "Yuki Tanaka",
+    "type": "Vacation",
+    "start": "2026-05-28",
+    "end": "2026-05-30"
+  }
+]

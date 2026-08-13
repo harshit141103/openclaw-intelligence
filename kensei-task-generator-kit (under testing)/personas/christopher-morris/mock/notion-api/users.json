@@ -1,0 +1,112 @@
+[
+  {
+    "id": "user-christopher",
+    "name": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/christopher.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "user-greg",
+    "name": "Greg Morris",
+    "email": "greg.morris@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/greg.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-02T10:00:00.000Z"
+  },
+  {
+    "id": "user-owen",
+    "name": "Owen Morris",
+    "email": "owen.morris@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/owen.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-03T10:00:00.000Z"
+  },
+  {
+    "id": "user-sophie",
+    "name": "Sophie Morris",
+    "email": "sophie.morris@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/sophie.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-04T10:00:00.000Z"
+  },
+  {
+    "id": "user-meg",
+    "name": "Meg Patterson",
+    "email": "meg.patterson@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/meg.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-05T11:00:00.000Z"
+  },
+  {
+    "id": "user-sandra",
+    "name": "Sandra Chen",
+    "email": "sandra.chen@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/sandra.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-06T11:30:00.000Z"
+  },
+  {
+    "id": "user-priya",
+    "name": "Priya Desai",
+    "email": "priya.desai@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/priya.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-07T12:00:00.000Z"
+  },
+  {
+    "id": "user-mike",
+    "name": "Mike Poletti",
+    "email": "mike.poletti@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/mike.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-08T14:00:00.000Z"
+  },
+  {
+    "id": "user-janet",
+    "name": "Janet Brennan",
+    "email": "janet.brennan@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/janet.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-09T15:00:00.000Z"
+  },
+  {
+    "id": "user-rita",
+    "name": "Rita Brennan-Cole",
+    "email": "rita.brennan@meridianbenefits.com",
+    "avatar_url": "https://avatars.example.com/rita.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-10T16:30:00.000Z"
+  },
+  {
+    "id": "bot-benefits-sync",
+    "name": "Benefits Sync Bot",
+    "email": "",
+    "avatar_url": "https://avatars.example.com/bot.png",
+    "type": "bot",
+    "bot": "true",
+    "owner_workspace": "workspace-meridian",
+    "created_time": "2025-09-02T08:00:00.000Z"
+  }
+]

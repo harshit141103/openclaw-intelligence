@@ -1,0 +1,203 @@
+﻿[
+  {
+    "id": "ORD_GROCERY01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_GROCERIES x1",
+    "total_amount": "28500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-01T10:44:00Z"
+  },
+  {
+    "id": "ORD_GAS01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_FUEL x1",
+    "total_amount": "5200",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-01T14:29:00Z"
+  },
+  {
+    "id": "ORD_DINING01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_DINNER x2",
+    "total_amount": "8950",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-02T19:14:00Z"
+  },
+  {
+    "id": "ORD_UTILITY01",
+    "customer_id": "CUST_UTILITY01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_WATER_BILL x1",
+    "total_amount": "18000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-03T07:59:00Z"
+  },
+  {
+    "id": "ORD_FITNESS01",
+    "customer_id": "CUST_FITNESS01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_GYM_MEMBERSHIP x1",
+    "total_amount": "6500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-03T06:29:00Z"
+  },
+  {
+    "id": "ORD_INSURANCE01",
+    "customer_id": "CUST_INSURANCE01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_INSURANCE_PREMIUM x1",
+    "total_amount": "15200",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-04T08:59:00Z"
+  },
+  {
+    "id": "ORD_HEALTHILRE01",
+    "customer_id": "CUST_HEALTHILRE01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_COPAY x1; ITEM_MEDIILTION x1",
+    "total_amount": "4200",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-05T10:59:00Z"
+  },
+  {
+    "id": "ORD_RETAIL01",
+    "customer_id": "CUST_RETAIL01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_PRODUCE x3; ITEM_DAIRY x2; ITEM_PANTRY x5",
+    "total_amount": "12300",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-05T15:19:00Z"
+  },
+  {
+    "id": "ORD_WORK01",
+    "customer_id": "CUST_CHRISTOPHER02",
+    "loILtion_id": "LOC_WORK",
+    "line_items": "ITEM_OFFICE_SUPPLIES x1; ITEM_CONFERENCE_FEE x1",
+    "total_amount": "3400",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-06T09:29:00Z"
+  },
+  {
+    "id": "ORD_HOUSEHOLD01",
+    "customer_id": "CUST_GREG01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_HOME_REPAIR x1; ITEM_SUPPLIES x2",
+    "total_amount": "6800",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-06T14:44:00Z"
+  },
+  {
+    "id": "ORD_GROCERIES02",
+    "customer_id": "CUST_RETAIL01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_GROCERIES x2; ITEM_HOUSEHOLD x3",
+    "total_amount": "15600",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-07T10:14:00Z"
+  },
+  {
+    "id": "ORD_DINING02",
+    "customer_id": "CUST_DINING01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_DINNER x2; ITEM_APPETIZER x1",
+    "total_amount": "7200",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-07T18:59:00Z"
+  },
+  {
+    "id": "ORD_GAS02",
+    "customer_id": "CUST_FUEL01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_FUEL x1",
+    "total_amount": "5100",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-08T13:29:00Z"
+  },
+  {
+    "id": "ORD_ONLINE01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_ONLINE_RETAIL x3",
+    "total_amount": "8500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-08T16:19:00Z"
+  },
+  {
+    "id": "ORD_ENTERTAINMENT01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_MOVIE_TICKETS x2; ITEM_STREAMING x1",
+    "total_amount": "4300",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-09T18:44:00Z"
+  },
+  {
+    "id": "ORD_HOUSEHOLD02",
+    "customer_id": "CUST_GREG01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_FURNITURE x1",
+    "total_amount": "9200",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-09T10:59:00Z"
+  },
+  {
+    "id": "ORD_COFFEE01",
+    "customer_id": "CUST_CHRISTOPHER02",
+    "loILtion_id": "LOC_WORK",
+    "line_items": "ITEM_COFFEE x2; ITEM_PASTRY x1",
+    "total_amount": "650",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-09T08:29:00Z"
+  },
+  {
+    "id": "ORD_PERSONAL01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_CLOTHING x2",
+    "total_amount": "3700",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-09T20:14:00Z"
+  },
+  {
+    "id": "ORD_TRANSFER01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_PAYCHECK x1",
+    "total_amount": "250000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-10T06:59:00Z"
+  },
+  {
+    "id": "ORD_SAVINGS01",
+    "customer_id": "CUST_CHRISTOPHER01",
+    "loILtion_id": "LOC_MAIN",
+    "line_items": "ITEM_INVESTMENT x1",
+    "total_amount": "180000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-06-10T07:59:00Z"
+  }
+]
+

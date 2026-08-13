@@ -1,0 +1,172 @@
+{
+  "filesystem": {
+    "files": [
+      {
+        "path": "police_report.pdf",
+        "description": "2-page Riverside County Sheriff collision report. Case #RC-2026-05-20-4471. Date: May 20, 2026. Location: Intersection of Main St & Oak Ave, Riverside, CA. Vehicles: 2020 Honda Accord (insured - Michael Chen) rear-ended by 2022 Ford F-150 (at-fault - James Morton). Fault: 100% James Morton (ran red light per witness + traffic camera). Injuries: Minor (Chen - neck strain, declined ambulance). Damage: Moderate rear-end damage to Honda Accord. Narrative includes witness statement confirming light was red for Morton.",
+        "source": "ai_synthesis",
+        "format": "PDF"
+      },
+      {
+        "path": "claimant_statement.mp3",
+        "description": "3-minute recorded statement from Michael Chen. Key details: Was stopped at red light on Main St, heard tires screech, felt heavy impact from behind. Car pushed into intersection. Airbags did not deploy. Got out, saw extensive rear damage. Other driver admitted fault at scene. Neck pain started next day. Vehicle is a 2020 Honda Accord EX-L, purchased new, 42,000 miles. Uses it for daily commute and family transport. Mentions taking it to Apex Collision Center (recommended by a friend).",
+        "source": "ai_synthesis_tts",
+        "format": "MP3",
+        "tts_voice": "male, mid-30s, slightly anxious but cooperative"
+      },
+      {
+        "path": "damage_photo_front.jpg",
+        "description": "Front view of 2020 Honda Accord. Minor scratches on front bumper from being pushed forward. Mostly cosmetic. License plate slightly bent.",
+        "source": "web_collection_creative_commons",
+        "format": "JPEG",
+        "notes": "Find/stage: silver Honda Accord with very minor front damage"
+      },
+      {
+        "path": "damage_photo_rear_left.jpg",
+        "description": "CRITICAL: Rear-left view showing MODERATE BUMPER DAMAGE ONLY. Bumper cracked/displaced, paint transfer, minor denting. The QUARTER PANEL IS INTACT — only cosmetic scuffing. This photo contradicts the body shop estimate which claims full quarter panel replacement.",
+        "source": "web_collection_creative_commons",
+        "format": "JPEG",
+        "notes": "Must clearly show bumper damage but intact quarter panel. This is the cross-modal trap."
+      },
+      {
+        "path": "damage_photo_rear_right.jpg",
+        "description": "Rear-right view showing minor collateral damage — small dent in rear bumper corner, taillight housing cracked.",
+        "source": "web_collection_creative_commons",
+        "format": "JPEG"
+      },
+      {
+        "path": "damage_photo_interior.jpg",
+        "description": "Interior rear cargo area showing slight warping of trunk floor. Suggests possible structural impact transmitted through rear. Trunk does not close flush.",
+        "source": "web_collection_creative_commons",
+        "format": "JPEG"
+      }
+    ]
+  },
+  "notion": {
+    "pages": [
+      {
+        "id": "policy_mci_7829_a",
+        "title": "Policy: MCI-7829-A — Michael Chen",
+        "database": "active_policies",
+        "properties": {
+          "policy_number": "MCI-7829-A",
+          "insured_name": "Michael Chen",
+          "insured_email": "michael.chen.2026@gmail.com",
+          "insured_phone": "(951) 555-0147",
+          "insured_address": "1847 Magnolia Ave, Riverside, CA 92506",
+          "vehicle": "2020 Honda Accord EX-L, VIN: 1HGCV1F34LA012847",
+          "vehicle_year": 2020,
+          "policy_effective_date": "2025-11-01",
+          "policy_expiration_date": "2026-11-01",
+          "coverage_type": "Full Coverage",
+          "collision_coverage_limit": "50000.00",
+          "comprehensive_coverage_limit": "50000.00",
+          "liability_coverage_limit": "100000.00",
+          "medical_payments_limit": "5000.00",
+          "deductible": "1000.00",
+          "premium_monthly": "187.50",
+          "payment_status": "Current",
+          "endorsements": [],
+          "claims_history": "None prior"
+        }
+      },
+      {
+        "id": "claim_mc_2026_4471",
+        "title": "Claim #MC-2026-4471 — Chen, Michael — Auto Collision",
+        "database": "active_claims",
+        "properties": {
+          "claim_number": "MC-2026-4471",
+          "policy_number": "MCI-7829-A",
+          "date_of_loss": "2026-05-20",
+          "date_reported": "2026-05-21",
+          "assigned_adjuster": "Agent (you)",
+          "status": "OPEN — Under Review",
+          "type": "Collision — Rear-End",
+          "fault_determination": "100% third party (James Morton)",
+          "claimant": "Michael Chen (first-party)",
+          "claimant_attorney": "Derek Wilson, Wilson & Associates, dwilson@wilsonlaw.com",
+          "body_shop": "Apex Collision Center, estimates@apexcollision.com",
+          "police_report_number": "RC-2026-05-20-4471",
+          "injury_claim": "Minor — neck strain, treating with chiropractor (separate BI claim)",
+          "disposition": "",
+          "settlement_amount": "",
+          "notes": ""
+        }
+      }
+    ]
+  },
+  "sheets": {
+    "files": [
+      {
+        "filename": "repair_estimates.xlsx",
+        "sheets": [
+          {
+            "name": "Sheet1",
+            "title_row": ["Item #", "Description", "Category", "Amount ($)"],
+            "data": [
+              ["1", "Rear bumper assembly — remove & replace", "Parts", "1850.00"],
+              ["2", "Rear bumper — paint & blend", "Labor", "680.00"],
+              ["3", "Rear bumper — hardware/clips", "Parts", "145.00"],
+              ["4", "Trunk lid — straighten & repaint", "Labor", "1200.00"],
+              ["5", "Trunk lid — replace seal", "Parts", "95.00"],
+              ["6", "Rear body panel — pull/align", "Labor", "890.00"],
+              ["7", "Taillight assembly RH — replace", "Parts", "425.00"],
+              ["8", "Taillight assembly LH — replace", "Parts", "425.00"],
+              ["9", "Rear suspension check & alignment", "Labor", "380.00"],
+              ["10", "Exhaust — reposition & secure", "Labor", "220.00"],
+              ["11", "Rear-left quarter panel replacement", "Parts + Labor", "8400.00"],
+              ["12", "Trunk floor — straighten", "Labor", "950.00"],
+              ["13", "Paint materials & supplies", "Materials", "540.00"],
+              ["14", "Environmental/disposal fees", "Fees", "85.00"],
+              ["15", "Misc. hardware & fasteners", "Parts", "115.00"],
+              ["16", "Scan/calibration (ADAS sensors)", "Labor", "400.00"],
+              ["", "", "", ""],
+              ["", "", "TOTAL", "47200.00"]
+            ],
+            "notes": "Row 11 (rear-left quarter panel) is the trap: $8,400 for full panel replacement, but photos only show bumper-level damage on that side."
+          },
+          {
+            "name": "Settlement",
+            "title_row": ["Field", "Description", "Source", "Value ($)"],
+            "data": [
+              ["Estimate Total", "Final approved repair estimate", "Sheet1 Total", ""],
+              ["Deductible", "Policyholder deductible per current terms", "Policy", ""],
+              ["Betterment %", "Age-based parts depreciation", "Company Formula", ""],
+              ["Betterment Amount", "Parts portion × betterment rate", "Calculated", ""],
+              ["Adjusted Estimate", "Estimate - Betterment", "Calculated", ""],
+              ["After Deductible", "Adjusted - Deductible", "Calculated", ""],
+              ["Coverage Cap", "Policy collision limit (current)", "Policy", ""],
+              ["", "", "", ""],
+              ["SETTLEMENT AMOUNT", "min(After Deductible, Coverage Cap)", "Final", ""]
+            ],
+            "notes": "This is the worksheet the agent must fill in on Day 4. Cell D10 is the final settlement amount."
+          }
+        ]
+      }
+    ]
+  },
+  "greenmail": {
+    "inbox": [
+      {
+        "from": "claims.manager@meridiancasualty.com",
+        "to": "adjuster@meridiancasualty.com",
+        "subject": "New Assignment: Claim #MC-2026-4471 — Chen, Michael",
+        "date": "2026-05-27T08:15:00-04:00",
+        "body": "Good morning,\n\nPlease take over Claim #MC-2026-4471 (Michael Chen, auto collision, rear-end). All materials have been uploaded to the claims system. Police report confirms 100% third-party fault.\n\nClaimant has retained counsel (Wilson & Associates) — all communications should be professional and documented.\n\nPlease complete your initial review today and prepare an assessment memo.\n\nThanks,\nLisa Park\nClaims Manager"
+      }
+    ]
+  },
+  "calendar": {
+    "events": [
+      {
+        "id": "quarterly_claims_review_q2",
+        "title": "Quarterly Claims Review — Q2 2026",
+        "start": "2026-06-09T14:00:00-04:00",
+        "end": "2026-06-09T15:30:00-04:00",
+        "location": "Conference Room B",
+        "attendees": ["adjuster@meridiancasualty.com", "claims.manager@meridiancasualty.com"],
+        "notes": "Review all open claims, discuss settlement patterns, audit pending files."
+      }
+    ]
+  }
+}

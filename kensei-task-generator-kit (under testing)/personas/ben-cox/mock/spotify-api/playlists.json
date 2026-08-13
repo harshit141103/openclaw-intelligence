@@ -1,0 +1,162 @@
+[
+  {
+    "playlist_id": "37i9dQZF1DXcBWIGoYBM5M",
+    "name": "Bill Monroe",
+    "description": "Down on the Corner",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "2v3iNvBX8Ay1Gt2uXtUKUg",
+    "name": "Black Mountain Rag",
+    "description": "Gimme Shelter",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "1hP3rT9sNuVbXc2Yd9Lm4q",
+    "name": "Sweet Virginia",
+    "description": "Bill Monroe",
+    "owner_id": "user-leo",
+    "public": "false",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "5kQ2wP3nXvLbWc8Yd1Fm6r",
+    "name": "Going to California",
+    "description": "Cortez the Killer",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "true"
+  },
+  {
+    "playlist_id": "37i9dQZF1DXcBWIGoYBM5M",
+    "name": "Deep River Blues",
+    "description": "Folsom Prison Blues",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "2v3iNvBX8Ay1Gt2uXtUKUg",
+    "name": "Black Mountain Rag",
+    "description": "Wagon Wheel",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "1hP3rT9sNuVbXc2Yd9Lm4q",
+    "name": "Bill Monroe",
+    "description": "Blue Ridge Cabin Home",
+    "owner_id": "user-leo",
+    "public": "false",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "5kQ2wP3nXvLbWc8Yd1Fm6r",
+    "name": "The Rolling Stones",
+    "description": "Blue Ridge Cabin Home",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "true"
+  },
+  {
+    "playlist_id": "37i9dQZF1DXcBWIGoYBM5M",
+    "name": "Bill Monroe",
+    "description": "Deep River Blues",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "2v3iNvBX8Ay1Gt2uXtUKUg",
+    "name": "Down on the Corner",
+    "description": "Going to California",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "1hP3rT9sNuVbXc2Yd9Lm4q",
+    "name": "Ramble On",
+    "description": "Led Zeppelin",
+    "owner_id": "user-leo",
+    "public": "false",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "5kQ2wP3nXvLbWc8Yd1Fm6r",
+    "name": "Bill Monroe",
+    "description": "Black Mountain Rag",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "true"
+  },
+  {
+    "playlist_id": "37i9dQZF1DXcBWIGoYBM5M",
+    "name": "Mama Tried",
+    "description": "Mama Tried",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "2v3iNvBX8Ay1Gt2uXtUKUg",
+    "name": "Gimme Shelter",
+    "description": "Fortunate Son",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "1hP3rT9sNuVbXc2Yd9Lm4q",
+    "name": "Led Zeppelin",
+    "description": "Bill Monroe",
+    "owner_id": "user-leo",
+    "public": "false",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "5kQ2wP3nXvLbWc8Yd1Fm6r",
+    "name": "Folsom Prison Blues",
+    "description": "Led Zeppelin",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "true"
+  },
+  {
+    "playlist_id": "37i9dQZF1DXcBWIGoYBM5M",
+    "name": "Blue Ridge Cabin Home",
+    "description": "Up Around the Bend",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "2v3iNvBX8Ay1Gt2uXtUKUg",
+    "name": "Johnny Cash",
+    "description": "The Band",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "1hP3rT9sNuVbXc2Yd9Lm4q",
+    "name": "Heart of Gold",
+    "description": "Fortunate Son",
+    "owner_id": "user-leo",
+    "public": "false",
+    "collaborative": "false"
+  },
+  {
+    "playlist_id": "5kQ2wP3nXvLbWc8Yd1Fm6r",
+    "name": "Ramble On",
+    "description": "The Band",
+    "owner_id": "user-leo",
+    "public": "true",
+    "collaborative": "true"
+  }
+]

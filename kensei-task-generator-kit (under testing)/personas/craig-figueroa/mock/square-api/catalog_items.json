@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ITEM_CONSULT",
+    "type": "ITEM",
+    "name": "Standard Consultation",
+    "description": "Routine farm or croft consultation",
+    "category": "Veterinary Services",
+    "variation_id": "VAR_CONSULT",
+    "variation_name": "Standard",
+    "price_amount": "4500",
+    "currency": "GBP"
+  },
+  {
+    "id": "ITEM_TBTEST",
+    "type": "ITEM",
+    "name": "TB Test (per animal)",
+    "description": "APHA TB testing per head",
+    "category": "Veterinary Services",
+    "variation_id": "VAR_TBTEST",
+    "variation_name": "Per head",
+    "price_amount": "350",
+    "currency": "GBP"
+  },
+  {
+    "id": "ITEM_SCAN",
+    "type": "ITEM",
+    "name": "Fertility Scan",
+    "description": "Bovine pregnancy diagnosis scan",
+    "category": "Veterinary Services",
+    "variation_id": "VAR_SCAN",
+    "variation_name": "Per cow",
+    "price_amount": "1200",
+    "currency": "GBP"
+  },
+  {
+    "id": "ITEM_CALLOUT",
+    "type": "ITEM",
+    "name": "Emergency Call-out",
+    "description": "Out-of-hours emergency visit",
+    "category": "Veterinary Services",
+    "variation_id": "VAR_CALLOUT",
+    "variation_name": "Per visit",
+    "price_amount": "9500",
+    "currency": "GBP"
+  },
+  {
+    "id": "ITEM_LAMB",
+    "type": "ITEM",
+    "name": "Lambing Assistance",
+    "description": "Assisted lambing or caesarean",
+    "category": "Veterinary Services",
+    "variation_id": "VAR_LAMB",
+    "variation_name": "Per ewe",
+    "price_amount": "8500",
+    "currency": "GBP"
+  },
+  {
+    "id": "ITEM_VACC",
+    "type": "ITEM",
+    "name": "Vaccination (per head)",
+    "description": "Herd or flock vaccination",
+    "category": "Veterinary Services",
+    "variation_id": "VAR_VACC",
+    "variation_name": "Per head",
+    "price_amount": "450",
+    "currency": "GBP"
+  },
+  {
+    "id": "ITEM_DRUG",
+    "type": "ITEM",
+    "name": "Dispensed Medication",
+    "description": "Prescription medication dispensed",
+    "category": "Veterinary Services",
+    "variation_id": "VAR_DRUG",
+    "variation_name": "Per item",
+    "price_amount": "0",
+    "currency": "GBP"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "flag_4001",
+    "project_id": "1",
+    "key": "quote-form-v2",
+    "name": "New Quote Request Form",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4002",
+    "project_id": "1",
+    "key": "carrier-directory",
+    "name": "Public Carrier Directory",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4003",
+    "project_id": "1",
+    "key": "live-chat-widget",
+    "name": "Live Chat Widget",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4004",
+    "project_id": "1",
+    "key": "instant-rate-estimate",
+    "name": "Instant Rate Estimate",
+    "active": "true",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4005",
+    "project_id": "2",
+    "key": "load-board-beta",
+    "name": "Internal Load Board Beta",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4006",
+    "project_id": "1",
+    "key": "shipment-tracking-page",
+    "name": "Customer Shipment Tracking Page",
+    "active": "true",
+    "rollout_percentage": "75"
+  },
+  {
+    "id": "flag_4007",
+    "project_id": "1",
+    "key": "carrier-signup-form",
+    "name": "Carrier Signup Form",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4008",
+    "project_id": "1",
+    "key": "fuel-surcharge-calculator",
+    "name": "Fuel Surcharge Calculator",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4009",
+    "project_id": "1",
+    "key": "testimonials-section",
+    "name": "Client Testimonials Section",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4010",
+    "project_id": "1",
+    "key": "mentorship-landing-page",
+    "name": "TN Freight Mentorship Landing Page",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4011",
+    "project_id": "1",
+    "key": "webinar-registration",
+    "name": "DOT Webinar Registration Form",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4012",
+    "project_id": "1",
+    "key": "dark-mode-toggle",
+    "name": "Site Dark Mode Toggle",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4013",
+    "project_id": "1",
+    "key": "service-area-map",
+    "name": "Service Area Coverage Map",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4014",
+    "project_id": "1",
+    "key": "blog-freight-tips",
+    "name": "Freight Tips Blog Section",
+    "active": "true",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4015",
+    "project_id": "2",
+    "key": "carrier-scorecard",
+    "name": "Internal Carrier Scorecard",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4016",
+    "project_id": "2",
+    "key": "margin-dashboard",
+    "name": "Load Margin Dashboard",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4017",
+    "project_id": "2",
+    "key": "routepoint-integration",
+    "name": "RoutePoint Logistics Integration",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4018",
+    "project_id": "2",
+    "key": "freightflow-integration",
+    "name": "FreightFlow Pro Integration",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4019",
+    "project_id": "2",
+    "key": "auto-carrier-vetting",
+    "name": "Automated Carrier Vetting Refresh",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4020",
+    "project_id": "2",
+    "key": "staff-mobile-app",
+    "name": "Staff Mobile Load App",
+    "active": "true",
+    "rollout_percentage": "75"
+  }
+]

@@ -1,0 +1,148 @@
+﻿[
+  {
+    "id": "d-1a2b3c4d5e6f7081",
+    "name": "Welcome Email",
+    "generation": "dynamic",
+    "subject": "Welcome to Meridian Benefits Group, {{first_name}}!",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you.</p>",
+    "active": "true",
+    "updated_at": "2026-05-10T10:00:00Z"
+  },
+  {
+    "id": "d-2b3c4d5e6f708192",
+    "name": "Password Reset",
+    "generation": "dynamic",
+    "subject": "Reset your Meridian Benefits Group password",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "active": "true",
+    "updated_at": "2026-05-12T11:30:00Z"
+  },
+  {
+    "id": "d-3c4d5e6f70819203",
+    "name": "Monthly Newsletter",
+    "generation": "dynamic",
+    "subject": "Meridian Benefits Group â€” {{month}} highlights",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "active": "true",
+    "updated_at": "2026-05-20T09:15:00Z"
+  },
+  {
+    "id": "d-4d5e6f7081920314",
+    "name": "Invoice Receipt",
+    "generation": "dynamic",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "active": "true",
+    "updated_at": "2026-05-22T14:00:00Z"
+  },
+  {
+    "id": "d-5e6f708192031425",
+    "name": "Trial Ending Soon",
+    "generation": "dynamic",
+    "subject": "Your trial ends in {{days}} days",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "active": "false",
+    "updated_at": "2026-04-30T08:00:00Z"
+  },
+  {
+    "id": "d-6f7081920314251a",
+    "name": "Support Ticket Response",
+    "generation": "dynamic",
+    "subject": "Your support ticket #{{ticket_id}} has been updated",
+    "html_content": "<p>Ticket Status: {{status}}</p><p>Response: {{response}}</p>",
+    "active": "true",
+    "updated_at": "2026-05-25T10:00:00Z"
+  },
+  {
+    "id": "d-7f7081920314251a2",
+    "name": "Special Promotion",
+    "generation": "dynamic",
+    "subject": "Exclusive Offer: {{discount}}% Off",
+    "html_content": "<h2>Limited Time Offer</h2><p>Save {{discount}}% on {{product}}</p>",
+    "active": "true",
+    "updated_at": "2026-05-26T12:00:00Z"
+  },
+  {
+    "id": "d-8f7081920314251a3",
+    "name": "Webinar Invitation",
+    "generation": "dynamic",
+    "subject": "Join Us: {{webinar_title}} on {{date}}",
+    "html_content": "<p>Learn about {{topic}} with our expert speakers.</p>",
+    "active": "true",
+    "updated_at": "2026-05-27T08:00:00Z"
+  },
+  {
+    "id": "d-9f7081920314251a4",
+    "name": "Security Alert",
+    "generation": "dynamic",
+    "subject": "Security Alert: {{alert_type}}",
+    "html_content": "<p>Alert: {{description}}</p><p>Action Required: {{action}}</p>",
+    "active": "true",
+    "updated_at": "2026-05-27T10:30:00Z"
+  },
+  {
+    "id": "d-af7081920314251a5",
+    "name": "Enterprise Trial Setup",
+    "generation": "dynamic",
+    "subject": "Your {{duration}}-day Enterprise Trial is Ready",
+    "html_content": "<h2>Welcome to Enterprise</h2><p>Explore advanced features.</p>",
+    "active": "true",
+    "updated_at": "2026-05-27T13:00:00Z"
+  },
+  {
+    "id": "d-bf7081920314251a6",
+    "name": "Feature Announcement",
+    "generation": "dynamic",
+    "subject": "New Feature: {{feature_name}} is Now Available",
+    "html_content": "<h2>{{feature_name}}</h2><p>{{description}}</p>",
+    "active": "true",
+    "updated_at": "2026-05-28T09:00:00Z"
+  },
+  {
+    "id": "d-cf7081920314251a7",
+    "name": "Documentation Update",
+    "generation": "dynamic",
+    "subject": "Documentation Updated: {{doc_title}}",
+    "html_content": "<p>Check out our updated documentation.</p>",
+    "active": "true",
+    "updated_at": "2026-05-28T11:30:00Z"
+  },
+  {
+    "id": "d-df7081920314251a8",
+    "name": "Payment Method Reminder",
+    "generation": "dynamic",
+    "subject": "Update Payment Method Ending in {{ILrd_last_four}}",
+    "html_content": "<p>Your payment method is expiring soon.</p>",
+    "active": "true",
+    "updated_at": "2026-05-28T14:00:00Z"
+  },
+  {
+    "id": "d-ef7081920314251a9",
+    "name": "Bonus Credit NotifiILtion",
+    "generation": "dynamic",
+    "subject": "You Received {{amount}} in Bonus Credits!",
+    "html_content": "<p>Use your bonus credits to upgrade your account.</p>",
+    "active": "true",
+    "updated_at": "2026-05-29T10:00:00Z"
+  },
+  {
+    "id": "d-ff7081920314251aa",
+    "name": "Product Roadmap Update",
+    "generation": "dynamic",
+    "subject": "Product Roadmap: {{month}} Updates",
+    "html_content": "<h2>What's Coming</h2><p>{{roadmap_items}}</p>",
+    "active": "true",
+    "updated_at": "2026-06-02T09:30:00Z"
+  },
+  {
+    "id": "d-0g7081920314251ab",
+    "name": "Partner Program Invitation",
+    "generation": "dynamic",
+    "subject": "Join Our Partner Program",
+    "html_content": "<p>Become a partner and grow together.</p>",
+    "active": "true",
+    "updated_at": "2026-06-02T12:00:00Z"
+  }
+]
+
+

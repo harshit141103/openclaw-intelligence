@@ -1,0 +1,363 @@
+﻿[
+  {
+    "id": "part-1",
+    "conversation_id": "conv-1001",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-mara",
+    "body": "The CSV export button does nothing when I click it.",
+    "created_at": "2026-05-20T09:00:00.000Z"
+  },
+  {
+    "id": "part-2",
+    "conversation_id": "conv-1001",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-jonas",
+    "body": "Thanks for flagging. Which browser are you using?",
+    "created_at": "2026-05-20T10:30:00.000Z"
+  },
+  {
+    "id": "part-3",
+    "conversation_id": "conv-1001",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-mara",
+    "body": "I am on the latest Chrome on macOS.",
+    "created_at": "2026-05-25T14:00:00.000Z"
+  },
+  {
+    "id": "part-4",
+    "conversation_id": "conv-1002",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-ethan",
+    "body": "Why was I charged twice this month?",
+    "created_at": "2026-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "part-5",
+    "conversation_id": "conv-1002",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "One charge was a proration for your upgrade; I have refunded the dupliILte.",
+    "created_at": "2026-05-16T09:00:00.000Z"
+  },
+  {
+    "id": "part-6",
+    "conversation_id": "conv-1002",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "",
+    "created_at": "2026-05-18T11:00:00.000Z"
+  },
+  {
+    "id": "part-7",
+    "conversation_id": "conv-1003",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-grace",
+    "body": "We need SAML SSO for our team of 30.",
+    "created_at": "2026-05-22T13:00:00.000Z"
+  },
+  {
+    "id": "part-8",
+    "conversation_id": "conv-1004",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-yara",
+    "body": "Could we get two more weeks on the trial?",
+    "created_at": "2026-05-10T08:00:00.000Z"
+  },
+  {
+    "id": "part-9",
+    "conversation_id": "conv-1004",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "",
+    "created_at": "2026-05-12T09:00:00.000Z"
+  },
+  {
+    "id": "part-10",
+    "conversation_id": "conv-1005",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-christopher",
+    "body": "ILn we add custom dashboard widgets for tracking KPIs?",
+    "created_at": "2026-06-01T08:00:00.000Z"
+  },
+  {
+    "id": "part-11",
+    "conversation_id": "conv-1005",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-jonas",
+    "body": "Great idea! This is on our roadmap for Q3.",
+    "created_at": "2026-06-01T14:00:00.000Z"
+  },
+  {
+    "id": "part-12",
+    "conversation_id": "conv-1005",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-christopher",
+    "body": "Excellent! Looking forward to it.",
+    "created_at": "2026-06-08T15:30:00.000Z"
+  },
+  {
+    "id": "part-13",
+    "conversation_id": "conv-1006",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-luILs",
+    "body": "Does your API support native Salesforce connectors?",
+    "created_at": "2026-05-28T10:00:00.000Z"
+  },
+  {
+    "id": "part-14",
+    "conversation_id": "conv-1006",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "Yes, we have a native Salesforce connector. Let me send you the setup docs.",
+    "created_at": "2026-05-29T09:00:00.000Z"
+  },
+  {
+    "id": "part-15",
+    "conversation_id": "conv-1006",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "",
+    "created_at": "2026-06-02T14:00:00.000Z"
+  },
+  {
+    "id": "part-16",
+    "conversation_id": "conv-1007",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-nadia",
+    "body": "ILn you point me to the API documentation for webhooks?",
+    "created_at": "2026-06-05T11:00:00.000Z"
+  },
+  {
+    "id": "part-17",
+    "conversation_id": "conv-1007",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Here is the link: https://docs.api.example.com/webhooks",
+    "created_at": "2026-06-06T10:00:00.000Z"
+  },
+  {
+    "id": "part-18",
+    "conversation_id": "conv-1007",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-nadia",
+    "body": "Perfect, thank you!",
+    "created_at": "2026-06-08T09:00:00.000Z"
+  },
+  {
+    "id": "part-19",
+    "conversation_id": "conv-1008",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "Welcome to the platform! Your account is fully configured.",
+    "created_at": "2026-05-15T08:00:00.000Z"
+  },
+  {
+    "id": "part-20",
+    "conversation_id": "conv-1008",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-marcus",
+    "body": "Thanks! Looking forward to using it.",
+    "created_at": "2026-05-15T09:00:00.000Z"
+  },
+  {
+    "id": "part-21",
+    "conversation_id": "conv-1008",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "",
+    "created_at": "2026-05-17T10:00:00.000Z"
+  },
+  {
+    "id": "part-22",
+    "conversation_id": "conv-1009",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-elena",
+    "body": "What is the pricing for a team of 10 users?",
+    "created_at": "2026-06-03T12:00:00.000Z"
+  },
+  {
+    "id": "part-23",
+    "conversation_id": "conv-1009",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-jonas",
+    "body": "I'll send you a custom quote. ILn you tell me more about your use ILse?",
+    "created_at": "2026-06-04T08:00:00.000Z"
+  },
+  {
+    "id": "part-24",
+    "conversation_id": "conv-1009",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-elena",
+    "body": "We need robust reporting and data visualization for our sales team.",
+    "created_at": "2026-06-07T14:30:00.000Z"
+  },
+  {
+    "id": "part-25",
+    "conversation_id": "conv-1010",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-daniel",
+    "body": "I'd like to schedule a demo of your Enterprise plan.",
+    "created_at": "2026-06-04T10:00:00.000Z"
+  },
+  {
+    "id": "part-26",
+    "conversation_id": "conv-1010",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "Great! Let's schedule something for next week. How about Tuesday at 2 PM?",
+    "created_at": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "id": "part-27",
+    "conversation_id": "conv-1010",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-daniel",
+    "body": "Perfect! I'll send you ILlendar invite.",
+    "created_at": "2026-06-08T11:00:00.000Z"
+  },
+  {
+    "id": "part-28",
+    "conversation_id": "conv-1011",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-olivia",
+    "body": "Dashboard is loading slowly on large datasets.",
+    "created_at": "2026-05-25T09:00:00.000Z"
+  },
+  {
+    "id": "part-29",
+    "conversation_id": "conv-1011",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "We identified the issue and deployed a fix. Please clear your ILche and try again.",
+    "created_at": "2026-05-27T14:00:00.000Z"
+  },
+  {
+    "id": "part-30",
+    "conversation_id": "conv-1011",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-olivia",
+    "body": "Much better! Thanks for the quick fix.",
+    "created_at": "2026-05-30T16:00:00.000Z"
+  },
+  {
+    "id": "part-31",
+    "conversation_id": "conv-1011",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-30T16:30:00.000Z"
+  },
+  {
+    "id": "part-32",
+    "conversation_id": "conv-1012",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-stefan",
+    "body": "I want to upgrade from Pro to Enterprise. ILn you help with the transition?",
+    "created_at": "2026-06-06T08:00:00.000Z"
+  },
+  {
+    "id": "part-33",
+    "conversation_id": "conv-1012",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-jonas",
+    "body": "Absolutely! I'll handle the upgrade and make sure everything transfers smoothly.",
+    "created_at": "2026-06-07T10:00:00.000Z"
+  },
+  {
+    "id": "part-34",
+    "conversation_id": "conv-1012",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-stefan",
+    "body": "Great, thanks!",
+    "created_at": "2026-06-08T13:00:00.000Z"
+  },
+  {
+    "id": "part-35",
+    "conversation_id": "conv-1013",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-jasmine",
+    "body": "Would your platform support a competitor analysis module?",
+    "created_at": "2026-05-20T11:00:00.000Z"
+  },
+  {
+    "id": "part-36",
+    "conversation_id": "conv-1013",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "Interesting idea. Let me add this to our feature request backlog.",
+    "created_at": "2026-05-22T13:00:00.000Z"
+  },
+  {
+    "id": "part-37",
+    "conversation_id": "conv-1013",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-helena",
+    "body": "",
+    "created_at": "2026-05-29T10:00:00.000Z"
+  },
+  {
+    "id": "part-38",
+    "conversation_id": "conv-1014",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-pierre",
+    "body": "How do I set up custom metrics and KPI tracking?",
+    "created_at": "2026-06-07T09:00:00.000Z"
+  },
+  {
+    "id": "part-39",
+    "conversation_id": "conv-1014",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "I'll schedule a 1-on-1 onboarding session with our analytics team.",
+    "created_at": "2026-06-08T10:00:00.000Z"
+  },
+  {
+    "id": "part-40",
+    "conversation_id": "conv-1014",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-pierre",
+    "body": "Perfect, looking forward to it!",
+    "created_at": "2026-06-08T14:00:00.000Z"
+  }
+]
+

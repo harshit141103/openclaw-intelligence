@@ -1,0 +1,222 @@
+[
+  {
+    "iata_code": "TYS",
+    "name": "McGhee Tyson Airport",
+    "city_name": "Knoxville",
+    "city_code": "TYS",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "35.8110",
+    "longitude": "-83.9940",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "ATL",
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "city_name": "Atlanta",
+    "city_code": "ATL",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "33.6407",
+    "longitude": "-84.4277",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "MEM",
+    "name": "Memphis International Airport",
+    "city_name": "Memphis",
+    "city_code": "MEM",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "35.0424",
+    "longitude": "-89.9767",
+    "timezone": "America/Chicago"
+  },
+  {
+    "iata_code": "CLT",
+    "name": "Charlotte Douglas International Airport",
+    "city_name": "Charlotte",
+    "city_code": "CLT",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "35.2140",
+    "longitude": "-80.9431",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "BNA",
+    "name": "Nashville International Airport",
+    "city_name": "Nashville",
+    "city_code": "BNA",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "36.1245",
+    "longitude": "-86.6782",
+    "timezone": "America/Chicago"
+  },
+  {
+    "iata_code": "DTW",
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "city_name": "Detroit",
+    "city_code": "DTT",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "42.2124",
+    "longitude": "-83.3534",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "ORD",
+    "name": "Ohare International Airport",
+    "city_name": "Chicago",
+    "city_code": "CHI",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "41.9742",
+    "longitude": "-87.9073",
+    "timezone": "America/Chicago"
+  },
+  {
+    "iata_code": "DFW",
+    "name": "Dallas Fort Worth International Airport",
+    "city_name": "Dallas",
+    "city_code": "DFW",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "32.8998",
+    "longitude": "-97.0403",
+    "timezone": "America/Chicago"
+  },
+  {
+    "iata_code": "CVG",
+    "name": "Cincinnati Northern Kentucky International Airport",
+    "city_name": "Cincinnati",
+    "city_code": "CVG",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "39.0489",
+    "longitude": "-84.6678",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "LEX",
+    "name": "Blue Grass Airport",
+    "city_name": "Lexington",
+    "city_code": "LEX",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "38.0365",
+    "longitude": "-84.6059",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "TRI",
+    "name": "Tri-Cities Airport",
+    "city_name": "Bristol",
+    "city_code": "TRI",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "36.4752",
+    "longitude": "-82.4074",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "CHA",
+    "name": "Chattanooga Metropolitan Airport",
+    "city_name": "Chattanooga",
+    "city_code": "CHA",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "35.0353",
+    "longitude": "-85.2038",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "STL",
+    "name": "St Louis Lambert International Airport",
+    "city_name": "St Louis",
+    "city_code": "STL",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "38.7487",
+    "longitude": "-90.3700",
+    "timezone": "America/Chicago"
+  },
+  {
+    "iata_code": "MCI",
+    "name": "Kansas City International Airport",
+    "city_name": "Kansas City",
+    "city_code": "MKC",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "39.2976",
+    "longitude": "-94.7139",
+    "timezone": "America/Chicago"
+  },
+  {
+    "iata_code": "IND",
+    "name": "Indianapolis International Airport",
+    "city_name": "Indianapolis",
+    "city_code": "IND",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "39.7173",
+    "longitude": "-86.2944",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "iata_code": "CMH",
+    "name": "John Glenn Columbus International Airport",
+    "city_name": "Columbus",
+    "city_code": "CMH",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "39.9980",
+    "longitude": "-82.8919",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "SDF",
+    "name": "Louisville Muhammad Ali International Airport",
+    "city_name": "Louisville",
+    "city_code": "SDF",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "38.1744",
+    "longitude": "-85.7360",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "BHM",
+    "name": "Birmingham Shuttlesworth International Airport",
+    "city_name": "Birmingham",
+    "city_code": "BHM",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "33.5629",
+    "longitude": "-86.7535",
+    "timezone": "America/Chicago"
+  },
+  {
+    "iata_code": "GSP",
+    "name": "Greenville Spartanburg International Airport",
+    "city_name": "Greer",
+    "city_code": "GSP",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "34.8957",
+    "longitude": "-82.2189",
+    "timezone": "America/New_York"
+  },
+  {
+    "iata_code": "RDU",
+    "name": "Raleigh Durham International Airport",
+    "city_name": "Raleigh",
+    "city_code": "RDU",
+    "country_name": "United States",
+    "country_code": "US",
+    "latitude": "35.8776",
+    "longitude": "-78.7875",
+    "timezone": "America/New_York"
+  }
+]

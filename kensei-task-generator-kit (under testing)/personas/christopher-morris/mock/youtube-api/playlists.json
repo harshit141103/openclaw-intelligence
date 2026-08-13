@@ -1,0 +1,74 @@
+[
+  {
+    "playlist_id": "PL_CM_001",
+    "channelId": "UC_ChristopherMorris",
+    "title": "My Favorite 1990s Pop Hits",
+    "description": "A collection of my favorite pop songs from the 1990s and early 2000s. Great for nostalgia and everyday listening.",
+    "publishedAt": "2024-11-15T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "25"
+  },
+  {
+    "playlist_id": "PL_CM_002",
+    "channelId": "UC_ChristopherMorris",
+    "title": "Sheryl Crow - Complete Collection",
+    "description": "All of my favorite Sheryl Crow songs and performances in one playlist.",
+    "publishedAt": "2024-11-10T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "18"
+  },
+  {
+    "playlist_id": "PL_CM_003",
+    "channelId": "UC_ChristopherMorris",
+    "title": "Cooking Tutorials I Love",
+    "description": "A curated collection of cooking tutorials, recipes, and kitchen tips that I find helpful and inspiring.",
+    "publishedAt": "2024-11-05T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "32"
+  },
+  {
+    "playlist_id": "PL_CM_004",
+    "channelId": "UC_ChristopherMorris",
+    "title": "Great British Bake Off - Every Season",
+    "description": "Episodes and highlights from every season of The Great British Bake Off. A comfort watch classic.",
+    "publishedAt": "2024-10-28T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "42"
+  },
+  {
+    "playlist_id": "PL_CM_005",
+    "channelId": "UC_ChristopherMorris",
+    "title": "Mystery and True Crime",
+    "description": "Documentaries, mysteries, and true crime content that keeps me engaged during downtime.",
+    "publishedAt": "2024-10-20T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "28"
+  },
+  {
+    "playlist_id": "PL_CM_006",
+    "channelId": "UC_ChristopherMorris",
+    "title": "Home Renovation Projects",
+    "description": "DIY home renovation tutorials and project walkthroughs that inspired our own renovations.",
+    "publishedAt": "2024-10-12T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "35"
+  },
+  {
+    "playlist_id": "PL_CM_007",
+    "channelId": "UC_ChristopherMorris",
+    "title": "Fitness and Wellness",
+    "description": "Walking tips, fitness tutorials, and health-related content for maintaining an active lifestyle.",
+    "publishedAt": "2024-09-30T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "20"
+  },
+  {
+    "playlist_id": "PL_CM_008",
+    "channelId": "UC_ChristopherMorris",
+    "title": "Family Videos and Events",
+    "description": "Videos of Owen and Sophie's activities, performances, and milestones.",
+    "publishedAt": "2024-09-20T10:00:00Z",
+    "privacyStatus": "public",
+    "itemCount": "15"
+  }
+]

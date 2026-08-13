@@ -1,0 +1,14 @@
+{
+  "subdomain": "figueroavet",
+  "name": "Figueroa Veterinary Services",
+  "employeeCount": 3,
+  "industry": "Software",
+  "headquarters": "Inverness, Highland",
+  "fiscalYearStart": "01-01",
+  "timeOffPolicies": [
+    "Vacation",
+    "Sick",
+    "Personal",
+    "Holiday"
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "CUST_FRASER00",
+    "given_name": "Duncan",
+    "family_name": "Fraser",
+    "email_address": "duncan.fraser@btinternet.com",
+    "phone_number": "+447700900101",
+    "company_name": "Achnasheen Farm",
+    "created_at": "2025-08-12T09:00:00Z"
+  },
+  {
+    "id": "CUST_CAMPBE01",
+    "given_name": "Iain",
+    "family_name": "Campbell",
+    "email_address": "iain.campbell@btinternet.com",
+    "phone_number": "+447700900102",
+    "company_name": "Applecross Croft",
+    "created_at": "2025-09-03T11:30:00Z"
+  },
+  {
+    "id": "CUST_MACKEN02",
+    "given_name": "Jean",
+    "family_name": "MacKenzie",
+    "email_address": "jean.mackenzie@gmail.com",
+    "phone_number": "+447700900103",
+    "company_name": "Ullapool",
+    "created_at": "2025-09-21T14:10:00Z"
+  },
+  {
+    "id": "CUST_DRUMMO03",
+    "given_name": "Fiona",
+    "family_name": "Drummond",
+    "email_address": "fiona.drummond@gmail.com",
+    "phone_number": "+447700900104",
+    "company_name": "Strathcarron",
+    "created_at": "2025-10-05T16:45:00Z"
+  },
+  {
+    "id": "CUST_SUTHER04",
+    "given_name": "Graeme",
+    "family_name": "Sutherland",
+    "email_address": "graeme.sutherland@gmail.com",
+    "phone_number": "+447700900105",
+    "company_name": "Inverness",
+    "created_at": "2025-10-19T08:20:00Z"
+  },
+  {
+    "id": "CUST_ROSS05",
+    "given_name": "Callum",
+    "family_name": "Ross",
+    "email_address": "callum.ross@gmail.com",
+    "phone_number": "+447700900106",
+    "company_name": "Plockton",
+    "created_at": "2025-11-02T13:00:00Z"
+  },
+  {
+    "id": "CUST_FIGUER06",
+    "given_name": "Isabel",
+    "family_name": "Figueroa-Ross",
+    "email_address": "isabel.ross@gmail.com",
+    "phone_number": "+447700900107",
+    "company_name": "Plockton",
+    "created_at": "2025-11-18T10:15:00Z"
+  },
+  {
+    "id": "CUST_FIGUER07",
+    "given_name": "Alejandro",
+    "family_name": "Figueroa",
+    "email_address": "alejandro.figueroa@gmail.com",
+    "phone_number": "+447700900701",
+    "company_name": "Lochcarron",
+    "created_at": "2025-08-12T09:00:00Z"
+  },
+  {
+    "id": "CUST_FIGUER08",
+    "given_name": "Elena",
+    "family_name": "Figueroa",
+    "email_address": "elena.figueroa@gmail.com",
+    "phone_number": "+447700900702",
+    "company_name": "Lochcarron",
+    "created_at": "2025-08-12T09:00:00Z"
+  },
+  {
+    "id": "CUST_MATHES09",
+    "given_name": "Rhona",
+    "family_name": "Matheson",
+    "email_address": "rhona.matheson@apha.gov.uk",
+    "phone_number": "+447700900703",
+    "company_name": "Inverness",
+    "created_at": "2025-08-12T09:00:00Z"
+  },
+  {
+    "id": "CUST_MACKAY10",
+    "given_name": "Douglas",
+    "family_name": "Mackay",
+    "email_address": "douglas@mackayandco.co.uk",
+    "phone_number": "+447700900704",
+    "company_name": "Inverness",
+    "created_at": "2025-08-12T09:00:00Z"
+  }
+]

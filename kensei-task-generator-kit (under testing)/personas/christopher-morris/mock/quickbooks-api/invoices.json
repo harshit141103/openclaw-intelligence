@@ -1,0 +1,253 @@
+﻿[
+  {
+    "Id": "6001",
+    "DocNumber": "INV-2026-0501",
+    "TxnDate": "2026-05-01",
+    "DueDate": "2026-05-15",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "Line": [
+      {
+        "Amount": 3450.0,
+        "Description": "VoiceSync API Integration Project - May 2026 consulting services",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Consulting Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Freelance project invoice - direct client billing"
+  },
+  {
+    "Id": "6002",
+    "DocNumber": "PAY-2026-0501",
+    "TxnDate": "2026-05-15",
+    "DueDate": "2026-05-15",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Meridian Benefits HR"
+    },
+    "Line": [
+      {
+        "Amount": 3615.38,
+        "Description": "Biweekly salary - Period ending 5/15/2026. Gross: 3615.38",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Salary Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3615.38,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Direct deposit - payroll processing"
+  },
+  {
+    "Id": "6003",
+    "DocNumber": "PAY-2026-0502",
+    "TxnDate": "2026-05-01",
+    "DueDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Meridian Benefits HR"
+    },
+    "Line": [
+      {
+        "Amount": 3615.38,
+        "Description": "Biweekly salary - Period ending 5/01/2026. Gross: 3615.38",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Salary Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3615.38,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Direct deposit - payroll processing"
+  },
+  {
+    "Id": "6004",
+    "DocNumber": "INV-2026-0502",
+    "TxnDate": "2026-05-08",
+    "DueDate": "2026-05-20",
+    "CustomerRef": {
+      "value": "4",
+      "name": "VoiceSync Consulting"
+    },
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Systems design and architecture consultation - 10 hours @ $250/hr",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Consulting Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "Balance": 2500.0,
+    "Status": "Unpaid",
+    "PrivateNote": "Invoice sent 5/8, awaiting payment"
+  },
+  {
+    "Id": "6005",
+    "DocNumber": "INV-2026-0503",
+    "TxnDate": "2026-05-10",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Household Service Providers"
+    },
+    "Line": [
+      {
+        "Amount": 650.0,
+        "Description": "Home maintenance and minor repairs - May 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Service Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 650.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Household service expenses"
+  },
+  {
+    "Id": "6006",
+    "DocNumber": "INV-2026-0504",
+    "TxnDate": "2026-05-12",
+    "DueDate": "2026-05-26",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Vehicle & Auto Services"
+    },
+    "Line": [
+      {
+        "Amount": 275.0,
+        "Description": "Vehicle maintenance and fuel expenses - May 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Travel and Transportation"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 275.0,
+    "Balance": 185.50,
+    "Status": "Partial",
+    "PrivateNote": "Partial payment received 5/18"
+  },
+  {
+    "Id": "6007",
+    "DocNumber": "INV-2026-0505",
+    "TxnDate": "2026-05-14",
+    "DueDate": "2026-05-28",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Grocery & Retail Partners"
+    },
+    "Line": [
+      {
+        "Amount": 990.65,
+        "Description": "Weekly grocery shopping and household supplies - May 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Food and Groceries"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 990.65,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Regular household food expenses"
+  },
+  {
+    "Id": "6008",
+    "DocNumber": "INV-2026-0506",
+    "TxnDate": "2026-05-06",
+    "DueDate": "2026-05-20",
+    "CustomerRef": {
+      "value": "8",
+      "name": "Utilities & Infrastructure"
+    },
+    "Line": [
+      {
+        "Amount": 497.74,
+        "Description": "Monthly utilities - Electric, water, internet - May 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Utilities"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 497.74,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Automatic bill payment"
+  },
+  {
+    "Id": "6009",
+    "DocNumber": "INV-2026-0507",
+    "TxnDate": "2026-05-01",
+    "DueDate": "2026-05-15",
+    "CustomerRef": {
+      "value": "9",
+      "name": "Professional Development"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Monthly professional development subscriptions - Coursera, LinkedIn Learning, certifiILtions",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 350.0,
+    "Status": "Partial",
+    "PrivateNote": "Monthly recurring - partial paid"
+  },
+  {
+    "Id": "6010",
+    "DocNumber": "INV-2026-0508",
+    "TxnDate": "2026-04-20",
+    "DueDate": "2026-05-10",
+    "CustomerRef": {
+      "value": "4",
+      "name": "VoiceSync Consulting"
+    },
+    "Line": [
+      {
+        "Amount": 1950.0,
+        "Description": "Advanced API security review - 13 hours @ $150/hr",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Consulting Services"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1950.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "April project completion - paid in May"
+  }
+]
+

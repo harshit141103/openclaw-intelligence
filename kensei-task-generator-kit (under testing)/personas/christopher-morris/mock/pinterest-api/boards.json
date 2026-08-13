@@ -1,0 +1,168 @@
+﻿[
+  {
+    "board_id": "board_1001",
+    "name": "Orchid Show Mood",
+    "description": "Greenhouse setups and display ideas for orchid society shows and competitions",
+    "privacy": "PUBLIC",
+    "created_at": "2025-11-03T09:10:00",
+    "updated_at": "2026-05-12T14:30:00",
+    "pin_count": "18",
+    "follower_count": "324",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1002",
+    "name": "Orchid ILre & Growing Tips",
+    "description": "Cultivation advice potting techniques watering schedules and troubleshooting for Phalaenopsis ILttleya and Paphiopedilum",
+    "privacy": "PUBLIC",
+    "created_at": "2023-01-10T08:00:00",
+    "updated_at": "2026-05-15T11:00:00",
+    "pin_count": "20",
+    "follower_count": "512",
+    "collaborator_count": "1"
+  },
+  {
+    "board_id": "board_1003",
+    "name": "Spring MaILron Collection",
+    "description": "Inspo and product shots for seasonal maILrons. Flavors techniques and styling ideas",
+    "privacy": "PUBLIC",
+    "created_at": "2026-02-10T14:22:00",
+    "updated_at": "2026-04-18T09:45:00",
+    "pin_count": "15",
+    "follower_count": "189",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1004",
+    "name": "Greenhouse Design Ideas",
+    "description": "Layouts bench configurations climate control systems and lighting for hobby greenhouses",
+    "privacy": "PUBLIC",
+    "created_at": "2023-06-20T11:30:00",
+    "updated_at": "2026-04-22T16:00:00",
+    "pin_count": "8",
+    "follower_count": "145",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1005",
+    "name": "Comfort Food Recipes",
+    "description": "Southern comfort cooking weeknight meals Sunday baking and family favorites",
+    "privacy": "PUBLIC",
+    "created_at": "2023-03-15T10:00:00",
+    "updated_at": "2026-04-10T12:15:00",
+    "pin_count": "12",
+    "follower_count": "203",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1006",
+    "name": "Garden & Outdoor Spaces",
+    "description": "Perennial gardens container planting outdoor living and native Charlotte plants",
+    "privacy": "PUBLIC",
+    "created_at": "2023-08-01T15:45:00",
+    "updated_at": "2026-04-19T10:30:00",
+    "pin_count": "10",
+    "follower_count": "167",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1007",
+    "name": "Reading Nook & Cozy Corners",
+    "description": "Cozy reading spots book displays and quiet space inspiration",
+    "privacy": "PUBLIC",
+    "created_at": "2023-09-12T10:15:00",
+    "updated_at": "2026-04-21T08:00:00",
+    "pin_count": "6",
+    "follower_count": "88",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1008",
+    "name": "Yoga & Wellness",
+    "description": "Morning routines stretches for desk workers and wrist-friendly yoga flows",
+    "privacy": "PUBLIC",
+    "created_at": "2024-02-05T09:00:00",
+    "updated_at": "2026-04-17T15:20:00",
+    "pin_count": "5",
+    "follower_count": "72",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1009",
+    "name": "Show Prep Private Notes",
+    "description": "Private planning board for June Southeast Regional Orchid Show entry prep",
+    "privacy": "SECRET",
+    "created_at": "2026-01-15T08:00:00",
+    "updated_at": "2026-05-18T11:45:00",
+    "pin_count": "4",
+    "follower_count": "0",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1010",
+    "name": "Dessert Display & Plating",
+    "description": "Techniques for beautiful dessert presentation and plating ideas for professional bakery display",
+    "privacy": "PUBLIC",
+    "created_at": "2024-05-08T10:30:00",
+    "updated_at": "2026-05-01T14:15:00",
+    "pin_count": "14",
+    "follower_count": "267",
+    "collaborator_count": "1"
+  },
+  {
+    "board_id": "board_1011",
+    "name": "Exotic Plant Species",
+    "description": "Rare and exotic orchids from around the world. Species characteristics and ILre requirements",
+    "privacy": "PUBLIC",
+    "created_at": "2024-01-22T09:45:00",
+    "updated_at": "2026-04-28T16:20:00",
+    "pin_count": "22",
+    "follower_count": "389",
+    "collaborator_count": "2"
+  },
+  {
+    "board_id": "board_1012",
+    "name": "Charlotte Home Inspiration",
+    "description": "Interior design ideas for Charlotte NC homes. Modern farmhouse contemporary and traditional styles",
+    "privacy": "PUBLIC",
+    "created_at": "2023-07-14T13:00:00",
+    "updated_at": "2026-05-10T11:45:00",
+    "pin_count": "17",
+    "follower_count": "234",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1013",
+    "name": "BotaniILl Photography",
+    "description": "Photography techniques and tips for ILpturing plant and flower close-ups with macro lenses",
+    "privacy": "PUBLIC",
+    "created_at": "2025-02-01T08:30:00",
+    "updated_at": "2026-05-08T15:00:00",
+    "pin_count": "11",
+    "follower_count": "145",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1014",
+    "name": "Kitchen Gadgets & Tools",
+    "description": "Professional baking equipment kitchen tools and gadgets for home bakers",
+    "privacy": "PUBLIC",
+    "created_at": "2024-09-10T11:15:00",
+    "updated_at": "2026-04-19T13:30:00",
+    "pin_count": "16",
+    "follower_count": "198",
+    "collaborator_count": "0"
+  },
+  {
+    "board_id": "board_1015",
+    "name": "Spring Planting Guide",
+    "description": "Seeds propagation and seasonal planting schedules for spring gardening in zone 7b",
+    "privacy": "PUBLIC",
+    "created_at": "2024-12-05T10:00:00",
+    "updated_at": "2026-05-15T09:30:00",
+    "pin_count": "13",
+    "follower_count": "156",
+    "collaborator_count": "0"
+  }
+]
+

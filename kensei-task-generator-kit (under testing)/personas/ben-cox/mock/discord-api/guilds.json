@@ -1,0 +1,182 @@
+[
+  {
+    "id": "900100200300400001",
+    "name": "Hang the soft-close doors and adjust the",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400002",
+    "name": "Whitcomb built-in bookshelves",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Dry-fit the face frames before glue-up",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400902",
+    "name": "Bookshelf install Friday the 16th",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400904",
+    "name": "Whitcomb built-in bookshelves",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400904-4",
+    "name": "Sand to 220 and raise the grain before f",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Lay out dovetails for the silverware drawer",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400906",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Re-saw the walnut for bookmatched panels",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400906-6",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Cherry pricing for the Henderson uppers",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400908",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400908-8",
+    "name": "Replace the dust collector filter and cl",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400910",
+    "name": "Plane the bookshelf shelves and ease the",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Build the drawer boxes with half-blind dovetails",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400910-10",
+    "name": "Sharpen the jointer knives and reset the",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400912",
+    "name": "Cherry pricing for the Henderson uppers",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400912-12",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400914",
+    "name": "Henderson kitchen cabinets",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Replace the dust collector filter and clean the cyclone",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400914-14",
+    "name": "Splitting and stacking the winter firewo",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Splitting and stacking the winter firewood",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400916",
+    "name": "Henderson kitchen cabinets",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400916-16",
+    "name": "Henderson kitchen cabinets",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Build the drawer boxes with half-blind dovetails",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400918",
+    "name": "Greensboro barn restoration",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  },
+  {
+    "id": "900100200300400918-18",
+    "name": "Lay out dovetails for the silverware dra",
+    "owner_id": "500100200300400001",
+    "member_count": "5",
+    "description": "Built-ins - finish sample for your approval",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400920",
+    "name": "Henderson kitchen cabinets",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "eu-west"
+  }
+]

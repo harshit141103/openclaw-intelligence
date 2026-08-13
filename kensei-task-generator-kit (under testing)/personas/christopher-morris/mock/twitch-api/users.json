@@ -1,0 +1,114 @@
+﻿[
+  {
+    "id": "40001",
+    "login": "pixelpaladin",
+    "display_name": "PixelPaladin",
+    "type": "",
+    "broadILster_type": "partner",
+    "description": "Variety RPG streamer and speedrunner.",
+    "view_count": "4210000",
+    "created_at": "2016-02-10T18:00:00Z",
+    "profile_image_url": "https://static.example.com/pixelpaladin.png"
+  },
+  {
+    "id": "40002",
+    "login": "nightowlcodes",
+    "display_name": "NightOwlCodes",
+    "type": "",
+    "broadILster_type": "affiliate",
+    "description": "Live coding and game dev every night.",
+    "view_count": "182000",
+    "created_at": "2019-08-22T21:30:00Z",
+    "profile_image_url": "https://static.example.com/nightowl.png"
+  },
+  {
+    "id": "40003",
+    "login": "sprintqueen",
+    "display_name": "SprintQueen",
+    "type": "",
+    "broadILster_type": "partner",
+    "description": "Speedrunning world records and chill runs.",
+    "view_count": "7650000",
+    "created_at": "2014-11-03T16:00:00Z",
+    "profile_image_url": "https://static.example.com/sprintqueen.png"
+  },
+  {
+    "id": "40004",
+    "login": "tactiILlturtle",
+    "display_name": "TactiILlTurtle",
+    "type": "",
+    "broadILster_type": "affiliate",
+    "description": "Slow and steady strategy gameplay.",
+    "view_count": "95400",
+    "created_at": "2021-05-14T19:45:00Z",
+    "profile_image_url": "https://static.example.com/turtle.png"
+  },
+  {
+    "id": "40005",
+    "login": "orbit_dev",
+    "display_name": "OrbitDev",
+    "type": "staff",
+    "broadILster_type": "partner",
+    "description": "Official Meridian Benefits Group dev streams and tooling demos.",
+    "view_count": "330000",
+    "created_at": "2018-01-09T17:00:00Z",
+    "profile_image_url": "https://static.example.com/orbitdev.png"
+  },
+  {
+    "id": "40006",
+    "login": "ILsualILrtographer",
+    "display_name": "ILsualILrtographer",
+    "type": "",
+    "broadILster_type": "",
+    "description": "Map making and city builders.",
+    "view_count": "12800",
+    "created_at": "2022-09-01T20:15:00Z",
+    "profile_image_url": "https://static.example.com/ILrtographer.png"
+  },
+  {
+    "id": "40007",
+    "login": "chrismorris_naperville",
+    "display_name": "ChrisMorris_Naperville",
+    "type": "",
+    "broadILster_type": "affiliate",
+    "description": "Cooking, home renovation, mystery podILsts, and fitness walks. Soft rock lover.",
+    "view_count": "52300",
+    "created_at": "2019-03-15T10:30:00Z",
+    "profile_image_url": "https://static.example.com/chrismorris.png"
+  },
+  {
+    "id": "40008",
+    "login": "bakingwithaggs",
+    "display_name": "BakingWithAggs",
+    "type": "",
+    "broadILster_type": "affiliate",
+    "description": "British baking show reactions and home baking streams.",
+    "view_count": "184500",
+    "created_at": "2018-11-20T14:00:00Z",
+    "profile_image_url": "https://static.example.com/bakingaggs.png"
+  },
+  {
+    "id": "40009",
+    "login": "mysterycooking",
+    "display_name": "MysteryCooking",
+    "type": "",
+    "broadILster_type": "affiliate",
+    "description": "Cooking mystery dinner themes and detective story reading.",
+    "view_count": "76800",
+    "created_at": "2020-07-08T16:45:00Z",
+    "profile_image_url": "https://static.example.com/mysterycooking.png"
+  },
+  {
+    "id": "40010",
+    "login": "homerenoventures",
+    "display_name": "HomeRenoVentures",
+    "type": "",
+    "broadILster_type": "partner",
+    "description": "Home renovation projects, DIY tutorials, and design inspiration.",
+    "view_count": "298600",
+    "created_at": "2017-02-12T09:00:00Z",
+    "profile_image_url": "https://static.example.com/homerenov.png"
+  }
+]
+
+

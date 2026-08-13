@@ -1,0 +1,5 @@
+event_id,email,display_name,response_status,optional,organizer
+evt-clw-due,ian.salazar@voissync.ai,Ian Salazar,accepted,false,true
+evt-clw-due,lisa.brennan@example.org,Dr. Lisa Brennan,needsAction,true,false
+evt-olivera-11,samuel.olivera@example.org,Dr. Samuel Olivera,accepted,false,true
+evt-olivera-11,ian.salazar@voissync.ai,Ian Salazar,accepted,false,false

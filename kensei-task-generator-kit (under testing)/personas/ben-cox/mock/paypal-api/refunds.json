@@ -1,0 +1,182 @@
+[
+  {
+    "id": "REF_1A234567BC890123",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "18.99",
+    "currency_code": "USD",
+    "note_to_payer": "Template the Stowe countertop radius for the corner cabinet",
+    "create_time": "2026-06-23T10:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891024",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "24.00",
+    "currency_code": "USD",
+    "note_to_payer": "Material order - Hardwick Lumber",
+    "create_time": "2026-04-24T09:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891025",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "28.99",
+    "currency_code": "USD",
+    "note_to_payer": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "create_time": "2025-03-26T15:00:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891026",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "34.50",
+    "currency_code": "USD",
+    "note_to_payer": "Mill cherry stock to thickness for the upper cabinet doors",
+    "create_time": "2024-04-30T12:00:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891027",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "41.00",
+    "currency_code": "USD",
+    "note_to_payer": "Check the moisture content on the barn oak before joinery",
+    "create_time": "2025-10-03T18:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891028",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "47.95",
+    "currency_code": "USD",
+    "note_to_payer": "Barn oak is summer 2027 - not pulling material yet.",
+    "create_time": "2025-07-25T13:00:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891029",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "62.00",
+    "currency_code": "USD",
+    "note_to_payer": "Template the Stowe countertop radius for the corner cabinet",
+    "create_time": "2026-07-08T13:45:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891030",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "88.00",
+    "currency_code": "USD",
+    "note_to_payer": "Build the drawer boxes with half-blind dovetails",
+    "create_time": "2024-09-22T08:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891031",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "110.00",
+    "currency_code": "USD",
+    "note_to_payer": "Bookshelf install Friday the 16th",
+    "create_time": "2026-08-27T15:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891032",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "6.80",
+    "currency_code": "USD",
+    "note_to_payer": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "create_time": "2026-07-26T12:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891033",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "9.25",
+    "currency_code": "USD",
+    "note_to_payer": "Hold the Stowe drive until the morning forecast clears.",
+    "create_time": "2025-11-11T13:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891034",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "12.50",
+    "currency_code": "USD",
+    "note_to_payer": "Hang the soft-close doors and adjust the hinges",
+    "create_time": "2025-05-13T11:45:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891035",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "18.99",
+    "currency_code": "USD",
+    "note_to_payer": "Mill cherry stock to thickness for the upper cabinet doors",
+    "create_time": "2025-08-23T17:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891036",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "24.00",
+    "currency_code": "USD",
+    "note_to_payer": "Replace the dust collector filter and clean the cyclone",
+    "create_time": "2025-06-11T10:45:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891037",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "28.99",
+    "currency_code": "USD",
+    "note_to_payer": "Hold the Stowe drive until the morning forecast clears.",
+    "create_time": "2026-01-31T11:30:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891038",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "34.50",
+    "currency_code": "USD",
+    "note_to_payer": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "create_time": "2026-07-26T12:45:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891039",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "41.00",
+    "currency_code": "USD",
+    "note_to_payer": "Material order - Hardwick Lumber",
+    "create_time": "2024-05-02T17:00:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891040",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "47.95",
+    "currency_code": "USD",
+    "note_to_payer": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "create_time": "2025-11-07T10:15:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891041",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "62.00",
+    "currency_code": "USD",
+    "note_to_payer": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "create_time": "2024-10-12T10:00:00Z"
+  },
+  {
+    "id": "REF_1A234567BC891042",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "88.00",
+    "currency_code": "USD",
+    "note_to_payer": "Sharpen the jointer knives and reset the infeed table",
+    "create_time": "2025-09-05T13:15:00Z"
+  }
+]

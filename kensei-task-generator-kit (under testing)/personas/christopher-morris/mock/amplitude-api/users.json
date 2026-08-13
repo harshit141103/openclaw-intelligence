@@ -1,0 +1,165 @@
+﻿[
+  {
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  },
+  {
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "country": "United Kingdom",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-25T10:00:00Z",
+    "last_seen": "2026-05-03T10:30:05Z"
+  },
+  {
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "country": "ILnada",
+    "platform": "web",
+    "version": "4.1.8",
+    "first_seen": "2026-04-28T14:00:00Z",
+    "last_seen": "2026-05-07T11:27:44Z"
+  },
+  {
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "country": "GermaIL",
+    "platform": "ios",
+    "version": "3.9.1",
+    "first_seen": "2026-05-01T18:00:00Z",
+    "last_seen": "2026-05-06T18:10:09Z"
+  },
+  {
+    "user_id": "user_2005",
+    "device_id": "dev_ee05",
+    "country": "Australia",
+    "platform": "android",
+    "version": "3.9.1",
+    "first_seen": "2026-05-02T07:00:00Z",
+    "last_seen": "2026-05-08T07:14:02Z"
+  },
+  {
+    "user_id": "user_2006",
+    "device_id": "dev_ff06",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-22T11:30:00Z",
+    "last_seen": "2026-05-10T16:45:30Z"
+  },
+  {
+    "user_id": "user_2007",
+    "device_id": "dev_gg07",
+    "country": "France",
+    "platform": "web",
+    "version": "4.1.9",
+    "first_seen": "2026-05-09T14:30:00Z",
+    "last_seen": "2026-05-09T14:35:20Z"
+  },
+  {
+    "user_id": "user_2008",
+    "device_id": "dev_hh08",
+    "country": "Japan",
+    "platform": "android",
+    "version": "3.9.2",
+    "first_seen": "2026-05-10T08:05:00Z",
+    "last_seen": "2026-05-10T08:12:47Z"
+  },
+  {
+    "user_id": "user_2009",
+    "device_id": "dev_ii09",
+    "country": "Brazil",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-05-10T13:20:00Z",
+    "last_seen": "2026-05-10T13:20:00Z"
+  },
+  {
+    "user_id": "user_2010",
+    "device_id": "dev_jj10",
+    "country": "Spain",
+    "platform": "ios",
+    "version": "4.0.0",
+    "first_seen": "2026-04-30T16:45:00Z",
+    "last_seen": "2026-05-08T09:22:15Z"
+  },
+  {
+    "user_id": "user_2011",
+    "device_id": "dev_kk11",
+    "country": "Netherlands",
+    "platform": "web",
+    "version": "4.1.8",
+    "first_seen": "2026-04-26T12:00:00Z",
+    "last_seen": "2026-05-09T14:05:50Z"
+  },
+  {
+    "user_id": "user_2012",
+    "device_id": "dev_ll12",
+    "country": "Singapore",
+    "platform": "android",
+    "version": "3.9.1",
+    "first_seen": "2026-05-03T08:20:00Z",
+    "last_seen": "2026-05-10T10:30:44Z"
+  },
+  {
+    "user_id": "user_2013",
+    "device_id": "dev_mm13",
+    "country": "Mexico",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-05-04T15:10:00Z",
+    "last_seen": "2026-05-09T11:15:22Z"
+  },
+  {
+    "user_id": "user_2014",
+    "device_id": "dev_nn14",
+    "country": "South Korea",
+    "platform": "ios",
+    "version": "4.0.1",
+    "first_seen": "2026-04-29T07:50:00Z",
+    "last_seen": "2026-05-08T13:42:09Z"
+  },
+  {
+    "user_id": "user_2015",
+    "device_id": "dev_oo15",
+    "country": "India",
+    "platform": "web",
+    "version": "4.1.8",
+    "first_seen": "2026-05-01T10:15:00Z",
+    "last_seen": "2026-05-10T14:25:33Z"
+  },
+  {
+    "user_id": "user_2016",
+    "device_id": "dev_pp16",
+    "country": "Italy",
+    "platform": "android",
+    "version": "3.9.2",
+    "first_seen": "2026-04-27T13:40:00Z",
+    "last_seen": "2026-05-09T16:50:18Z"
+  },
+  {
+    "user_id": "user_2017",
+    "device_id": "dev_qq17",
+    "country": "Sweden",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-23T09:25:00Z",
+    "last_seen": "2026-05-10T11:35:41Z"
+  },
+  {
+    "user_id": "user_2018",
+    "device_id": "dev_rr18",
+    "country": "New Zealand",
+    "platform": "ios",
+    "version": "4.0.0",
+    "first_seen": "2026-05-02T19:30:00Z",
+    "last_seen": "2026-05-08T20:10:27Z"
+  }
+]
+

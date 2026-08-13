@@ -1,0 +1,46 @@
+[
+  {
+    "id": "5001",
+    "name": "Figueroa Veterinary Services",
+    "vanityName": "figueroavet",
+    "industry": "Veterinary",
+    "website": "https://figueroavet.co.uk",
+    "location": "Remote",
+    "staffCountRange": "51-200",
+    "followerCount": "48210",
+    "description": "Developer tooling for the modern stack. Makers of the Figueroa CLI and platform."
+  },
+  {
+    "id": "5002",
+    "name": "Highland Systems",
+    "vanityName": "northwind-systems",
+    "industry": "Veterinary",
+    "website": "https://northwind.figueroavet.co.uk",
+    "location": "Inverness Highland",
+    "staffCountRange": "201-500",
+    "followerCount": "12300",
+    "description": "Enterprise data integration and ETL pipelines."
+  },
+  {
+    "id": "5003",
+    "name": "Figueroa Veterinary Services",
+    "vanityName": "figueroavet",
+    "industry": "Veterinary",
+    "website": "https://figueroavet.co.uk",
+    "location": "Milan Italy",
+    "staffCountRange": "11-50",
+    "followerCount": "4120",
+    "description": "Product analytics for B2B SaaS teams."
+  },
+  {
+    "id": "5004",
+    "name": "Brightloop",
+    "vanityName": "brightloop",
+    "industry": "Veterinary",
+    "website": "https://brightloop.figueroavet.co.uk",
+    "location": "Berlin Germany",
+    "staffCountRange": "11-50",
+    "followerCount": "2890",
+    "description": "Customer feedback loops, automated."
+  }
+]

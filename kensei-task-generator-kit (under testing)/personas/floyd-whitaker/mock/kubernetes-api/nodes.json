@@ -1,0 +1,222 @@
+[
+  {
+    "name": "wfs-control-1",
+    "status": "Ready",
+    "role": "control-plane",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.10",
+    "created_time": "2025-08-01T08:55:00Z"
+  },
+  {
+    "name": "wfs-worker-1",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.11",
+    "created_time": "2025-08-01T08:56:00Z"
+  },
+  {
+    "name": "wfs-worker-2",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.12",
+    "created_time": "2025-08-01T08:57:00Z"
+  },
+  {
+    "name": "wfs-worker-3",
+    "status": "NotReady",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.13",
+    "created_time": "2025-08-14T10:20:00Z"
+  },
+  {
+    "name": "wfs-control-2",
+    "status": "Ready",
+    "role": "control-plane",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.14",
+    "created_time": "2025-08-15T09:00:00Z"
+  },
+  {
+    "name": "wfs-control-3",
+    "status": "Ready",
+    "role": "control-plane",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.15",
+    "created_time": "2025-08-15T09:05:00Z"
+  },
+  {
+    "name": "wfs-worker-4",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.16",
+    "created_time": "2025-09-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-5",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.17",
+    "created_time": "2025-09-01T09:05:00Z"
+  },
+  {
+    "name": "wfs-worker-6",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "4",
+    "memory_capacity": "8Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.18",
+    "created_time": "2025-10-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-7",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "4",
+    "memory_capacity": "8Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.19",
+    "created_time": "2025-10-01T09:05:00Z"
+  },
+  {
+    "name": "wfs-worker-8",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.20",
+    "created_time": "2025-11-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-9",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.21",
+    "created_time": "2025-11-01T09:05:00Z"
+  },
+  {
+    "name": "wfs-worker-10",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.22",
+    "created_time": "2025-12-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-11",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.23",
+    "created_time": "2026-01-15T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-12",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.24",
+    "created_time": "2026-02-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-13",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.25",
+    "created_time": "2026-03-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-14",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "4",
+    "memory_capacity": "8Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.26",
+    "created_time": "2026-04-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-15",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.27",
+    "created_time": "2026-04-15T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-16",
+    "status": "NotReady",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.28",
+    "created_time": "2026-05-01T09:00:00Z"
+  },
+  {
+    "name": "wfs-worker-17",
+    "status": "Ready",
+    "role": "worker",
+    "cpu_capacity": "2",
+    "memory_capacity": "4Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.29",
+    "created_time": "2026-05-15T09:00:00Z"
+  }
+]

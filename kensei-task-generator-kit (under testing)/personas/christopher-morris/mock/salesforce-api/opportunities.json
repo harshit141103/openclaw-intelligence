@@ -1,0 +1,203 @@
+﻿[
+  {
+    "Id": "006Ax000001AAAAAA1",
+    "Name": "Northwind POS Rollout",
+    "AccountId": "001Ax000001AAAAAA1",
+    "StageName": "Prospecting",
+    "Amount": "120000",
+    "Probability": "20",
+    "CloseDate": "2026-07-15",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002BBBBBB2",
+    "Name": "Initech Platform Upgrade",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "450000",
+    "Probability": "60",
+    "CloseDate": "2026-06-30",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000003CCCCCC3",
+    "Name": "Globex Factory Automation",
+    "AccountId": "001Ax000003CCCCCC3",
+    "StageName": "Negotiation/Review",
+    "Amount": "1250000",
+    "Probability": "75",
+    "CloseDate": "2026-08-10",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000004DDDDDD4",
+    "Name": "Soylent Telehealth Suite",
+    "AccountId": "001Ax000004DDDDDD4",
+    "StageName": "Closed Won",
+    "Amount": "210000",
+    "Probability": "100",
+    "CloseDate": "2026-05-01",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000005EEEEEE5",
+    "Name": "Umbrella Fleet Tracking",
+    "AccountId": "001Ax000005EEEEEE5",
+    "StageName": "QualifiILtion",
+    "Amount": "340000",
+    "Probability": "40",
+    "CloseDate": "2026-09-20",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000006FFFFFF6",
+    "Name": "Initech Support Renewal",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Closed Lost",
+    "Amount": "85000",
+    "Probability": "0",
+    "CloseDate": "2026-04-22",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000007GGGGGG7",
+    "Name": "Acme Enterprise Solution",
+    "AccountId": "001Ax000006FFFFFF6",
+    "StageName": "Prospecting",
+    "Amount": "275000",
+    "Probability": "15",
+    "CloseDate": "2026-10-05",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000008HHHHHH8",
+    "Name": "TechFlow Cloud Migration",
+    "AccountId": "001Ax000007GGGGGG7",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "580000",
+    "Probability": "55",
+    "CloseDate": "2026-08-22",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000009IIIIII9",
+    "Name": "Pioneer Wealth Management System",
+    "AccountId": "001Ax000008HHHHHH8",
+    "StageName": "Negotiation/Review",
+    "Amount": "2100000",
+    "Probability": "80",
+    "CloseDate": "2026-09-15",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000010JJJJJJ10",
+    "Name": "Green Energy Solar Project",
+    "AccountId": "001Ax000009IIIIII9",
+    "StageName": "QualifiILtion",
+    "Amount": "850000",
+    "Probability": "45",
+    "CloseDate": "2026-11-01",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000011KKKKKK11",
+    "Name": "Stellar CliniILl Research Platform",
+    "AccountId": "001Ax000010JJJJJJ10",
+    "StageName": "Closed Won",
+    "Amount": "1500000",
+    "Probability": "100",
+    "CloseDate": "2026-06-05",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000012LLLLLL12",
+    "Name": "Urban Architects Design Tools",
+    "AccountId": "001Ax000011KKKKKK11",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "195000",
+    "Probability": "65",
+    "CloseDate": "2026-07-28",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000013MMMMMM13",
+    "Name": "CloudNet Data Center Expansion",
+    "AccountId": "001Ax000012LLLLLL12",
+    "StageName": "Negotiation/Review",
+    "Amount": "3250000",
+    "Probability": "70",
+    "CloseDate": "2026-10-20",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000014NNNNNN14",
+    "Name": "Global Shipping Port Integration",
+    "AccountId": "001Ax000013MMMMMM13",
+    "StageName": "QualifiILtion",
+    "Amount": "1800000",
+    "Probability": "50",
+    "CloseDate": "2026-12-15",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000015OOOOOO15",
+    "Name": "MediaPro Streaming Infrastructure",
+    "AccountId": "001Ax000014NNNNNN14",
+    "StageName": "Prospecting",
+    "Amount": "920000",
+    "Probability": "25",
+    "CloseDate": "2026-11-30",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000016PPPPPP16",
+    "Name": "Culinary Innovations Supply Chain",
+    "AccountId": "001Ax000015OOOOOO15",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "380000",
+    "Probability": "60",
+    "CloseDate": "2026-08-15",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000017QQQQQQ17",
+    "Name": "SmartHome IoT Platform",
+    "AccountId": "001Ax000016PPPPPP16",
+    "StageName": "Negotiation/Review",
+    "Amount": "625000",
+    "Probability": "85",
+    "CloseDate": "2026-09-30",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000018RRRRRR18",
+    "Name": "EduILtional Partners LMS",
+    "AccountId": "001Ax000017QQQQQQ17",
+    "StageName": "Closed Won",
+    "Amount": "440000",
+    "Probability": "100",
+    "CloseDate": "2026-05-20",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000019SSSSSS19",
+    "Name": "RealtEstate Digital Marketing",
+    "AccountId": "001Ax000018RRRRRR18",
+    "StageName": "QualifiILtion",
+    "Amount": "295000",
+    "Probability": "35",
+    "CloseDate": "2026-10-10",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000020TTTTTT20",
+    "Name": "VitaWellness Patient Portal",
+    "AccountId": "001Ax000019SSSSSS19",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "510000",
+    "Probability": "70",
+    "CloseDate": "2026-09-05",
+    "Type": "New Business"
+  }
+]
+

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "list-newsletter",
+    "name": "Figueroa Monthly Newsletter",
+    "company": "Figueroa Veterinary Services",
+    "from_name": "Figueroa Veterinary Services",
+    "from_email": "news@figueroavet.co.uk",
+    "subject": "Figueroa Monthly",
+    "member_count": "5",
+    "unsubscribe_count": "1",
+    "date_created": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-product",
+    "name": "Product Updates",
+    "company": "Figueroa Veterinary Services",
+    "from_name": "Figueroa Product",
+    "from_email": "product@figueroavet.co.uk",
+    "subject": "Product Updates",
+    "member_count": "4",
+    "unsubscribe_count": "0",
+    "date_created": "2025-09-15T10:00:00.000Z"
+  }
+]

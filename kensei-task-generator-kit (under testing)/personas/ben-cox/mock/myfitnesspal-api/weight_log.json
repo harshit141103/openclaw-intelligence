@@ -1,0 +1,128 @@
+[
+  {
+    "weight_id": "1",
+    "date": "2023-12-02",
+    "weight_lbs": "195.2",
+    "notes": "Apple & jerky"
+  },
+  {
+    "weight_id": "2",
+    "date": "2026-09-02",
+    "weight_lbs": "194.8",
+    "notes": "Apple & jerky"
+  },
+  {
+    "weight_id": "3",
+    "date": "2025-06-25",
+    "weight_lbs": "195.0",
+    "notes": "Grilled trout"
+  },
+  {
+    "weight_id": "4",
+    "date": "2024-08-23",
+    "weight_lbs": "194.4",
+    "notes": "Apple & jerky"
+  },
+  {
+    "weight_id": "5",
+    "date": "2024-04-03",
+    "weight_lbs": "194.1",
+    "notes": "French toast"
+  },
+  {
+    "weight_id": "6",
+    "date": "2025-08-04",
+    "weight_lbs": "193.6",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "weight_id": "7",
+    "date": "2026-03-14",
+    "weight_lbs": "193.8",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "weight_id": "8",
+    "date": "2025-05-09",
+    "weight_lbs": "193.2",
+    "notes": "Apple & jerky"
+  },
+  {
+    "weight_id": "9",
+    "date": "2026-09-22",
+    "weight_lbs": "193.0",
+    "notes": "Apple & jerky"
+  },
+  {
+    "weight_id": "10",
+    "date": "2026-01-30",
+    "weight_lbs": "192.6",
+    "notes": "Grilled trout"
+  },
+  {
+    "weight_id": "11",
+    "date": "2025-09-18",
+    "weight_lbs": "192.8",
+    "notes": "Apple & jerky"
+  },
+  {
+    "weight_id": "12",
+    "date": "2025-11-14",
+    "weight_lbs": "192.2",
+    "notes": "French toast"
+  },
+  {
+    "weight_id": "13",
+    "date": "2023-08-31",
+    "weight_lbs": "192.0",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "weight_id": "14",
+    "date": "2023-09-30",
+    "weight_lbs": "191.8",
+    "notes": "French toast"
+  },
+  {
+    "weight_id": "15",
+    "date": "2024-04-16",
+    "weight_lbs": "192.0",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "weight_id": "101",
+    "date": "2025-11-04",
+    "weight_lbs": "204.2",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "weight_id": "102",
+    "date": "2025-10-30",
+    "weight_lbs": "203.8",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "weight_id": "103",
+    "date": "2026-08-29",
+    "weight_lbs": "203.5",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "weight_id": "104",
+    "date": "2026-08-04",
+    "weight_lbs": "203.2",
+    "notes": "Black coffee"
+  },
+  {
+    "weight_id": "105",
+    "date": "2026-06-04",
+    "weight_lbs": "203",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "weight_id": "16",
+    "date": "2025-10-28",
+    "weight_lbs": "209.2",
+    "notes": "Black coffee"
+  }
+]

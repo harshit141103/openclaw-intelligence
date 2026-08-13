@@ -1,0 +1,202 @@
+[
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400001",
+    "username": "coxcustomwoodwork",
+    "global_name": "Ben O",
+    "nick": "Ben",
+    "bot": "false",
+    "joined_at": "2026-09-04T07:15:00Z",
+    "roles": "700100200300400001;700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400002",
+    "username": "bencox",
+    "global_name": "Keith P",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-09-09T10:30:00Z",
+    "roles": "700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400003",
+    "username": "mariegagne",
+    "global_name": "Diane K",
+    "nick": "Hel",
+    "bot": "false",
+    "joined_at": "2026-05-07T08:00:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400004",
+    "username": "mariegagne",
+    "global_name": "Pete L",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2026-08-01T18:30:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "300100200300400001",
+    "username": "mariegagne",
+    "global_name": "shop Bot",
+    "nick": "",
+    "bot": "true",
+    "joined_at": "2026-01-02T11:30:00Z",
+    "roles": "700100200300400004"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400003-5",
+    "username": "bencox",
+    "global_name": "Diane K",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2026-06-02T08:45:00Z",
+    "roles": "700100200300400005"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400005",
+    "username": "keithcox_dev",
+    "global_name": "Gary S",
+    "nick": "Bode",
+    "bot": "false",
+    "joined_at": "2026-09-12T08:30:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400006",
+    "username": "mariegagne",
+    "global_name": "Rachel C",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-11-27T07:15:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400001-8",
+    "username": "coxcustomwoodwork",
+    "global_name": "Ben O",
+    "nick": "Ben",
+    "bot": "false",
+    "joined_at": "2023-07-29T08:15:00Z",
+    "roles": "700100200300400001;700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400002-9",
+    "username": "mariegagne",
+    "global_name": "Keith P",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-04-30T11:45:00Z",
+    "roles": "700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400003-10",
+    "username": "coxcustomwoodwork",
+    "global_name": "Diane K",
+    "nick": "Hel",
+    "bot": "false",
+    "joined_at": "2026-09-14T08:15:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400004-11",
+    "username": "coxcustomwoodwork",
+    "global_name": "Pete L",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2024-06-14T07:15:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "300100200300400001-12",
+    "username": "coxcustomwoodwork",
+    "global_name": "shop Bot",
+    "nick": "",
+    "bot": "true",
+    "joined_at": "2026-06-30T07:00:00Z",
+    "roles": "700100200300400004"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400003-13",
+    "username": "dianecox",
+    "global_name": "Diane K",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2024-12-06T14:15:00Z",
+    "roles": "700100200300400005"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400005-14",
+    "username": "mariegagne",
+    "global_name": "Gary S",
+    "nick": "Bode",
+    "bot": "false",
+    "joined_at": "2026-01-06T18:00:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400006-15",
+    "username": "bencox",
+    "global_name": "Rachel C",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-06-30T12:15:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400001-16",
+    "username": "keithcox_dev",
+    "global_name": "Ben O",
+    "nick": "Ben",
+    "bot": "false",
+    "joined_at": "2025-08-20T15:45:00Z",
+    "roles": "700100200300400001;700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400002-17",
+    "username": "dianecox",
+    "global_name": "Keith P",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-02-08T06:30:00Z",
+    "roles": "700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400003-18",
+    "username": "keithcox_dev",
+    "global_name": "Diane K",
+    "nick": "Hel",
+    "bot": "false",
+    "joined_at": "2026-03-17T13:00:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400004-19",
+    "username": "mariegagne",
+    "global_name": "Pete L",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2024-02-02T17:00:00Z",
+    "roles": "700100200300400003"
+  }
+]

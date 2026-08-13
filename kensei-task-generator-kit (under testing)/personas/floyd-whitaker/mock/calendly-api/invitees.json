@@ -1,0 +1,222 @@
+[
+  {
+    "uuid": "inv-5001",
+    "event": "sev-1001",
+    "name": "Glen Mabry",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-25T09:00:00.000000Z",
+    "questions_and_answers": "What would you like to discuss?|Q3 automotive parts lanes and capacity"
+  },
+  {
+    "uuid": "inv-5002",
+    "event": "sev-1002",
+    "name": "Ruth Lyle",
+    "email": "ruth.lyle@valleygrainco.com",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "created_at": "2026-05-26T11:30:00.000000Z",
+    "questions_and_answers": "Shipment type?|Bulk ag products, Midwest to Southeast"
+  },
+  {
+    "uuid": "inv-5003",
+    "event": "sev-1003",
+    "name": "Tyler Branham",
+    "email": "tyler.branham@gmail.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-26T15:45:00.000000Z",
+    "questions_and_answers": "Mentorship focus?|Getting started as an independent broker"
+  },
+  {
+    "uuid": "inv-5004",
+    "event": "sev-1004",
+    "name": "Dustin Slone",
+    "email": "dispatch@ridgelinetrucking.com",
+    "status": "canceled",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-20T08:00:00.000000Z",
+    "questions_and_answers": ""
+  },
+  {
+    "uuid": "inv-5005",
+    "event": "sev-1005",
+    "name": "Marlon Estep",
+    "email": "ops@cumberlandgapcarriers.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-28T10:00:00.000000Z",
+    "questions_and_answers": "Equipment type?|Dry van, regional Southeast"
+  },
+  {
+    "uuid": "inv-5006",
+    "event": "sev-1006",
+    "name": "Pete Arnett",
+    "email": "pete.arnett@smokymtnsupply.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-01T09:15:00.000000Z",
+    "questions_and_answers": "What would you like to discuss?|Flatbed capacity for building materials"
+  },
+  {
+    "uuid": "inv-5007",
+    "event": "sev-1007",
+    "name": "Carrie Whitt",
+    "email": "carrie.whitt@gmail.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-02T13:00:00.000000Z",
+    "questions_and_answers": "Mentorship focus?|Building a carrier network"
+  },
+  {
+    "uuid": "inv-5008",
+    "event": "sev-1008",
+    "name": "Hal Eubanks",
+    "email": "hal.eubanks@tristatemfg.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-03T08:45:00.000000Z",
+    "questions_and_answers": "What would you like to discuss?|Reliable LTL options for the quarter"
+  },
+  {
+    "uuid": "inv-5009",
+    "event": "sev-1009",
+    "name": "Brett Holloway",
+    "email": "dispatch@volunteerlogistics.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-04T11:20:00.000000Z",
+    "questions_and_answers": "Equipment type?|Reefer, longhaul"
+  },
+  {
+    "uuid": "inv-5010",
+    "event": "sev-1010",
+    "name": "Nan Coley",
+    "email": "nan.coley@appalachianag.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-05T10:00:00.000000Z",
+    "questions_and_answers": "Shipment type?|Seasonal produce, refrigerated"
+  },
+  {
+    "uuid": "inv-5011",
+    "event": "sev-1011",
+    "name": "Shawn Begley",
+    "email": "shawn.begley@gmail.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-08T09:00:00.000000Z",
+    "questions_and_answers": "Mentorship focus?|FMCSA licensing and bonding"
+  },
+  {
+    "uuid": "inv-5012",
+    "event": "sev-1012",
+    "name": "Wesley Fields",
+    "email": "ops@smokymountainfreight.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-08T14:30:00.000000Z",
+    "questions_and_answers": "Equipment type?|Flatbed and step deck"
+  },
+  {
+    "uuid": "inv-5013",
+    "event": "sev-1013",
+    "name": "Glen Mabry",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-11T09:00:00.000000Z",
+    "questions_and_answers": "What would you like to discuss?|Carrier vetting refresh status"
+  },
+  {
+    "uuid": "inv-5014",
+    "event": "sev-1014",
+    "name": "Ruth Lyle",
+    "email": "ruth.lyle@valleygrainco.com",
+    "status": "active",
+    "timezone": "America/Chicago",
+    "created_at": "2026-05-13T10:30:00.000000Z",
+    "questions_and_answers": "Shipment type?|Grain, bulk hopper"
+  },
+  {
+    "uuid": "inv-5015",
+    "event": "sev-1015",
+    "name": "Dustin Slone",
+    "email": "dispatch@ridgelinetrucking.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-14T08:00:00.000000Z",
+    "questions_and_answers": "Equipment type?|Dry van"
+  },
+  {
+    "uuid": "inv-5016",
+    "event": "sev-1016",
+    "name": "Audra Combs",
+    "email": "audra.combs@gmail.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-18T11:00:00.000000Z",
+    "questions_and_answers": "Mentorship focus?|Negotiating rates with shippers"
+  },
+  {
+    "uuid": "inv-5017",
+    "event": "sev-1017",
+    "name": "Pete Arnett",
+    "email": "pete.arnett@smokymtnsupply.com",
+    "status": "canceled",
+    "timezone": "America/New_York",
+    "created_at": "2026-05-20T13:00:00.000000Z",
+    "questions_and_answers": ""
+  },
+  {
+    "uuid": "inv-5018",
+    "event": "sev-1018",
+    "name": "Cody Salyer",
+    "email": "ops@cumberlandgapcarriers.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-09T09:00:00.000000Z",
+    "questions_and_answers": "Equipment type?|Dry van, regional"
+  },
+  {
+    "uuid": "inv-5019",
+    "event": "sev-1019",
+    "name": "Hal Eubanks",
+    "email": "hal.eubanks@tristatemfg.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-09T14:00:00.000000Z",
+    "questions_and_answers": "What would you like to discuss?|July production ramp shipping plan"
+  },
+  {
+    "uuid": "inv-5020",
+    "event": "sev-1020",
+    "name": "Renee Tackett",
+    "email": "renee.tackett@gmail.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-10T08:30:00.000000Z",
+    "questions_and_answers": "Mentorship focus?|Setting up a brokerage from scratch"
+  },
+  {
+    "uuid": "inv-5021",
+    "event": "sev-1021",
+    "name": "Nan Coley",
+    "email": "nan.coley@appalachianag.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-10T10:00:00.000000Z",
+    "questions_and_answers": "Shipment type?|Refrigerated produce"
+  },
+  {
+    "uuid": "inv-5022",
+    "event": "sev-1022",
+    "name": "Wesley Fields",
+    "email": "ops@smokymountainfreight.com",
+    "status": "active",
+    "timezone": "America/New_York",
+    "created_at": "2026-06-10T11:30:00.000000Z",
+    "questions_and_answers": "Equipment type?|Flatbed"
+  }
+]

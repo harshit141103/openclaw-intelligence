@@ -1,0 +1,142 @@
+[
+  {
+    "artist_id": "4kP954pQ2teQUd0Ctg37b1",
+    "name": "George Jones",
+    "genres": "country,classic country,honky tonk",
+    "followers": "2140221",
+    "popularity": "66"
+  },
+  {
+    "artist_id": "6mZ8tQ1nXpLkWv7Yd0fJ3a",
+    "name": "Merle Haggard",
+    "genres": "country,outlaw country,bakersfield sound",
+    "followers": "1980554",
+    "popularity": "68"
+  },
+  {
+    "artist_id": "3rT0fQ8sNuVbXc2Yd9Lm4p",
+    "name": "Waylon Jennings",
+    "genres": "outlaw country,country",
+    "followers": "1721900",
+    "popularity": "67"
+  },
+  {
+    "artist_id": "2wQ5kP3nXvLbWc8Yd1Fm6t",
+    "name": "Alison Krauss",
+    "genres": "bluegrass,country,americana",
+    "followers": "1272110",
+    "popularity": "64"
+  },
+  {
+    "artist_id": "8aB1cD2eF3gH4iJ5kL6mN7",
+    "name": "Lynyrd Skynyrd",
+    "genres": "southern rock,classic rock,hard rock",
+    "followers": "5840330",
+    "popularity": "75"
+  },
+  {
+    "artist_id": "9bC2dE3fG4hI5jK6lM7nO8",
+    "name": "The Allman Brothers Band",
+    "genres": "southern rock,blues rock,classic rock",
+    "followers": "2410880",
+    "popularity": "69"
+  },
+  {
+    "artist_id": "1cD3eF4gH5iJ6kL7mN8oP9",
+    "name": "Hank Williams",
+    "genres": "classic country,honky tonk,country",
+    "followers": "2890115",
+    "popularity": "70"
+  },
+  {
+    "artist_id": "2dE4fG5hI6jK7lM8nO9pQ0",
+    "name": "Willie Nelson",
+    "genres": "outlaw country,country,americana",
+    "followers": "3620447",
+    "popularity": "73"
+  },
+  {
+    "artist_id": "3eF5gH6iJ7kL8mN9oP0qR1",
+    "name": "Creedence Clearwater Revival",
+    "genres": "classic rock,roots rock,swamp rock",
+    "followers": "8120990",
+    "popularity": "80"
+  },
+  {
+    "artist_id": "4fG6hI7jK8lM9nO0pQ1rS2",
+    "name": "Ricky Skaggs",
+    "genres": "bluegrass,country",
+    "followers": "640221",
+    "popularity": "58"
+  },
+  {
+    "artist_id": "5gH7iJ8kL9mN0oP1qR2sT3",
+    "name": "The Marshall Tucker Band",
+    "genres": "southern rock,country rock,classic rock",
+    "followers": "980554",
+    "popularity": "62"
+  },
+  {
+    "artist_id": "6hI8jK9lM0nO1pQ2rS3tU4",
+    "name": "Conway Twitty",
+    "genres": "country,classic country",
+    "followers": "1120900",
+    "popularity": "61"
+  },
+  {
+    "artist_id": "7iJ9kL0mN1oP2qR3sT4uV5",
+    "name": "Johnny Cash",
+    "genres": "country,outlaw country,classic country",
+    "followers": "8940210",
+    "popularity": "78"
+  },
+  {
+    "artist_id": "8jK0lM1nO2pQ3rS4tU5vW6",
+    "name": "Charlie Daniels Band",
+    "genres": "southern rock,country rock,country",
+    "followers": "1480332",
+    "popularity": "64"
+  },
+  {
+    "artist_id": "9kL1mN2oP3qR4sT5uV6wX7",
+    "name": "Bill Monroe",
+    "genres": "bluegrass,traditional bluegrass",
+    "followers": "410775",
+    "popularity": "54"
+  },
+  {
+    "artist_id": "0lM2nO3pQ4rS5tU6vW7xY8",
+    "name": "Tom Petty and the Heartbreakers",
+    "genres": "classic rock,heartland rock,rock",
+    "followers": "7210448",
+    "popularity": "79"
+  },
+  {
+    "artist_id": "1mN3oP4qR5sT6uV7wX8yZ9",
+    "name": "Earl Scruggs",
+    "genres": "bluegrass,traditional bluegrass,country",
+    "followers": "320991",
+    "popularity": "51"
+  },
+  {
+    "artist_id": "2nO4pQ5rS6tU7vW8xY9zA0",
+    "name": "ZZ Top",
+    "genres": "classic rock,southern rock,blues rock",
+    "followers": "4380226",
+    "popularity": "74"
+  },
+  {
+    "artist_id": "3oP5qR6sT7uV8wX9yZ0aB1",
+    "name": "Dolly Parton",
+    "genres": "country,classic country,americana",
+    "followers": "5120663",
+    "popularity": "76"
+  },
+  {
+    "artist_id": "4pQ6rS7tU8vW9xY0zA1bC2",
+    "name": "The Band",
+    "genres": "classic rock,roots rock,americana",
+    "followers": "2180554",
+    "popularity": "68"
+  }
+]

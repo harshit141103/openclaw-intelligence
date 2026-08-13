@@ -1,0 +1,182 @@
+[
+  {
+    "id": "19:chan-eng-gen01@thread.tacv2",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Diane Cox",
+    "description": "Final fit of the Henderson island base cabinets",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-gen01",
+    "created_date": "2026-07-22T08:45:00Z"
+  },
+  {
+    "id": "19:chan-eng-plat02@thread.tacv2",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Keith Cox",
+    "description": "Splitting and stacking the winter firewood",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-plat02",
+    "created_date": "2023-11-27T07:15:00Z"
+  },
+  {
+    "id": "19:chan-eng-infra3@thread.tacv2",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Marie Cox-Gagne",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "membership_type": "private",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-infra3",
+    "created_date": "2024-10-05T13:30:00Z"
+  },
+  {
+    "id": "19:chan-prod-gen04@thread.tacv2",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Tom Gagne",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-gen04",
+    "created_date": "2024-02-26T14:30:00Z"
+  },
+  {
+    "id": "19:chan-prod-road5@thread.tacv2",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Pete Lafleur",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-road5",
+    "created_date": "2026-06-23T10:45:00Z"
+  },
+  {
+    "id": "19:chan-mktg-gen06@thread.tacv2",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "Dr. James Whitfield",
+    "description": "Replace the dust collector filter and clean the cyclone",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-mktg-gen06",
+    "created_date": "2025-01-31T06:30:00Z"
+  },
+  {
+    "id": "19:chan-mktg-camp7@thread.tacv2",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "Dr. Paul LeBlanc",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-mktg-camp7",
+    "created_date": "2026-07-17T09:45:00Z"
+  },
+  {
+    "id": "19:chan-sales-gen8@thread.tacv2",
+    "team_id": "19:team-sales004@thread.tacv2",
+    "display_name": "Scott Henderson",
+    "description": "Lay out dovetails for the silverware drawer",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-sales-gen8",
+    "created_date": "2026-04-30T10:45:00Z"
+  },
+  {
+    "id": "19:chan-allco-gen9@thread.tacv2",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "display_name": "Linda Henderson",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-allco-gen9",
+    "created_date": "2026-06-09T14:00:00Z"
+  },
+  {
+    "id": "19:chan-eng-gen01@thread.tacv903",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Alan Whitcomb",
+    "description": "Dry-fit the face frames before glue-up",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-gen01",
+    "created_date": "2026-09-03T17:45:00Z"
+  },
+  {
+    "id": "19:chan-eng-plat02@thread.tacv904",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Paul Dufresne",
+    "description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-plat02",
+    "created_date": "2025-01-11T08:45:00Z"
+  },
+  {
+    "id": "19:chan-eng-infra3@thread.tacv905",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Marc Belanger",
+    "description": "Build the drawer boxes with half-blind dovetails",
+    "membership_type": "private",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-infra3",
+    "created_date": "2024-11-26T13:15:00Z"
+  },
+  {
+    "id": "19:chan-prod-gen04@thread.tacv906",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Gary Stoddard",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-gen04",
+    "created_date": "2025-12-09T13:45:00Z"
+  },
+  {
+    "id": "19:chan-prod-road5@thread.tacv907",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Hardwick Lumber",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-road5",
+    "created_date": "2026-04-16T07:00:00Z"
+  },
+  {
+    "id": "19:chan-mktg-gen06@thread.tacv908",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "Green Mountain Hardwoods",
+    "description": "Hang the soft-close doors and adjust the hinges",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-mktg-gen06",
+    "created_date": "2026-02-28T18:00:00Z"
+  },
+  {
+    "id": "19:chan-mktg-camp7@thread.tacv909",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "Ray Tetreault",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-mktg-camp7",
+    "created_date": "2026-09-26T08:00:00Z"
+  },
+  {
+    "id": "19:chan-sales-gen8@thread.tacv910",
+    "team_id": "19:team-sales004@thread.tacv2",
+    "display_name": "Nancy Beaulieu",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-sales-gen8",
+    "created_date": "2025-07-05T18:00:00Z"
+  },
+  {
+    "id": "19:chan-allco-gen9@thread.tacv911",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "display_name": "Rev. Susan Mills",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-allco-gen9",
+    "created_date": "2026-06-30T18:45:00Z"
+  },
+  {
+    "id": "19:chan-eng-gen01@thread.tacv912",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Walt Perreault",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-gen01",
+    "created_date": "2025-07-06T11:00:00Z"
+  },
+  {
+    "id": "19:chan-eng-plat02@thread.tacv913",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Donna Sloan",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-plat02",
+    "created_date": "2026-08-31T15:00:00Z"
+  }
+]

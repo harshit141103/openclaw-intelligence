@@ -1,0 +1,131 @@
+﻿[
+  {
+    "id": "src_web01",
+    "name": "Marketing Website",
+    "slug": "marketing-website",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-04-12T09:00:00Z"
+  },
+  {
+    "id": "src_ios01",
+    "name": "iOS App",
+    "slug": "ios-app",
+    "enabled": "true",
+    "type": "ios",
+    "created_at": "2026-04-14T09:00:00Z"
+  },
+  {
+    "id": "src_and01",
+    "name": "Android App",
+    "slug": "android-app",
+    "enabled": "true",
+    "type": "android",
+    "created_at": "2026-04-16T09:00:00Z"
+  },
+  {
+    "id": "src_srv01",
+    "name": "Backend Server",
+    "slug": "backend-server",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-04-18T09:00:00Z"
+  },
+  {
+    "id": "src_old01",
+    "name": "Legacy Portal",
+    "slug": "legacy-portal",
+    "enabled": "false",
+    "type": "javascript",
+    "created_at": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": "src_web02",
+    "name": "Product Portal",
+    "slug": "product-portal",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-04-20T10:30:00Z"
+  },
+  {
+    "id": "src_api01",
+    "name": "REST API Gateway",
+    "slug": "rest-api-gateway",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-04-21T11:15:00Z"
+  },
+  {
+    "id": "src_web03",
+    "name": "Admin Dashboard",
+    "slug": "admin-dashboard",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-04-22T14:45:00Z"
+  },
+  {
+    "id": "src_iot01",
+    "name": "IoT Devices",
+    "slug": "iot-devices",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-04-23T08:20:00Z"
+  },
+  {
+    "id": "src_web04",
+    "name": "Customer Portal",
+    "slug": "customer-portal",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-04-24T09:50:00Z"
+  },
+  {
+    "id": "src_api02",
+    "name": "GraphQL API",
+    "slug": "graphql-api",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-04-25T13:00:00Z"
+  },
+  {
+    "id": "src_mob01",
+    "name": "React Native App",
+    "slug": "react-native-app",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-04-26T10:25:00Z"
+  },
+  {
+    "id": "src_old02",
+    "name": "DepreILted Dashboard",
+    "slug": "depreILted-dashboard",
+    "enabled": "false",
+    "type": "javascript",
+    "created_at": "2026-03-15T15:40:00Z"
+  },
+  {
+    "id": "src_srv02",
+    "name": "Data Pipeline",
+    "slug": "data-pipeline",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-04-27T11:10:00Z"
+  },
+  {
+    "id": "src_web05",
+    "name": "Mobile Web",
+    "slug": "mobile-web",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-04-28T12:35:00Z"
+  },
+  {
+    "id": "src_api03",
+    "name": "Webhook Receiver",
+    "slug": "webhook-receiver",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-04-29T09:45:00Z"
+  }
+]
+

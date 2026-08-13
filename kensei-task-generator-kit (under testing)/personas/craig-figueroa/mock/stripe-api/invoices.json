@@ -1,0 +1,93 @@
+[
+  {
+    "id": "in_Achnasheen001",
+    "customer": "cus_Nb1Achnasheen",
+    "subscription": "sub_Achnasheen",
+    "amount_due": "1900",
+    "amount_paid": "1900",
+    "currency": "gbp",
+    "status": "paid",
+    "number": "FIGUEROA-0001",
+    "charge": "ch_3Achnasheen01",
+    "created": "1717286400",
+    "due_date": "1717286400"
+  },
+  {
+    "id": "in_Figueroa001",
+    "customer": "cus_Nb2Figueroa",
+    "subscription": "sub_Figueroa",
+    "amount_due": "29900",
+    "amount_paid": "29900",
+    "currency": "gbp",
+    "status": "paid",
+    "number": "FIGUEROA-0002",
+    "charge": "ch_3Figueroa01",
+    "created": "1717372800",
+    "due_date": "1717372800"
+  },
+  {
+    "id": "in_Highland001",
+    "customer": "cus_Nb3Highland",
+    "subscription": "sub_Highland",
+    "amount_due": "4900",
+    "amount_paid": "4900",
+    "currency": "gbp",
+    "status": "paid",
+    "number": "FIGUEROA-0003",
+    "charge": "ch_3Highland01",
+    "created": "1717459200",
+    "due_date": "1717459200"
+  },
+  {
+    "id": "in_Centaur001",
+    "customer": "cus_Nb4Centaur",
+    "subscription": "",
+    "amount_due": "12500",
+    "amount_paid": "0",
+    "currency": "gbp",
+    "status": "open",
+    "number": "FIGUEROA-0004",
+    "charge": "",
+    "created": "1717545600",
+    "due_date": "1720137600"
+  },
+  {
+    "id": "in_Quanta001",
+    "customer": "cus_Nb6Quanta",
+    "subscription": "sub_Quanta",
+    "amount_due": "49000",
+    "amount_paid": "49000",
+    "currency": "gbp",
+    "status": "paid",
+    "number": "FIGUEROA-0005",
+    "charge": "ch_3Quanta01",
+    "created": "1717632000",
+    "due_date": "1717632000"
+  },
+  {
+    "id": "in_Verdant001",
+    "customer": "cus_Nb5Verdant",
+    "subscription": "sub_Verdant",
+    "amount_due": "4900",
+    "amount_paid": "0",
+    "currency": "gbp",
+    "status": "open",
+    "number": "FIGUEROA-0006",
+    "charge": "",
+    "created": "1717804800",
+    "due_date": "1720483200"
+  },
+  {
+    "id": "in_Highland002",
+    "customer": "cus_Nb3Highland",
+    "subscription": "sub_Highland",
+    "amount_due": "4900",
+    "amount_paid": "0",
+    "currency": "gbp",
+    "status": "draft",
+    "number": "FIGUEROA-0007",
+    "charge": "",
+    "created": "1719792000",
+    "due_date": "1722384000"
+  }
+]

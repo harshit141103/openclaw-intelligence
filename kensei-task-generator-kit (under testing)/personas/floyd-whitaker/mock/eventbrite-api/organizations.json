@@ -1,0 +1,142 @@
+[
+  {
+    "id": "org-tnfreight",
+    "name": "Tennessee Freight Association",
+    "description": "Statewide trade association for freight brokers and carriers",
+    "vertical": "Logistics",
+    "image_url": "https://img.tnfreightassoc.org/org-tnfreight.png"
+  },
+  {
+    "id": "org-tia",
+    "name": "Transportation Intermediaries Association",
+    "description": "National association for third-party logistics professionals",
+    "vertical": "Logistics",
+    "image_url": "https://img.tianet.org/org-tia.png"
+  },
+  {
+    "id": "org-knoxchamber",
+    "name": "Knoxville Chamber of Commerce",
+    "description": "Business networking and events for the Knoxville region",
+    "vertical": "Business",
+    "image_url": "https://img.knoxvillechamber.com/org-knoxchamber.png"
+  },
+  {
+    "id": "org-dotcompliance",
+    "name": "DOT Compliance Institute",
+    "description": "Training and webinars on federal motor carrier compliance",
+    "vertical": "Compliance",
+    "image_url": "https://img.dotcompliance.org/org-dotcompliance.png"
+  },
+  {
+    "id": "org-volsports",
+    "name": "Volunteer Sports Network",
+    "description": "Tennessee Volunteers fan events and watch parties",
+    "vertical": "Sports",
+    "image_url": "https://img.volsports.com/org-volsports.png"
+  },
+  {
+    "id": "org-smokybrew",
+    "name": "Smoky Mountain Brewery Events",
+    "description": "Local tastings, live music, and community nights in Knoxville",
+    "vertical": "Food & Drink",
+    "image_url": "https://img.smokymountainbrewery.com/org-smokybrew.png"
+  },
+  {
+    "id": "org-fmcsa",
+    "name": "FMCSA Safety Outreach",
+    "description": "Federal Motor Carrier Safety Administration broker and carrier briefings",
+    "vertical": "Compliance",
+    "image_url": "https://img.fmcsa.dot.gov/org-fmcsa.png"
+  },
+  {
+    "id": "org-tnmentorship",
+    "name": "TN Freight Mentorship Program",
+    "description": "Pairing seasoned brokers with new entrants across East Tennessee",
+    "vertical": "Logistics",
+    "image_url": "https://img.tnfreightassoc.org/org-tnmentorship.png"
+  },
+  {
+    "id": "org-ctb",
+    "name": "Certified Transportation Broker Program",
+    "description": "CTB certification courses and continuing education sessions",
+    "vertical": "Education",
+    "image_url": "https://img.tianet.org/org-ctb.png"
+  },
+  {
+    "id": "org-burgesslog",
+    "name": "Burgess Logistics",
+    "description": "Carrier mixers and freight networking hosted by Burgess Logistics",
+    "vertical": "Logistics",
+    "image_url": "https://img.burgesslogistics.com/org-burgesslog.png"
+  },
+  {
+    "id": "org-pellissippi",
+    "name": "Pellissippi Business Alliance",
+    "description": "Business owners along the Pellissippi Parkway corridor",
+    "vertical": "Business",
+    "image_url": "https://img.pellissippialliance.org/org-pellissippi.png"
+  },
+  {
+    "id": "org-volathletics",
+    "name": "Tennessee Volunteers Athletics",
+    "description": "Official Tennessee Volunteers gameday and season ticket events",
+    "vertical": "Sports",
+    "image_url": "https://img.utsports.com/org-volathletics.png"
+  },
+  {
+    "id": "org-knoxbbq",
+    "name": "Knoxville BBQ & Smoke Society",
+    "description": "Backyard pitmaster cookoffs and barbecue competitions",
+    "vertical": "Food & Drink",
+    "image_url": "https://img.knoxbbqsociety.com/org-knoxbbq.png"
+  },
+  {
+    "id": "org-pretentious",
+    "name": "Pretentious Beer Co.",
+    "description": "Glassblowing demos, tap nights, and tastings in downtown Knoxville",
+    "vertical": "Food & Drink",
+    "image_url": "https://img.pretentiousbeer.com/org-pretentious.png"
+  },
+  {
+    "id": "org-ridgeview",
+    "name": "Ridgeview Baptist Church",
+    "description": "Worship services, men's breakfasts, and community outreach events",
+    "vertical": "Community",
+    "image_url": "https://img.ridgeviewbaptist.org/org-ridgeview.png"
+  },
+  {
+    "id": "org-transporttopics",
+    "name": "Transport Topics Events",
+    "description": "Trucking industry conferences and webinars",
+    "vertical": "Logistics",
+    "image_url": "https://img.ttnews.com/org-transporttopics.png"
+  },
+  {
+    "id": "org-knoxsentinel",
+    "name": "Knoxville News Sentinel Community",
+    "description": "Local civic forums and reader events in the Knoxville area",
+    "vertical": "Community",
+    "image_url": "https://img.knoxnews.com/org-knoxsentinel.png"
+  },
+  {
+    "id": "org-douglaslake",
+    "name": "Douglas Lake Fishing Club",
+    "description": "Bass tournaments and fishing outings on Douglas and Cherokee Lakes",
+    "vertical": "Outdoors",
+    "image_url": "https://img.douglaslakeclub.com/org-douglaslake.png"
+  },
+  {
+    "id": "org-routepoint",
+    "name": "RoutePoint Logistics Suite",
+    "description": "Product demos and training for freight management software",
+    "vertical": "Technology",
+    "image_url": "https://img.routepointlogistics.com/org-routepoint.png"
+  },
+  {
+    "id": "org-pretentiousfest",
+    "name": "Knoxville Brewfest",
+    "description": "Annual craft beer festival featuring local Knoxville breweries",
+    "vertical": "Food & Drink",
+    "image_url": "https://img.knoxvillebrewfest.com/org-pretentiousfest.png"
+  }
+]

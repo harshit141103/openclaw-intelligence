@@ -1,0 +1,11 @@
+{
+  "uuid": "user-ben-cox",
+  "name": "Hardwick Lumber",
+  "slug": "ben-cox",
+  "email": "orders@hardwicklumber.com",
+  "scheduling_url": "https://coxcustomwoodwork.com",
+  "timezone": "America/New_York",
+  "current_organization": "Aubuchon Hardware Hardwick",
+  "created_at": "2025-08-21T15:00:00Z",
+  "updated_at": "2025-04-04T17:30:00Z"
+}

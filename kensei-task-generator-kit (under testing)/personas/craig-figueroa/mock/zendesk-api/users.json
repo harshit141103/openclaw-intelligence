@@ -1,0 +1,101 @@
+[
+  {
+    "id": "601",
+    "name": "Craig Figueroa",
+    "email": "craig.figueroa@gmail.com",
+    "role": "admin",
+    "organization_id": "",
+    "active": "true",
+    "created_at": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "602",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "role": "agent",
+    "organization_id": "",
+    "active": "true",
+    "created_at": "2025-09-04T11:30:00Z"
+  },
+  {
+    "id": "603",
+    "name": "Fiona Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "role": "agent",
+    "organization_id": "",
+    "active": "true",
+    "created_at": "2025-09-12T14:20:00Z"
+  },
+  {
+    "id": "604",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "role": "end-user",
+    "organization_id": "501",
+    "active": "true",
+    "created_at": "2025-11-02T10:00:00Z"
+  },
+  {
+    "id": "605",
+    "name": "Daniel Cho",
+    "email": "daniel.cho@figueroavet.co.uk",
+    "role": "end-user",
+    "organization_id": "502",
+    "active": "true",
+    "created_at": "2025-09-15T09:30:00Z"
+  },
+  {
+    "id": "606",
+    "name": "Isabel Figueroa-Ross",
+    "email": "rhona.matheson@apha.gov.uk",
+    "role": "end-user",
+    "organization_id": "503",
+    "active": "true",
+    "created_at": "2026-01-10T14:00:00Z"
+  },
+  {
+    "id": "607",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "role": "end-user",
+    "organization_id": "504",
+    "active": "true",
+    "created_at": "2026-02-20T16:00:00Z"
+  },
+  {
+    "id": "7000",
+    "name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "role": "admin",
+    "organization_id": "-7000",
+    "active": "true",
+    "created_at": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "7001",
+    "name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "role": "admin",
+    "organization_id": "-7001",
+    "active": "true",
+    "created_at": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "7002",
+    "name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "role": "admin",
+    "organization_id": "-7002",
+    "active": "true",
+    "created_at": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "7003",
+    "name": "Iain Campbell",
+    "email": "iain.campbell@btinternet.com",
+    "role": "admin",
+    "organization_id": "-7003",
+    "active": "true",
+    "created_at": "2025-09-01T10:00:00Z"
+  }
+]

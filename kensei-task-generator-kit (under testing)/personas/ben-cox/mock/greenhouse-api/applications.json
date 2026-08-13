@@ -1,0 +1,182 @@
+[
+  {
+    "id": "app-4001",
+    "candidate_id": "cand-7001",
+    "job_id": "job-3001",
+    "status": "active",
+    "current_stage": "Cut dadoes for the adjustable shelf pins",
+    "applied_at": "2025-08-19T10:00:00Z",
+    "last_activity_at": "2024-12-13T13:00:00Z"
+  },
+  {
+    "id": "app-4002",
+    "candidate_id": "cand-7005",
+    "job_id": "job-3001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2024-07-16T10:00:00Z",
+    "last_activity_at": "2024-06-22T12:45:00Z"
+  },
+  {
+    "id": "app-4003",
+    "candidate_id": "cand-7002",
+    "job_id": "job-3002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-06-09T07:30:00Z",
+    "last_activity_at": "2025-12-28T11:15:00Z"
+  },
+  {
+    "id": "app-4004",
+    "candidate_id": "cand-7003",
+    "job_id": "job-3003",
+    "status": "active",
+    "current_stage": "Offer",
+    "applied_at": "2025-09-05T09:45:00Z",
+    "last_activity_at": "2026-08-01T09:45:00Z"
+  },
+  {
+    "id": "app-4005",
+    "candidate_id": "cand-7007",
+    "job_id": "job-3003",
+    "status": "active",
+    "current_stage": "Delivery window for the Stowe cabinets",
+    "applied_at": "2025-05-02T17:15:00Z",
+    "last_activity_at": "2025-11-28T07:45:00Z"
+  },
+  {
+    "id": "app-4006",
+    "candidate_id": "cand-7004",
+    "job_id": "job-3004",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-01-13T15:45:00Z",
+    "last_activity_at": "2024-04-08T16:30:00Z"
+  },
+  {
+    "id": "app-4007",
+    "candidate_id": "cand-7006",
+    "job_id": "job-3005",
+    "status": "active",
+    "current_stage": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "applied_at": "2025-12-03T17:15:00Z",
+    "last_activity_at": "2025-10-12T11:45:00Z"
+  },
+  {
+    "id": "app-4008",
+    "candidate_id": "cand-7008",
+    "job_id": "job-3006",
+    "status": "rejected",
+    "current_stage": "Interview",
+    "applied_at": "2024-03-16T18:30:00Z",
+    "last_activity_at": "2024-05-26T18:15:00Z"
+  },
+  {
+    "id": "app-4902",
+    "candidate_id": "cand-7902",
+    "job_id": "job-3001",
+    "status": "active",
+    "current_stage": "Sand to 220 and raise the grain before finish",
+    "applied_at": "2024-04-27T07:00:00Z",
+    "last_activity_at": "2026-09-30T17:45:00Z"
+  },
+  {
+    "id": "app-4904",
+    "candidate_id": "cand-7907",
+    "job_id": "job-3001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2024-09-20T18:15:00Z",
+    "last_activity_at": "2026-02-10T07:15:00Z"
+  },
+  {
+    "id": "app-4906",
+    "candidate_id": "cand-7905",
+    "job_id": "job-3002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-05-08T09:00:00Z",
+    "last_activity_at": "2026-01-23T11:00:00Z"
+  },
+  {
+    "id": "app-4908",
+    "candidate_id": "cand-7907",
+    "job_id": "job-3003",
+    "status": "active",
+    "current_stage": "Offer",
+    "applied_at": "2025-02-21T11:15:00Z",
+    "last_activity_at": "2024-04-28T17:30:00Z"
+  },
+  {
+    "id": "app-4910",
+    "candidate_id": "cand-7912",
+    "job_id": "job-3003",
+    "status": "active",
+    "current_stage": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "applied_at": "2026-03-02T17:45:00Z",
+    "last_activity_at": "2025-06-16T14:30:00Z"
+  },
+  {
+    "id": "app-4912",
+    "candidate_id": "cand-7910",
+    "job_id": "job-3004",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-06-04T14:30:00Z",
+    "last_activity_at": "2025-12-01T16:30:00Z"
+  },
+  {
+    "id": "app-4914",
+    "candidate_id": "cand-7913",
+    "job_id": "job-3005",
+    "status": "active",
+    "current_stage": "Estimate for the Greensboro barn (2027)",
+    "applied_at": "2023-11-24T18:45:00Z",
+    "last_activity_at": "2025-11-17T09:30:00Z"
+  },
+  {
+    "id": "app-4916",
+    "candidate_id": "cand-7916",
+    "job_id": "job-3006",
+    "status": "rejected",
+    "current_stage": "Interview",
+    "applied_at": "2025-05-27T07:45:00Z",
+    "last_activity_at": "2025-08-16T15:45:00Z"
+  },
+  {
+    "id": "app-4910-16",
+    "candidate_id": "cand-7910",
+    "job_id": "job-3001",
+    "status": "active",
+    "current_stage": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "applied_at": "2024-06-20T13:30:00Z",
+    "last_activity_at": "2026-07-17T07:45:00Z"
+  },
+  {
+    "id": "app-4912-17",
+    "candidate_id": "cand-7915",
+    "job_id": "job-3001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2024-10-07T10:30:00Z",
+    "last_activity_at": "2025-02-12T08:00:00Z"
+  },
+  {
+    "id": "app-4914-18",
+    "candidate_id": "cand-7913",
+    "job_id": "job-3002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2025-12-30T13:15:00Z",
+    "last_activity_at": "2025-03-13T15:45:00Z"
+  },
+  {
+    "id": "app-4916-19",
+    "candidate_id": "cand-7915",
+    "job_id": "job-3003",
+    "status": "active",
+    "current_stage": "Offer",
+    "applied_at": "2024-08-03T16:00:00Z",
+    "last_activity_at": "2024-04-04T09:30:00Z"
+  }
+]

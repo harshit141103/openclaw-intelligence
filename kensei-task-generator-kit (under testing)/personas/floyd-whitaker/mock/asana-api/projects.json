@@ -1,0 +1,202 @@
+[
+  {
+    "gid": "1203000000002001",
+    "name": "Carrier Vetting Refresh - Automotive",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Re-verify carrier authority, insurance, and safety scores for automotive parts clients through Q4 2026",
+    "created_at": "2026-01-12T09:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002002",
+    "name": "TN Freight Mentorship Program",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Autumn cohort with Keith Burgess - curriculum, mentee intake, session scheduling",
+    "created_at": "2026-02-03T14:30:00.000Z"
+  },
+  {
+    "gid": "1203000000002003",
+    "name": "Brand Whitaker Onboarding",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Junior associate ramp-up - shadowing, load board training, client introductions",
+    "created_at": "2026-03-20T11:15:00.000Z"
+  },
+  {
+    "gid": "1203000000002004",
+    "name": "Freight Software Evaluation",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-purple",
+    "archived": "false",
+    "notes": "FreightFlow Pro vs RoutePoint Logistics Suite - demos, pricing, migration plan (leaning RoutePoint)",
+    "created_at": "2026-04-05T13:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002005",
+    "name": "Q3 DOT Compliance Webinar",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001004",
+    "color": "light-pink",
+    "archived": "false",
+    "notes": "Plan and host the quarterly DOT compliance webinar for clients and carriers",
+    "created_at": "2026-05-04T10:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002006",
+    "name": "Cumberland Auto Parts - Lane Expansion",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Add Midwest lanes for Glen Mabry's auto parts shipments - capacity and rate work",
+    "created_at": "2026-04-12T09:30:00.000Z"
+  },
+  {
+    "gid": "1203000000002007",
+    "name": "Valley Grain Harvest Season Prep",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "light-green",
+    "archived": "false",
+    "notes": "Pre-book capacity for Ruth Lyle's grain hauls ahead of fall harvest",
+    "created_at": "2026-05-18T08:45:00.000Z"
+  },
+  {
+    "gid": "1203000000002008",
+    "name": "Smoky Mountain Building Supply Onboarding",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Account setup and lane mapping for Pete Arnett's building materials freight",
+    "created_at": "2026-03-02T10:15:00.000Z"
+  },
+  {
+    "gid": "1203000000002009",
+    "name": "Tri-State Manufacturing Account Review",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-teal",
+    "archived": "false",
+    "notes": "Quarterly review of Hal Eubanks' lanes, rates, and on-time performance",
+    "created_at": "2026-04-22T14:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002010",
+    "name": "Appalachian Ag Producers - Refrigerated Lanes",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "light-teal",
+    "archived": "false",
+    "notes": "Source reefer capacity for Nan Coley's produce loads",
+    "created_at": "2026-05-06T11:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002011",
+    "name": "Carrier Insurance COI Renewals",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001004",
+    "color": "dark-red",
+    "archived": "false",
+    "notes": "Track and collect updated certificates of insurance for active carriers",
+    "created_at": "2026-02-15T09:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002012",
+    "name": "TN Freight Association Board Work",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-brown",
+    "archived": "false",
+    "notes": "Board member action items and Oct 10 conference planning",
+    "created_at": "2026-01-20T13:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002013",
+    "name": "Fall Cookout - Client Appreciation",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001007",
+    "color": "light-warm-gray",
+    "archived": "false",
+    "notes": "Oct 17 cookout at the house - guest list, smoker prep, logistics",
+    "created_at": "2026-05-30T15:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002014",
+    "name": "Year-End Tax Prep with Wayne",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001006",
+    "color": "dark-warm-gray",
+    "archived": "false",
+    "notes": "Gather 1099s and records for Wayne Prater's Oct 2 review",
+    "created_at": "2026-06-01T09:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002015",
+    "name": "Load Board Subscription Review",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001005",
+    "color": "light-blue",
+    "archived": "false",
+    "notes": "Evaluate DAT and Truckstop subscriptions for cost and value",
+    "created_at": "2026-03-28T10:30:00.000Z"
+  },
+  {
+    "gid": "1203000000002016",
+    "name": "Carrier Vetting Refresh - Agricultural",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Re-verify authority and safety scores for carriers on ag lanes",
+    "created_at": "2026-04-01T09:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002017",
+    "name": "Website Refresh - whitakerfreight.com",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "light-purple",
+    "archived": "false",
+    "notes": "Update public site copy, services page, and contact form",
+    "created_at": "2026-02-20T11:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002018",
+    "name": "Mentorship Cohort - Curriculum Build",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001008",
+    "color": "dark-pink",
+    "archived": "false",
+    "notes": "Build session decks and handouts with Keith for the autumn cohort",
+    "created_at": "2026-02-10T14:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002019",
+    "name": "2025 Carrier Vetting Refresh",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "light-gray",
+    "archived": "true",
+    "notes": "Completed prior-year carrier re-verification cycle",
+    "created_at": "2025-01-15T09:00:00.000Z"
+  },
+  {
+    "gid": "1203000000002020",
+    "name": "Q4 2025 DOT Compliance Webinar",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001004",
+    "color": "light-gray",
+    "archived": "true",
+    "notes": "Archived - completed Q4 2025 compliance webinar",
+    "created_at": "2025-10-01T10:00:00.000Z"
+  }
+]

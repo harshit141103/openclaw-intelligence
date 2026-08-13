@@ -1,0 +1,182 @@
+[
+  {
+    "id": "gcomp-301",
+    "employee_id": "gemp-201",
+    "job_title": "Owner / Principal Broker",
+    "rate": "90000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-01-01"
+  },
+  {
+    "id": "gcomp-302",
+    "employee_id": "gemp-202",
+    "job_title": "Office Manager",
+    "rate": "62000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-01-01"
+  },
+  {
+    "id": "gcomp-303",
+    "employee_id": "gemp-203",
+    "job_title": "Junior Associate Broker",
+    "rate": "48000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-09-08"
+  },
+  {
+    "id": "gcomp-304",
+    "employee_id": "gemp-204",
+    "job_title": "Freight Dispatch Specialist",
+    "rate": "52000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-01-01"
+  },
+  {
+    "id": "gcomp-305",
+    "employee_id": "gemp-205",
+    "job_title": "Freight Dispatch Specialist",
+    "rate": "51000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-01-01"
+  },
+  {
+    "id": "gcomp-306",
+    "employee_id": "gemp-206",
+    "job_title": "Bookkeeper",
+    "rate": "47000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-01-01"
+  },
+  {
+    "id": "gcomp-307",
+    "employee_id": "gemp-207",
+    "job_title": "Administrative Assistant",
+    "rate": "22.00",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2024-01-01"
+  },
+  {
+    "id": "gcomp-308",
+    "employee_id": "gemp-208",
+    "job_title": "Seasonal Dispatch Assistant",
+    "rate": "20.00",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2026-01-12"
+  },
+  {
+    "id": "gcomp-309",
+    "employee_id": "gemp-209",
+    "job_title": "Carrier Relations Coordinator",
+    "rate": "46000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-05-26"
+  },
+  {
+    "id": "gcomp-310",
+    "employee_id": "gemp-210",
+    "job_title": "Freight Dispatch Specialist",
+    "rate": "50000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-01-01"
+  },
+  {
+    "id": "gcomp-311",
+    "employee_id": "gemp-211",
+    "job_title": "Carrier Sales Representative",
+    "rate": "45000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-06-08"
+  },
+  {
+    "id": "gcomp-312",
+    "employee_id": "gemp-212",
+    "job_title": "Logistics Account Manager",
+    "rate": "54000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-06-01"
+  },
+  {
+    "id": "gcomp-313",
+    "employee_id": "gemp-213",
+    "job_title": "Track and Trace Coordinator",
+    "rate": "21.00",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2026-06-02"
+  },
+  {
+    "id": "gcomp-314",
+    "employee_id": "gemp-214",
+    "job_title": "Customer Service Representative",
+    "rate": "20.50",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2026-06-09"
+  },
+  {
+    "id": "gcomp-315",
+    "employee_id": "gemp-215",
+    "job_title": "Freight Mentorship Program Coordinator",
+    "rate": "44000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-06-08"
+  },
+  {
+    "id": "gcomp-316",
+    "employee_id": "gemp-216",
+    "job_title": "Freight Dispatch Specialist",
+    "rate": "50000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-05-04"
+  },
+  {
+    "id": "gcomp-317",
+    "employee_id": "gemp-217",
+    "job_title": "Junior Freight Broker",
+    "rate": "46000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-05-04"
+  },
+  {
+    "id": "gcomp-318",
+    "employee_id": "gemp-218",
+    "job_title": "Logistics Coordinator",
+    "rate": "43000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-05-11"
+  },
+  {
+    "id": "gcomp-319",
+    "employee_id": "gemp-219",
+    "job_title": "Accounts Receivable Clerk",
+    "rate": "21.50",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2026-06-01"
+  },
+  {
+    "id": "gcomp-320",
+    "employee_id": "gemp-220",
+    "job_title": "Office Receptionist",
+    "rate": "18.50",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-08"
+  }
+]

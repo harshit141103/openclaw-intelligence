@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sc-6001",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7005",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-04-20T11:30:00Z",
+    "notes": "Knows our lanes cold. Strong carrier rolodex from Ridgeline."
+  },
+  {
+    "id": "sc-6002",
+    "application_id": "app-4003",
+    "candidate_id": "cand-7002",
+    "interviewer": "Brenda Sizemore",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-18T16:00:00Z",
+    "notes": "Organized and quick with the phones. Good fit for the front office."
+  },
+  {
+    "id": "sc-6003",
+    "application_id": "app-4004",
+    "candidate_id": "cand-7003",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-04-24T14:00:00Z",
+    "notes": "Hungry to learn the brokerage side. Reminds me of Brand starting out."
+  },
+  {
+    "id": "sc-6004",
+    "application_id": "app-4006",
+    "candidate_id": "cand-7004",
+    "interviewer": "Dale Renfro",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-21T10:00:00Z",
+    "notes": "Solid on QuickBooks and reconciliations. Part-time hours work for her."
+  },
+  {
+    "id": "sc-6005",
+    "application_id": "app-4008",
+    "candidate_id": "cand-7008",
+    "interviewer": "Brenda Sizemore",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2026-03-14T15:00:00Z",
+    "notes": "Decent but seasonal role wrapped up before we could move forward."
+  },
+  {
+    "id": "sc-6006",
+    "application_id": "app-4002",
+    "candidate_id": "cand-7005",
+    "interviewer": "Keith Burgess",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-19T13:00:00Z",
+    "notes": "Good dispatcher. Would want to see him tighten up on rate negotiation."
+  },
+  {
+    "id": "sc-6007",
+    "application_id": "app-4001",
+    "candidate_id": "cand-7001",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Application Review",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-03T09:30:00Z",
+    "notes": "Solid dispatch background from Volunteer Logistics. Worth a phone screen."
+  },
+  {
+    "id": "sc-6008",
+    "application_id": "app-4006",
+    "candidate_id": "cand-7004",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-21T11:00:00Z",
+    "notes": "Sharp on the books. Dale liked her too. Part-time fits the budget."
+  },
+  {
+    "id": "sc-6009",
+    "application_id": "app-4007",
+    "candidate_id": "cand-7006",
+    "interviewer": "Brenda Sizemore",
+    "stage": "Application Review",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-19T10:30:00Z",
+    "notes": "Good ag logistics experience. Would pair well with the Appalachian Ag account."
+  },
+  {
+    "id": "sc-6010",
+    "application_id": "app-4010",
+    "candidate_id": "cand-7010",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-05-26T11:30:00Z",
+    "notes": "Knows carrier relations cold. Hired her on for the coordinator seat."
+  },
+  {
+    "id": "sc-6011",
+    "application_id": "app-4004",
+    "candidate_id": "cand-7003",
+    "interviewer": "Brandon Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-24T15:00:00Z",
+    "notes": "Eager trainee. Brand thinks he will pick up the brokerage side fast."
+  },
+  {
+    "id": "sc-6012",
+    "application_id": "app-4012",
+    "candidate_id": "cand-7012",
+    "interviewer": "Keith Burgess",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-05-28T10:30:00Z",
+    "notes": "Good account instincts. Has a book she could bring over from Knoxville Logistics."
+  },
+  {
+    "id": "sc-6013",
+    "application_id": "app-4014",
+    "candidate_id": "cand-7014",
+    "interviewer": "Lorrie Sexton",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-05-30T11:30:00Z",
+    "notes": "Detail oriented on track and trace. Good with check calls and updates."
+  },
+  {
+    "id": "sc-6014",
+    "application_id": "app-4015",
+    "candidate_id": "cand-7015",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-06-04T10:30:00Z",
+    "notes": "Natural on the phone with carriers. Extending an offer on the carrier sales seat."
+  },
+  {
+    "id": "sc-6015",
+    "application_id": "app-4016",
+    "candidate_id": "cand-7016",
+    "interviewer": "Brenda Sizemore",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-06-02T10:00:00Z",
+    "notes": "Strong customer service lead. Would steady the front office phones."
+  },
+  {
+    "id": "sc-6016",
+    "application_id": "app-4017",
+    "candidate_id": "cand-7017",
+    "interviewer": "Dale Renfro",
+    "stage": "Application Review",
+    "overall_recommendation": "yes",
+    "rating": "3",
+    "submitted_at": "2026-05-24T08:30:00Z",
+    "notes": "Decent AR experience. Want to verify the QuickBooks depth in a screen."
+  },
+  {
+    "id": "sc-6017",
+    "application_id": "app-4018",
+    "candidate_id": "cand-7018",
+    "interviewer": "Keith Burgess",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-06-03T11:30:00Z",
+    "notes": "Organized and from Burgess side. Perfect to run the mentorship program logistics."
+  },
+  {
+    "id": "sc-6018",
+    "application_id": "app-4019",
+    "candidate_id": "cand-7019",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-06-08T10:30:00Z",
+    "notes": "Seasoned broker with his own lanes. Need to talk through comp expectations."
+  },
+  {
+    "id": "sc-6019",
+    "application_id": "app-4013",
+    "candidate_id": "cand-7013",
+    "interviewer": "Travis Hollis",
+    "stage": "Application Review",
+    "overall_recommendation": "yes",
+    "rating": "3",
+    "submitted_at": "2026-05-15T09:00:00Z",
+    "notes": "Thin on TMS experience but trainable. Worth a closer look next round."
+  },
+  {
+    "id": "sc-6020",
+    "application_id": "app-4003",
+    "candidate_id": "cand-7002",
+    "interviewer": "Floyd Whitaker",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-18T16:30:00Z",
+    "notes": "Agreed with Bren. Quick on the phones and a tidy front office hand."
+  }
+]

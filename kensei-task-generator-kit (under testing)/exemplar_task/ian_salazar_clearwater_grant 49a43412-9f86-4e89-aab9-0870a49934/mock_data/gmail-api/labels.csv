@@ -1,0 +1,4 @@
+id,name,type,messages_total,messages_unread,threads_total,threads_unread
+INBOX,INBOX,system,7,3,7,3
+SENT,SENT,system,4,0,4,0
+Label_grant,Clearwater,user,3,2,3,2

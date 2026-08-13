@@ -1,0 +1,242 @@
+[
+  {
+    "field_id": "fld-csat-name",
+    "form_id": "frm-csat-01",
+    "title": "Your name",
+    "field_type": "short_text",
+    "ref": "name",
+    "required": "true",
+    "choices": "",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-csat-rating",
+    "form_id": "frm-csat-01",
+    "title": "How would you rate our freight service?",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "required": "true",
+    "choices": "",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-csat-recommend",
+    "form_id": "frm-csat-01",
+    "title": "Would you recommend Whitaker Freight Services?",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "required": "true",
+    "choices": "Definitely|Probably|Not sure|No",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-csat-email",
+    "form_id": "frm-csat-01",
+    "title": "Your email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "required": "false",
+    "choices": "",
+    "order": "4"
+  },
+  {
+    "field_id": "fld-onb-role",
+    "form_id": "frm-onboard-02",
+    "title": "What type of equipment do you run?",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "required": "true",
+    "choices": "Dry Van|Reefer|Flatbed|Step Deck|Other",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-onb-ease",
+    "form_id": "frm-onboard-02",
+    "title": "Rate your CSA safety standing",
+    "field_type": "rating",
+    "ref": "setup_ease",
+    "required": "true",
+    "choices": "",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-onb-comments",
+    "form_id": "frm-onboard-02",
+    "title": "Notes on lanes you prefer to run",
+    "field_type": "short_text",
+    "ref": "comments",
+    "required": "false",
+    "choices": "",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-evt-name",
+    "form_id": "frm-event-03",
+    "title": "Full name",
+    "field_type": "short_text",
+    "ref": "attendee_name",
+    "required": "true",
+    "choices": "",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-evt-email",
+    "form_id": "frm-event-03",
+    "title": "Email address",
+    "field_type": "email",
+    "ref": "attendee_email",
+    "required": "true",
+    "choices": "",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-evt-track",
+    "form_id": "frm-event-03",
+    "title": "What area do you most want to learn?",
+    "field_type": "multiple_choice",
+    "ref": "track",
+    "required": "true",
+    "choices": "Brokerage Operations|Carrier Sales|Compliance|Customer Relationships",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-evt-experience",
+    "form_id": "frm-event-03",
+    "title": "Years in the freight industry",
+    "field_type": "number",
+    "ref": "years_experience",
+    "required": "true",
+    "choices": "",
+    "order": "4"
+  },
+  {
+    "field_id": "fld-web-company",
+    "form_id": "frm-webinar-04",
+    "title": "Company name",
+    "field_type": "short_text",
+    "ref": "company_name",
+    "required": "true",
+    "choices": "",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-web-email",
+    "form_id": "frm-webinar-04",
+    "title": "Email address",
+    "field_type": "email",
+    "ref": "reg_email",
+    "required": "true",
+    "choices": "",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-web-topic",
+    "form_id": "frm-webinar-04",
+    "title": "Which compliance topic interests you most?",
+    "field_type": "multiple_choice",
+    "ref": "topic",
+    "required": "false",
+    "choices": "Hours of Service|CSA Scores|Drug and Alcohol Clearinghouse|Insurance and Authority",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-sw-vendor",
+    "form_id": "frm-software-05",
+    "title": "Which platform are you scoring?",
+    "field_type": "multiple_choice",
+    "ref": "vendor",
+    "required": "true",
+    "choices": "FreightFlow Pro|RoutePoint Logistics Suite",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-sw-usability",
+    "form_id": "frm-software-05",
+    "title": "Rate the usability",
+    "field_type": "rating",
+    "ref": "usability",
+    "required": "true",
+    "choices": "",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-cook-name",
+    "form_id": "frm-cookout-06",
+    "title": "Your name",
+    "field_type": "short_text",
+    "ref": "guest_name",
+    "required": "true",
+    "choices": "",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-cook-count",
+    "form_id": "frm-cookout-06",
+    "title": "How many in your party?",
+    "field_type": "number",
+    "ref": "party_size",
+    "required": "true",
+    "choices": "",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-cook-dish",
+    "form_id": "frm-cookout-06",
+    "title": "What side dish will you bring?",
+    "field_type": "short_text",
+    "ref": "side_dish",
+    "required": "false",
+    "choices": "",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-claim-load",
+    "form_id": "frm-claims-07",
+    "title": "Load or PRO number",
+    "field_type": "short_text",
+    "ref": "load_number",
+    "required": "true",
+    "choices": "",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-claim-type",
+    "form_id": "frm-claims-07",
+    "title": "Type of claim",
+    "field_type": "multiple_choice",
+    "ref": "claim_type",
+    "required": "true",
+    "choices": "Damage|Shortage|Loss|Late Delivery",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-quote-origin",
+    "form_id": "frm-quote-08",
+    "title": "Pickup city and state",
+    "field_type": "short_text",
+    "ref": "origin",
+    "required": "true",
+    "choices": "",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-quote-dest",
+    "form_id": "frm-quote-08",
+    "title": "Delivery city and state",
+    "field_type": "short_text",
+    "ref": "destination",
+    "required": "true",
+    "choices": "",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-quote-equip",
+    "form_id": "frm-quote-08",
+    "title": "Equipment needed",
+    "field_type": "multiple_choice",
+    "ref": "equipment",
+    "required": "true",
+    "choices": "Dry Van|Reefer|Flatbed|Step Deck",
+    "order": "3"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Cherry pricing for the Henderson uppers",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "260",
+    "name": "Project schedule update",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "400",
+    "name": "Delivery window for the Stowe cabinets",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "404",
+    "name": "Cota window seat & bookcase",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Re: Bookshelf dimensions",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "090",
+    "name": "Cota window seat & bookcase",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "610",
+    "name": "Project schedule update",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "800",
+    "name": "Stage the bookshelf sections for the Cra",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "477",
+    "name": "Sloan cherry dining table",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Cut dadoes for the adjustable shelf pins",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "1101",
+    "name": "Replace the dust collector filter and cl",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "1162",
+    "name": "Mock up the crown profile for the Hender",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Hang the soft-close doors and adjust the hinges",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "1303",
+    "name": "Boucher mudroom built-ins",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Sand to 220 and raise the grain before finish",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "1308",
+    "name": "Stage the bookshelf sections for the Cra",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Project schedule update",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "995",
+    "name": "Cherry pricing for the Henderson uppers",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "1516",
+    "name": "Greensboro barn restoration",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Splitting and stacking the winter firewood",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "1707",
+    "name": "Built-ins - finish sample for your approval",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Check the moisture content on the barn oak before joinery",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "1385",
+    "name": "Set up the dado stack for the bookshelf ",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Cherry pricing for the Henderson uppers",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "1109",
+    "name": "Greensboro barn restoration",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Re: Stowe install date",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "1170",
+    "name": "Check the moisture content on the barn o",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Splitting and stacking the winter firewood",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "1311",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "1316",
+    "name": "Mill cherry stock to thickness for the u",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "enable_payments_to_account": "false"
+  }
+]

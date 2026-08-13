@@ -1,0 +1,29 @@
+{
+  "location_id": "loc_martinez_001",
+  "name": "Set up the dado stack for the bookshelf ",
+  "address": {
+    "street1": "1842 Wylie Hill Road",
+    "street2": "1842 Wylie Hill Road",
+    "city": "Hardwick",
+    "state": "VT",
+    "zip": "05841",
+    "country": "US"
+  },
+  "latitude": 44.541752,
+  "longitude": -72.659126,
+  "time_zone": "America/New_York",
+  "mode": "home",
+  "owner": {
+    "id": 100001,
+    "first_name": "Walt",
+    "last_name": "Stoddard",
+    "email": "ray@hardwicklumber.com"
+  },
+  "subscription": {
+    "plan": "protect_plus",
+    "status": "active",
+    "video_history_days": 180
+  },
+  "created_at": "2025-02-06T07:30:00Z",
+  "updated_at": "2026-05-08T14:30:00Z"
+}

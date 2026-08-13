@@ -1,0 +1,99 @@
+﻿[
+  {
+    "id": "10001",
+    "key": "ABR",
+    "name": "Annual Benefits Review",
+    "project_type_key": "software",
+    "lead": "user-sandra",
+    "description": "Annual benefits review and enrollment project"
+  },
+  {
+    "id": "10002",
+    "key": "COMP",
+    "name": "Compliance Audit",
+    "project_type_key": "software",
+    "lead": "user-sandra",
+    "description": "Regulatory compliance audits and documentation"
+  },
+  {
+    "id": "10003",
+    "key": "CLAIMS",
+    "name": "Claims System",
+    "project_type_key": "software",
+    "lead": "user-james",
+    "description": "Claims processing system enhancements and support"
+  },
+  {
+    "id": "10004",
+    "key": "BIR",
+    "name": "BenefitInsight Rollout",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "BenefitInsight platform implementation and rollout"
+  },
+  {
+    "id": "10005",
+    "key": "HR",
+    "name": "Human Resources Platform",
+    "project_type_key": "software",
+    "lead": "user-lisa",
+    "description": "HR management system modernization and integration"
+  },
+  {
+    "id": "10006",
+    "key": "PAY",
+    "name": "Payroll Systems",
+    "project_type_key": "software",
+    "lead": "user-david",
+    "description": "Payroll processing and tax compliance system"
+  },
+  {
+    "id": "10007",
+    "key": "SEC",
+    "name": "Security & Access Control",
+    "project_type_key": "software",
+    "lead": "user-thomas",
+    "description": "Identity management and access control infrastructure"
+  },
+  {
+    "id": "10008",
+    "key": "DATA",
+    "name": "Data Analytics Platform",
+    "project_type_key": "software",
+    "lead": "user-mike",
+    "description": "Business intelligence and analytics infrastructure"
+  },
+  {
+    "id": "10009",
+    "key": "INFRA",
+    "name": "Infrastructure & DevOps",
+    "project_type_key": "software",
+    "lead": "user-robert",
+    "description": "Cloud infrastructure and deployment automation"
+  },
+  {
+    "id": "10010",
+    "key": "QA",
+    "name": "Quality Assurance",
+    "project_type_key": "software",
+    "lead": "user-jennifer",
+    "description": "Testing strategy and quality improvement initiatives"
+  },
+  {
+    "id": "10011",
+    "key": "DOCS",
+    "name": "Documentation & Training",
+    "project_type_key": "software",
+    "lead": "user-sarah",
+    "description": "Knowledge management and employee training programs"
+  },
+  {
+    "id": "10012",
+    "key": "MOBILE",
+    "name": "Mobile AppliILtion",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Mobile app development and enhancement"
+  }
+]
+

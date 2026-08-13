@@ -1,0 +1,11 @@
+[
+  {
+    "id": "team-benefits",
+    "name": "Benefits Administration",
+    "key": "BENA",
+    "description": "Benefits team handling enrollment, compliance, and claims administration for Meridian Benefits Group",
+    "color": "#2E7D32",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2026-06-10T10:00:00"
+  }
+]

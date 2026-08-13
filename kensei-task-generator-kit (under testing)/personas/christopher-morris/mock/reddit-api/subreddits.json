@@ -1,0 +1,183 @@
+﻿[
+  {
+    "id": "t5_aaa001",
+    "name": "programming",
+    "title": "Programming",
+    "public_description": "Computer programming news and discussion",
+    "subscribers": "6800000",
+    "created_utc": "1201234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa002",
+    "name": "homelab",
+    "title": "r/homelab",
+    "public_description": "For people who run servers and labs at home",
+    "subscribers": "920000",
+    "created_utc": "1301234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa003",
+    "name": "gardening",
+    "title": "Gardening",
+    "public_description": "A place to grow your green thumb",
+    "subscribers": "5400000",
+    "created_utc": "1251234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa004",
+    "name": "learnprogramming",
+    "title": "Learn Programming",
+    "public_description": "Beginner-friendly community for learning programming",
+    "subscribers": "2100000",
+    "created_utc": "1221234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa005",
+    "name": "webdev",
+    "title": "Web Development",
+    "public_description": "Web development, design, and related topics",
+    "subscribers": "1850000",
+    "created_utc": "1211234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa006",
+    "name": "golang",
+    "title": "Golang",
+    "public_description": "Discussion about Go programming language",
+    "subscribers": "560000",
+    "created_utc": "1261234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa007",
+    "name": "rust",
+    "title": "The Rust Programming Language",
+    "public_description": "Discussion about the Rust programming language",
+    "subscribers": "420000",
+    "created_utc": "1271234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa008",
+    "name": "python",
+    "title": "Python",
+    "public_description": "News about the Python programming language",
+    "subscribers": "3200000",
+    "created_utc": "1191234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa009",
+    "name": "docker",
+    "title": "Docker",
+    "public_description": "Docker containerization platform discussion",
+    "subscribers": "380000",
+    "created_utc": "1281234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa010",
+    "name": "kubernetes",
+    "title": "Kubernetes",
+    "public_description": "Discussion about Kubernetes orchestration",
+    "subscribers": "280000",
+    "created_utc": "1285234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa011",
+    "name": "databases",
+    "title": "Databases",
+    "public_description": "Database design, administration, and related topics",
+    "subscribers": "450000",
+    "created_utc": "1219234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa012",
+    "name": "devops",
+    "title": "DevOps",
+    "public_description": "DevOps discussion and best practices",
+    "subscribers": "520000",
+    "created_utc": "1273234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa013",
+    "name": "MachineLearning",
+    "title": "Machine Learning",
+    "public_description": "Machine learning and AI discussion",
+    "subscribers": "1200000",
+    "created_utc": "1231234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa014",
+    "name": "cybersecurity",
+    "title": "Cybersecurity",
+    "public_description": "Cybersecurity news, research, and discussion",
+    "subscribers": "890000",
+    "created_utc": "1241234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa015",
+    "name": "cloudcomputing",
+    "title": "Cloud Computing",
+    "public_description": "Cloud services and infrastructure discussion",
+    "subscribers": "650000",
+    "created_utc": "1265234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa016",
+    "name": "selfhosted",
+    "title": "Self-Hosted",
+    "public_description": "Self-hosted software and alternatives",
+    "subscribers": "980000",
+    "created_utc": "1275234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa017",
+    "name": "linux",
+    "title": "Linux",
+    "public_description": "Everything about Linux operating system",
+    "subscribers": "2400000",
+    "created_utc": "1185234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa018",
+    "name": "api",
+    "title": "APIs",
+    "public_description": "Discussion about APIs and API design",
+    "subscribers": "380000",
+    "created_utc": "1255234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa019",
+    "name": "vertiILlfarming",
+    "title": "VertiILl Farming",
+    "public_description": "VertiILl farming and indoor agriculture",
+    "subscribers": "145000",
+    "created_utc": "1290234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa020",
+    "name": "HomeNetworking",
+    "title": "Home Networking",
+    "public_description": "Home network setup and troubleshooting",
+    "subscribers": "580000",
+    "created_utc": "1259234567",
+    "over18": "false"
+  }
+]
+

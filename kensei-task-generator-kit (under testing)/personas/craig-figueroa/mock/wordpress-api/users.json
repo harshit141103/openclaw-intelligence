@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "name": "Craig Figueroa",
+    "slug": "craig-figueroa",
+    "description": "Editor in chief and platform lead.",
+    "url": "https://blog.figueroavet.co.uk/author/craig",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/craig.png"
+  },
+  {
+    "id": "2",
+    "name": "Duncan Fraser",
+    "slug": "jonas-pereira",
+    "description": "Infrastructure writer and SRE.",
+    "url": "https://blog.figueroavet.co.uk/author/jonas",
+    "roles": "editor",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/jonas.png"
+  },
+  {
+    "id": "3",
+    "name": "Fiona Drummond",
+    "slug": "helena-park",
+    "description": "Frontend and accessibility contributor.",
+    "url": "https://blog.figueroavet.co.uk/author/helena",
+    "roles": "author",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/helena.png"
+  },
+  {
+    "id": "4",
+    "name": "Rhona Matheson",
+    "slug": "noor-aziz",
+    "description": "Developer advocate and tutorial author.",
+    "url": "https://blog.figueroavet.co.uk/author/noor",
+    "roles": "author",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/noor.png"
+  },
+  {
+    "id": "5",
+    "name": "Guest Contributor",
+    "slug": "guest-contributor",
+    "description": "Occasional guest posts.",
+    "url": "https://blog.figueroavet.co.uk/author/guest",
+    "roles": "contributor",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/guest.png"
+  },
+  {
+    "id": "7000",
+    "name": "Alejandro Figueroa",
+    "slug": "alejandro.figueroa",
+    "description": "Editor in chief and platform lead.",
+    "url": "https://blog.figueroavet.co.uk/author/craig",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/craig.png"
+  },
+  {
+    "id": "7001",
+    "name": "Elena Figueroa",
+    "slug": "elena.figueroa",
+    "description": "Editor in chief and platform lead.",
+    "url": "https://blog.figueroavet.co.uk/author/craig",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/craig.png"
+  },
+  {
+    "id": "7002",
+    "name": "Isabel Figueroa-Ross",
+    "slug": "isabel.figueroa-ross",
+    "description": "Editor in chief and platform lead.",
+    "url": "https://blog.figueroavet.co.uk/author/craig",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/craig.png"
+  },
+  {
+    "id": "7003",
+    "name": "Callum Ross",
+    "slug": "callum.ross",
+    "description": "Editor in chief and platform lead.",
+    "url": "https://blog.figueroavet.co.uk/author/craig",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/craig.png"
+  },
+  {
+    "id": "7004",
+    "name": "Iain Campbell",
+    "slug": "iain.campbell",
+    "description": "Editor in chief and platform lead.",
+    "url": "https://blog.figueroavet.co.uk/author/craig",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/craig.png"
+  },
+  {
+    "id": "7005",
+    "name": "Jean MacKenzie",
+    "slug": "jean.mackenzie",
+    "description": "Editor in chief and platform lead.",
+    "url": "https://blog.figueroavet.co.uk/author/craig",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.figueroavet.co.uk/craig.png"
+  }
+]

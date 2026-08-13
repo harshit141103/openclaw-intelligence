@@ -1,0 +1,178 @@
+[
+  {
+    "event_id": "ev_900001",
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "event_type": "session_start",
+    "event_time": "2026-05-02T08:00:00Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900002",
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "event_type": "page_view",
+    "event_time": "2026-05-02T08:01:12Z",
+    "event_properties": "page=home"
+  },
+  {
+    "event_id": "ev_900003",
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "event_type": "signup_completed",
+    "event_time": "2026-05-03T10:22:40Z",
+    "event_properties": "plan=free"
+  },
+  {
+    "event_id": "ev_900004",
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "event_type": "feature_used",
+    "event_time": "2026-05-03T10:30:05Z",
+    "event_properties": "feature=export"
+  },
+  {
+    "event_id": "ev_900005",
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "event_type": "purchase",
+    "event_time": "2026-05-04T14:11:19Z",
+    "event_properties": "revenue=89.00;currency=USD"
+  },
+  {
+    "event_id": "ev_900006",
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "event_type": "purchase",
+    "event_time": "2026-05-05T09:45:51Z",
+    "event_properties": "revenue=24.50;currency=USD"
+  },
+  {
+    "event_id": "ev_900007",
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "event_type": "session_start",
+    "event_time": "2026-05-06T18:02:33Z",
+    "event_properties": "platform=ios"
+  },
+  {
+    "event_id": "ev_900008",
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "event_type": "feature_used",
+    "event_time": "2026-05-06T18:10:09Z",
+    "event_properties": "feature=share"
+  },
+  {
+    "event_id": "ev_900009",
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "event_type": "page_view",
+    "event_time": "2026-05-07T11:27:44Z",
+    "event_properties": "page=pricing"
+  },
+  {
+    "event_id": "ev_900010",
+    "user_id": "user_2005",
+    "device_id": "dev_ee05",
+    "event_type": "signup_completed",
+    "event_time": "2026-05-08T07:14:02Z",
+    "event_properties": "plan=pro"
+  },
+  {
+    "event_id": "ev_900011",
+    "user_id": "user_2006",
+    "device_id": "dev_ff06",
+    "event_type": "session_start",
+    "event_time": "2026-05-09T09:15:22Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900012",
+    "user_id": "user_2006",
+    "device_id": "dev_ff06",
+    "event_type": "page_view",
+    "event_time": "2026-05-09T09:16:45Z",
+    "event_properties": "page=dashboard"
+  },
+  {
+    "event_id": "ev_900013",
+    "user_id": "user_2005",
+    "device_id": "dev_ee05",
+    "event_type": "feature_used",
+    "event_time": "2026-05-09T10:22:10Z",
+    "event_properties": "feature=analytics"
+  },
+  {
+    "event_id": "ev_900014",
+    "user_id": "user_2007",
+    "device_id": "dev_gg07",
+    "event_type": "signup_completed",
+    "event_time": "2026-05-09T14:30:55Z",
+    "event_properties": "plan=starter"
+  },
+  {
+    "event_id": "ev_900015",
+    "user_id": "user_2007",
+    "device_id": "dev_gg07",
+    "event_type": "purchase",
+    "event_time": "2026-05-09T14:35:20Z",
+    "event_properties": "revenue=49.99;currency=USD"
+  },
+  {
+    "event_id": "ev_900016",
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "event_type": "page_view",
+    "event_time": "2026-05-09T15:44:08Z",
+    "event_properties": "page=settings"
+  },
+  {
+    "event_id": "ev_900017",
+    "user_id": "user_2008",
+    "device_id": "dev_hh08",
+    "event_type": "session_start",
+    "event_time": "2026-05-10T08:05:33Z",
+    "event_properties": "platform=android"
+  },
+  {
+    "event_id": "ev_900018",
+    "user_id": "user_2008",
+    "device_id": "dev_hh08",
+    "event_type": "feature_used",
+    "event_time": "2026-05-10T08:12:47Z",
+    "event_properties": "feature=search"
+  },
+  {
+    "event_id": "ev_900019",
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "event_type": "purchase",
+    "event_time": "2026-05-10T11:08:19Z",
+    "event_properties": "revenue=149.99;currency=USD"
+  },
+  {
+    "event_id": "ev_900020",
+    "user_id": "user_2009",
+    "device_id": "dev_ii09",
+    "event_type": "signup_completed",
+    "event_time": "2026-05-10T13:20:00Z",
+    "event_properties": "plan=enterprise"
+  },
+  {
+    "event_id": "ev_900021",
+    "user_id": "user_2006",
+    "device_id": "dev_ff06",
+    "event_type": "feature_used",
+    "event_time": "2026-05-10T16:45:30Z",
+    "event_properties": "feature=reporting"
+  },
+  {
+    "event_id": "ev_900022",
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "event_type": "page_view",
+    "event_time": "2026-05-11T07:22:15Z",
+    "event_properties": "page=help"
+  }
+]

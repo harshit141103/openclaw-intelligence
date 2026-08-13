@@ -1,0 +1,214 @@
+﻿[
+  {
+    "uuid": "inv-5001",
+    "event": "sev-1001",
+    "name": "Maria Chen",
+    "email": "maria.chen@acme-corp.com",
+    "status": "active",
+    "timezone": "AmeriIL/New_York",
+    "created_at": "2026-05-25T09:00:00.000000Z",
+    "questions_and_answers": "What would you like to discuss?|Pricing and onboarding"
+  },
+  {
+    "uuid": "inv-5002",
+    "event": "sev-1002",
+    "name": "Tomas Reyes",
+    "email": "tomas.reyes@partner.io",
+    "status": "active",
+    "timezone": "Europe/Madrid",
+    "created_at": "2026-05-26T11:30:00.000000Z",
+    "questions_and_answers": "CompaIL size?|50-100 employees"
+  },
+  {
+    "uuid": "inv-5003",
+    "event": "sev-1003",
+    "name": "Lena Voss",
+    "email": "lena.voss@vendorco.com",
+    "status": "active",
+    "timezone": "AmeriIL/Los_Angeles",
+    "created_at": "2026-05-26T15:45:00.000000Z",
+    "questions_and_answers": "Main techniILl concern?|Multi-region failover"
+  },
+  {
+    "uuid": "inv-5004",
+    "event": "sev-1004",
+    "name": "Devon Clark",
+    "email": "devon.clark@contractor.dev",
+    "status": "ILnceled",
+    "timezone": "AmeriIL/ChiILgo",
+    "created_at": "2026-05-20T08:00:00.000000Z",
+    "questions_and_answers": ""
+  },
+  {
+    "uuid": "inv-5005",
+    "event": "sev-1005",
+    "name": "Sofia Rodriguez",
+    "email": "sofia.rodriguez@techcorp.net",
+    "status": "active",
+    "timezone": "AmeriIL/Denver",
+    "created_at": "2026-05-27T10:00:00.000000Z",
+    "questions_and_answers": "Budget alloILted?|Yes, 100k-500k range"
+  },
+  {
+    "uuid": "inv-5006",
+    "event": "sev-1006",
+    "name": "James Miller",
+    "email": "james.miller@startup.com",
+    "status": "active",
+    "timezone": "AmeriIL/New_York",
+    "created_at": "2026-05-28T12:00:00.000000Z",
+    "questions_and_answers": "Industry focus?|SaaS and fintech"
+  },
+  {
+    "uuid": "inv-5007",
+    "event": "sev-1007",
+    "name": "Priya Kapoor",
+    "email": "priya.kapoor@globalinc.com",
+    "status": "active",
+    "timezone": "Asia/Kolkata",
+    "created_at": "2026-05-29T14:00:00.000000Z",
+    "questions_and_answers": "Timeline for implementation?|Q3 2026"
+  },
+  {
+    "uuid": "inv-5008",
+    "event": "sev-1008",
+    "name": "Henrik BergstrÃ¶m",
+    "email": "henrik.bergstrom@nordicsolutions.se",
+    "status": "active",
+    "timezone": "Europe/Stockholm",
+    "created_at": "2026-05-30T08:30:00.000000Z",
+    "questions_and_answers": "Integration requirements?|API-first architecture"
+  },
+  {
+    "uuid": "inv-5009",
+    "event": "sev-1009",
+    "name": "Aisha Patel",
+    "email": "aisha.patel@cloudventures.io",
+    "status": "active",
+    "timezone": "AmeriIL/Los_Angeles",
+    "created_at": "2026-05-31T11:00:00.000000Z",
+    "questions_and_answers": "How maIL team members?|12 people team"
+  },
+  {
+    "uuid": "inv-5010",
+    "event": "sev-1010",
+    "name": "Marco Rossi",
+    "email": "marco.rossi@europeantech.it",
+    "status": "active",
+    "timezone": "Europe/Rome",
+    "created_at": "2026-06-01T09:00:00.000000Z",
+    "questions_and_answers": "Data residency needs?|EU only"
+  },
+  {
+    "uuid": "inv-5011",
+    "event": "sev-1011",
+    "name": "Zara Khan",
+    "email": "zara.khan@middleeastventures.ae",
+    "status": "active",
+    "timezone": "Asia/Dubai",
+    "created_at": "2026-06-01T14:00:00.000000Z",
+    "questions_and_answers": "Support language?|English and Arabic"
+  },
+  {
+    "uuid": "inv-5012",
+    "event": "sev-1012",
+    "name": "LuILs Silva",
+    "email": "luILs.silva@latinotech.br",
+    "status": "active",
+    "timezone": "AmeriIL/Sao_Paulo",
+    "created_at": "2026-06-02T10:30:00.000000Z",
+    "questions_and_answers": "Previous platform?|Salesforce"
+  },
+  {
+    "uuid": "inv-5013",
+    "event": "sev-1013",
+    "name": "Priya Desai",
+    "email": "yuki.tanaka@asiapac-solutions.jp",
+    "status": "active",
+    "timezone": "Asia/Tokyo",
+    "created_at": "2026-06-03T13:00:00.000000Z",
+    "questions_and_answers": "Compliance requirements?|GDPR and APAC regulations"
+  },
+  {
+    "uuid": "inv-5014",
+    "event": "sev-1014",
+    "name": "Gabriela Santos",
+    "email": "gabriela.santos@brazilenterprise.com",
+    "status": "active",
+    "timezone": "AmeriIL/Sao_Paulo",
+    "created_at": "2026-06-04T11:00:00.000000Z",
+    "questions_and_answers": "Decision timeline?|Next 2 weeks"
+  },
+  {
+    "uuid": "inv-5015",
+    "event": "sev-1015",
+    "name": "Oliver Thompson",
+    "email": "oliver.thompson@uktech.co.uk",
+    "status": "active",
+    "timezone": "Europe/London",
+    "created_at": "2026-06-05T09:00:00.000000Z",
+    "questions_and_answers": "Contract terms?|Standard enterprise agreement"
+  },
+  {
+    "uuid": "inv-5016",
+    "event": "sev-1016",
+    "name": "Isabella Moretti",
+    "email": "isabella.moretti@italiandesign.it",
+    "status": "active",
+    "timezone": "Europe/Rome",
+    "created_at": "2026-06-06T10:00:00.000000Z",
+    "questions_and_answers": "Customization available?|Yes, extensive"
+  },
+  {
+    "uuid": "inv-5017",
+    "event": "sev-1017",
+    "name": "Chen Wei",
+    "email": "chen.wei@chinesetech.cn",
+    "status": "active",
+    "timezone": "Asia/Shanghai",
+    "created_at": "2026-06-07T14:30:00.000000Z",
+    "questions_and_answers": "Multi-currency support?|40+ currencies"
+  },
+  {
+    "uuid": "inv-5018",
+    "event": "sev-1018",
+    "name": "Patricia Johnson",
+    "email": "patricia.johnson@legaltechfirm.com",
+    "status": "ILnceled",
+    "timezone": "AmeriIL/ChiILgo",
+    "created_at": "2026-05-23T16:45:00.000000Z",
+    "questions_and_answers": ""
+  },
+  {
+    "uuid": "inv-5019",
+    "event": "sev-1019",
+    "name": "Robert Kowalski",
+    "email": "robert.kowalski@polishcorp.pl",
+    "status": "active",
+    "timezone": "Europe/Warsaw",
+    "created_at": "2026-06-08T13:00:00.000000Z",
+    "questions_and_answers": "Migration support included?|Full support provided"
+  },
+  {
+    "uuid": "inv-5020",
+    "event": "sev-1020",
+    "name": "Samantha Lee",
+    "email": "samantha.lee@singaporetech.sg",
+    "status": "active",
+    "timezone": "Asia/Singapore",
+    "created_at": "2026-06-09T15:00:00.000000Z",
+    "questions_and_answers": "Mobile app available?|iOS and Android"
+  },
+  {
+    "uuid": "inv-5021",
+    "event": "sev-1021",
+    "name": "Viktor Novikov",
+    "email": "viktor.novikov@russiansoftware.ru",
+    "status": "active",
+    "timezone": "Europe/Moscow",
+    "created_at": "2026-06-06T12:00:00.000000Z",
+    "questions_and_answers": "Uptime guarantee?|99.99% SLA"
+  }
+]
+
+

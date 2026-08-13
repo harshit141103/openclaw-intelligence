@@ -1,0 +1,8 @@
+tableId,id,name,type
+tblSamples0000001,fldSampName000001,Name,singleLineText
+tblSamples0000001,fldSampStat000001,Status,singleSelect
+tblSamples0000001,fldSampProj000001,Project,singleLineText
+tblSamples0000001,fldSampEst0000001,EstimateHours,number
+tblSamples0000001,fldSampDone000001,Done,checkbox
+tblProjects000001,fldProjName000001,Name,singleLineText
+tblContacts000001,fldContName000001,Name,singleLineText

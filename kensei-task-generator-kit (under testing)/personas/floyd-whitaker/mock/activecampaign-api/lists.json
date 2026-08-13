@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Active Clients",
+    "stringid": "active-clients",
+    "subscriber_count": "38",
+    "sender_url": "https://whitakerfreight.com",
+    "sender_reminder": "You are a Whitaker Freight Services client.",
+    "created_timestamp": "2023-01-10T09:00:00-05:00"
+  },
+  {
+    "id": "2",
+    "name": "Carrier Partners",
+    "stringid": "carrier-partners",
+    "subscriber_count": "64",
+    "sender_url": "https://whitakerfreight.com/carriers",
+    "sender_reminder": "You signed a carrier packet with WFS.",
+    "created_timestamp": "2023-02-01T09:00:00-05:00"
+  },
+  {
+    "id": "3",
+    "name": "DOT Compliance Webinar",
+    "stringid": "dot-compliance-webinar",
+    "subscriber_count": "112",
+    "sender_url": "https://whitakerfreight.com/webinars",
+    "sender_reminder": "You registered for a WFS DOT compliance webinar.",
+    "created_timestamp": "2024-03-12T09:00:00-05:00"
+  },
+  {
+    "id": "4",
+    "name": "TN Freight Mentorship Program",
+    "stringid": "tn-freight-mentorship",
+    "subscriber_count": "27",
+    "sender_url": "https://whitakerfreight.com/mentorship",
+    "sender_reminder": "You enrolled in the TN Freight Mentorship Program.",
+    "created_timestamp": "2025-08-02T09:00:00-05:00"
+  },
+  {
+    "id": "5",
+    "name": "Prospect Shippers",
+    "stringid": "prospect-shippers",
+    "subscriber_count": "53",
+    "sender_url": "https://whitakerfreight.com/quote",
+    "sender_reminder": "You requested a freight quote from WFS.",
+    "created_timestamp": "2024-11-22T09:00:00-05:00"
+  },
+  {
+    "id": "6",
+    "name": "Automotive Parts Clients",
+    "stringid": "automotive-parts-clients",
+    "subscriber_count": "14",
+    "sender_url": "https://whitakerfreight.com/automotive",
+    "sender_reminder": "You ship automotive parts with WFS.",
+    "created_timestamp": "2023-04-18T09:00:00-05:00"
+  },
+  {
+    "id": "7",
+    "name": "Agricultural Products Clients",
+    "stringid": "agricultural-products-clients",
+    "subscriber_count": "11",
+    "sender_url": "https://whitakerfreight.com/agriculture",
+    "sender_reminder": "You ship agricultural products with WFS.",
+    "created_timestamp": "2023-05-09T09:00:00-05:00"
+  },
+  {
+    "id": "8",
+    "name": "Building Materials Clients",
+    "stringid": "building-materials-clients",
+    "subscriber_count": "13",
+    "sender_url": "https://whitakerfreight.com/building-materials",
+    "sender_reminder": "You ship building materials with WFS.",
+    "created_timestamp": "2023-06-14T09:00:00-04:00"
+  },
+  {
+    "id": "9",
+    "name": "Carrier Vetting Refresh",
+    "stringid": "carrier-vetting-refresh",
+    "subscriber_count": "41",
+    "sender_url": "https://whitakerfreight.com/carriers/vetting",
+    "sender_reminder": "Your carrier packet is up for compliance re-verification.",
+    "created_timestamp": "2026-01-12T09:00:00-05:00"
+  },
+  {
+    "id": "10",
+    "name": "Quarterly Newsletter",
+    "stringid": "quarterly-newsletter",
+    "subscriber_count": "187",
+    "sender_url": "https://whitakerfreight.com/newsletter",
+    "sender_reminder": "You subscribed to the WFS quarterly newsletter.",
+    "created_timestamp": "2023-07-03T09:00:00-04:00"
+  },
+  {
+    "id": "11",
+    "name": "Rate Updates",
+    "stringid": "rate-updates",
+    "subscriber_count": "96",
+    "sender_url": "https://whitakerfreight.com/rates",
+    "sender_reminder": "You opted in for WFS freight rate updates.",
+    "created_timestamp": "2023-09-19T09:00:00-04:00"
+  },
+  {
+    "id": "12",
+    "name": "SE Corridor Shippers",
+    "stringid": "se-corridor-shippers",
+    "subscriber_count": "29",
+    "sender_url": "https://whitakerfreight.com/southeast",
+    "sender_reminder": "You ship in the Southeast corridor with WFS.",
+    "created_timestamp": "2024-02-08T09:00:00-05:00"
+  },
+  {
+    "id": "13",
+    "name": "Midwest Corridor Shippers",
+    "stringid": "midwest-corridor-shippers",
+    "subscriber_count": "22",
+    "sender_url": "https://whitakerfreight.com/midwest",
+    "sender_reminder": "You ship in the Midwest corridor with WFS.",
+    "created_timestamp": "2024-02-08T09:00:00-05:00"
+  },
+  {
+    "id": "14",
+    "name": "TN Freight Association",
+    "stringid": "tn-freight-association",
+    "subscriber_count": "78",
+    "sender_url": "https://whitakerfreight.com/tnfa",
+    "sender_reminder": "You are a TN Freight Association contact of Floyd Whitaker.",
+    "created_timestamp": "2024-04-22T09:00:00-04:00"
+  },
+  {
+    "id": "15",
+    "name": "Freight Software Eval Updates",
+    "stringid": "freight-software-eval",
+    "subscriber_count": "9",
+    "sender_url": "https://whitakerfreight.com/software-eval",
+    "sender_reminder": "You follow the WFS freight software evaluation.",
+    "created_timestamp": "2025-10-06T09:00:00-04:00"
+  },
+  {
+    "id": "16",
+    "name": "Lapsed Clients Re-engage",
+    "stringid": "lapsed-clients-reengage",
+    "subscriber_count": "18",
+    "sender_url": "https://whitakerfreight.com/welcome-back",
+    "sender_reminder": "You previously shipped with Whitaker Freight Services.",
+    "created_timestamp": "2024-08-15T09:00:00-04:00"
+  },
+  {
+    "id": "17",
+    "name": "Referral Partners",
+    "stringid": "referral-partners",
+    "subscriber_count": "16",
+    "sender_url": "https://whitakerfreight.com/referrals",
+    "sender_reminder": "You are a WFS referral partner.",
+    "created_timestamp": "2024-10-01T09:00:00-04:00"
+  },
+  {
+    "id": "18",
+    "name": "Holiday Capacity Alerts",
+    "stringid": "holiday-capacity-alerts",
+    "subscriber_count": "61",
+    "sender_url": "https://whitakerfreight.com/holiday-capacity",
+    "sender_reminder": "You opted in for WFS holiday capacity alerts.",
+    "created_timestamp": "2024-11-04T09:00:00-05:00"
+  },
+  {
+    "id": "19",
+    "name": "Mentorship Cohort Autumn 2026",
+    "stringid": "mentorship-cohort-autumn-2026",
+    "subscriber_count": "12",
+    "sender_url": "https://whitakerfreight.com/mentorship/autumn-2026",
+    "sender_reminder": "You applied to the Autumn 2026 TN Freight Mentorship cohort.",
+    "created_timestamp": "2026-03-02T09:00:00-05:00"
+  },
+  {
+    "id": "20",
+    "name": "WFS Staff Internal",
+    "stringid": "wfs-staff-internal",
+    "subscriber_count": "6",
+    "sender_url": "https://whitakerfreight.com/team",
+    "sender_reminder": "You are a Whitaker Freight Services team member.",
+    "created_timestamp": "2023-01-05T09:00:00-05:00"
+  }
+]

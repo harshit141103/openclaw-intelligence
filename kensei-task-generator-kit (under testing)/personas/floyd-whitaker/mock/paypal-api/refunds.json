@@ -1,0 +1,182 @@
+[
+  {
+    "id": "REF_1A234567BC890123",
+    "capture_id": "CAP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "20.00",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - smoker grate shipped scratched",
+    "create_time": "2026-05-12T10:00:00Z"
+  },
+  {
+    "id": "REF_3C456789DE012345",
+    "capture_id": "CAP_5O891276QW0067890",
+    "status": "COMPLETED",
+    "amount_value": "52.40",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - cleats wrong size, returned to Academy",
+    "create_time": "2026-06-02T09:30:00Z"
+  },
+  {
+    "id": "REF_5E678901FG234567",
+    "capture_id": "CAP_1U457832TZ3390123",
+    "status": "PENDING",
+    "amount_value": "12.00",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - one wood bundle damaged in transit",
+    "create_time": "2026-06-04T14:20:00Z"
+  },
+  {
+    "id": "REF_7G890123HI456789",
+    "capture_id": "CAP_2K568943LM5512345",
+    "status": "COMPLETED",
+    "amount_value": "34.99",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - duplicate order of meat thermometer probes",
+    "create_time": "2026-05-03T11:15:00Z"
+  },
+  {
+    "id": "REF_9I012345JK678901",
+    "capture_id": "CAP_4N902187PQ6623456",
+    "status": "COMPLETED",
+    "amount_value": "18.50",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - rib rack arrived bent",
+    "create_time": "2026-05-06T13:40:00Z"
+  },
+  {
+    "id": "REF_1K234567LM890123",
+    "capture_id": "CAP_6P234876RS7734567",
+    "status": "COMPLETED",
+    "amount_value": "45.00",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - fishing reel out of stock, order canceled",
+    "create_time": "2026-05-09T09:20:00Z"
+  },
+  {
+    "id": "REF_3M456789NO012345",
+    "capture_id": "CAP_8R456987TU8845678",
+    "status": "COMPLETED",
+    "amount_value": "9.75",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - sweet tea concentrate leaked in box",
+    "create_time": "2026-05-11T15:00:00Z"
+  },
+  {
+    "id": "REF_5O678901PQ234567",
+    "capture_id": "CAP_1T678109VW9956789",
+    "status": "COMPLETED",
+    "amount_value": "60.00",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - Vols jersey wrong size, exchanged in store",
+    "create_time": "2026-05-16T10:45:00Z"
+  },
+  {
+    "id": "REF_7Q890123RS456789",
+    "capture_id": "CAP_3V890321XY1167890",
+    "status": "COMPLETED",
+    "amount_value": "22.30",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - garden seed packets shorted on order",
+    "create_time": "2026-05-18T08:30:00Z"
+  },
+  {
+    "id": "REF_9S012345TU678901",
+    "capture_id": "CAP_5X012543ZA2278901",
+    "status": "COMPLETED",
+    "amount_value": "15.00",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - cornmeal bag torn on arrival",
+    "create_time": "2026-05-20T12:10:00Z"
+  },
+  {
+    "id": "REF_1U234567VW890123",
+    "capture_id": "CAP_7Z234765BC3389012",
+    "status": "COMPLETED",
+    "amount_value": "28.00",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - charcoal chimney starter defective",
+    "create_time": "2026-05-23T14:50:00Z"
+  },
+  {
+    "id": "REF_3W456789XY012345",
+    "capture_id": "CAP_9B456987DE4490123",
+    "status": "COMPLETED",
+    "amount_value": "11.25",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - tackle box latch broken",
+    "create_time": "2026-05-25T09:00:00Z"
+  },
+  {
+    "id": "REF_5Y678901ZA234567",
+    "capture_id": "CAP_2D678109FG5501234",
+    "status": "COMPLETED",
+    "amount_value": "75.00",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - smoker cover wrong dimensions",
+    "create_time": "2026-05-27T16:20:00Z"
+  },
+  {
+    "id": "REF_7A890123BC456789",
+    "capture_id": "CAP_4F890321HI6612345",
+    "status": "PENDING",
+    "amount_value": "13.40",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - guitar strings package opened",
+    "create_time": "2026-05-29T11:30:00Z"
+  },
+  {
+    "id": "REF_9C012345DE678901",
+    "capture_id": "CAP_6H012543JK7723456",
+    "status": "COMPLETED",
+    "amount_value": "40.00",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - lawn chairs back-ordered, canceled",
+    "create_time": "2026-05-31T10:15:00Z"
+  },
+  {
+    "id": "REF_1E234567FG890123",
+    "capture_id": "CAP_8J234765LM8834567",
+    "status": "COMPLETED",
+    "amount_value": "17.99",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - BBQ gloves one pair missing",
+    "create_time": "2026-06-01T13:00:00Z"
+  },
+  {
+    "id": "REF_3G456789HI012345",
+    "capture_id": "CAP_1L456987NO9945678",
+    "status": "COMPLETED",
+    "amount_value": "25.50",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - cooler lid cracked in shipping",
+    "create_time": "2026-06-03T08:45:00Z"
+  },
+  {
+    "id": "REF_5I678901JK234567",
+    "capture_id": "CAP_3N678109PQ1056789",
+    "status": "PENDING",
+    "amount_value": "8.00",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - spice rub tin dented",
+    "create_time": "2026-06-07T15:30:00Z"
+  },
+  {
+    "id": "REF_7K890123LM456789",
+    "capture_id": "CAP_5P890321RS2167890",
+    "status": "PENDING",
+    "amount_value": "30.00",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - railroad map print arrived creased",
+    "create_time": "2026-06-09T10:00:00Z"
+  },
+  {
+    "id": "REF_9M012345NO678901",
+    "capture_id": "CAP_7R012765TU3278901",
+    "status": "COMPLETED",
+    "amount_value": "19.95",
+    "currency_code": "USD",
+    "note_to_payer": "Full refund - meat injector duplicate shipment",
+    "create_time": "2026-05-05T14:00:00Z"
+  }
+]

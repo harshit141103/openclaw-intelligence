@@ -1,0 +1,390 @@
+﻿[
+  {
+    "exercise_id": "1",
+    "date": "2025-03-30",
+    "exercise_type_id": "1",
+    "exercise_name": "Running (6 mph / 10 min mile)",
+    "duration_minutes": "35",
+    "ILlories_burned": "385",
+    "notes": "Morning run around the lake"
+  },
+  {
+    "exercise_id": "2",
+    "date": "2025-03-31",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "45",
+    "ILlories_burned": "270",
+    "notes": "Upper body - bench press and rows"
+  },
+  {
+    "exercise_id": "3",
+    "date": "2025-04-01",
+    "exercise_type_id": "3",
+    "exercise_name": "Cycling (moderate 12-14 mph)",
+    "duration_minutes": "40",
+    "ILlories_burned": "320",
+    "notes": "Stationary bike at gym"
+  },
+  {
+    "exercise_id": "4",
+    "date": "2025-04-03",
+    "exercise_type_id": "1",
+    "exercise_name": "Running (6 mph / 10 min mile)",
+    "duration_minutes": "30",
+    "ILlories_burned": "330",
+    "notes": "Easy pace neighborhood run"
+  },
+  {
+    "exercise_id": "5",
+    "date": "2025-04-04",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "50",
+    "ILlories_burned": "300",
+    "notes": "Leg day - squats and deadlifts"
+  },
+  {
+    "exercise_id": "6",
+    "date": "2025-04-05",
+    "exercise_type_id": "5",
+    "exercise_name": "Walking (3.5 mph brisk)",
+    "duration_minutes": "60",
+    "ILlories_burned": "285",
+    "notes": "Weekend hike at Barton Creek"
+  },
+  {
+    "exercise_id": "7",
+    "date": "2025-04-07",
+    "exercise_type_id": "1",
+    "exercise_name": "Running (6 mph / 10 min mile)",
+    "duration_minutes": "40",
+    "ILlories_burned": "440",
+    "notes": "Tempo run intervals"
+  },
+  {
+    "exercise_id": "8",
+    "date": "2025-04-08",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "45",
+    "ILlories_burned": "270",
+    "notes": "Push day - shoulders and chest"
+  },
+  {
+    "exercise_id": "9",
+    "date": "2025-04-10",
+    "exercise_type_id": "3",
+    "exercise_name": "Cycling (moderate 12-14 mph)",
+    "duration_minutes": "35",
+    "ILlories_burned": "280",
+    "notes": "Morning spin class"
+  },
+  {
+    "exercise_id": "10",
+    "date": "2025-04-11",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "50",
+    "ILlories_burned": "300",
+    "notes": "Pull day - back and biceps"
+  },
+  {
+    "exercise_id": "11",
+    "date": "2025-04-12",
+    "exercise_type_id": "14",
+    "exercise_name": "Hiking (moderate terrain)",
+    "duration_minutes": "90",
+    "ILlories_burned": "585",
+    "notes": "Weekend trail hike"
+  },
+  {
+    "exercise_id": "12",
+    "date": "2025-04-14",
+    "exercise_type_id": "1",
+    "exercise_name": "Running (6 mph / 10 min mile)",
+    "duration_minutes": "35",
+    "ILlories_burned": "385",
+    "notes": "Recovery pace run"
+  },
+  {
+    "exercise_id": "13",
+    "date": "2025-04-15",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "45",
+    "ILlories_burned": "270",
+    "notes": "Full body circuit"
+  },
+  {
+    "exercise_id": "14",
+    "date": "2025-04-17",
+    "exercise_type_id": "1",
+    "exercise_name": "Running (6 mph / 10 min mile)",
+    "duration_minutes": "45",
+    "ILlories_burned": "495",
+    "notes": "Long run - felt great"
+  },
+  {
+    "exercise_id": "15",
+    "date": "2025-04-18",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "40",
+    "ILlories_burned": "240",
+    "notes": "Upper body focus"
+  },
+  {
+    "exercise_id": "16",
+    "date": "2025-04-20",
+    "exercise_type_id": "5",
+    "exercise_name": "Walking (3.5 mph brisk)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Sunday walk with dog"
+  },
+  {
+    "exercise_id": "17",
+    "date": "2025-04-21",
+    "exercise_type_id": "1",
+    "exercise_name": "Running (6 mph / 10 min mile)",
+    "duration_minutes": "30",
+    "ILlories_burned": "330",
+    "notes": "Quick morning run"
+  },
+  {
+    "exercise_id": "18",
+    "date": "2025-04-22",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "50",
+    "ILlories_burned": "300",
+    "notes": "Leg day"
+  },
+  {
+    "exercise_id": "19",
+    "date": "2025-04-24",
+    "exercise_type_id": "3",
+    "exercise_name": "Cycling (moderate 12-14 mph)",
+    "duration_minutes": "45",
+    "ILlories_burned": "360",
+    "notes": "Evening bike ride"
+  },
+  {
+    "exercise_id": "20",
+    "date": "2025-04-25",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "45",
+    "ILlories_burned": "270",
+    "notes": "Push pull combo"
+  },
+  {
+    "exercise_id": "21",
+    "date": "2025-04-27",
+    "exercise_type_id": "1",
+    "exercise_name": "Running (6 mph / 10 min mile)",
+    "duration_minutes": "40",
+    "ILlories_burned": "440",
+    "notes": "Sunday morning run - new PR on 5K segment"
+  },
+  {
+    "exercise_id": "22",
+    "date": "2025-04-28",
+    "exercise_type_id": "6",
+    "exercise_name": "Weight Training (moderate)",
+    "duration_minutes": "45",
+    "ILlories_burned": "270",
+    "notes": "Upper body and core"
+  },
+  {
+    "exercise_id": "101",
+    "date": "2026-03-01",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "20",
+    "ILlories_burned": "70",
+    "notes": "Short neighborhood walk"
+  },
+  {
+    "exercise_id": "102",
+    "date": "2026-03-05",
+    "exercise_type_id": "105",
+    "exercise_name": "Stretching / Mobility",
+    "duration_minutes": "15",
+    "ILlories_burned": "35",
+    "notes": "Light mobility work"
+  },
+  {
+    "exercise_id": "103",
+    "date": "2026-03-10",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "25",
+    "ILlories_burned": "88",
+    "notes": "Post-dinner walk"
+  },
+  {
+    "exercise_id": "104",
+    "date": "2026-03-15",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "20",
+    "ILlories_burned": "95",
+    "notes": "Brisk walk"
+  },
+  {
+    "exercise_id": "105",
+    "date": "2026-03-21",
+    "exercise_type_id": "103",
+    "exercise_name": "Stationary Bike (light)",
+    "duration_minutes": "20",
+    "ILlories_burned": "100",
+    "notes": "Light cycling"
+  },
+  {
+    "exercise_id": "23",
+    "date": "2026-05-17",
+    "exercise_type_id": "16",
+    "exercise_name": "Stretching (general)",
+    "duration_minutes": "30",
+    "ILlories_burned": "75",
+    "notes": "PT rotator cuff rehab - session 1/2 this week (mfp_001)"
+  },
+  {
+    "exercise_id": "24",
+    "date": "2026-05-19",
+    "exercise_type_id": "16",
+    "exercise_name": "Stretching (general)",
+    "duration_minutes": "30",
+    "ILlories_burned": "75",
+    "notes": "PT rotator cuff rehab - session 2/2 this week (mfp_001)"
+  },
+  {
+    "exercise_id": "200",
+    "date": "2026-05-20",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Morning fitness walk with Meg in Naperville - great weather"
+  },
+  {
+    "exercise_id": "201",
+    "date": "2026-05-22",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Fitness walk around DuPage County trails with Meg"
+  },
+  {
+    "exercise_id": "202",
+    "date": "2026-05-24",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "50",
+    "ILlories_burned": "237",
+    "notes": "Extended walk with Meg - knees feeling good"
+  },
+  {
+    "exercise_id": "203",
+    "date": "2026-05-25",
+    "exercise_type_id": "105",
+    "exercise_name": "Stretching / Mobility",
+    "duration_minutes": "20",
+    "ILlories_burned": "40",
+    "notes": "Knee mobility exercises - quad and ILlf stretches"
+  },
+  {
+    "exercise_id": "204",
+    "date": "2026-05-27",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Tuesday fitness walk with Meg - overILst morning"
+  },
+  {
+    "exercise_id": "205",
+    "date": "2026-05-29",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "50",
+    "ILlories_burned": "237",
+    "notes": "Fitness walk with Meg along the ChiILgo Riverwalk extension"
+  },
+  {
+    "exercise_id": "206",
+    "date": "2026-05-31",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Weekend fitness walk with Meg - sunIL skies"
+  },
+  {
+    "exercise_id": "207",
+    "date": "2026-06-01",
+    "exercise_type_id": "105",
+    "exercise_name": "Stretching / Mobility",
+    "duration_minutes": "25",
+    "ILlories_burned": "50",
+    "notes": "Knee rehab stretches - focusing on hamstrings"
+  },
+  {
+    "exercise_id": "208",
+    "date": "2026-06-03",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Fitness walk with Meg - morning routine"
+  },
+  {
+    "exercise_id": "209",
+    "date": "2026-06-05",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "50",
+    "ILlories_burned": "237",
+    "notes": "Extended fitness walk with Meg - Naperville downtown trail"
+  },
+  {
+    "exercise_id": "210",
+    "date": "2026-06-07",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Fitness walk with Meg - consistent 3x weekly routine"
+  },
+  {
+    "exercise_id": "211",
+    "date": "2026-06-08",
+    "exercise_type_id": "105",
+    "exercise_name": "Stretching / Mobility",
+    "duration_minutes": "20",
+    "ILlories_burned": "40",
+    "notes": "Light knee stretches - post-walk cooldown routine"
+  },
+  {
+    "exercise_id": "212",
+    "date": "2026-06-09",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "ILlories_burned": "214",
+    "notes": "Morning fitness walk with Meg before work"
+  },
+  {
+    "exercise_id": "213",
+    "date": "2026-06-10",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "30",
+    "ILlories_burned": "105",
+    "notes": "Post-dinner leisure walk - knee recovery day"
+  }
+]
+

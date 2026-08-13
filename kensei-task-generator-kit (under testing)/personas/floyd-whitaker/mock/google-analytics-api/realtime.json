@@ -1,0 +1,142 @@
+[
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "Home",
+    "activeUsers": "4",
+    "eventCount": "16"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Get a Quote",
+    "activeUsers": "2",
+    "eventCount": "9"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Services",
+    "activeUsers": "2",
+    "eventCount": "7"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "Carriers",
+    "activeUsers": "1",
+    "eventCount": "4"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Contact",
+    "activeUsers": "1",
+    "eventCount": "3"
+  },
+  {
+    "country": "Canada",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "About",
+    "activeUsers": "1",
+    "eventCount": "2"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "Get a Quote",
+    "activeUsers": "3",
+    "eventCount": "12"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Home",
+    "activeUsers": "3",
+    "eventCount": "11"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "Services",
+    "activeUsers": "2",
+    "eventCount": "8"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "tablet",
+    "unifiedScreenName": "Home",
+    "activeUsers": "1",
+    "eventCount": "5"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Carriers",
+    "activeUsers": "2",
+    "eventCount": "6"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "Contact",
+    "activeUsers": "2",
+    "eventCount": "7"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "About",
+    "activeUsers": "1",
+    "eventCount": "3"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Blog",
+    "activeUsers": "2",
+    "eventCount": "6"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "Blog",
+    "activeUsers": "1",
+    "eventCount": "4"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "tablet",
+    "unifiedScreenName": "Services",
+    "activeUsers": "1",
+    "eventCount": "3"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Get a Quote",
+    "activeUsers": "1",
+    "eventCount": "4"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "desktop",
+    "unifiedScreenName": "Home",
+    "activeUsers": "2",
+    "eventCount": "9"
+  },
+  {
+    "country": "Mexico",
+    "deviceCategory": "mobile",
+    "unifiedScreenName": "Services",
+    "activeUsers": "1",
+    "eventCount": "2"
+  },
+  {
+    "country": "United States",
+    "deviceCategory": "tablet",
+    "unifiedScreenName": "Contact",
+    "activeUsers": "1",
+    "eventCount": "3"
+  }
+]

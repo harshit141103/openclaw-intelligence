@@ -1,0 +1,55 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Wayne Prater",
+    "PreparedDate": "2025-10-22",
+    "Context": "Quick back-of-napkin after Floyd asked whether the RoutePoint software upgrade and a possible office lease bump would squeeze margins. Pre-October review.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "BrokerageCommissions": { "Loads": 62, "AvgCommission": 525, "Total": 32550 },
+        "ConsultingFees": { "AvgMonthly": 7000 },
+        "LaneAnalysis": { "AvgMonthly": 1200 },
+        "TotalMonthlyRevenue": 40750
+      },
+      "MonthlyExpenses": {
+        "OfficeRent": 1900,
+        "Utilities": { "Electric": 215, "InternetPhone": 165, "Total": 380 },
+        "Insurance": { "Quarterly": 3300, "Monthly": 1100 },
+        "Payroll": 15500,
+        "Software": { "TMS": 425, "LoadBoard": 89, "Total": 514 },
+        "FuelTravel": { "AvgMonthly": 530 },
+        "ProfessionalFees": { "AvgMonthly": 285 },
+        "TotalMonthlyExpenses": 20209
+      },
+      "MonthlyNetIncome": 20541,
+      "FloydSalaryFromNet": 7500,
+      "RetainedForReserves": 13041,
+      "Note": "Rough estimate only. Carrier linehaul payments are pass-through COGS and excluded here. Revisit with 2025 actuals."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo2100": {
+        "Label": "Office lease bumps to $2,100/mo at renewal",
+        "NewRent": 2100,
+        "RentIncrease": 200,
+        "NewTotalExpenses": 20409,
+        "NewNetIncome": 20341,
+        "BreakEvenLoads": 39,
+        "BreakEvenCalculation": "Fixed costs $20,209 + $200 = $20,409. At $525 avg commission, $20,409 / $525 = 38.9 -> 39 loads minimum per month.",
+        "Impact": "Minimal. Well within buffer at 62 loads/month."
+      },
+      "Scenario_B_SoftwareUpgrade": {
+        "Label": "Full RoutePoint upgrade adds $300/mo over current TMS",
+        "NewRent": 1900,
+        "RentIncrease": 300,
+        "NewTotalExpenses": 20509,
+        "NewNetIncome": 20241,
+        "BreakEvenLoads": 40,
+        "Impact": "Still fine. Floyd is leaning RoutePoint for Brand's onboarding and the load board features."
+      }
+    },
+    "KeyInsight": "Break-even is ~39-40 loads per month at current cost structure. At 62 loads we have plenty of headroom. Main concern is the seasonal grain dip but even at 48 loads in the slow months we're safe.",
+    "ActionItems": [
+      "Confirm RoutePoint pricing before committing off FreightFlow Pro",
+      "Revisit after year-end with full 2025 actuals for proper modeling"
+    ]
+  }
+}

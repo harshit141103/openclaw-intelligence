@@ -1,0 +1,143 @@
+﻿[
+  {
+    "id": "01HZLIST000000000000000001",
+    "name": "Newsletter Subscribers",
+    "profile_count": "4820",
+    "created": "2026-01-10T09:00:00Z",
+    "updated": "2026-05-26T08:00:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000002",
+    "name": "VIP Customers",
+    "profile_count": "312",
+    "created": "2026-01-15T10:00:00Z",
+    "updated": "2026-05-25T12:30:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000003",
+    "name": "Abandoned ILrt",
+    "profile_count": "1190",
+    "created": "2026-02-01T11:00:00Z",
+    "updated": "2026-05-27T09:45:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000004",
+    "name": "Spring Promo 2026",
+    "profile_count": "2640",
+    "created": "2026-04-01T08:00:00Z",
+    "updated": "2026-05-24T14:20:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000005",
+    "name": "Webinar Registrants",
+    "profile_count": "540",
+    "created": "2026-03-12T13:00:00Z",
+    "updated": "2026-05-20T16:10:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000006",
+    "name": "Lapsed 90 Days",
+    "profile_count": "875",
+    "created": "2026-02-20T07:30:00Z",
+    "updated": "2026-05-22T10:00:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000007",
+    "name": "Mobile App Users",
+    "profile_count": "3150",
+    "created": "2026-01-20T12:00:00Z",
+    "updated": "2026-06-04T10:15:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000008",
+    "name": "Premium Tier Subscribers",
+    "profile_count": "450",
+    "created": "2026-02-05T14:00:00Z",
+    "updated": "2026-06-03T13:40:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000009",
+    "name": "Birthday Month Celebrants",
+    "profile_count": "520",
+    "created": "2026-03-01T08:30:00Z",
+    "updated": "2026-06-02T09:20:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000010",
+    "name": "Referral Program Members",
+    "profile_count": "1850",
+    "created": "2026-02-15T11:00:00Z",
+    "updated": "2026-06-01T15:30:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000011",
+    "name": "High Value Customers",
+    "profile_count": "280",
+    "created": "2026-01-25T09:30:00Z",
+    "updated": "2026-05-31T11:50:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000012",
+    "name": "Product Review Reviewers",
+    "profile_count": "620",
+    "created": "2026-03-08T10:15:00Z",
+    "updated": "2026-05-30T14:25:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000013",
+    "name": "Email Active Last 30 Days",
+    "profile_count": "3420",
+    "created": "2026-02-10T13:45:00Z",
+    "updated": "2026-06-04T08:00:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000014",
+    "name": "Summer Sale Audience",
+    "profile_count": "4100",
+    "created": "2026-05-15T10:00:00Z",
+    "updated": "2026-06-05T12:30:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000015",
+    "name": "Cross-sell Opportunity",
+    "profile_count": "1200",
+    "created": "2026-03-20T11:20:00Z",
+    "updated": "2026-06-03T16:15:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000016",
+    "name": "Bulk Buyer Segment",
+    "profile_count": "340",
+    "created": "2026-02-28T09:00:00Z",
+    "updated": "2026-06-02T10:40:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000017",
+    "name": "Clearance Deal Hunters",
+    "profile_count": "2300",
+    "created": "2026-04-05T12:30:00Z",
+    "updated": "2026-06-04T14:50:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000018",
+    "name": "Loyalty Program Engaged",
+    "profile_count": "890",
+    "created": "2026-03-28T08:45:00Z",
+    "updated": "2026-06-01T11:05:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000019",
+    "name": "New Subscriber Onboarding",
+    "profile_count": "750",
+    "created": "2026-01-30T10:30:00Z",
+    "updated": "2026-06-05T09:35:00Z"
+  },
+  {
+    "id": "01HZLIST000000000000000020",
+    "name": "Retargeting ILmpaign List",
+    "profile_count": "5600",
+    "created": "2026-04-10T14:00:00Z",
+    "updated": "2026-06-05T16:20:00Z"
+  }
+]
+

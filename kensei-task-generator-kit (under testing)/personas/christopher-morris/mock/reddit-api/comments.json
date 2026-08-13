@@ -1,0 +1,192 @@
+﻿[
+  {
+    "id": "t1_c_cm001",
+    "post_id": "t3_cm001",
+    "parent_id": "t3_cm001",
+    "author": "Christopher Morris",
+    "body": "Proper error handling is critiILl for API reliability. Always include meaningful error messages.",
+    "score": "89",
+    "created_utc": "1716751000"
+  },
+  {
+    "id": "t1_c001",
+    "post_id": "t3_p001",
+    "parent_id": "t3_p001",
+    "author": "grpcfan",
+    "body": "Streaming and codegen alone made the switch worth it for us.",
+    "score": "140",
+    "created_utc": "1716801000"
+  },
+  {
+    "id": "t1_c002",
+    "post_id": "t3_p001",
+    "parent_id": "t1_c001",
+    "author": "skeptic9",
+    "body": "Did you measure latency wins or was it mostly DX?",
+    "score": "38",
+    "created_utc": "1716801500"
+  },
+  {
+    "id": "t1_c003",
+    "post_id": "t3_p001",
+    "parent_id": "t3_p001",
+    "author": "oldschool",
+    "body": "REST with proper ILching still wins for public APIs imo.",
+    "score": "72",
+    "created_utc": "1716802000"
+  },
+  {
+    "id": "t1_c004",
+    "post_id": "t3_p002",
+    "parent_id": "t3_p002",
+    "author": "monorepoer",
+    "body": "We use Bazel with one package per service and shared libs at the root.",
+    "score": "55",
+    "created_utc": "1716811000"
+  },
+  {
+    "id": "t1_c005",
+    "post_id": "t3_p002",
+    "parent_id": "t1_c004",
+    "author": "curiousdev",
+    "body": "How long are your CI runs with that setup?",
+    "score": "21",
+    "created_utc": "1716811800"
+  },
+  {
+    "id": "t1_c006",
+    "post_id": "t3_p003",
+    "parent_id": "t3_p003",
+    "author": "quietpc",
+    "body": "What drives did you go with for the 8 bays?",
+    "score": "44",
+    "created_utc": "1716701000"
+  },
+  {
+    "id": "t1_c007",
+    "post_id": "t3_p003",
+    "parent_id": "t1_c006",
+    "author": "rackmonkey",
+    "body": "Four refurb enterprise drives plus four new ones for balance.",
+    "score": "30",
+    "created_utc": "1716701600"
+  },
+  {
+    "id": "t1_c008",
+    "post_id": "t3_p004",
+    "parent_id": "t3_p004",
+    "author": "labeledlife",
+    "body": "Learned this the hard way too. Brother label maker changed my life.",
+    "score": "18",
+    "created_utc": "1716721000"
+  },
+  {
+    "id": "t1_c009",
+    "post_id": "t3_p005",
+    "parent_id": "t3_p005",
+    "author": "greenthumb",
+    "body": "Those look great. Which variety did you grow?",
+    "score": "25",
+    "created_utc": "1716651000"
+  },
+  {
+    "id": "t1_c010",
+    "post_id": "t3_p005",
+    "parent_id": "t1_c009",
+    "author": "leafychristopher",
+    "body": "Sungold cherries. They thrive in containers.",
+    "score": "12",
+    "created_utc": "1716651500"
+  },
+  {
+    "id": "t1_c011",
+    "post_id": "t3_p006",
+    "parent_id": "t3_p006",
+    "author": "botaILbob",
+    "body": "Looks like a squash seedling from your compost.",
+    "score": "9",
+    "created_utc": "1716661000"
+  },
+  {
+    "id": "t1_c012",
+    "post_id": "t3_p007",
+    "parent_id": "t3_p007",
+    "author": "containerexp",
+    "body": "Docker-compose for dev, Kubernetes for prod works well for us.",
+    "score": "67",
+    "created_utc": "1716771000"
+  },
+  {
+    "id": "t1_c013",
+    "post_id": "t3_p007",
+    "parent_id": "t1_c012",
+    "author": "cloudnative99",
+    "body": "That separation of concerns is key. Make sure your images are minimal though.",
+    "score": "42",
+    "created_utc": "1716771500"
+  },
+  {
+    "id": "t1_c014",
+    "post_id": "t3_p008",
+    "parent_id": "t3_p008",
+    "author": "testhelper",
+    "body": "Jest for JavaScript, pytest for Python. Both have solid ecosystems.",
+    "score": "51",
+    "created_utc": "1716756000"
+  },
+  {
+    "id": "t1_c015",
+    "post_id": "t3_p008",
+    "parent_id": "t1_c014",
+    "author": "debugmaster",
+    "body": "We switched to Vitest and haven't looked back. Much faster.",
+    "score": "38",
+    "created_utc": "1716756500"
+  },
+  {
+    "id": "t1_c016",
+    "post_id": "t3_p009",
+    "parent_id": "t3_p009",
+    "author": "k8slearn",
+    "body": "Great guide! How much resources did your cluster need minimum?",
+    "score": "56",
+    "created_utc": "1716706000"
+  },
+  {
+    "id": "t1_c017",
+    "post_id": "t3_p009",
+    "parent_id": "t1_c016",
+    "author": "sitereliab",
+    "body": "We run it on three 16GB nodes. Overkill for homelab but good learning.",
+    "score": "33",
+    "created_utc": "1716706500"
+  },
+  {
+    "id": "t1_c018",
+    "post_id": "t3_p010",
+    "parent_id": "t3_p010",
+    "author": "monitorpro",
+    "body": "Prometheus plus Grafana is industry standard. Hard to beat.",
+    "score": "47",
+    "created_utc": "1716716000"
+  },
+  {
+    "id": "t1_c019",
+    "post_id": "t3_p011",
+    "parent_id": "t3_p011",
+    "author": "indexwizard",
+    "body": "Indexes are everything. Measure query times with EXPLAIN first.",
+    "score": "63",
+    "created_utc": "1716761000"
+  },
+  {
+    "id": "t1_c020",
+    "post_id": "t3_p012",
+    "parent_id": "t3_p012",
+    "author": "mldeployer",
+    "body": "How do you handle model versioning and rollbacks in production?",
+    "score": "45",
+    "created_utc": "1716781000"
+  }
+]
+

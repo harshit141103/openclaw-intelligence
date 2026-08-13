@@ -1,0 +1,182 @@
+[
+  {
+    "id": "gcomp-301",
+    "employee_id": "gemp-201",
+    "job_title": "Pete coming by Saturday for coffee; shop's a mess.",
+    "rate": "210000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-10-13"
+  },
+  {
+    "id": "gcomp-302",
+    "employee_id": "gemp-202",
+    "job_title": "Re: Stowe install date",
+    "rate": "185000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-05-16"
+  },
+  {
+    "id": "gcomp-303",
+    "employee_id": "gemp-203",
+    "job_title": "Stowe kitchen - cabinet hardware lead time",
+    "rate": "165000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-12-31"
+  },
+  {
+    "id": "gcomp-304",
+    "employee_id": "gemp-204",
+    "job_title": "Built-ins - finish sample for your approval",
+    "rate": "140000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-09-09"
+  },
+  {
+    "id": "gcomp-305",
+    "employee_id": "gemp-205",
+    "job_title": "Project schedule update",
+    "rate": "120000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-02-07"
+  },
+  {
+    "id": "gcomp-306",
+    "employee_id": "gemp-206",
+    "job_title": "Stage the bookshelf sections for the Craftsbury install",
+    "rate": "95000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-01-19"
+  },
+  {
+    "id": "gcomp-307",
+    "employee_id": "gemp-207",
+    "job_title": "Pete coming by Saturday for coffee; shop's a mess.",
+    "rate": "32.50",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-11-11"
+  },
+  {
+    "id": "gcomp-308",
+    "employee_id": "gemp-208",
+    "job_title": "Recruiter",
+    "rate": "90000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-02-10"
+  },
+  {
+    "id": "gcomp-1202",
+    "employee_id": "gemp-1102",
+    "job_title": "Re: Stowe install date",
+    "rate": "210000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-03-28"
+  },
+  {
+    "id": "gcomp-1204",
+    "employee_id": "gemp-1104",
+    "job_title": "Order Blum slides for the Stowe drawer banks",
+    "rate": "185000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-03-24"
+  },
+  {
+    "id": "gcomp-1206",
+    "employee_id": "gemp-1106",
+    "job_title": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "rate": "165000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-1208",
+    "employee_id": "gemp-1108",
+    "job_title": "Hold the Stowe drive until the morning forecast clears.",
+    "rate": "140000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-04-21"
+  },
+  {
+    "id": "gcomp-1210",
+    "employee_id": "gemp-1110",
+    "job_title": "Splitting and stacking the winter firewood",
+    "rate": "120000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-08-24"
+  },
+  {
+    "id": "gcomp-1212",
+    "employee_id": "gemp-1112",
+    "job_title": "Material order - Hardwick Lumber",
+    "rate": "95000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2025-07-28"
+  },
+  {
+    "id": "gcomp-1214",
+    "employee_id": "gemp-1114",
+    "job_title": "Mock up the crown profile for the Henderson uppers",
+    "rate": "32.50",
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2023-12-09"
+  },
+  {
+    "id": "gcomp-1216",
+    "employee_id": "gemp-1116",
+    "job_title": "Recruiter",
+    "rate": "90000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2024-05-17"
+  },
+  {
+    "id": "gcomp-1210-16",
+    "employee_id": "gemp-1110",
+    "job_title": "Final fit of the Henderson island base cabinets",
+    "rate": "210000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-08-20"
+  },
+  {
+    "id": "gcomp-1212-17",
+    "employee_id": "gemp-1112",
+    "job_title": "Material order - Hardwick Lumber",
+    "rate": "185000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-06-27"
+  },
+  {
+    "id": "gcomp-1214-18",
+    "employee_id": "gemp-1114",
+    "job_title": "Cut dadoes for the adjustable shelf pins",
+    "rate": "165000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-05-16"
+  },
+  {
+    "id": "gcomp-1216-19",
+    "employee_id": "gemp-1116",
+    "job_title": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "rate": "140000.00",
+    "payment_unit": "Year",
+    "flsa_status": "Exempt",
+    "effective_date": "2026-02-22"
+  }
+]

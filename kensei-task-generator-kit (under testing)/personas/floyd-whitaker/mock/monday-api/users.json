@@ -1,0 +1,142 @@
+[
+  {
+    "user_id": "usr-1",
+    "name": "Floyd Whitaker",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "title": "Owner",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2",
+    "name": "Brenda Sizemore",
+    "email": "bren.sizemore@gmail.com",
+    "title": "Office Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-3",
+    "name": "Brandon Whitaker",
+    "email": "brand.whitaker@gmail.com",
+    "title": "Junior Associate",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-4",
+    "name": "Travis Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "title": "Freight Dispatch Specialist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-5",
+    "name": "Lorrie Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "title": "Freight Dispatch Specialist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-6",
+    "name": "Dale Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "title": "Bookkeeper",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-7",
+    "name": "Travis Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "title": "Freight Dispatch Specialist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-8",
+    "name": "Lorrie Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "title": "Freight Dispatch Specialist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-9",
+    "name": "Dale Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "title": "Bookkeeper",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-10",
+    "name": "Carla Whitfield",
+    "email": "carla.whitfield@finthesiss.ai",
+    "title": "Administrative Assistant",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-11",
+    "name": "Keith Burgess",
+    "email": "keith.burgess@gmail.com",
+    "title": "Mentorship Partner (Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-12",
+    "name": "Wayne Prater",
+    "email": "wayne.prater@gmail.com",
+    "title": "Accountant (Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-13",
+    "name": "Glen Mabry",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "title": "Cumberland Auto Parts (Client Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-14",
+    "name": "Ruth Lyle",
+    "email": "ruth.lyle@valleygrainco.com",
+    "title": "Valley Grain Cooperative (Client Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-15",
+    "name": "Pete Arnett",
+    "email": "pete.arnett@smokymtnsupply.com",
+    "title": "Smoky Mountain Building Supply (Client Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-16",
+    "name": "Hal Eubanks",
+    "email": "hal.eubanks@tristatemfg.com",
+    "title": "Tri-State Manufacturing (Client Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-17",
+    "name": "Nan Coley",
+    "email": "nan.coley@appalachianag.com",
+    "title": "Appalachian Ag Producers (Client Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-18",
+    "name": "Marcus Fields",
+    "email": "marcus.fields@cumberlandgapcarriers.com",
+    "title": "Cumberland Gap Carriers (Carrier Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-19",
+    "name": "Dale Pruitt",
+    "email": "dale.pruitt@ridgelinetrucking.com",
+    "title": "Ridgeline Trucking (Carrier Guest)",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-20",
+    "name": "Donna Whitaker",
+    "email": "donna.whitaker@gmail.com",
+    "title": "Bookkeeping Support (Guest)",
+    "is_admin": "false"
+  }
+]

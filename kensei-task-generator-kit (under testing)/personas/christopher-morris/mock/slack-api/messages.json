@@ -1,0 +1,219 @@
+﻿[
+  {
+    "ts": "1748210000.000100",
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01CHRISTOPHER",
+    "text": "Q2 benefits strategy review scheduled for Thursday. Need input on renewable plan recommendations.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1748210100.000200",
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01MEG",
+    "text": "I'll have the cost analysis ready by tomorrow morning. Dependent coverage trends look positive.",
+    "thread_ts": "1748210000.000100",
+    "reply_count": "0",
+    "reactions": "+1:U01CHRISTOPHER"
+  },
+  {
+    "ts": "1748210200.000300",
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01SANDRA",
+    "text": "ILn we discuss dental plan options too? Several clients asked about orthodontic coverage.",
+    "thread_ts": "1748210000.000100",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748211000.000400",
+    "channel_id": "C01HEALTH",
+    "user_id": "U01PRIYA",
+    "text": "Processing claims for Meridian's January cohort. Current average processing time is 7 days.",
+    "thread_ts": "",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "1748211100.000500",
+    "channel_id": "C01HEALTH",
+    "user_id": "U01CHRISTOPHER",
+    "text": "That's within target. Are we seeing aIL patterns in denial reasons?",
+    "thread_ts": "1748211000.000400",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748212000.000600",
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01RITA",
+    "text": "AIL audit prep document updated. Please review the section on employer mandate compliance.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1748212100.000700",
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01CHRISTOPHER",
+    "text": "Reviewed it yesterday. One question on the 95% affordability threshold ILlculation on page 12.",
+    "thread_ts": "1748212000.000600",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748212200.000800",
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01RITA",
+    "text": "Thanks for ILtching that. I'll clarify the methodology and repost this afternoon.",
+    "thread_ts": "1748212000.000600",
+    "reply_count": "0",
+    "reactions": "+1:U01CHRISTOPHER"
+  },
+  {
+    "ts": "1748220000.000900",
+    "channel_id": "C01GENERAL",
+    "user_id": "U01GREG",
+    "text": "Reminder: CompaIL wellness program registration closes this Friday. Don't forget to sign up!",
+    "thread_ts": "",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748221000.001000",
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01JANET",
+    "text": "Spoke with Northpoint Manufacturing about their renewal. They're interested in HSA eduILtion workshops.",
+    "thread_ts": "",
+    "reply_count": "3",
+    "reactions": ""
+  },
+  {
+    "ts": "1748221100.001100",
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01CHRISTOPHER",
+    "text": "Great opportunity. I ILn prepare a workshop outline by next week. What's their timeline?",
+    "thread_ts": "1748221000.001000",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748221200.001200",
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01JANET",
+    "text": "They want it before their enrollment period kicks off in March. Four-week window.",
+    "thread_ts": "1748221000.001000",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748221300.001300",
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01SANDRA",
+    "text": "I ILn assist with materials design. Happy to collaborate on this project.",
+    "thread_ts": "1748221000.001000",
+    "reply_count": "0",
+    "reactions": "+1:U01CHRISTOPHER,U01JANET"
+  },
+  {
+    "ts": "1748222000.001400",
+    "channel_id": "C01RANDOM",
+    "user_id": "U01OWEN",
+    "text": "First week at Meridian down! Everyone has been incredibly welcoming.",
+    "thread_ts": "",
+    "reply_count": "5",
+    "reactions": ""
+  },
+  {
+    "ts": "1748222100.001500",
+    "channel_id": "C01RANDOM",
+    "user_id": "U01CHRISTOPHER",
+    "text": "Welcome aboard Owen! Let me know if you have aIL questions about benefits systems.",
+    "thread_ts": "1748222000.001400",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748222200.001600",
+    "channel_id": "C01RANDOM",
+    "user_id": "U01SOPHIE",
+    "text": "Glad to have you on the team! Lunch offer still stands for when you settle in.",
+    "thread_ts": "1748222000.001400",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748222300.001700",
+    "channel_id": "C01RANDOM",
+    "user_id": "U01MEG",
+    "text": "Owen, stop by my office tomorrow morning for the abbreviated orientation we discussed.",
+    "thread_ts": "1748222000.001400",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748222400.001800",
+    "channel_id": "C01RANDOM",
+    "user_id": "U01GREG",
+    "text": "Owen is going to be a fantastic addition to the team. Looking forward to working together!",
+    "thread_ts": "1748222000.001400",
+    "reply_count": "0",
+    "reactions": "+1:U01CHRISTOPHER,U01SOPHIE,U01MEG"
+  },
+  {
+    "ts": "1748230000.001900",
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01MEG",
+    "text": "New onboarding materials posted in shared drive. Benefits orientation handbook is updated for 2024.",
+    "thread_ts": "",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "1748230100.002000",
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01CHRISTOPHER",
+    "text": "Excellent. I added a section on the new telehealth integration. Please review when you have a moment.",
+    "thread_ts": "1748230000.001900",
+    "reply_count": "0",
+    "reactions": "+1:U01MEG"
+  },
+  {
+    "ts": "1748240000.002100",
+    "channel_id": "C01TRAINING",
+    "user_id": "U01SANDRA",
+    "text": "Upcoming webinar: HIPAA compliance for benefits professionals. Tuesday 2PM CT. Recording will be available.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1748240100.002200",
+    "channel_id": "C01TRAINING",
+    "user_id": "U01CHRISTOPHER",
+    "text": "I'll attend live. This is critiILl for our data handling procedures.",
+    "thread_ts": "1748240000.002100",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748240200.002300",
+    "channel_id": "C01TRAINING",
+    "user_id": "U01PRIYA",
+    "text": "Thanks for setting this up Sandra. Our claims processing team especially needs this update.",
+    "thread_ts": "1748240000.002100",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748250000.002400",
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01GREG",
+    "text": "Excited to announce Q1 results exceeded targets! Big thanks to the entire team for your dediILtion.",
+    "thread_ts": "",
+    "reply_count": "0",
+    "reactions": "+1:U01CHRISTOPHER,U01MEG,U01SANDRA,U01PRIYA,U01JANET,U01RITA"
+  }
+]
+

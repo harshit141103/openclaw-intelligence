@@ -1,0 +1,13 @@
+id,store,items,total,status,ordered_at
+1,Local grocery,"produce, pantry staples, household supplies",103.12,delivered,2021-01-02T08:00:00+05:30
+2,Local grocery,"produce, pantry staples, household supplies",148.83,delivered,2021-07-01T09:07:00+05:30
+3,Local grocery,"produce, pantry staples, household supplies",163.91,delivered,2021-12-28T10:14:00+05:30
+4,Local grocery,"produce, pantry staples, household supplies",113.63,delivered,2022-06-27T11:21:00+05:30
+5,Local grocery,"produce, pantry staples, household supplies",175.22,delivered,2022-12-24T12:28:00+05:30
+6,Local grocery,"produce, pantry staples, household supplies",107.56,delivered,2023-06-22T13:35:00+05:30
+7,Local grocery,"produce, pantry staples, household supplies",125.25,delivered,2023-12-20T14:42:00+05:30
+8,Local grocery,"produce, pantry staples, household supplies",163.83,delivered,2024-06-17T15:49:00+05:30
+9,Local grocery,"produce, pantry staples, household supplies",76.19,delivered,2024-12-14T16:56:00+05:30
+10,Local grocery,"produce, pantry staples, household supplies",132.95,delivered,2025-06-13T17:03:00+05:30
+11,Local grocery,"produce, pantry staples, household supplies",105.10,delivered,2025-12-10T08:10:00+05:30
+12,Local grocery,"produce, pantry staples, household supplies",103.92,delivered,2026-06-08T09:17:00+05:30

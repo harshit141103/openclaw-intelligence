@@ -1,0 +1,182 @@
+[
+  {
+    "id": "INBOX",
+    "name": "Church pew repair",
+    "type": "system",
+    "messages_total": "6",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "SENT",
+    "name": "Sharpen the jointer knives and reset the",
+    "type": "system",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "DRAFTS",
+    "name": "Plane the bookshelf shelves and ease the",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "TRASH",
+    "name": "Re: Stowe install date",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "SPAM",
+    "name": "Boucher mudroom built-ins",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_shop",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "1",
+    "threads_total": "4",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_followup",
+    "name": "Stage the bookshelf sections for the Cra",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "1",
+    "threads_total": "2",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_oncall",
+    "name": "Greensboro barn restoration",
+    "type": "user",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "INBOX-b1",
+    "name": "Delivery window for the Stowe cabinets",
+    "type": "system",
+    "messages_total": "6",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "SENT-b2",
+    "name": "Build the drawer boxes with half-blind d",
+    "type": "system",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "DRAFTS-b3",
+    "name": "Replace the dust collector filter and cl",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "TRASH-b4",
+    "name": "Material order - Hardwick Lumber",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "SPAM-b5",
+    "name": "Plane the bookshelf shelves and ease the",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_shop-b6",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "1",
+    "threads_total": "4",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_followup-b7",
+    "name": "Mock up the crown profile for the Hender",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "1",
+    "threads_total": "2",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_oncall-b8",
+    "name": "Re: Stowe install date",
+    "type": "user",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "INBOX-b9",
+    "name": "Greensboro barn restoration",
+    "type": "system",
+    "messages_total": "6",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "SENT-b10",
+    "name": "Splitting and stacking the winter firewo",
+    "type": "system",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "DRAFTS-b11",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "TRASH-b12",
+    "name": "Mill cherry stock to thickness for the u",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  }
+]

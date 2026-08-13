@@ -1,0 +1,149 @@
+[
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblProjects00001",
+    "name": "Projects",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblTasks00000001",
+    "name": "Tasks",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.csv"
+  },
+  {
+    "baseId": "appNW1studio0001",
+    "id": "tblContacts00001",
+    "name": "Contacts",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.csv"
+  },
+  {
+    "baseId": "appCarrierVet001",
+    "id": "tblCarriers00001",
+    "name": "Carriers",
+    "primaryFieldId": "fldCarrierNm0001",
+    "records_csv": "records_carriers.csv"
+  },
+  {
+    "baseId": "appCarrierVet001",
+    "id": "tblVetChecks0001",
+    "name": "VettingChecks",
+    "primaryFieldId": "fldVetCheckNm001",
+    "records_csv": "records_vetchecks.csv"
+  },
+  {
+    "baseId": "appLoadBoard0001",
+    "id": "tblLoads00000001",
+    "name": "Loads",
+    "primaryFieldId": "fldLoadRef000001",
+    "records_csv": "records_loads.csv"
+  },
+  {
+    "baseId": "appLoadBoard0001",
+    "id": "tblLanes00000001",
+    "name": "Lanes",
+    "primaryFieldId": "fldLaneName00001",
+    "records_csv": "records_lanes.csv"
+  },
+  {
+    "baseId": "appClientCRM0001",
+    "id": "tblShippers000001",
+    "name": "Shippers",
+    "primaryFieldId": "fldShipperNm0001",
+    "records_csv": "records_shippers.csv"
+  },
+  {
+    "baseId": "appClientCRM0001",
+    "id": "tblClientNotes01",
+    "name": "ClientNotes",
+    "primaryFieldId": "fldNoteSubj00001",
+    "records_csv": "records_clientnotes.csv"
+  },
+  {
+    "baseId": "appRateConfirm01",
+    "id": "tblRateConfs0001",
+    "name": "RateConfirmations",
+    "primaryFieldId": "fldRateConfNm001",
+    "records_csv": "records_rateconfs.csv"
+  },
+  {
+    "baseId": "appLaneRates0001",
+    "id": "tblLaneRates0001",
+    "name": "LaneRates",
+    "primaryFieldId": "fldLaneRateNm001",
+    "records_csv": "records_lanerates.csv"
+  },
+  {
+    "baseId": "appDOTComply001",
+    "id": "tblWebinars000001",
+    "name": "Webinars",
+    "primaryFieldId": "fldWebinarNm0001",
+    "records_csv": "records_webinars.csv"
+  },
+  {
+    "baseId": "appMentorship001",
+    "id": "tblMentees000001",
+    "name": "Mentees",
+    "primaryFieldId": "fldMenteeNm00001",
+    "records_csv": "records_mentees.csv"
+  },
+  {
+    "baseId": "appInvoiceLog001",
+    "id": "tblInvoices000001",
+    "name": "Invoices",
+    "primaryFieldId": "fldInvoiceNo0001",
+    "records_csv": "records_invoices.csv"
+  },
+  {
+    "baseId": "appCarrierDir001",
+    "id": "tblCarrierDir001",
+    "name": "CarrierDirectory",
+    "primaryFieldId": "fldCarDirNm00001",
+    "records_csv": "records_carrierdir.csv"
+  },
+  {
+    "baseId": "appClaimsDmg001",
+    "id": "tblClaims00000001",
+    "name": "Claims",
+    "primaryFieldId": "fldClaimNo000001",
+    "records_csv": "records_claims.csv"
+  },
+  {
+    "baseId": "appQuotePipe001",
+    "id": "tblQuotes00000001",
+    "name": "Quotes",
+    "primaryFieldId": "fldQuoteRef00001",
+    "records_csv": "records_quotes.csv"
+  },
+  {
+    "baseId": "appInsuranceCrt",
+    "id": "tblInsCerts000001",
+    "name": "InsuranceCerts",
+    "primaryFieldId": "fldInsCertNm0001",
+    "records_csv": "records_inscerts.csv"
+  },
+  {
+    "baseId": "appSoftwareEvl1",
+    "id": "tblEvalCriteria1",
+    "name": "EvalCriteria",
+    "primaryFieldId": "fldEvalCritNm001",
+    "records_csv": "records_evalcriteria.csv"
+  },
+  {
+    "baseId": "appQ4Forecast01",
+    "id": "tblForecastRows1",
+    "name": "ForecastRows",
+    "primaryFieldId": "fldFcastMonth001",
+    "records_csv": "records_forecastrows.csv"
+  },
+  {
+    "baseId": "appReferralLog1",
+    "id": "tblReferrals00001",
+    "name": "Referrals",
+    "primaryFieldId": "fldReferralNm001",
+    "records_csv": "records_referrals.csv"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "iain.campbell@btinternet.com",
+    "name": "Iain Campbell",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "bob@gmail.com",
+    "name": "Bob Brown",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "carol@gmail.com",
+    "name": "Carol Clark",
+    "subscribed": "false",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "dave@gmail.com",
+    "name": "Dave Davis",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"enterprise\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "erin@gmail.com",
+    "name": "Erin Evans",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "frank@gmail.com",
+    "name": "Frank Foster",
+    "subscribed": "true",
+    "vars": "{\"team\":\"frontend\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "grace@gmail.com",
+    "name": "Grace Green",
+    "subscribed": "false",
+    "vars": "{\"team\":\"qa\"}"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u2jonas",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u3helena",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u7michael",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u3helena",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u8sarah",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u9david",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3aws",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3aws",
+    "user_id": "00u2jonas",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3aws",
+    "user_id": "00u7michael",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa4datadog",
+    "user_id": "00u3helena",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa4datadog",
+    "user_id": "00u9david",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5jira",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5jira",
+    "user_id": "00u2jonas",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5jira",
+    "user_id": "00u3helena",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5jira",
+    "user_id": "00u6priya",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5jira",
+    "user_id": "00u10emma",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa6confluence",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa6confluence",
+    "user_id": "00u2jonas",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa6confluence",
+    "user_id": "00u3helena",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa7pagerduty",
+    "user_id": "00u7michael",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa7pagerduty",
+    "user_id": "00u9david",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa8salesforce",
+    "user_id": "00u8sarah",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa8salesforce",
+    "user_id": "00u10emma",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa9googleworkspace",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa9googleworkspace",
+    "user_id": "00u2jonas",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa9googleworkspace",
+    "user_id": "00u3helena",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa9googleworkspace",
+    "user_id": "00u6priya",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa10docker",
+    "user_id": "00u7michael",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa10docker",
+    "user_id": "00u9david",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa11notion",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa11notion",
+    "user_id": "00u8sarah",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa12figma",
+    "user_id": "00u8sarah",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa12figma",
+    "user_id": "00u10emma",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa13splunk",
+    "user_id": "00u7michael",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa13splunk",
+    "user_id": "00u9david",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa14newrelic",
+    "user_id": "00u7michael",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa15okta_admin",
+    "user_id": "00u1amelia",
+    "scope": "USER"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "user_profile": {
+    "user_id": "floyd_whitaker",
+    "daily_carb_limit_g": 180,
+    "current_day_total_carbs": 0,
+    "last_a1c": 5.6,
+    "time_zone": "America/New_York"
+  }
+}

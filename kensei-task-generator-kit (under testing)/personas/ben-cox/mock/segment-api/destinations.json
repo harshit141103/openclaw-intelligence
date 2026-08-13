@@ -1,0 +1,162 @@
+[
+  {
+    "id": "dst_ga4001",
+    "name": "Mill cherry stock to thickness for the u",
+    "slug": "google-analytics-4",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2025-02-28T08:45:00Z"
+  },
+  {
+    "id": "dst_ampl01",
+    "name": "Mill cherry stock to thickness for the u",
+    "slug": "amplitude",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2025-03-26T16:15:00Z"
+  },
+  {
+    "id": "dst_bq001",
+    "name": "Stage the bookshelf sections for the Cra",
+    "slug": "bigquery",
+    "enabled": "true",
+    "source_id": "src_srv01",
+    "created_at": "2024-12-27T17:15:00Z"
+  },
+  {
+    "id": "dst_slk001",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "slug": "slack",
+    "enabled": "true",
+    "source_id": "src_srv01",
+    "created_at": "2026-01-07T06:15:00Z"
+  },
+  {
+    "id": "dst_mkt001",
+    "name": "Check the moisture content on the barn o",
+    "slug": "mixpanel",
+    "enabled": "false",
+    "source_id": "src_ios01",
+    "created_at": "2024-04-08T12:15:00Z"
+  },
+  {
+    "id": "dst_fb001",
+    "name": "Bookshelf install Friday the 16th",
+    "slug": "facebook-conversions",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2024-10-10T16:30:00Z"
+  },
+  {
+    "id": "dst_ga4902",
+    "name": "Mock up the crown profile for the Hender",
+    "slug": "google-analytics-905",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2025-04-08T14:15:00Z"
+  },
+  {
+    "id": "dst_ampl903",
+    "name": "Hang the soft-close doors and adjust the",
+    "slug": "amplitude-b2",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2024-03-08T18:30:00Z"
+  },
+  {
+    "id": "dst_bq904",
+    "name": "Replace the dust collector filter and cl",
+    "slug": "bigquery-b3",
+    "enabled": "true",
+    "source_id": "src_srv01",
+    "created_at": "2025-01-14T17:15:00Z"
+  },
+  {
+    "id": "dst_slk905",
+    "name": "Whitcomb built-in bookshelves",
+    "slug": "slack-b4",
+    "enabled": "true",
+    "source_id": "src_srv01",
+    "created_at": "2026-07-28T18:45:00Z"
+  },
+  {
+    "id": "dst_mkt906",
+    "name": "Built-ins - finish sample for your approval",
+    "slug": "mixpanel-b5",
+    "enabled": "false",
+    "source_id": "src_ios01",
+    "created_at": "2024-08-30T06:45:00Z"
+  },
+  {
+    "id": "dst_fb907",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "slug": "facebook-conversions-b6",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2026-06-18T11:45:00Z"
+  },
+  {
+    "id": "dst_ga4908",
+    "name": "Re: Bookshelf dimensions",
+    "slug": "google-analytics-911",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2024-09-11T14:00:00Z"
+  },
+  {
+    "id": "dst_ampl909",
+    "name": "Greensboro barn restoration",
+    "slug": "amplitude-b8",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2024-09-17T15:30:00Z"
+  },
+  {
+    "id": "dst_bq910",
+    "name": "Mill cherry stock to thickness for the u",
+    "slug": "bigquery-b9",
+    "enabled": "true",
+    "source_id": "src_srv01",
+    "created_at": "2023-10-22T10:30:00Z"
+  },
+  {
+    "id": "dst_slk911",
+    "name": "Sloan cherry dining table",
+    "slug": "slack-b10",
+    "enabled": "true",
+    "source_id": "src_srv01",
+    "created_at": "2025-11-08T16:30:00Z"
+  },
+  {
+    "id": "dst_mkt912",
+    "name": "Sharpen the jointer knives and reset the",
+    "slug": "mixpanel-b11",
+    "enabled": "false",
+    "source_id": "src_ios01",
+    "created_at": "2026-07-03T12:15:00Z"
+  },
+  {
+    "id": "dst_fb913",
+    "name": "Dry-fit the face frames before glue-up",
+    "slug": "facebook-conversions-b12",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2025-03-07T18:45:00Z"
+  },
+  {
+    "id": "dst_ga4914",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "slug": "google-analytics-917",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2025-12-21T16:15:00Z"
+  },
+  {
+    "id": "dst_ampl915",
+    "name": "Delivery window for the Stowe cabinets",
+    "slug": "amplitude-b14",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2025-03-03T14:15:00Z"
+  }
+]

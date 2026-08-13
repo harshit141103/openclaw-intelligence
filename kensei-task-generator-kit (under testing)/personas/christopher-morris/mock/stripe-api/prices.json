@@ -1,0 +1,83 @@
+[
+  {
+    "id": "price_Mortgage_M",
+    "product": "prod_Mortgage",
+    "unit_amount": "280000",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Mortgage Monthly"
+  },
+  {
+    "id": "price_Salary_M",
+    "product": "prod_Salary",
+    "unit_amount": "894000",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "VoiceSync Annual Salary"
+  },
+  {
+    "id": "price_Utilities_M",
+    "product": "prod_Utilities",
+    "unit_amount": "18500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "BGE Monthly"
+  },
+  {
+    "id": "price_Internet_M",
+    "product": "prod_Internet",
+    "unit_amount": "15999",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Xfinity Monthly"
+  },
+  {
+    "id": "price_Insurance_M",
+    "product": "prod_Insurance",
+    "unit_amount": "45000",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Health Insurance Monthly"
+  },
+  {
+    "id": "price_AutoInsurance_M",
+    "product": "prod_AutoInsurance",
+    "unit_amount": "12500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "State Farm Monthly"
+  },
+  {
+    "id": "price_Gym_Y",
+    "product": "prod_Gym",
+    "unit_amount": "3299",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Equinox Annual"
+  },
+  {
+    "id": "price_LinkedIn_Y",
+    "product": "prod_LinkedIn",
+    "unit_amount": "1500",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "LinkedIn Premium Annual"
+  },
+  {
+    "id": "price_Streaming_M",
+    "product": "prod_Streaming",
+    "unit_amount": "1999",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Streaming Services Monthly"
+  }
+]

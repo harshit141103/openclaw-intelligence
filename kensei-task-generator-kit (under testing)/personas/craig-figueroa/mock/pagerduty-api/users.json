@@ -1,0 +1,90 @@
+[
+  {
+    "user_id": "PU001",
+    "name": "Craig Figueroa",
+    "email": "craig.figueroa@gmail.com",
+    "role": "admin",
+    "time_zone": "Europe/London",
+    "job_title": "SRE Lead"
+  },
+  {
+    "user_id": "PU002",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "role": "user",
+    "time_zone": "Europe/London",
+    "job_title": "Backend Engineer"
+  },
+  {
+    "user_id": "PU003",
+    "name": "Fiona Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "role": "user",
+    "time_zone": "Europe/Berlin",
+    "job_title": "Platform Engineer"
+  },
+  {
+    "user_id": "PU004",
+    "name": "Graeme Sutherland",
+    "email": "graeme.sutherland@gmail.com",
+    "role": "user",
+    "time_zone": "Asia/Kolkata",
+    "job_title": "Site Reliability Engineer"
+  },
+  {
+    "user_id": "PU005",
+    "name": "Rhona Matheson",
+    "email": "rhona.matheson@apha.gov.uk",
+    "role": "manager",
+    "time_zone": "Europe/London",
+    "job_title": "Engineering Manager"
+  },
+  {
+    "user_id": "PU7000",
+    "name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "role": "admin",
+    "time_zone": "Europe/London",
+    "job_title": "SRE Lead"
+  },
+  {
+    "user_id": "PU7001",
+    "name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "role": "admin",
+    "time_zone": "Europe/London",
+    "job_title": "SRE Lead"
+  },
+  {
+    "user_id": "PU7002",
+    "name": "Isabel Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "role": "admin",
+    "time_zone": "Europe/London",
+    "job_title": "SRE Lead"
+  },
+  {
+    "user_id": "PU7003",
+    "name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "role": "admin",
+    "time_zone": "Europe/London",
+    "job_title": "SRE Lead"
+  },
+  {
+    "user_id": "PU7004",
+    "name": "Iain Campbell",
+    "email": "iain.campbell@btinternet.com",
+    "role": "admin",
+    "time_zone": "Europe/London",
+    "job_title": "SRE Lead"
+  },
+  {
+    "user_id": "PU7005",
+    "name": "Jean MacKenzie",
+    "email": "jean.mackenzie@gmail.com",
+    "role": "admin",
+    "time_zone": "Europe/London",
+    "job_title": "SRE Lead"
+  }
+]

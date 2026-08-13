@@ -1,0 +1,87 @@
+﻿[
+  {
+    "id": "cls-music-rock",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Alternative Rock"
+  },
+  {
+    "id": "cls-music-pop",
+    "segment": "Music",
+    "genre": "Pop",
+    "subgenre": "Pop"
+  },
+  {
+    "id": "cls-music-jazz",
+    "segment": "Music",
+    "genre": "Jazz",
+    "subgenre": "Jazz"
+  },
+  {
+    "id": "cls-sports-basketball",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "subgenre": "NBA"
+  },
+  {
+    "id": "cls-sports-soccer",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "subgenre": "MLS"
+  },
+  {
+    "id": "cls-arts-theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "MusiILl"
+  },
+  {
+    "id": "cls-arts-comedy",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "subgenre": "Comedy"
+  },
+  {
+    "id": "cls-music-softrock",
+    "segment": "Music",
+    "genre": "Soft Rock",
+    "subgenre": "Adult Contemporary"
+  },
+  {
+    "id": "cls-music-90spop",
+    "segment": "Music",
+    "genre": "Pop",
+    "subgenre": "1990s-2000s Pop"
+  },
+  {
+    "id": "cls-arts-family",
+    "segment": "Arts & Theatre",
+    "genre": "Family Entertainment",
+    "subgenre": "Kids & Family"
+  },
+  {
+    "id": "cls-arts-mystery",
+    "segment": "Arts & Theatre",
+    "genre": "Mystery",
+    "subgenre": "Interactive Theatre"
+  },
+  {
+    "id": "cls-expo-home",
+    "segment": "Expo",
+    "genre": "Home & Garden",
+    "subgenre": "Home Renovation"
+  },
+  {
+    "id": "cls-expo-culinary",
+    "segment": "Expo",
+    "genre": "Culinary",
+    "subgenre": "Food & Cooking"
+  },
+  {
+    "id": "cls-sports-walking",
+    "segment": "Sports",
+    "genre": "Fitness",
+    "subgenre": "Walking & Wellness"
+  }
+]
+

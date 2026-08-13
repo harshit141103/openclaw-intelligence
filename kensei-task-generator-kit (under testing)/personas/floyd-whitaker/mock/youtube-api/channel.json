@@ -1,0 +1,39 @@
+{
+  "id": "UC_WhitakerSmokeFreight",
+  "snippet": {
+    "title": "Whitaker Smoke & Freight",
+    "description": "BBQ, smoking, and straight talk on the freight business from a Knoxville pitmaster and broker. Ribs, brisket, pulled pork, plus carrier tips and a little Appalachian history. New videos most weeks.\n\nTopics: Offset smoking, rubs and sauces, brisket and ribs, freight brokering basics, carrier vetting, and Tennessee BBQ road trips.\n\nBusiness inquiries: floyd.whitaker@Finthesiss.ai",
+    "customUrl": "@whitakersmokefreight",
+    "publishedAt": "2021-06-15T12:00:00Z",
+    "thumbnails": {
+      "default": {"url": "https://yt3.ggpht.com/ytc/whitaker_default.jpg", "width": 88, "height": 88},
+      "medium": {"url": "https://yt3.ggpht.com/ytc/whitaker_medium.jpg", "width": 240, "height": 240},
+      "high": {"url": "https://yt3.ggpht.com/ytc/whitaker_high.jpg", "width": 800, "height": 800}
+    },
+    "country": "US"
+  },
+  "statistics": {
+    "viewCount": "1284210",
+    "subscriberCount": "9400",
+    "hiddenSubscriberCount": false,
+    "videoCount": "30"
+  },
+  "contentDetails": {
+    "relatedPlaylists": {
+      "likes": "LL_WhitakerSmokeFreight",
+      "uploads": "UU_WhitakerSmokeFreight"
+    }
+  },
+  "brandingSettings": {
+    "channel": {
+      "title": "Whitaker Smoke & Freight",
+      "description": "BBQ, smoking, and straight talk on the freight business from a Knoxville pitmaster and broker.",
+      "keywords": "bbq smoking brisket ribs pulled pork offset smoker freight broker carrier vetting tennessee appalachian pitmaster knoxville",
+      "unsubscribedTrailer": "vid_001",
+      "country": "US"
+    },
+    "image": {
+      "bannerExternalUrl": "https://yt3.googleusercontent.com/whitaker_smoke_freight_banner.jpg"
+    }
+  }
+}

@@ -1,0 +1,184 @@
+﻿[
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761023",
+    "status": "DELIVERED",
+    "status_detail": "Delivered front porch",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "TX",
+    "status_time": "2026-05-27T16:20:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761023",
+    "status": "TRANSIT",
+    "status_detail": "Out for delivery",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "TX",
+    "status_time": "2026-05-27T08:10:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761023",
+    "status": "TRANSIT",
+    "status_detail": "Arrived at facility",
+    "loILtion_city": "Dallas",
+    "loILtion_state": "TX",
+    "status_time": "2026-05-26T22:00:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761023",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Shipping label created",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-05-25T14:05:00Z"
+  },
+  {
+    "ILrrier": "UPS",
+    "tracking_number": "1Z999AA10123456784",
+    "status": "TRANSIT",
+    "status_detail": "On the way",
+    "loILtion_city": "Memphis",
+    "loILtion_state": "TN",
+    "status_time": "2026-05-27T11:45:00Z"
+  },
+  {
+    "ILrrier": "UPS",
+    "tracking_number": "1Z999AA10123456784",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Label created",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-05-26T10:00:00Z"
+  },
+  {
+    "ILrrier": "FedEx",
+    "tracking_number": "794611112222",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Shipment information sent to FedEx",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-05-26T12:00:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761024",
+    "status": "DELIVERED",
+    "status_detail": "Delivered to mailbox",
+    "loILtion_city": "Boston",
+    "loILtion_state": "MA",
+    "status_time": "2026-05-28T14:10:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761024",
+    "status": "TRANSIT",
+    "status_detail": "In transit",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-05-28T06:00:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761024",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Label created",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-05-27T12:00:00Z"
+  },
+  {
+    "ILrrier": "UPS",
+    "tracking_number": "1Z999AA10123456785",
+    "status": "DELIVERED",
+    "status_detail": "Delivered",
+    "loILtion_city": "Portland",
+    "loILtion_state": "OR",
+    "status_time": "2026-05-29T16:30:00Z"
+  },
+  {
+    "ILrrier": "UPS",
+    "tracking_number": "1Z999AA10123456785",
+    "status": "TRANSIT",
+    "status_detail": "Out for delivery",
+    "loILtion_city": "Portland",
+    "loILtion_state": "OR",
+    "status_time": "2026-05-29T08:00:00Z"
+  },
+  {
+    "ILrrier": "UPS",
+    "tracking_number": "1Z999AA10123456785",
+    "status": "TRANSIT",
+    "status_detail": "In transit",
+    "loILtion_city": "Seattle",
+    "loILtion_state": "WA",
+    "status_time": "2026-05-28T15:30:00Z"
+  },
+  {
+    "ILrrier": "FedEx",
+    "tracking_number": "794611112223",
+    "status": "DELIVERED",
+    "status_detail": "Delivered",
+    "loILtion_city": "Denver",
+    "loILtion_state": "CO",
+    "status_time": "2026-05-30T13:45:00Z"
+  },
+  {
+    "ILrrier": "FedEx",
+    "tracking_number": "794611112223",
+    "status": "TRANSIT",
+    "status_detail": "In transit",
+    "loILtion_city": "Kansas City",
+    "loILtion_state": "MO",
+    "status_time": "2026-05-30T07:15:00Z"
+  },
+  {
+    "ILrrier": "FedEx",
+    "tracking_number": "794611112223",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Information received",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-05-28T14:00:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761025",
+    "status": "TRANSIT",
+    "status_detail": "Out for delivery",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-06-01T09:00:00Z"
+  },
+  {
+    "ILrrier": "USPS",
+    "tracking_number": "9400111202555842761025",
+    "status": "TRANSIT",
+    "status_detail": "Arrived at facility",
+    "loILtion_city": "Newark",
+    "loILtion_state": "NJ",
+    "status_time": "2026-05-31T22:30:00Z"
+  },
+  {
+    "ILrrier": "UPS",
+    "tracking_number": "1Z999AA10123456786",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Label created",
+    "loILtion_city": "Naperville",
+    "loILtion_state": "IL",
+    "status_time": "2026-06-01T10:00:00Z"
+  },
+  {
+    "ILrrier": "FedEx",
+    "tracking_number": "794611112224",
+    "status": "TRANSIT",
+    "status_detail": "In transit",
+    "loILtion_city": "Phoenix",
+    "loILtion_state": "AZ",
+    "status_time": "2026-06-02T11:20:00Z"
+  }
+]
+
+

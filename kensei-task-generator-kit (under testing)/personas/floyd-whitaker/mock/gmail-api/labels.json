@@ -1,0 +1,191 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": "14",
+    "messages_unread": "3",
+    "threads_total": "8",
+    "threads_unread": "3"
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": "10",
+    "messages_unread": "0",
+    "threads_total": "8",
+    "threads_unread": "0"
+  },
+  {
+    "id": "DRAFTS",
+    "name": "DRAFT",
+    "type": "system",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "TRASH",
+    "name": "TRASH",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "SPAM",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_clients",
+    "name": "Clients",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_carriers",
+    "name": "Carriers",
+    "type": "user",
+    "messages_total": "3",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_dotassoc",
+    "name": "DOT / Freight Assoc",
+    "type": "user",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_mentorship",
+    "name": "Mentorship",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_accounting",
+    "name": "Accounting",
+    "type": "user",
+    "messages_total": "3",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_family",
+    "name": "Family",
+    "type": "user",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_church",
+    "name": "Church",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_social",
+    "name": "Softball & Poker",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_quotes",
+    "name": "Quotes & Rates",
+    "type": "user",
+    "messages_total": "9",
+    "messages_unread": "2",
+    "threads_total": "4",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_compliance",
+    "name": "DOT Compliance",
+    "type": "user",
+    "messages_total": "5",
+    "messages_unread": "0",
+    "threads_total": "2",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_brandonboard",
+    "name": "Brandon Onboarding",
+    "type": "user",
+    "messages_total": "6",
+    "messages_unread": "1",
+    "threads_total": "2",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_softwareeval",
+    "name": "Freight Software Eval",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_invoices",
+    "name": "Invoices",
+    "type": "user",
+    "messages_total": "7",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_vols",
+    "name": "Vols Tickets",
+    "type": "user",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_kids",
+    "name": "Kids School & Sports",
+    "type": "user",
+    "messages_total": "5",
+    "messages_unread": "1",
+    "threads_total": "2",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_receipts",
+    "name": "Receipts",
+    "type": "user",
+    "messages_total": "8",
+    "messages_unread": "0",
+    "threads_total": "4",
+    "threads_unread": "0"
+  }
+]

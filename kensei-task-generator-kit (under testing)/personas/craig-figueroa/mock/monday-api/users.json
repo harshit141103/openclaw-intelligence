@@ -1,0 +1,79 @@
+[
+  {
+    "user_id": "usr-1",
+    "name": "Craig Figueroa",
+    "email": "craig.figueroa@gmail.com",
+    "title": "Engineering Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2",
+    "name": "Fiona Drummond",
+    "email": "helena@figueroavet.co.uk",
+    "title": "Backend Engineer",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-3",
+    "name": "Marco Bianchi",
+    "email": "marco@figueroavet.co.uk",
+    "title": "Frontend Engineer",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-4",
+    "name": "Sara Okonkwo",
+    "email": "sara@figueroavet.co.uk",
+    "title": "Marketing Lead",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-5",
+    "name": "Tom Becker",
+    "email": "tom@figueroavet.co.uk",
+    "title": "Content Strategist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-7000",
+    "name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "title": "Engineering Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-7001",
+    "name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "title": "Engineering Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-7002",
+    "name": "Isabel Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "title": "Engineering Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-7003",
+    "name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "title": "Engineering Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-7004",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "title": "Engineering Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-7005",
+    "name": "Iain Campbell",
+    "email": "iain.campbell@btinternet.com",
+    "title": "Engineering Manager",
+    "is_admin": "true"
+  }
+]

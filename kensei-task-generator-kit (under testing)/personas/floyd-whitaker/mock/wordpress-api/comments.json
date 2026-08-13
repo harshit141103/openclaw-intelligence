@@ -1,0 +1,202 @@
+[
+  {
+    "id": "301",
+    "post": "101",
+    "author_name": "Glen Mabry",
+    "author_email": "glen.mabry@cumberlandautoparts.com",
+    "content": "This is exactly why we moved our parts freight to WFS. The reference call step catches a lot.",
+    "status": "approved",
+    "date": "2026-05-20T16:10:00",
+    "parent": "0"
+  },
+  {
+    "id": "302",
+    "post": "101",
+    "author_name": "Sam Whitfield",
+    "author_email": "sam.whitfield@gmail.com",
+    "content": "Do you pull the safety rating before or after the insurance cert?",
+    "status": "approved",
+    "date": "2026-05-20T17:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "303",
+    "post": "101",
+    "author_name": "Floyd Whitaker",
+    "author_email": "floyd.whitaker@finthesiss.ai",
+    "content": "Insurance first, then safety rating. If the cert is not current the rest does not matter.",
+    "status": "approved",
+    "date": "2026-05-20T17:30:00",
+    "parent": "302"
+  },
+  {
+    "id": "304",
+    "post": "104",
+    "author_name": "Keith Burgess",
+    "author_email": "keith.burgess@gmail.com",
+    "content": "Congrats to Brandon. He has a good head for this and a great teacher.",
+    "status": "approved",
+    "date": "2026-05-21T18:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "305",
+    "post": "103",
+    "author_name": "Pete Arnett",
+    "author_email": "pete.arnett@smokymtnsupply.com",
+    "content": "Bookmarking this checklist before our next building materials shipment.",
+    "status": "approved",
+    "date": "2026-05-23T13:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "306",
+    "post": "102",
+    "author_name": "freight deals",
+    "author_email": "promo@cheaprates.biz",
+    "content": "Lowest rates guaranteed click here now!!!",
+    "status": "hold",
+    "date": "2026-05-22T10:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "307",
+    "post": "105",
+    "author_name": "Nan Coley",
+    "author_email": "nan.coley@appalachianag.com",
+    "content": "Sending two of my younger dispatchers to the autumn cohort. Thank you for running this.",
+    "status": "approved",
+    "date": "2026-05-24T12:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "308",
+    "post": "102",
+    "author_name": "Ruth Lyle",
+    "author_email": "ruth.lyle@valleygrainco.com",
+    "content": "The reefer capacity point is so true. Grain season throws everyone off.",
+    "status": "approved",
+    "date": "2026-05-22T11:30:00",
+    "parent": "0"
+  },
+  {
+    "id": "309",
+    "post": "102",
+    "author_name": "Brandon Whitaker",
+    "author_email": "brand.whitaker@gmail.com",
+    "content": "Ruth, we hold extra reefers in late summer for exactly that reason. Glad it lined up for you.",
+    "status": "approved",
+    "date": "2026-05-22T13:00:00",
+    "parent": "308"
+  },
+  {
+    "id": "310",
+    "post": "107",
+    "author_name": "Hal Eubanks",
+    "author_email": "hal.eubanks@tristatemfg.com",
+    "content": "We may have Q3 parts volume out of Nashville. Will email Bren this week.",
+    "status": "approved",
+    "date": "2026-05-25T09:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "311",
+    "post": "109",
+    "author_name": "Roy Tackett",
+    "author_email": "roy.tackett@gmail.com",
+    "content": "Floyd, what wood are you running on that brisket? I keep getting too much smoke.",
+    "status": "approved",
+    "date": "2026-05-27T19:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "312",
+    "post": "109",
+    "author_name": "Floyd Whitaker",
+    "author_email": "floyd.whitaker@finthesiss.ai",
+    "content": "Post oak with a little hickory, Roy. Go light on the hickory or it gets bitter. Come by Saturday and I will show you.",
+    "status": "approved",
+    "date": "2026-05-27T19:40:00",
+    "parent": "311"
+  },
+  {
+    "id": "313",
+    "post": "110",
+    "author_name": "Glen Mabry",
+    "author_email": "glen.mabry@cumberlandautoparts.com",
+    "content": "The maintenance BASIC is the one we always overlook. Good reminder before our next parts run.",
+    "status": "approved",
+    "date": "2026-05-28T11:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "314",
+    "post": "112",
+    "author_name": "Cumberland Gap Carriers",
+    "author_email": "dispatch@cumberlandgapcarriers.com",
+    "content": "Appreciate WFS being straight about quick pay fees. A lot of brokers hide them.",
+    "status": "approved",
+    "date": "2026-05-30T12:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "315",
+    "post": "113",
+    "author_name": "Keith Burgess",
+    "author_email": "keith.burgess@gmail.com",
+    "content": "Amen to this. The phone still beats the portal every time.",
+    "status": "approved",
+    "date": "2026-06-01T09:30:00",
+    "parent": "0"
+  },
+  {
+    "id": "316",
+    "post": "114",
+    "author_name": "Ruth Lyle",
+    "author_email": "ruth.lyle@valleygrainco.com",
+    "content": "Already on it. Lorrie helped us lock three hopper lanes yesterday. Thank you.",
+    "status": "approved",
+    "date": "2026-06-02T14:30:00",
+    "parent": "0"
+  },
+  {
+    "id": "317",
+    "post": "115",
+    "author_name": "win freight cash",
+    "author_email": "offers@bestrates.biz",
+    "content": "Free webinar leads guaranteed visit our site!!!",
+    "status": "hold",
+    "date": "2026-06-03T11:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "318",
+    "post": "117",
+    "author_name": "Hal Eubanks",
+    "author_email": "hal.eubanks@tristatemfg.com",
+    "content": "Reefer scarcity is hitting us in Nashville too. Glad you keep parts capacity in reserve.",
+    "status": "approved",
+    "date": "2026-06-05T15:00:00",
+    "parent": "0"
+  },
+  {
+    "id": "319",
+    "post": "119",
+    "author_name": "Pete Arnett",
+    "author_email": "pete.arnett@smokymtnsupply.com",
+    "content": "Wish I had read this before signing with our last broker. Should have asked about claims history.",
+    "status": "approved",
+    "date": "2026-06-08T09:30:00",
+    "parent": "0"
+  },
+  {
+    "id": "320",
+    "post": "118",
+    "author_name": "Nan Coley",
+    "author_email": "nan.coley@appalachianag.com",
+    "content": "Got the newsletter. Looking forward to the October webinar. Will register both my dispatchers.",
+    "status": "approved",
+    "date": "2026-06-06T10:00:00",
+    "parent": "0"
+  }
+]

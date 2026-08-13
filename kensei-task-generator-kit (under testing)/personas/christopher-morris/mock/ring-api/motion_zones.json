@@ -1,0 +1,162 @@
+[
+  {
+    "device_id": "987007",
+    "zone_id": "zone_013",
+    "zone_name": "South Center Aisle",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_014",
+    "zone_name": "Garage Door Threshold",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_015",
+    "zone_name": "East Wall Bike Zone",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.7,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_016",
+    "zone_name": "West Wall Storage",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.3,0.9"
+  },
+  {
+    "device_id": "987001",
+    "zone_id": "zone_001",
+    "zone_name": "Front Entrance Walkway",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.8"
+  },
+  {
+    "device_id": "987001",
+    "zone_id": "zone_002",
+    "zone_name": "Porch Steps",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.2,0.1,0.8,0.4"
+  },
+  {
+    "device_id": "987001",
+    "zone_id": "zone_003",
+    "zone_name": "Driveway Approach",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.0,0.4,0.3,1.0"
+  },
+  {
+    "device_id": "987002",
+    "zone_id": "zone_004",
+    "zone_name": "Patio Seating Area",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.2,0.2,0.8,0.8"
+  },
+  {
+    "device_id": "987002",
+    "zone_id": "zone_005",
+    "zone_name": "Garden Beds",
+    "sensitivity": "4",
+    "enabled": "false",
+    "coordinates": "0.0,0.6,1.0,1.0"
+  },
+  {
+    "device_id": "987003",
+    "zone_id": "zone_006",
+    "zone_name": "Driveway Full Width",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.6"
+  },
+  {
+    "device_id": "987003",
+    "zone_id": "zone_007",
+    "zone_name": "Garage Door Area",
+    "sensitivity": "9",
+    "enabled": "true",
+    "coordinates": "0.1,0.5,0.9,1.0"
+  },
+  {
+    "device_id": "987004",
+    "zone_id": "zone_008",
+    "zone_name": "Living Room Center",
+    "sensitivity": "3",
+    "enabled": "true",
+    "coordinates": "0.1,0.1,0.9,0.9"
+  },
+  {
+    "device_id": "987005",
+    "zone_id": "zone_009",
+    "zone_name": "Gate Entry",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.3,0.0,0.7,0.5"
+  },
+  {
+    "device_id": "987005",
+    "zone_id": "zone_010",
+    "zone_name": "Side Fence Line",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.3,0.2,0.8"
+  },
+  {
+    "device_id": "987012",
+    "zone_id": "zone_017",
+    "zone_name": "Front Lawn Center",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.3,0.8,0.9"
+  },
+  {
+    "device_id": "987012",
+    "zone_id": "zone_018",
+    "zone_name": "Mailbox Area",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.7,0.1,1.0,0.5"
+  },
+  {
+    "device_id": "987013",
+    "zone_id": "zone_019",
+    "zone_name": "Pool Deck",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.1,0.1,0.9,0.8"
+  },
+  {
+    "device_id": "987013",
+    "zone_id": "zone_020",
+    "zone_name": "Pool Water",
+    "sensitivity": "3",
+    "enabled": "false",
+    "coordinates": "0.2,0.7,0.8,0.95"
+  },
+  {
+    "device_id": "987010",
+    "zone_id": "zone_021",
+    "zone_name": "Entrance Steps",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.2,0.0,0.8,0.3"
+  },
+  {
+    "device_id": "987010",
+    "zone_id": "zone_022",
+    "zone_name": "Door Frame",
+    "sensitivity": "9",
+    "enabled": "true",
+    "coordinates": "0.35,0.3,0.65,0.9"
+  }
+]

@@ -1,0 +1,246 @@
+﻿[
+  {
+    "version": "auth-service@2.0.3",
+    "org_slug": "meridian-benefits",
+    "project_slug": "auth-service",
+    "ref": "a1b2c3d",
+    "status": "open",
+    "new_groups": "2",
+    "deployed_by": "christopher.morris@orbitlabs.com",
+    "date_created": "2026-05-20T10:00:00.000Z",
+    "date_released": "2026-05-21T09:00:00.000Z"
+  },
+  {
+    "version": "auth-service@2.1.0-rc1",
+    "org_slug": "meridian-benefits",
+    "project_slug": "auth-service",
+    "ref": "b2c3d4e",
+    "status": "open",
+    "new_groups": "1",
+    "deployed_by": "christopher.morris@orbitlabs.com",
+    "date_created": "2026-05-24T10:00:00.000Z",
+    "date_released": ""
+  },
+  {
+    "version": "auth-service@2.0.2",
+    "org_slug": "meridian-benefits",
+    "project_slug": "auth-service",
+    "ref": "a0b1c2d",
+    "status": "archived",
+    "new_groups": "0",
+    "deployed_by": "christopher.morris@orbitlabs.com",
+    "date_created": "2026-05-18T14:30:00.000Z",
+    "date_released": "2026-05-19T08:15:00.000Z"
+  },
+  {
+    "version": "web-frontend@5.4.1",
+    "org_slug": "meridian-benefits",
+    "project_slug": "web-frontend",
+    "ref": "c3d4e5f",
+    "status": "open",
+    "new_groups": "1",
+    "deployed_by": "alice.jenkins@orbitlabs.com",
+    "date_created": "2026-05-24T12:00:00.000Z",
+    "date_released": "2026-05-24T15:00:00.000Z"
+  },
+  {
+    "version": "web-frontend@5.3.0",
+    "org_slug": "meridian-benefits",
+    "project_slug": "web-frontend",
+    "ref": "d4e5f6a",
+    "status": "open",
+    "new_groups": "0",
+    "deployed_by": "alice.jenkins@orbitlabs.com",
+    "date_created": "2026-05-01T10:00:00.000Z",
+    "date_released": "2026-05-02T09:00:00.000Z"
+  },
+  {
+    "version": "web-frontend@5.2.0",
+    "org_slug": "meridian-benefits",
+    "project_slug": "web-frontend",
+    "ref": "c3d4e5d",
+    "status": "archived",
+    "new_groups": "3",
+    "deployed_by": "alice.jenkins@orbitlabs.com",
+    "date_created": "2026-04-15T11:00:00.000Z",
+    "date_released": "2026-04-16T10:00:00.000Z"
+  },
+  {
+    "version": "billing-service@3.1.0",
+    "org_slug": "meridian-benefits",
+    "project_slug": "billing-service",
+    "ref": "e5f6a1b",
+    "status": "open",
+    "new_groups": "1",
+    "deployed_by": "robert.smith@orbitlabs.com",
+    "date_created": "2026-05-22T10:00:00.000Z",
+    "date_released": "2026-05-23T10:00:00.000Z"
+  },
+  {
+    "version": "billing-service@3.0.9",
+    "org_slug": "meridian-benefits",
+    "project_slug": "billing-service",
+    "ref": "e5f6a0b",
+    "status": "archived",
+    "new_groups": "2",
+    "deployed_by": "robert.smith@orbitlabs.com",
+    "date_created": "2026-05-10T09:00:00.000Z",
+    "date_released": "2026-05-11T14:30:00.000Z"
+  },
+  {
+    "version": "api-gateway@1.2.1",
+    "org_slug": "meridian-benefits",
+    "project_slug": "api-gateway",
+    "ref": "f6g7h8i",
+    "status": "open",
+    "new_groups": "0",
+    "deployed_by": "christopher.morris@orbitlabs.com",
+    "date_created": "2026-05-23T16:00:00.000Z",
+    "date_released": "2026-05-24T11:20:00.000Z"
+  },
+  {
+    "version": "api-gateway@1.2.0",
+    "org_slug": "meridian-benefits",
+    "project_slug": "api-gateway",
+    "ref": "f6g7h8h",
+    "status": "archived",
+    "new_groups": "1",
+    "deployed_by": "christopher.morris@orbitlabs.com",
+    "date_created": "2026-05-15T13:45:00.000Z",
+    "date_released": "2026-05-16T09:30:00.000Z"
+  },
+  {
+    "version": "notifiILtion-service@1.5.2",
+    "org_slug": "meridian-benefits",
+    "project_slug": "notifiILtion-service",
+    "ref": "j9k0l1m",
+    "status": "open",
+    "new_groups": "1",
+    "deployed_by": "jessiIL.wong@orbitlabs.com",
+    "date_created": "2026-05-25T10:00:00.000Z",
+    "date_released": "2026-05-25T14:15:00.000Z"
+  },
+  {
+    "version": "notifiILtion-service@1.5.0",
+    "org_slug": "meridian-benefits",
+    "project_slug": "notifiILtion-service",
+    "ref": "j9k0l1k",
+    "status": "archived",
+    "new_groups": "2",
+    "deployed_by": "jessiIL.wong@orbitlabs.com",
+    "date_created": "2026-04-30T08:30:00.000Z",
+    "date_released": "2026-05-01T12:00:00.000Z"
+  },
+  {
+    "version": "analytics-engine@4.1.0-alpha",
+    "org_slug": "nexus-corp",
+    "project_slug": "analytics-engine",
+    "ref": "n9o0p1q",
+    "status": "open",
+    "new_groups": "5",
+    "deployed_by": "michael.chen@nexuscorp.com",
+    "date_created": "2026-05-24T14:00:00.000Z",
+    "date_released": ""
+  },
+  {
+    "version": "analytics-engine@4.0.5",
+    "org_slug": "nexus-corp",
+    "project_slug": "analytics-engine",
+    "ref": "n9o0p1p",
+    "status": "open",
+    "new_groups": "0",
+    "deployed_by": "michael.chen@nexuscorp.com",
+    "date_created": "2026-05-12T11:15:00.000Z",
+    "date_released": "2026-05-13T10:00:00.000Z"
+  },
+  {
+    "version": "mobile-app@2.8.4",
+    "org_slug": "nexus-corp",
+    "project_slug": "mobile-app",
+    "ref": "r0s1t2u",
+    "status": "open",
+    "new_groups": "1",
+    "deployed_by": "emma.davis@nexuscorp.com",
+    "date_created": "2026-05-20T15:30:00.000Z",
+    "date_released": "2026-05-21T08:45:00.000Z"
+  },
+  {
+    "version": "mobile-app@2.8.3",
+    "org_slug": "nexus-corp",
+    "project_slug": "mobile-app",
+    "ref": "r0s1t2t",
+    "status": "archived",
+    "new_groups": "0",
+    "deployed_by": "emma.davis@nexuscorp.com",
+    "date_created": "2026-05-08T09:00:00.000Z",
+    "date_released": "2026-05-09T13:20:00.000Z"
+  },
+  {
+    "version": "search-service@3.2.5-rc2",
+    "org_slug": "cloudverse-inc",
+    "project_slug": "search-service",
+    "ref": "v1w2x3y",
+    "status": "open",
+    "new_groups": "2",
+    "deployed_by": "david.robinson@cloudverse.io",
+    "date_created": "2026-05-23T12:00:00.000Z",
+    "date_released": ""
+  },
+  {
+    "version": "search-service@3.2.5-rc1",
+    "org_slug": "cloudverse-inc",
+    "project_slug": "search-service",
+    "ref": "v1w2x3x",
+    "status": "open",
+    "new_groups": "3",
+    "deployed_by": "david.robinson@cloudverse.io",
+    "date_created": "2026-05-20T10:30:00.000Z",
+    "date_released": ""
+  },
+  {
+    "version": "search-service@3.2.4",
+    "org_slug": "cloudverse-inc",
+    "project_slug": "search-service",
+    "ref": "v1w2x3w",
+    "status": "archived",
+    "new_groups": "1",
+    "deployed_by": "david.robinson@cloudverse.io",
+    "date_created": "2026-05-10T14:00:00.000Z",
+    "date_released": "2026-05-11T11:00:00.000Z"
+  },
+  {
+    "version": "database-sync@1.3.2",
+    "org_slug": "cloudverse-inc",
+    "project_slug": "database-sync",
+    "ref": "z2a3b4c",
+    "status": "open",
+    "new_groups": "0",
+    "deployed_by": "sarah.miller@cloudverse.io",
+    "date_created": "2026-05-25T17:00:00.000Z",
+    "date_released": "2026-05-26T08:30:00.000Z"
+  },
+  {
+    "version": "ILche-layer@2.5.1",
+    "org_slug": "techwave-systems",
+    "project_slug": "ILche-layer",
+    "ref": "d3e4f5g",
+    "status": "open",
+    "new_groups": "1",
+    "deployed_by": "paul.anderson@techwave.com",
+    "date_created": "2026-05-24T13:30:00.000Z",
+    "date_released": "2026-05-25T10:15:00.000Z"
+  },
+  {
+    "version": "monitoring-dashboard@3.1.0",
+    "org_slug": "techwave-systems",
+    "project_slug": "monitoring-dashboard",
+    "ref": "h6i7j8k",
+    "status": "open",
+    "new_groups": "2",
+    "deployed_by": "karen.wilson@techwave.com",
+    "date_created": "2026-05-22T11:00:00.000Z",
+    "date_released": "2026-05-23T16:45:00.000Z"
+  }
+]
+
+

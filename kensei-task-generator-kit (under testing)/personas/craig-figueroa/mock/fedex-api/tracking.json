@@ -1,0 +1,62 @@
+[
+  {
+    "tracking_number": "794820000",
+    "status_code": "DL",
+    "status_description": "Delivered",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-10",
+    "estimated_delivery": "2026-05-12",
+    "latest_event": "Delivered",
+    "latest_event_location": "Strathcarron, GB",
+    "latest_event_time": "2026-05-12T11:20:00Z"
+  },
+  {
+    "tracking_number": "794820001",
+    "status_code": "DL",
+    "status_description": "Delivered",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-11",
+    "estimated_delivery": "2026-05-14",
+    "latest_event": "Delivered",
+    "latest_event_location": "Strathcarron, GB",
+    "latest_event_time": "2026-05-14T11:20:00Z"
+  },
+  {
+    "tracking_number": "794820002",
+    "status_code": "OD",
+    "status_description": "Out for delivery",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-12",
+    "estimated_delivery": "2026-05-29",
+    "latest_event": "Out for delivery",
+    "latest_event_location": "Strathcarron, GB",
+    "latest_event_time": "2026-05-29T11:20:00Z"
+  },
+  {
+    "tracking_number": "794820003",
+    "status_code": "IT",
+    "status_description": "In transit",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-13",
+    "estimated_delivery": "2026-05-30",
+    "latest_event": "In transit",
+    "latest_event_location": "Strathcarron, GB",
+    "latest_event_time": "2026-05-30T11:20:00Z"
+  },
+  {
+    "tracking_number": "794820004",
+    "status_code": "DL",
+    "status_description": "Delivered",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-14",
+    "estimated_delivery": "2026-05-16",
+    "latest_event": "Delivered",
+    "latest_event_location": "Strathcarron, GB",
+    "latest_event_time": "2026-05-16T11:20:00Z"
+  }
+]

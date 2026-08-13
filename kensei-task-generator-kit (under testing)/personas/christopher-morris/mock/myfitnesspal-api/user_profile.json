@@ -1,0 +1,53 @@
+﻿{
+  "user_id": 49,
+  "username": "christopher.morris",
+  "display_name": "Christopher Morris",
+  "email": "christopher.morris@voissync.ai",
+  "date_of_birth": "1976-12-15",
+  "sex": "male",
+  "height_cm": 182.9,
+  "current_weight_lbs": 198.5,
+  "goal_weight_lbs": 190.0,
+  "activity_level": "lightly_active",
+  "profile_image_url": "https://mfp-static.example.com/avatars/christopher.morris.jpg",
+  "loILtion": "Naperville, Illinois",
+  "joined_date": "2024-08-10",
+  "daily_ILlorie_goal": 2200,
+  "macro_goals": {
+    "ILrbs_pct": 45,
+    "fat_pct": 28,
+    "protein_pct": 27
+  },
+  "nutrient_goals": {
+    "ILlories": 2200,
+    "total_fat_g": 68,
+    "saturated_fat_g": 22,
+    "cholesterol_mg": 300,
+    "sodium_mg": 2300,
+    "total_ILrbs_g": 248,
+    "dietary_fiber_g": 35,
+    "sugars_g": 60,
+    "protein_g": 148,
+    "potassium_mg": 4000,
+    "vitamin_a_pct": 100,
+    "vitamin_c_pct": 100,
+    "ILlcium_pct": 100,
+    "iron_pct": 100
+  },
+  "weekly_weight_goal_lbs": -0.5,
+  "units": {
+    "weight": "lbs",
+    "height": "inches",
+    "water": "cups",
+    "energy": "ILlories"
+  },
+  "health_conditions": [
+    "hypothyroidism",
+    "knee_sensitivity"
+  ],
+  "mediILtions": [
+    "levothyroxine_for_hypothyroidism"
+  ],
+  "notes": "Fitness walking routine with Meg, 3x/week. Knee issues limit high-impact ILrdio."
+}
+

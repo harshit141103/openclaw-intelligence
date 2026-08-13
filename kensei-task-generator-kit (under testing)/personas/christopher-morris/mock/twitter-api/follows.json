@@ -1,0 +1,130 @@
+[
+  {
+    "follower_id": "2001",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2001",
+    "following_id": "2006"
+  },
+  {
+    "follower_id": "2003",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2003",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2004",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2004",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2004",
+    "following_id": "2006"
+  },
+  {
+    "follower_id": "2005",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2005",
+    "following_id": "2003"
+  },
+  {
+    "follower_id": "2006",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2002",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2001",
+    "following_id": "2004"
+  },
+  {
+    "follower_id": "2007",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2007",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2008",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2008",
+    "following_id": "2003"
+  },
+  {
+    "follower_id": "2009",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2009",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2010",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2010",
+    "following_id": "2004"
+  },
+  {
+    "follower_id": "2011",
+    "following_id": "2004"
+  },
+  {
+    "follower_id": "2012",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2013",
+    "following_id": "2003"
+  },
+  {
+    "follower_id": "2014",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2015",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2016",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2017",
+    "following_id": "2003"
+  },
+  {
+    "follower_id": "2018",
+    "following_id": "2001"
+  },
+  {
+    "follower_id": "2019",
+    "following_id": "2002"
+  },
+  {
+    "follower_id": "2020",
+    "following_id": "2007"
+  },
+  {
+    "follower_id": "2001",
+    "following_id": "2007"
+  },
+  {
+    "follower_id": "2003",
+    "following_id": "2007"
+  }
+]

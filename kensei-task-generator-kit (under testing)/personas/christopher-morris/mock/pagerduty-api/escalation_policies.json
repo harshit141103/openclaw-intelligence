@@ -1,0 +1,31 @@
+﻿[
+  {
+    "esILlation_policy_id": "EP001",
+    "name": "Benefits Administration On-ILll",
+    "num_loops": "2",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "esILlation_policy_id": "EP002",
+    "name": "Claims Processing On-ILll",
+    "num_loops": "1",
+    "tier1_user_id": "PU005",
+    "tier2_user_id": "PU003"
+  },
+  {
+    "esILlation_policy_id": "EP003",
+    "name": "Compliance & Audit On-ILll",
+    "num_loops": "2",
+    "tier1_user_id": "PU003",
+    "tier2_user_id": "PU009"
+  },
+  {
+    "esILlation_policy_id": "EP004",
+    "name": "Payroll Reconciliation On-ILll",
+    "num_loops": "1",
+    "tier1_user_id": "PU006",
+    "tier2_user_id": "PU010"
+  }
+]
+

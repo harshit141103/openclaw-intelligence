@@ -1,0 +1,142 @@
+[
+  {
+    "metric": "trace.http.request.duration",
+    "scope": "service:whitakerfreight-web",
+    "base_value": "0.21",
+    "amplitude": "0.09",
+    "unit": "second"
+  },
+  {
+    "metric": "trace.http.request.errors",
+    "scope": "service:whitakerfreight-web",
+    "base_value": "2.0",
+    "amplitude": "3.0",
+    "unit": "error"
+  },
+  {
+    "metric": "system.cpu.user",
+    "scope": "host:wfs-web-01",
+    "base_value": "16.0",
+    "amplitude": "8.0",
+    "unit": "percent"
+  },
+  {
+    "metric": "smtp.queue.depth",
+    "scope": "host:wfs-mail-01",
+    "base_value": "4.0",
+    "amplitude": "6.0",
+    "unit": "message"
+  },
+  {
+    "metric": "system.disk.in_use",
+    "scope": "host:wfs-db-01",
+    "base_value": "0.58",
+    "amplitude": "0.05",
+    "unit": "fraction"
+  },
+  {
+    "metric": "system.mem.used",
+    "scope": "host:wfs-db-01",
+    "base_value": "9.4",
+    "amplitude": "1.2",
+    "unit": "gigabyte"
+  },
+  {
+    "metric": "system.load.1",
+    "scope": "host:wfs-web-01",
+    "base_value": "0.45",
+    "amplitude": "0.30",
+    "unit": "process"
+  },
+  {
+    "metric": "nginx.net.request_per_s",
+    "scope": "service:whitakerfreight-web",
+    "base_value": "12.0",
+    "amplitude": "7.0",
+    "unit": "request"
+  },
+  {
+    "metric": "nginx.net.connections",
+    "scope": "host:wfs-web-02",
+    "base_value": "34.0",
+    "amplitude": "12.0",
+    "unit": "connection"
+  },
+  {
+    "metric": "mysql.performance.queries",
+    "scope": "host:wfs-db-01",
+    "base_value": "85.0",
+    "amplitude": "25.0",
+    "unit": "query"
+  },
+  {
+    "metric": "mysql.net.connections",
+    "scope": "host:wfs-db-02",
+    "base_value": "22.0",
+    "amplitude": "8.0",
+    "unit": "connection"
+  },
+  {
+    "metric": "redis.mem.used",
+    "scope": "host:wfs-cache-01",
+    "base_value": "0.31",
+    "amplitude": "0.06",
+    "unit": "fraction"
+  },
+  {
+    "metric": "redis.net.commands",
+    "scope": "host:wfs-cache-01",
+    "base_value": "140.0",
+    "amplitude": "40.0",
+    "unit": "command"
+  },
+  {
+    "metric": "haproxy.frontend.session.current",
+    "scope": "host:wfs-lb-01",
+    "base_value": "18.0",
+    "amplitude": "9.0",
+    "unit": "session"
+  },
+  {
+    "metric": "system.net.bytes_rcvd",
+    "scope": "host:wfs-web-01",
+    "base_value": "1.8",
+    "amplitude": "0.7",
+    "unit": "megabyte"
+  },
+  {
+    "metric": "system.net.bytes_sent",
+    "scope": "host:wfs-web-01",
+    "base_value": "2.4",
+    "amplitude": "0.9",
+    "unit": "megabyte"
+  },
+  {
+    "metric": "postfix.queue.size",
+    "scope": "host:wfs-mail-02",
+    "base_value": "3.0",
+    "amplitude": "5.0",
+    "unit": "message"
+  },
+  {
+    "metric": "trace.http.request.hits",
+    "scope": "service:whitakerfreight-web",
+    "base_value": "320.0",
+    "amplitude": "110.0",
+    "unit": "request"
+  },
+  {
+    "metric": "elasticsearch.search.query.time",
+    "scope": "host:wfs-search-01",
+    "base_value": "0.04",
+    "amplitude": "0.02",
+    "unit": "second"
+  },
+  {
+    "metric": "rabbitmq.queue.messages",
+    "scope": "host:wfs-queue-01",
+    "base_value": "120.0",
+    "amplitude": "60.0",
+    "unit": "message"
+  }
+]

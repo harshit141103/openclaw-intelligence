@@ -1,0 +1,80 @@
+﻿[
+  {
+    "id": "watchlist_001",
+    "user_id": "user_cm_001",
+    "list_name": "To Watch Soon",
+    "description": "Films and shows I want to watch soon",
+    "created_date": "2025-09-01",
+    "updated_date": "2026-06-10",
+    "privacy_level": "private",
+    "items": [
+      {
+        "id": "item_001",
+        "title": "Knives Out",
+        "media_type": "movie",
+        "genre": "Mystery/Thriller",
+        "added_date": "2026-04-20",
+        "priority": "high"
+      },
+      {
+        "id": "item_002",
+        "title": "The Girl with the Dragon Tattoo",
+        "media_type": "movie",
+        "genre": "Mystery/Thriller",
+        "added_date": "2026-04-20",
+        "priority": "high"
+      },
+      {
+        "id": "item_003",
+        "title": "Mindhunter",
+        "media_type": "tv",
+        "genre": "Crime Drama",
+        "added_date": "2026-05-10",
+        "priority": "medium"
+      },
+      {
+        "id": "item_004",
+        "title": "The Crown",
+        "media_type": "tv",
+        "genre": "HistoriILl Drama",
+        "added_date": "2026-05-25",
+        "priority": "medium"
+      },
+      {
+        "id": "item_005",
+        "title": "Slow Horses",
+        "media_type": "tv",
+        "genre": "Spy Thriller",
+        "added_date": "2026-06-01",
+        "priority": "medium"
+      },
+      {
+        "id": "item_006",
+        "title": "The Bear",
+        "media_type": "tv",
+        "genre": "Drama",
+        "added_date": "2026-05-30",
+        "priority": "high",
+        "notes": "About running a restaurant kitchen - food-focused"
+      },
+      {
+        "id": "item_007",
+        "title": "Killers of the Flower Moon",
+        "media_type": "movie",
+        "genre": "Crime Drama",
+        "added_date": "2026-06-05",
+        "priority": "medium"
+      },
+      {
+        "id": "item_008",
+        "title": "Avatar: The Way of Water",
+        "media_type": "movie",
+        "genre": "Science Fiction",
+        "added_date": "2026-06-08",
+        "priority": "low",
+        "notes": "Family viewing with Owen and Sophie"
+      }
+    ]
+  }
+]
+

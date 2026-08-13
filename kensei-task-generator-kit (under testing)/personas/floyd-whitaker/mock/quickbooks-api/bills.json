@@ -1,0 +1,622 @@
+[
+  {
+    "Id": "3001",
+    "DocNumber": "CAR-RL-3301",
+    "VendorRef": {
+      "value": "1",
+      "name": "Ridgeline Trucking LLC"
+    },
+    "TxnDate": "2026-03-03",
+    "DueDate": "2026-03-18",
+    "Line": [
+      {
+        "Amount": 1850.0,
+        "Description": "Linehaul - Knoxville to Charlotte dry van (load CAP-0301)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1850.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on quick-pay terms.",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-03-03T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-03T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3002",
+    "DocNumber": "CAR-CG-3302",
+    "VendorRef": {
+      "value": "2",
+      "name": "Cumberland Gap Carriers"
+    },
+    "TxnDate": "2026-03-05",
+    "DueDate": "2026-03-20",
+    "Line": [
+      {
+        "Amount": 2100.0,
+        "Description": "Linehaul - Maryville to Louisville flatbed grain (load VGC-0302)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2100.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-03-05T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-05T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3003",
+    "DocNumber": "CAR-VL-3303",
+    "VendorRef": {
+      "value": "3",
+      "name": "Volunteer Logistics Carriers"
+    },
+    "TxnDate": "2026-03-07",
+    "DueDate": "2026-03-22",
+    "Line": [
+      {
+        "Amount": 2350.0,
+        "Description": "Linehaul - Greeneville to Atlanta reefer produce (load AAP-0303)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2350.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-03-07T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-07T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3004",
+    "DocNumber": "CAR-SM-3304",
+    "VendorRef": {
+      "value": "4",
+      "name": "Smoky Mountain Freight Lines"
+    },
+    "TxnDate": "2026-03-09",
+    "DueDate": "2026-03-24",
+    "Line": [
+      {
+        "Amount": 2050.0,
+        "Description": "Linehaul - Sevierville to Nashville flatbed lumber (load SMB-0304)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2050.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-03-09T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-09T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3005",
+    "DocNumber": "RENT-2026-03",
+    "VendorRef": {
+      "value": "7",
+      "name": "Pellissippi Commercial Properties"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 1900.0,
+        "Description": "Monthly office lease - March 2026. 8420 Kingston Pike Suite 210.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Office Rent",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1900.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time.",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-01T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3006",
+    "DocNumber": "KUB-2026-03",
+    "VendorRef": {
+      "value": "8",
+      "name": "Knoxville Utilities Board"
+    },
+    "TxnDate": "2026-03-12",
+    "DueDate": "2026-03-28",
+    "Line": [
+      {
+        "Amount": 215.0,
+        "Description": "Electric and water service Feb 10 - Mar 10. Office account.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 215.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-03-12T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-12T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3007",
+    "DocNumber": "ATT-2026-03",
+    "VendorRef": {
+      "value": "11",
+      "name": "AT&T Business Internet"
+    },
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 165.0,
+        "Description": "Business internet and phone - March. Office account.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 165.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-03-15T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-15T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3008",
+    "DocNumber": "INS-Q2-2026",
+    "VendorRef": {
+      "value": "9",
+      "name": "Great Valley Insurance Group"
+    },
+    "TxnDate": "2026-04-01",
+    "DueDate": "2026-04-15",
+    "Line": [
+      {
+        "Amount": 3300.0,
+        "Description": "Quarterly premium Q2 2026 - contingent cargo, general liability, surety bond. Policy #GVI-2026-28471.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Insurance Expense",
+            "value": "4"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3300.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-04-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-01T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3009",
+    "DocNumber": "SW-RP-2026-04",
+    "VendorRef": {
+      "value": "5",
+      "name": "RoutePoint Logistics Suite"
+    },
+    "TxnDate": "2026-04-01",
+    "DueDate": "2026-04-30",
+    "Line": [
+      {
+        "Amount": 425.0,
+        "Description": "RoutePoint Logistics Suite - monthly TMS and load board subscription. Eval seat for Brand.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 425.0,
+    "Balance": 425.0,
+    "PrivateNote": "Net-30. Evaluating RoutePoint vs FreightFlow Pro. Leaning RoutePoint.",
+    "Status": "Payable",
+    "MetaData": {
+      "CreateTime": "2026-04-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-01T09:00:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "3010",
+    "DocNumber": "CAR-RL-3310",
+    "VendorRef": {
+      "value": "1",
+      "name": "Ridgeline Trucking LLC"
+    },
+    "TxnDate": "2026-04-02",
+    "DueDate": "2026-04-17",
+    "Line": [
+      {
+        "Amount": 1850.0,
+        "Description": "Linehaul - Knoxville to Charlotte dry van (load CAP-0401)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1850.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-04-02T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-02T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3011",
+    "DocNumber": "CAR-CG-3311",
+    "VendorRef": {
+      "value": "2",
+      "name": "Cumberland Gap Carriers"
+    },
+    "TxnDate": "2026-04-04",
+    "DueDate": "2026-04-19",
+    "Line": [
+      {
+        "Amount": 2150.0,
+        "Description": "Linehaul - Maryville to Cincinnati flatbed grain (load VGC-0402)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2150.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-04-04T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-04T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3012",
+    "DocNumber": "RENT-2026-04",
+    "VendorRef": {
+      "value": "7",
+      "name": "Pellissippi Commercial Properties"
+    },
+    "TxnDate": "2026-04-01",
+    "DueDate": "2026-04-05",
+    "Line": [
+      {
+        "Amount": 1900.0,
+        "Description": "Monthly office lease - April 2026. 8420 Kingston Pike Suite 210.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Office Rent",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1900.0,
+    "Balance": 0,
+    "PrivateNote": "Paid 4/2.",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-04-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-01T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3013",
+    "DocNumber": "KUB-2026-04",
+    "VendorRef": {
+      "value": "8",
+      "name": "Knoxville Utilities Board"
+    },
+    "TxnDate": "2026-04-11",
+    "DueDate": "2026-04-28",
+    "Line": [
+      {
+        "Amount": 198.0,
+        "Description": "Electric and water service Mar 10 - Apr 10. Office account.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 198.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-04-11T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-11T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3014",
+    "DocNumber": "CAR-VL-3314",
+    "VendorRef": {
+      "value": "3",
+      "name": "Volunteer Logistics Carriers"
+    },
+    "TxnDate": "2026-04-08",
+    "DueDate": "2026-04-23",
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Linehaul - Greeneville to Charlotte reefer produce (load AAP-0402)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-04-08T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-08T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3015",
+    "DocNumber": "PRO-WP-2026-04",
+    "VendorRef": {
+      "value": "6",
+      "name": "Wayne Prater CPA"
+    },
+    "TxnDate": "2026-04-10",
+    "DueDate": "2026-04-25",
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Q1 2026 bookkeeping review and quarterly tax estimate prep.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Professional Fees",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "PrivateNote": "",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-04-10T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-10T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3016",
+    "DocNumber": "CAR-WH-3316",
+    "VendorRef": {
+      "value": "10",
+      "name": "Whitaker Hauling"
+    },
+    "TxnDate": "2026-04-12",
+    "DueDate": "2026-05-12",
+    "Line": [
+      {
+        "Amount": 1450.0,
+        "Description": "Linehaul - Knoxville to Harlan KY short haul (load TSM-0404). Darl's outfit.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1450.0,
+    "Balance": 1450.0,
+    "PrivateNote": "Net-30. Due May 12. Darl's hauling company.",
+    "Status": "Payable",
+    "MetaData": {
+      "CreateTime": "2026-04-12T09:00:00-05:00",
+      "LastUpdatedTime": "2026-04-12T09:00:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "3017",
+    "DocNumber": "RENT-2026-05",
+    "VendorRef": {
+      "value": "7",
+      "name": "Pellissippi Commercial Properties"
+    },
+    "TxnDate": "2026-05-01",
+    "DueDate": "2026-05-05",
+    "Line": [
+      {
+        "Amount": 1900.0,
+        "Description": "Monthly office lease - May 2026. 8420 Kingston Pike Suite 210.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Office Rent",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1900.0,
+    "Balance": 0,
+    "PrivateNote": "Paid 5/2.",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-05-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-05-01T09:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "3018",
+    "DocNumber": "CAR-RL-3318",
+    "VendorRef": {
+      "value": "1",
+      "name": "Ridgeline Trucking LLC"
+    },
+    "TxnDate": "2026-05-05",
+    "DueDate": "2026-05-20",
+    "Line": [
+      {
+        "Amount": 2350.0,
+        "Description": "Linehaul - Knoxville to Memphis dry van beverage (load VBC-0501)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2350.0,
+    "Balance": 2350.0,
+    "PrivateNote": "Due 5/20. Not yet paid as of report date.",
+    "Status": "Payable",
+    "MetaData": {
+      "CreateTime": "2026-05-05T09:00:00-05:00",
+      "LastUpdatedTime": "2026-05-05T09:00:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "3019",
+    "DocNumber": "CAR-SM-3319",
+    "VendorRef": {
+      "value": "4",
+      "name": "Smoky Mountain Freight Lines"
+    },
+    "TxnDate": "2026-05-08",
+    "DueDate": "2026-05-23",
+    "Line": [
+      {
+        "Amount": 2100.0,
+        "Description": "Linehaul - Sevierville to Asheville flatbed lumber (load SMB-0502)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cost of Freight - Carrier Payments",
+            "value": "2"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2100.0,
+    "Balance": 2100.0,
+    "PrivateNote": "Due 5/23.",
+    "Status": "Payable",
+    "MetaData": {
+      "CreateTime": "2026-05-08T09:00:00-05:00",
+      "LastUpdatedTime": "2026-05-08T09:00:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "3020",
+    "DocNumber": "SW-RP-2026-05",
+    "VendorRef": {
+      "value": "5",
+      "name": "RoutePoint Logistics Suite"
+    },
+    "TxnDate": "2026-05-01",
+    "DueDate": "2026-05-31",
+    "Line": [
+      {
+        "Amount": 425.0,
+        "Description": "RoutePoint Logistics Suite - monthly TMS and load board subscription.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 425.0,
+    "Balance": 425.0,
+    "PrivateNote": "Net-30. Due May 31.",
+    "Status": "Payable",
+    "MetaData": {
+      "CreateTime": "2026-05-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-05-01T09:00:00-05:00"
+    },
+    "SyncToken": "0"
+  }
+]

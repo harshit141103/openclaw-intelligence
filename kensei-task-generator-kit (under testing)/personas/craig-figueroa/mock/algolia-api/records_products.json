@@ -1,0 +1,74 @@
+[
+  {
+    "objectID": "prod-001",
+    "name": "Alamycin LA",
+    "description": "Long-acting oxytetracycline injection",
+    "category": "antibiotic",
+    "brand": "Norbrook",
+    "price": "42.50",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-002",
+    "name": "Metacam 20mg/ml",
+    "description": "Meloxicam anti-inflammatory for cattle and pigs",
+    "category": "nsaid",
+    "brand": "Boehringer Ingelheim",
+    "price": "58.90",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-003",
+    "name": "Betamox LA",
+    "description": "Long-acting amoxicillin injection",
+    "category": "antibiotic",
+    "brand": "Norbrook",
+    "price": "39.75",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-004",
+    "name": "Buscopan Compositum",
+    "description": "Antispasmodic and analgesic",
+    "category": "analgesic",
+    "brand": "Boehringer Ingelheim",
+    "price": "31.20",
+    "in_stock": "false"
+  },
+  {
+    "objectID": "prod-005",
+    "name": "Calciject 40 CM",
+    "description": "Calcium and magnesium for milk fever and staggers",
+    "category": "metabolic",
+    "brand": "Norbrook",
+    "price": "18.40",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-006",
+    "name": "Heptavac P Plus",
+    "description": "Clostridial and pasteurella vaccine for sheep",
+    "category": "vaccine",
+    "brand": "MSD Animal Health",
+    "price": "64.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-007",
+    "name": "Dectomax",
+    "description": "Doramectin injectable wormer",
+    "category": "antiparasitic",
+    "brand": "Zoetis",
+    "price": "72.30",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-008",
+    "name": "Spectam Scour Halt",
+    "description": "Spectinomycin oral for lamb scour",
+    "category": "antibiotic",
+    "brand": "Ceva",
+    "price": "22.10",
+    "in_stock": "false"
+  }
+]

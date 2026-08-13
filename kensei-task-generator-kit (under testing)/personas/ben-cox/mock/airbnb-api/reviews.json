@@ -1,0 +1,162 @@
+[
+  {
+    "review_id": "rev-001",
+    "listing_id": "lst-101",
+    "guest_name": "Diane Cox",
+    "rating": "5",
+    "comment": "Order Blum slides for the Stowe drawer banks",
+    "created_at": "2026-05-12"
+  },
+  {
+    "review_id": "rev-002",
+    "listing_id": "lst-101",
+    "guest_name": "Keith Cox",
+    "rating": "5",
+    "comment": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "created_at": "2024-04-19"
+  },
+  {
+    "review_id": "rev-003",
+    "listing_id": "lst-103",
+    "guest_name": "Marie Cox-Gagne",
+    "rating": "5",
+    "comment": "Delivery window for the Stowe cabinets",
+    "created_at": "2026-08-19"
+  },
+  {
+    "review_id": "rev-004",
+    "listing_id": "lst-103",
+    "guest_name": "Tom Gagne",
+    "rating": "4",
+    "comment": "Build the drawer boxes with half-blind dovetails",
+    "created_at": "2025-04-24"
+  },
+  {
+    "review_id": "rev-005",
+    "listing_id": "lst-106",
+    "guest_name": "Pete Lafleur",
+    "rating": "5",
+    "comment": "Barn oak is summer 2027 - not pulling material yet.",
+    "created_at": "2026-08-03"
+  },
+  {
+    "review_id": "rev-006",
+    "listing_id": "lst-105",
+    "guest_name": "Dr. James Whitfield",
+    "rating": "4",
+    "comment": "Plane the bookshelf shelves and ease the front edges",
+    "created_at": "2025-05-17"
+  },
+  {
+    "review_id": "rev-007",
+    "listing_id": "lst-108",
+    "guest_name": "Dr. Paul LeBlanc",
+    "rating": "5",
+    "comment": "Splitting and stacking the winter firewood",
+    "created_at": "2024-06-03"
+  },
+  {
+    "review_id": "rev-001",
+    "listing_id": "lst-101",
+    "guest_name": "Scott Henderson",
+    "rating": "5",
+    "comment": "Stage the bookshelf sections for the Craftsbury install",
+    "created_at": "2025-03-05"
+  },
+  {
+    "review_id": "rev-002",
+    "listing_id": "lst-101",
+    "guest_name": "Linda Henderson",
+    "rating": "5",
+    "comment": "Dry-fit the face frames before glue-up",
+    "created_at": "2025-01-23"
+  },
+  {
+    "review_id": "rev-003",
+    "listing_id": "lst-103",
+    "guest_name": "Alan Whitcomb",
+    "rating": "5",
+    "comment": "Cherry pricing for the Henderson uppers",
+    "created_at": "2026-06-08"
+  },
+  {
+    "review_id": "rev-004",
+    "listing_id": "lst-103",
+    "guest_name": "Paul Dufresne",
+    "rating": "4",
+    "comment": "Sharpened the chisels; the 1in was overdue.",
+    "created_at": "2026-03-24"
+  },
+  {
+    "review_id": "rev-005",
+    "listing_id": "lst-106",
+    "guest_name": "Marc Belanger",
+    "rating": "5",
+    "comment": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "created_at": "2024-10-19"
+  },
+  {
+    "review_id": "rev-006",
+    "listing_id": "lst-105",
+    "guest_name": "Gary Stoddard",
+    "rating": "4",
+    "comment": "Build the drawer boxes with half-blind dovetails",
+    "created_at": "2024-05-12"
+  },
+  {
+    "review_id": "rev-007",
+    "listing_id": "lst-108",
+    "guest_name": "Hardwick Lumber",
+    "rating": "5",
+    "comment": "Order Blum slides for the Stowe drawer banks",
+    "created_at": "2024-10-23"
+  },
+  {
+    "review_id": "rev-001",
+    "listing_id": "lst-101",
+    "guest_name": "Green Mountain Hardwoods",
+    "rating": "5",
+    "comment": "Re: Stowe install date",
+    "created_at": "2026-08-01"
+  },
+  {
+    "review_id": "rev-002",
+    "listing_id": "lst-101",
+    "guest_name": "Ray Tetreault",
+    "rating": "5",
+    "comment": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "created_at": "2025-10-02"
+  },
+  {
+    "review_id": "rev-003",
+    "listing_id": "lst-103",
+    "guest_name": "Nancy Beaulieu",
+    "rating": "5",
+    "comment": "Hang the soft-close doors and adjust the hinges",
+    "created_at": "2025-11-13"
+  },
+  {
+    "review_id": "rev-004",
+    "listing_id": "lst-103",
+    "guest_name": "Rev. Susan Mills",
+    "rating": "4",
+    "comment": "Bookshelf install Friday the 16th",
+    "created_at": "2026-03-24"
+  },
+  {
+    "review_id": "rev-005",
+    "listing_id": "lst-106",
+    "guest_name": "Walt Perreault",
+    "rating": "5",
+    "comment": "Cut dadoes for the adjustable shelf pins",
+    "created_at": "2024-09-21"
+  },
+  {
+    "review_id": "rev-006",
+    "listing_id": "lst-105",
+    "guest_name": "Donna Sloan",
+    "rating": "4",
+    "comment": "Bookshelf install Friday the 16th",
+    "created_at": "2026-02-26"
+  }
+]

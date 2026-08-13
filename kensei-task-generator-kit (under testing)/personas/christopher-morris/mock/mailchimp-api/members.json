@@ -1,0 +1,187 @@
+﻿[
+  {
+    "list_id": "list-newsletter",
+    "email_address": "mara@brightpath.io",
+    "full_name": "Mara Lindgren",
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-02T08:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "tomas@brightpath.io",
+    "full_name": "Tomas Vega",
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-05T09:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "yara@nimbus-co.com",
+    "full_name": "Yara Khalil",
+    "status": "unsubscribed",
+    "timestamp_signup": "2025-09-10T10:00:00.000Z",
+    "member_rating": "2"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "ethan@nimbus-co.com",
+    "full_name": "Ethan Walsh",
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-18T11:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "grace@helio-labs.com",
+    "full_name": "Grace Okafor",
+    "status": "cleaned",
+    "timestamp_signup": "2025-10-01T12:00:00.000Z",
+    "member_rating": "1"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "sven@helio-labs.com",
+    "full_name": "Sven ILberg",
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-20T08:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "lucia@orbit-mark.com",
+    "full_name": "Lucia Romano",
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-22T09:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "kenji@orbit-mark.com",
+    "full_name": "Kenji Sato",
+    "status": "subscribed",
+    "timestamp_signup": "2025-10-05T10:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "hannah@vela-tech.com",
+    "full_name": "Hannah Frost",
+    "status": "subscribed",
+    "timestamp_signup": "2025-10-12T11:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "diego@zenith-corp.com",
+    "full_name": "Diego Morales",
+    "status": "subscribed",
+    "timestamp_signup": "2025-10-20T14:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "priya@nova-systems.io",
+    "full_name": "Priya Sharma",
+    "status": "subscribed",
+    "timestamp_signup": "2025-10-25T09:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "christopher@summit-solutions.com",
+    "full_name": "christopher Chen",
+    "status": "subscribed",
+    "timestamp_signup": "2025-11-03T13:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "amelia@pulse-ventures.com",
+    "full_name": "Amelia Martinez",
+    "status": "subscribed",
+    "timestamp_signup": "2025-11-08T10:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "marcus@vertex-tech.co",
+    "full_name": "Marcus Johnson",
+    "status": "subscribed",
+    "timestamp_signup": "2025-11-15T15:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "sophie@eclipse-media.net",
+    "full_name": "Sophie Anderson",
+    "status": "subscribed",
+    "timestamp_signup": "2025-11-20T11:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "robert@quantum-labs.io",
+    "full_name": "Robert Williams",
+    "status": "unsubscribed",
+    "timestamp_signup": "2025-11-25T08:00:00.000Z",
+    "member_rating": "2"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "jasmine@crystal-digital.com",
+    "full_name": "Jasmine Lee",
+    "status": "subscribed",
+    "timestamp_signup": "2025-12-01T12:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "ivan@nexus-group.org",
+    "full_name": "Ivan Petrov",
+    "status": "subscribed",
+    "timestamp_signup": "2025-12-05T14:00:00.000Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "emma@aurora-tech.com",
+    "full_name": "Emma Thompson",
+    "status": "subscribed",
+    "timestamp_signup": "2025-12-10T09:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "oliver@zenith-ai.io",
+    "full_name": "Oliver Zhang",
+    "status": "subscribed",
+    "timestamp_signup": "2026-01-02T10:00:00.000Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "victoria@stellar-ventures.com",
+    "full_name": "Victoria Brooks",
+    "status": "subscribed",
+    "timestamp_signup": "2026-01-08T13:00:00.000Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "nathan@fusion-labs.net",
+    "full_name": "Nathan Garcia",
+    "status": "cleaned",
+    "timestamp_signup": "2026-01-15T11:00:00.000Z",
+    "member_rating": "1"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "isabelle@horizon-corp.io",
+    "full_name": "Isabelle Dubois",
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-01T15:00:00.000Z",
+    "member_rating": "5"
+  }
+]
+

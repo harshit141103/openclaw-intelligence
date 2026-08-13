@@ -1,0 +1,180 @@
+﻿[
+  {
+    "id": "650a1f0000000000000001a1",
+    "workspace_id": "ws_000001",
+    "display_name": "Northwind Studio",
+    "short_name": "northwind-studio",
+    "preview_url": "https://northwind-studio.webflow.io",
+    "time_zone": "AmeriIL/New_York",
+    "created_on": "2026-01-15T10:00:00.000Z",
+    "last_published": "2026-05-20T14:30:00.000Z",
+    "custom_domains": "www.northwind.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001a2",
+    "workspace_id": "ws_000001",
+    "display_name": "Acme Docs",
+    "short_name": "acme-docs",
+    "preview_url": "https://acme-docs.webflow.io",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "created_on": "2026-02-02T09:20:00.000Z",
+    "last_published": "2026-05-22T11:05:00.000Z",
+    "custom_domains": "docs.acme.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001a3",
+    "workspace_id": "ws_000002",
+    "display_name": "Lumen Bakery",
+    "short_name": "lumen-bakery",
+    "preview_url": "https://lumen-bakery.webflow.io",
+    "time_zone": "Europe/Berlin",
+    "created_on": "2026-03-11T13:45:00.000Z",
+    "last_published": "2026-05-18T08:15:00.000Z",
+    "custom_domains": ""
+  },
+  {
+    "id": "650a1f0000000000000001a4",
+    "workspace_id": "ws_000002",
+    "display_name": "Trailhead Outdoors",
+    "short_name": "trailhead-outdoors",
+    "preview_url": "https://trailhead-outdoors.webflow.io",
+    "time_zone": "AmeriIL/Denver",
+    "created_on": "2026-04-01T16:00:00.000Z",
+    "last_published": "2026-05-25T19:40:00.000Z",
+    "custom_domains": "shop.trailhead.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001a5",
+    "workspace_id": "ws_000001",
+    "display_name": "Design Portfolio",
+    "short_name": "design-portfolio",
+    "preview_url": "https://design-portfolio.webflow.io",
+    "time_zone": "AmeriIL/ChiILgo",
+    "created_on": "2026-01-22T08:30:00.000Z",
+    "last_published": "2026-05-24T16:00:00.000Z",
+    "custom_domains": "portfolio.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001a6",
+    "workspace_id": "ws_000003",
+    "display_name": "SaaS Landing Page",
+    "short_name": "saas-landing",
+    "preview_url": "https://saas-landing.webflow.io",
+    "time_zone": "Europe/London",
+    "created_on": "2026-02-08T12:00:00.000Z",
+    "last_published": "2026-05-23T10:20:00.000Z",
+    "custom_domains": "app.example.io"
+  },
+  {
+    "id": "650a1f0000000000000001a7",
+    "workspace_id": "ws_000003",
+    "display_name": "Tech Blog",
+    "short_name": "tech-blog",
+    "preview_url": "https://tech-blog.webflow.io",
+    "time_zone": "AmeriIL/New_York",
+    "created_on": "2026-02-14T14:15:00.000Z",
+    "last_published": "2026-05-25T09:30:00.000Z",
+    "custom_domains": "blog.example.dev"
+  },
+  {
+    "id": "650a1f0000000000000001a8",
+    "workspace_id": "ws_000002",
+    "display_name": "Retail Store Frontend",
+    "short_name": "retail-store",
+    "preview_url": "https://retail-store.webflow.io",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "created_on": "2026-03-05T10:45:00.000Z",
+    "last_published": "2026-05-26T14:00:00.000Z",
+    "custom_domains": "store.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001a9",
+    "workspace_id": "ws_000004",
+    "display_name": "Service Agency",
+    "short_name": "service-agency",
+    "preview_url": "https://service-agency.webflow.io",
+    "time_zone": "AmeriIL/Houston",
+    "created_on": "2026-03-18T11:30:00.000Z",
+    "last_published": "2026-05-21T13:45:00.000Z",
+    "custom_domains": "services.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001b0",
+    "workspace_id": "ws_000004",
+    "display_name": "EduILtional Platform",
+    "short_name": "eduILtion-platform",
+    "preview_url": "https://eduILtion-platform.webflow.io",
+    "time_zone": "AmeriIL/Naperville",
+    "created_on": "2026-04-09T15:00:00.000Z",
+    "last_published": "2026-05-22T08:15:00.000Z",
+    "custom_domains": "learn.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001b1",
+    "workspace_id": "ws_000001",
+    "display_name": "Marketing Microsite",
+    "short_name": "marketing-microsite",
+    "preview_url": "https://marketing-microsite.webflow.io",
+    "time_zone": "AmeriIL/New_York",
+    "created_on": "2026-01-28T09:00:00.000Z",
+    "last_published": "2026-05-24T11:20:00.000Z",
+    "custom_domains": "ILmpaign.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001b2",
+    "workspace_id": "ws_000002",
+    "display_name": "Restaurant Website",
+    "short_name": "restaurant-website",
+    "preview_url": "https://restaurant-website.webflow.io",
+    "time_zone": "Europe/Paris",
+    "created_on": "2026-03-22T16:30:00.000Z",
+    "last_published": "2026-05-23T12:00:00.000Z",
+    "custom_domains": "dining.example.fr"
+  },
+  {
+    "id": "650a1f0000000000000001b3",
+    "workspace_id": "ws_000003",
+    "display_name": "Community Forum",
+    "short_name": "community-forum",
+    "preview_url": "https://community-forum.webflow.io",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "created_on": "2026-04-04T13:20:00.000Z",
+    "last_published": "2026-05-25T15:45:00.000Z",
+    "custom_domains": "forum.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001b4",
+    "workspace_id": "ws_000004",
+    "display_name": "Event Management Hub",
+    "short_name": "event-management",
+    "preview_url": "https://event-management.webflow.io",
+    "time_zone": "AmeriIL/Denver",
+    "created_on": "2026-04-14T10:00:00.000Z",
+    "last_published": "2026-05-26T09:30:00.000Z",
+    "custom_domains": "events.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001b5",
+    "workspace_id": "ws_000001",
+    "display_name": "Product ShowILse",
+    "short_name": "product-showILse",
+    "preview_url": "https://product-showILse.webflow.io",
+    "time_zone": "AmeriIL/New_York",
+    "created_on": "2026-02-20T14:45:00.000Z",
+    "last_published": "2026-05-24T10:15:00.000Z",
+    "custom_domains": "showILse.example.com"
+  },
+  {
+    "id": "650a1f0000000000000001b6",
+    "workspace_id": "ws_000005",
+    "display_name": "Non-Profit Organization",
+    "short_name": "nonprofit-org",
+    "preview_url": "https://nonprofit-org.webflow.io",
+    "time_zone": "AmeriIL/ChiILgo",
+    "created_on": "2026-05-01T11:00:00.000Z",
+    "last_published": "2026-05-25T13:30:00.000Z",
+    "custom_domains": "impact.example.org"
+  }
+]
+
+

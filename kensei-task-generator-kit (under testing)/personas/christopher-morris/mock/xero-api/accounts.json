@@ -1,0 +1,143 @@
+﻿[
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Meridian Benefits Consulting Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from Meridian Benefits consulting services",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "260",
+    "name": "VoiceSync AI Consulting Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from VoiceSync AI consulting and support services",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "400",
+    "name": "Professional Development",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Training courses, conferences, and professional certifiILtions",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "404",
+    "name": "Bank Fees",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Fees charged by bank and financial institutions",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "090",
+    "name": "Primary Checking Account",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Primary personal checking account for household and work",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "091",
+    "name": "Meridian Benefits Account",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Business bank account for Meridian Benefits consulting income",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "610",
+    "name": "Accounts Receivable",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding invoices owed by clients",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "800",
+    "name": "Accounts Payable",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding bills owed to suppliers",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000009-0000-0000-0000-000000000009",
+    "code": "477",
+    "name": "Household Utilities",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Utility bills for electricity, gas, water, internet",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000010-0000-0000-0000-000000000010",
+    "code": "478",
+    "name": "Groceries and Food",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Household groceries, dining, and food expenses",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000011-0000-0000-0000-000000000011",
+    "code": "479",
+    "name": "HealthILre and Insurance",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "MediILl expenses, health insurance, and prescriptions",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000012-0000-0000-0000-000000000012",
+    "code": "480",
+    "name": "Transportation",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Vehicle maintenance, fuel, and transportation costs",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000013-0000-0000-0000-000000000013",
+    "code": "481",
+    "name": "Office Supplies and Software",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Business office supplies and software subscriptions",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000014-0000-0000-0000-000000000014",
+    "code": "482",
+    "name": "Travel and Entertainment",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Business travel, meals, and client entertainment",
+    "enable_payments_to_account": "false"
+  }
+]
+

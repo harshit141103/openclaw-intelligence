@@ -1,0 +1,182 @@
+[
+  {
+    "id": "price_Starter_M",
+    "product": "prod_Starter",
+    "unit_amount": "620",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Diane Cox"
+  },
+  {
+    "id": "price_Pro_M",
+    "product": "prod_Pro",
+    "unit_amount": "1200",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Keith Cox"
+  },
+  {
+    "id": "price_Pro_Y",
+    "product": "prod_Pro",
+    "unit_amount": "1850",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Marie Cox-Gagne"
+  },
+  {
+    "id": "price_Ent_M",
+    "product": "prod_Enterprise",
+    "unit_amount": "2400",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Tom Gagne"
+  },
+  {
+    "id": "price_POS",
+    "product": "prod_POS",
+    "unit_amount": "3200",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Pete Lafleur"
+  },
+  {
+    "id": "price_Starter_M-b1",
+    "product": "prod_Starter",
+    "unit_amount": "4800",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Dr. James Whitfield"
+  },
+  {
+    "id": "price_Pro_M-b2",
+    "product": "prod_Pro",
+    "unit_amount": "5400",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Dr. Paul LeBlanc"
+  },
+  {
+    "id": "price_Pro_Y-b3",
+    "product": "prod_Pro",
+    "unit_amount": "6200",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Scott Henderson"
+  },
+  {
+    "id": "price_Ent_M-b4",
+    "product": "prod_Enterprise",
+    "unit_amount": "8500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Linda Henderson"
+  },
+  {
+    "id": "price_POS-b5",
+    "product": "prod_POS",
+    "unit_amount": "12000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Alan Whitcomb"
+  },
+  {
+    "id": "price_Starter_M-b6",
+    "product": "prod_Starter",
+    "unit_amount": "18500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Paul Dufresne"
+  },
+  {
+    "id": "price_Pro_M-b7",
+    "product": "prod_Pro",
+    "unit_amount": "480",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Marc Belanger"
+  },
+  {
+    "id": "price_Pro_Y-b8",
+    "product": "prod_Pro",
+    "unit_amount": "620",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Gary Stoddard"
+  },
+  {
+    "id": "price_Ent_M-b9",
+    "product": "prod_Enterprise",
+    "unit_amount": "1200",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Hardwick Lumber"
+  },
+  {
+    "id": "price_POS-b10",
+    "product": "prod_POS",
+    "unit_amount": "1850",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Green Mountain Hardwoods"
+  },
+  {
+    "id": "price_Starter_M-b11",
+    "product": "prod_Starter",
+    "unit_amount": "2400",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Ray Tetreault"
+  },
+  {
+    "id": "price_Pro_M-b12",
+    "product": "prod_Pro",
+    "unit_amount": "3200",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Nancy Beaulieu"
+  },
+  {
+    "id": "price_Pro_Y-b13",
+    "product": "prod_Pro",
+    "unit_amount": "4800",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Rev. Susan Mills"
+  },
+  {
+    "id": "price_Ent_M-b14",
+    "product": "prod_Enterprise",
+    "unit_amount": "5400",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Walt Perreault"
+  },
+  {
+    "id": "price_POS-b15",
+    "product": "prod_POS",
+    "unit_amount": "6200",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Donna Sloan"
+  }
+]

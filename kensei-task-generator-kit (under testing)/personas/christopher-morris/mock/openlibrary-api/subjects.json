@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "science_fiction",
+    "name": "Science Fiction",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "fantasy",
+    "name": "Fantasy",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "robots",
+    "name": "Robots",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "time_travel",
+    "name": "Time Travel",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "magic",
+    "name": "Magic",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "adventure",
+    "name": "Adventure",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "mystery",
+    "name": "Mystery",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "detective",
+    "name": "Detective",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "thriller",
+    "name": "Thriller",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "crime",
+    "name": "Crime",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "cooking",
+    "name": "Cooking",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "baking",
+    "name": "Baking",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "recipes",
+    "name": "Recipes",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "british_cuisine",
+    "name": "British Cuisine",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "bread_making",
+    "name": "Bread Making",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "food",
+    "name": "Food",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "home_renovation",
+    "name": "Home Renovation",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "interior_design",
+    "name": "Interior Design",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "health",
+    "name": "Health",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "fitness",
+    "name": "Fitness",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "lifestyle",
+    "name": "Lifestyle",
+    "subject_type": "subject"
+  }
+]

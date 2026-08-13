@@ -1,0 +1,56 @@
+[
+  {
+    "id": "job-1",
+    "title": "Locum Large Animal Vet (Holiday Cover)",
+    "status": "open",
+    "department": "Veterinary",
+    "location": "Wester Ross",
+    "opened_at": "2026-04-01",
+    "closed_at": ""
+  },
+  {
+    "id": "job-2",
+    "title": "Relief Vet, Lambing Season",
+    "status": "closed",
+    "department": "Veterinary",
+    "location": "Strathcarron",
+    "opened_at": "2026-01-10",
+    "closed_at": "2026-03-01"
+  },
+  {
+    "id": "job-3",
+    "title": "Part-time Veterinary Nurse",
+    "status": "open",
+    "department": "Veterinary",
+    "location": "Strathcarron",
+    "opened_at": "2026-05-01",
+    "closed_at": ""
+  },
+  {
+    "id": "job-4",
+    "title": "Locum Vet, Harrogate Congress Week",
+    "status": "open",
+    "department": "Veterinary",
+    "location": "Wester Ross",
+    "opened_at": "2026-04-20",
+    "closed_at": ""
+  },
+  {
+    "id": "job-5",
+    "title": "Relief Vet, Autumn TB Testing",
+    "status": "open",
+    "department": "Veterinary",
+    "location": "Lochcarron",
+    "opened_at": "2026-05-15",
+    "closed_at": ""
+  },
+  {
+    "id": "job-6",
+    "title": "Saturday Morning Cover",
+    "status": "draft",
+    "department": "Veterinary",
+    "location": "Strathcarron",
+    "opened_at": "2026-05-20",
+    "closed_at": ""
+  }
+]

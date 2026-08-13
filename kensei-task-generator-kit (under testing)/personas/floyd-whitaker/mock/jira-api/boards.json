@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "FSE Evaluation Board",
+    "type": "scrum",
+    "project_key": "FSE"
+  },
+  {
+    "id": "2",
+    "name": "Mentorship Planning Board",
+    "type": "kanban",
+    "project_key": "MENT"
+  },
+  {
+    "id": "3",
+    "name": "Website Board",
+    "type": "kanban",
+    "project_key": "WEB"
+  },
+  {
+    "id": "4",
+    "name": "Carrier Vetting Board",
+    "type": "kanban",
+    "project_key": "CVR"
+  },
+  {
+    "id": "5",
+    "name": "Brand Onboarding Board",
+    "type": "kanban",
+    "project_key": "BOND"
+  },
+  {
+    "id": "6",
+    "name": "DOT Webinar Board",
+    "type": "scrum",
+    "project_key": "DOT"
+  },
+  {
+    "id": "7",
+    "name": "Blog & Newsletter Board",
+    "type": "kanban",
+    "project_key": "BLOG"
+  },
+  {
+    "id": "8",
+    "name": "Merch Store Board",
+    "type": "kanban",
+    "project_key": "SHOP"
+  },
+  {
+    "id": "9",
+    "name": "Year-End Books Board",
+    "type": "kanban",
+    "project_key": "ACCT"
+  },
+  {
+    "id": "10",
+    "name": "Conference Planning Board",
+    "type": "kanban",
+    "project_key": "FAIR"
+  },
+  {
+    "id": "11",
+    "name": "Fall Cookout Board",
+    "type": "kanban",
+    "project_key": "COOK"
+  },
+  {
+    "id": "12",
+    "name": "Lane Rate Review Board",
+    "type": "scrum",
+    "project_key": "LANE"
+  },
+  {
+    "id": "13",
+    "name": "Client Reviews Board",
+    "type": "kanban",
+    "project_key": "CLNT"
+  },
+  {
+    "id": "14",
+    "name": "Insurance Renewal Board",
+    "type": "kanban",
+    "project_key": "INSUR"
+  },
+  {
+    "id": "15",
+    "name": "Marketing Board",
+    "type": "kanban",
+    "project_key": "MKTG"
+  },
+  {
+    "id": "16",
+    "name": "Dispatcher Hiring Board",
+    "type": "kanban",
+    "project_key": "HIRE"
+  },
+  {
+    "id": "17",
+    "name": "TMS Migration Board",
+    "type": "scrum",
+    "project_key": "TMS"
+  },
+  {
+    "id": "18",
+    "name": "Phone Upgrade Board",
+    "type": "kanban",
+    "project_key": "PHONE"
+  },
+  {
+    "id": "19",
+    "name": "Safety Scorecards Board",
+    "type": "scrum",
+    "project_key": "SAFETY"
+  },
+  {
+    "id": "20",
+    "name": "Assoc Board Duties Board",
+    "type": "kanban",
+    "project_key": "ASSOC"
+  }
+]

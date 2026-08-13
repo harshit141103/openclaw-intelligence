@@ -1,0 +1,188 @@
+[
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjName00001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjStatus001",
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjOwner0001",
+    "name": "Owner",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjBudget001",
+    "name": "Budget",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskName00001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskStatus001",
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskProject01",
+    "name": "Project",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskHours0001",
+    "name": "EstimateHours",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskDone00001",
+    "name": "Done",
+    "type": "checkbox"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactNm0001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactEml001",
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactCo0001",
+    "name": "Company",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactRl0001",
+    "name": "Role",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblCarriers00001",
+    "id": "fldCarrierNm0001",
+    "name": "CarrierName",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblVetChecks0001",
+    "id": "fldVetCheckNm001",
+    "name": "CheckName",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblLoads00000001",
+    "id": "fldLoadRef000001",
+    "name": "LoadRef",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblLanes00000001",
+    "id": "fldLaneName00001",
+    "name": "LaneName",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblShippers000001",
+    "id": "fldShipperNm0001",
+    "name": "ShipperName",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblClientNotes01",
+    "id": "fldNoteSubj00001",
+    "name": "Subject",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblRateConfs0001",
+    "id": "fldRateConfNm001",
+    "name": "ConfNumber",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblLaneRates0001",
+    "id": "fldLaneRateNm001",
+    "name": "LaneRateName",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblWebinars000001",
+    "id": "fldWebinarNm0001",
+    "name": "WebinarTitle",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblMentees000001",
+    "id": "fldMenteeNm00001",
+    "name": "MenteeName",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblInvoices000001",
+    "id": "fldInvoiceNo0001",
+    "name": "InvoiceNumber",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblCarrierDir001",
+    "id": "fldCarDirNm00001",
+    "name": "CarrierName",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblClaims00000001",
+    "id": "fldClaimNo000001",
+    "name": "ClaimNumber",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblQuotes00000001",
+    "id": "fldQuoteRef00001",
+    "name": "QuoteRef",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblInsCerts000001",
+    "id": "fldInsCertNm0001",
+    "name": "CertHolder",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblEvalCriteria1",
+    "id": "fldEvalCritNm001",
+    "name": "Criterion",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblForecastRows1",
+    "id": "fldFcastMonth001",
+    "name": "Month",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblReferrals00001",
+    "id": "fldReferralNm001",
+    "name": "ReferralSource",
+    "type": "singleLineText"
+  }
+]

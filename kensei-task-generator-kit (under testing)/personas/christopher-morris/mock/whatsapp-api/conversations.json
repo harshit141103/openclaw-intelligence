@@ -1,0 +1,164 @@
+[
+  {
+    "conversation_id": "conv-001",
+    "wa_id": "16305551001",
+    "profile_name": "Greg Morris",
+    "started_at": "2026-06-09T18:00:00Z",
+    "last_message_at": "2026-06-09T18:30:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-002",
+    "wa_id": "16305551003",
+    "profile_name": "Sophie Morris",
+    "started_at": "2026-06-09T11:30:00Z",
+    "last_message_at": "2026-06-09T12:00:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-003",
+    "wa_id": "16305551004",
+    "profile_name": "Meg Patterson",
+    "started_at": "2026-06-09T08:45:00Z",
+    "last_message_at": "2026-06-09T09:15:00Z",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-004",
+    "wa_id": "16305551005",
+    "profile_name": "Sandra Chen",
+    "started_at": "2026-06-09T13:15:00Z",
+    "last_message_at": "2026-06-09T14:30:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-005",
+    "wa_id": "16305551006",
+    "profile_name": "Priya Desai",
+    "started_at": "2026-06-09T07:30:00Z",
+    "last_message_at": "2026-06-09T08:00:00Z",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-006",
+    "wa_id": "16305551007",
+    "profile_name": "Mike Poletti",
+    "started_at": "2026-06-08T16:00:00Z",
+    "last_message_at": "2026-06-08T16:20:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-007",
+    "wa_id": "16305551008",
+    "profile_name": "Janet Brennan",
+    "started_at": "2026-06-09T11:15:00Z",
+    "last_message_at": "2026-06-09T11:45:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-008",
+    "wa_id": "16305551002",
+    "profile_name": "Owen Morris",
+    "started_at": "2026-06-08T15:15:00Z",
+    "last_message_at": "2026-06-08T15:45:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-009",
+    "wa_id": "16305551009",
+    "profile_name": "Rita Brennan-Cole",
+    "started_at": "2026-06-07T18:30:00Z",
+    "last_message_at": "2026-06-07T19:00:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "false"
+  },
+  {
+    "conversation_id": "conv-010",
+    "wa_id": "16305551010",
+    "profile_name": "David Park",
+    "started_at": "2026-06-09T10:00:00Z",
+    "last_message_at": "2026-06-09T10:30:00Z",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-011",
+    "wa_id": "16305551011",
+    "profile_name": "Lisa Monroe",
+    "started_at": "2026-06-08T12:45:00Z",
+    "last_message_at": "2026-06-08T13:15:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-012",
+    "wa_id": "16305551013",
+    "profile_name": "Rachel Thompson",
+    "started_at": "2026-06-09T15:15:00Z",
+    "last_message_at": "2026-06-09T15:45:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-013",
+    "wa_id": "16305551014",
+    "profile_name": "Kevin Murphy",
+    "started_at": "2026-06-09T08:30:00Z",
+    "last_message_at": "2026-06-09T09:00:00Z",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-014",
+    "wa_id": "16305551015",
+    "profile_name": "Patricia Wu",
+    "started_at": "2026-06-08T14:00:00Z",
+    "last_message_at": "2026-06-08T14:30:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-015",
+    "wa_id": "16305551017",
+    "profile_name": "Susan Palmer",
+    "started_at": "2026-06-09T17:00:00Z",
+    "last_message_at": "2026-06-09T17:30:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-016",
+    "wa_id": "16305551018",
+    "profile_name": "Christopher Torres",
+    "started_at": "2026-06-08T10:30:00Z",
+    "last_message_at": "2026-06-08T11:00:00Z",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-017",
+    "wa_id": "16305551019",
+    "profile_name": "Angela Davis",
+    "started_at": "2026-06-09T13:15:00Z",
+    "last_message_at": "2026-06-09T13:45:00Z",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-018",
+    "wa_id": "16305551020",
+    "profile_name": "Mark Johnson",
+    "started_at": "2026-06-09T15:30:00Z",
+    "last_message_at": "2026-06-09T16:00:00Z",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  }
+]

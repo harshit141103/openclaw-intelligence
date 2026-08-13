@@ -1,0 +1,318 @@
+[
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01OWEN"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01SOPHIE"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01MIKE"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01GENERAL",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01BENEFITS",
+    "user_id": "U01MIKE"
+  },
+  {
+    "channel_id": "C01HEALTH",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01HEALTH",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01HEALTH",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01HEALTH",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01HEALTH",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01HEALTH",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01COMPLIANCE",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01OWEN"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01SOPHIE"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01MIKE"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01RANDOM",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01CLIENTS",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01OWEN"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01SOPHIE"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01MIKE"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01ONBOARDING",
+    "user_id": "U01BENEFITSBOT"
+  },
+  {
+    "channel_id": "G01LEADS",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "G01LEADS",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "G01LEADS",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01OWEN"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01SOPHIE"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01TRAINING",
+    "user_id": "U01RITA"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01CHRISTOPHER"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01GREG"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01OWEN"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01SOPHIE"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01MEG"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01SANDRA"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01PRIYA"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01MIKE"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01JANET"
+  },
+  {
+    "channel_id": "C01ANNOUNCEMENTS",
+    "user_id": "U01RITA"
+  }
+]

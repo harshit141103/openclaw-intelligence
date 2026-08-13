@@ -1,0 +1,182 @@
+[
+  {
+    "id": "team-ux",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "key": "PORT",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "color": "#5E6AD2",
+    "createdAt": "2025-02-05T13:00:00Z",
+    "updatedAt": "2026-06-09T16:00:00Z"
+  },
+  {
+    "id": "team-ux-b1",
+    "name": "Henderson kitchen cabinets",
+    "key": "PORT-b1",
+    "description": "Check the moisture content on the barn oak before joinery",
+    "color": "#5E6AD2",
+    "createdAt": "2026-09-28T08:30:00Z",
+    "updatedAt": "2026-09-09T10:45:00Z"
+  },
+  {
+    "id": "team-ux-b2",
+    "name": "Build the drawer boxes with half-blind d",
+    "key": "PORT-b2",
+    "description": "Final fit of the Henderson island base cabinets",
+    "color": "#5E6AD2",
+    "createdAt": "2026-08-22T11:45:00Z",
+    "updatedAt": "2026-04-14T07:30:00Z"
+  },
+  {
+    "id": "team-ux-b3",
+    "name": "Splitting and stacking the winter firewo",
+    "key": "PORT-b3",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "color": "#5E6AD2",
+    "createdAt": "2024-08-08T15:45:00Z",
+    "updatedAt": "2026-03-22T16:45:00Z"
+  },
+  {
+    "id": "team-ux-b4",
+    "name": "Sloan cherry dining table",
+    "key": "PORT-b4",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "color": "#5E6AD2",
+    "createdAt": "2025-02-20T17:30:00Z",
+    "updatedAt": "2026-01-05T11:15:00Z"
+  },
+  {
+    "id": "team-ux-b5",
+    "name": "Bookshelf install Friday the 16th",
+    "key": "PORT-b5",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "color": "#5E6AD2",
+    "createdAt": "2026-03-18T13:15:00Z",
+    "updatedAt": "2025-06-28T06:30:00Z"
+  },
+  {
+    "id": "team-ux-b6",
+    "name": "Sloan cherry dining table",
+    "key": "PORT-b6",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "color": "#5E6AD2",
+    "createdAt": "2026-07-15T06:15:00Z",
+    "updatedAt": "2026-07-11T12:30:00Z"
+  },
+  {
+    "id": "team-ux-b7",
+    "name": "Hang the soft-close doors and adjust the",
+    "key": "PORT-b7",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "color": "#5E6AD2",
+    "createdAt": "2025-06-12T09:00:00Z",
+    "updatedAt": "2024-04-21T06:00:00Z"
+  },
+  {
+    "id": "team-ux-b8",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "key": "PORT-b8",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-23T11:45:00Z",
+    "updatedAt": "2024-12-09T12:15:00Z"
+  },
+  {
+    "id": "team-ux-b9",
+    "name": "Check the moisture content on the barn o",
+    "key": "PORT-b9",
+    "description": "Lay out dovetails for the silverware drawer",
+    "color": "#5E6AD2",
+    "createdAt": "2026-09-26T12:30:00Z",
+    "updatedAt": "2026-08-24T09:30:00Z"
+  },
+  {
+    "id": "team-ux-b10",
+    "name": "Stage the bookshelf sections for the Cra",
+    "key": "PORT-b10",
+    "description": "Sand to 220 and raise the grain before finish",
+    "color": "#5E6AD2",
+    "createdAt": "2026-07-06T11:45:00Z",
+    "updatedAt": "2026-01-23T14:30:00Z"
+  },
+  {
+    "id": "team-ux-b11",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "key": "PORT-b11",
+    "description": "Re-saw the walnut for bookmatched panels",
+    "color": "#5E6AD2",
+    "createdAt": "2025-10-22T08:45:00Z",
+    "updatedAt": "2024-08-20T06:00:00Z"
+  },
+  {
+    "id": "team-ux-b12",
+    "name": "Lay out dovetails for the silverware dra",
+    "key": "PORT-b12",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "color": "#5E6AD2",
+    "createdAt": "2024-08-22T13:15:00Z",
+    "updatedAt": "2026-01-19T09:15:00Z"
+  },
+  {
+    "id": "team-ux-b13",
+    "name": "Sloan cherry dining table",
+    "key": "PORT-b13",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "color": "#5E6AD2",
+    "createdAt": "2026-02-01T14:15:00Z",
+    "updatedAt": "2025-04-03T18:30:00Z"
+  },
+  {
+    "id": "team-ux-b14",
+    "name": "Hang the soft-close doors and adjust the",
+    "key": "PORT-b14",
+    "description": "Lay out dovetails for the silverware drawer",
+    "color": "#5E6AD2",
+    "createdAt": "2026-09-28T18:00:00Z",
+    "updatedAt": "2023-10-09T16:15:00Z"
+  },
+  {
+    "id": "team-ux-b15",
+    "name": "Sand to 220 and raise the grain before f",
+    "key": "PORT-b15",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-22T08:00:00Z",
+    "updatedAt": "2024-08-24T10:15:00Z"
+  },
+  {
+    "id": "team-ux-b16",
+    "name": "Re: Stowe install date",
+    "key": "PORT-b16",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "color": "#5E6AD2",
+    "createdAt": "2025-11-16T18:15:00Z",
+    "updatedAt": "2026-04-16T12:00:00Z"
+  },
+  {
+    "id": "team-ux-b17",
+    "name": "Material order - Hardwick Lumber",
+    "key": "PORT-b17",
+    "description": "Check the moisture content on the barn oak before joinery",
+    "color": "#5E6AD2",
+    "createdAt": "2026-07-12T07:15:00Z",
+    "updatedAt": "2026-09-06T10:00:00Z"
+  },
+  {
+    "id": "team-ux-b18",
+    "name": "Build the drawer boxes with half-blind d",
+    "key": "PORT-b18",
+    "description": "Sand to 220 and raise the grain before finish",
+    "color": "#5E6AD2",
+    "createdAt": "2025-01-27T14:45:00Z",
+    "updatedAt": "2026-08-13T09:45:00Z"
+  },
+  {
+    "id": "team-ux-b19",
+    "name": "Set up the dado stack for the bookshelf ",
+    "key": "PORT-b19",
+    "description": "Dry-fit the face frames before glue-up",
+    "color": "#5E6AD2",
+    "createdAt": "2025-12-10T16:30:00Z",
+    "updatedAt": "2024-10-07T06:00:00Z"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "schedule_id": "SCH001",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2025-09-18T11:45:00Z",
+    "oncall_end": "2025-11-01T11:45:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2026-05-31T09:00:00Z",
+    "oncall_end": "2024-02-16T15:15:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Project schedule update",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2024-05-11T08:15:00Z",
+    "oncall_end": "2024-03-31T08:45:00Z"
+  },
+  {
+    "schedule_id": "SCH001",
+    "name": "Sand to 220 and raise the grain before f",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2025-11-26T15:45:00Z",
+    "oncall_end": "2026-07-16T13:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Material order - Hardwick Lumber",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2025-10-08T11:15:00Z",
+    "oncall_end": "2025-12-24T10:15:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Replace the dust collector filter and cl",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-01-12T07:15:00Z",
+    "oncall_end": "2025-11-09T09:45:00Z"
+  },
+  {
+    "schedule_id": "SCH001",
+    "name": "Material order - Hardwick Lumber",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2026-09-03T12:45:00Z",
+    "oncall_end": "2025-11-29T10:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Project schedule update",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2025-01-30T12:45:00Z",
+    "oncall_end": "2024-10-01T08:45:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Material order - Hardwick Lumber",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2024-08-15T13:30:00Z",
+    "oncall_end": "2026-03-08T09:30:00Z"
+  },
+  {
+    "schedule_id": "SCH001",
+    "name": "Sand to 220 and raise the grain before f",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2025-08-28T18:15:00Z",
+    "oncall_end": "2024-10-11T07:15:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Mill cherry stock to thickness for the u",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2026-10-05T11:00:00Z",
+    "oncall_end": "2025-04-30T15:45:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Henderson kitchen cabinets",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-01-25T12:00:00Z",
+    "oncall_end": "2024-05-25T15:30:00Z"
+  },
+  {
+    "schedule_id": "SCH001",
+    "name": "Mock up the crown profile for the Hender",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2024-05-05T10:45:00Z",
+    "oncall_end": "2025-06-04T08:15:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Mill cherry stock to thickness for the u",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2026-03-03T17:45:00Z",
+    "oncall_end": "2025-05-07T09:15:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Church pew repair",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2025-02-17T07:00:00Z",
+    "oncall_end": "2025-02-12T08:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2024-01-13T12:30:00Z",
+    "oncall_end": "2025-03-04T14:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Lafleur barn door (favor)",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2026-02-06T11:30:00Z",
+    "oncall_end": "2025-11-08T15:30:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Cota window seat & bookcase",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-09-09T06:15:00Z",
+    "oncall_end": "2024-10-06T10:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001",
+    "name": "Project schedule update",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2025-02-06T11:30:00Z",
+    "oncall_end": "2025-12-08T10:15:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Re: Bookshelf dimensions",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2025-05-06T09:45:00Z",
+    "oncall_end": "2026-03-24T12:30:00Z"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Diane Cox",
+    "slug": "ben-cox",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "administrator",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "2",
+    "name": "Keith Cox",
+    "slug": "keith-cox",
+    "description": "Material order - Hardwick Lumber",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "editor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "3",
+    "name": "Marie Cox-Gagne",
+    "slug": "diane-cox",
+    "description": "Cut dadoes for the adjustable shelf pins",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "4",
+    "name": "Tom Gagne",
+    "slug": "walt-perreault",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "5",
+    "name": "Pete Lafleur",
+    "slug": "guest-contributor",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "contributor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "902",
+    "name": "Dr. James Whitfield",
+    "slug": "ben-cox-b1",
+    "description": "Barn oak is summer 2027 - not pulling material yet.",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "administrator",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "904",
+    "name": "Dr. Paul LeBlanc",
+    "slug": "keith-cox-b2",
+    "description": "Material order - Hardwick Lumber",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "editor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "906",
+    "name": "Scott Henderson",
+    "slug": "diane-cox-b3",
+    "description": "Material order - Hardwick Lumber",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "908",
+    "name": "Linda Henderson",
+    "slug": "walt-perreault-b4",
+    "description": "Built-ins - finish sample for your approval",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "910",
+    "name": "Alan Whitcomb",
+    "slug": "guest-contributor-b5",
+    "description": "Sand to 220 and raise the grain before finish",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "contributor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "907",
+    "name": "Paul Dufresne",
+    "slug": "ben-cox-b6",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "administrator",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "909",
+    "name": "Marc Belanger",
+    "slug": "keith-cox-b7",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "editor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "911",
+    "name": "Gary Stoddard",
+    "slug": "diane-cox-b8",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "913",
+    "name": "Hardwick Lumber",
+    "slug": "walt-perreault-b9",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "915",
+    "name": "Green Mountain Hardwoods",
+    "slug": "guest-contributor-b10",
+    "description": "Material order - Hardwick Lumber",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "contributor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "912",
+    "name": "Ray Tetreault",
+    "slug": "ben-cox-b11",
+    "description": "Cut dadoes for the adjustable shelf pins",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "administrator",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "914",
+    "name": "Nancy Beaulieu",
+    "slug": "keith-cox-b12",
+    "description": "Hang the soft-close doors and adjust the hinges",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "editor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "916",
+    "name": "Rev. Susan Mills",
+    "slug": "diane-cox-b13",
+    "description": "Re-saw the walnut for bookmatched panels",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "918",
+    "name": "Walt Perreault",
+    "slug": "walt-perreault-b14",
+    "description": "Dry-fit the face frames before glue-up",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "author",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  },
+  {
+    "id": "920",
+    "name": "Donna Sloan",
+    "slug": "guest-contributor-b15",
+    "description": "Plane the bookshelf shelves and ease the front edges",
+    "url": "https://coxcustomwoodwork.com",
+    "roles": "contributor",
+    "avatar_url": "https://coxcustomwoodwork.com"
+  }
+]

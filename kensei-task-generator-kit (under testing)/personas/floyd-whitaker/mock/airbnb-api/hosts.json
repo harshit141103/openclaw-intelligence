@@ -1,0 +1,162 @@
+[
+  {
+    "host_id": "host-darlene",
+    "name": "Darlene Pruitt",
+    "superhost": "true",
+    "joined_year": "2016",
+    "response_rate": "99",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-randy",
+    "name": "Randy Cox",
+    "superhost": "true",
+    "joined_year": "2015",
+    "response_rate": "98",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-marlene",
+    "name": "Marlene Hatfield",
+    "superhost": "false",
+    "joined_year": "2019",
+    "response_rate": "91",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-wendell",
+    "name": "Wendell Saylor",
+    "superhost": "true",
+    "joined_year": "2017",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-patsy",
+    "name": "Patsy Gilliam",
+    "superhost": "false",
+    "joined_year": "2020",
+    "response_rate": "88",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-buford",
+    "name": "Buford Caudill",
+    "superhost": "true",
+    "joined_year": "2014",
+    "response_rate": "99",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-shelia",
+    "name": "Shelia Brock",
+    "superhost": "false",
+    "joined_year": "2021",
+    "response_rate": "90",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-otis",
+    "name": "Otis Ledford",
+    "superhost": "true",
+    "joined_year": "2018",
+    "response_rate": "96",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-loretta",
+    "name": "Loretta Maggard",
+    "superhost": "true",
+    "joined_year": "2016",
+    "response_rate": "98",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-clyde",
+    "name": "Clyde Stiltner",
+    "superhost": "false",
+    "joined_year": "2022",
+    "response_rate": "89",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-verna",
+    "name": "Verna Halcomb",
+    "superhost": "true",
+    "joined_year": "2015",
+    "response_rate": "97",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-dewey",
+    "name": "Dewey Sturgill",
+    "superhost": "false",
+    "joined_year": "2020",
+    "response_rate": "92",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-earlene",
+    "name": "Earlene Profitt",
+    "superhost": "true",
+    "joined_year": "2017",
+    "response_rate": "96",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-hershel",
+    "name": "Hershel Begley",
+    "superhost": "false",
+    "joined_year": "2021",
+    "response_rate": "87",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-juanita",
+    "name": "Juanita Estep",
+    "superhost": "true",
+    "joined_year": "2014",
+    "response_rate": "99",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-lonnie",
+    "name": "Lonnie Tackett",
+    "superhost": "true",
+    "joined_year": "2016",
+    "response_rate": "95",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-roberta",
+    "name": "Roberta Mullins",
+    "superhost": "false",
+    "joined_year": "2022",
+    "response_rate": "90",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-virgil",
+    "name": "Virgil Combs",
+    "superhost": "true",
+    "joined_year": "2015",
+    "response_rate": "98",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-mabel",
+    "name": "Mabel Childers",
+    "superhost": "false",
+    "joined_year": "2019",
+    "response_rate": "89",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-delbert",
+    "name": "Delbert Hensley",
+    "superhost": "true",
+    "joined_year": "2018",
+    "response_rate": "97",
+    "languages": "English"
+  }
+]

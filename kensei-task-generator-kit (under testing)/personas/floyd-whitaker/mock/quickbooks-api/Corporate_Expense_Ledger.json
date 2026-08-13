@@ -1,0 +1,54 @@
+{
+  "document_name": "Corporate Expense Ledger",
+  "account_id": 15,
+  "entries": [
+    {
+      "date": "10/02/2025",
+      "merchant": "Oakwood Diner",
+      "employee": "Floyd Whitaker",
+      "amount": 54.20
+    },
+    {
+      "date": "10/05/2025",
+      "merchant": "Smoky Mountain Brewery",
+      "employee": "Brandon Whitaker",
+      "amount": 96.30
+    },
+    {
+      "date": "10/07/2025",
+      "merchant": "Pilot Travel Center",
+      "employee": "Travis Hollis",
+      "amount": 68.40
+    },
+    {
+      "date": "10/09/2025",
+      "merchant": "Northshore Brasserie",
+      "employee": "Floyd Whitaker",
+      "amount": 142.93
+    },
+    {
+      "date": "10/12/2025",
+      "merchant": "Weigels",
+      "employee": "Lorrie Sexton",
+      "amount": 52.47
+    },
+    {
+      "date": "10/15/2025",
+      "merchant": "Volunteer Conference Center Cafe",
+      "employee": "Floyd Whitaker",
+      "amount": 33.73
+    },
+    {
+      "date": "10/18/2025",
+      "merchant": "Marathon",
+      "employee": "Brandon Whitaker",
+      "amount": 61.44
+    },
+    {
+      "date": "10/21/2025",
+      "merchant": "Oakwood Diner",
+      "employee": "Brenda Sizemore",
+      "amount": 48.10
+    }
+  ]
+}

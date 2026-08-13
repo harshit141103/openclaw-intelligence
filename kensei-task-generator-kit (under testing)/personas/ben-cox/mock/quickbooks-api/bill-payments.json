@@ -1,0 +1,414 @@
+{
+  "QueryResponse": {
+    "BillPayment": [
+      {
+        "Id": "5001",
+        "VendorRef": {
+          "value": "1",
+          "name": "Lafleur barn door (favor)"
+        },
+        "TxnDate": "2026-07-01",
+        "TotalAmt": 700.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3001",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 620.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Final fit of the Henderson island base c"
+          }
+        },
+        "PrivateNote": "Check #2001"
+      },
+      {
+        "Id": "5002",
+        "VendorRef": {
+          "value": "3",
+          "name": "Mill cherry stock to thickness for the u"
+        },
+        "TxnDate": "2026-01-18",
+        "TotalAmt": 185.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3002",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 18.99
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Sand to 220 and raise the grain before f"
+          }
+        },
+        "PrivateNote": "Auto-pay"
+      },
+      {
+        "Id": "5003",
+        "VendorRef": {
+          "value": "4",
+          "name": "Plane the bookshelf shelves and ease the"
+        },
+        "TxnDate": "2025-12-09",
+        "TotalAmt": 62.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3003",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 24.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Greensboro barn restoration"
+          }
+        },
+        "PrivateNote": "Auto-pay"
+      },
+      {
+        "Id": "5004",
+        "VendorRef": {
+          "value": "6",
+          "name": "Project schedule update"
+        },
+        "TxnDate": "2025-09-18",
+        "TotalAmt": 1200.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3004",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1200.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Cut dadoes for the adjustable shelf pins"
+          }
+        },
+        "PrivateNote": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut."
+      },
+      {
+        "Id": "5005",
+        "VendorRef": {
+          "value": "7",
+          "name": "Final fit of the Henderson island base c"
+        },
+        "TxnDate": "2024-11-09",
+        "TotalAmt": 150.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3005",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 28.99
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Mock up the crown profile for the Hender"
+          }
+        },
+        "PrivateNote": "Check #2003"
+      },
+      {
+        "Id": "5006",
+        "VendorRef": {
+          "value": "7",
+          "name": "Estimate for the Greensboro barn (2027)"
+        },
+        "TxnDate": "2026-08-08",
+        "TotalAmt": 150.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3006",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 34.5
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Greensboro barn restoration"
+          }
+        },
+        "PrivateNote": "Check #2004"
+      },
+      {
+        "Id": "5007",
+        "VendorRef": {
+          "value": "1",
+          "name": "Mill cherry stock to thickness for the u"
+        },
+        "TxnDate": "2025-03-06",
+        "TotalAmt": 700.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3007",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1850.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Greensboro barn restoration"
+          }
+        },
+        "PrivateNote": "Check #2005"
+      },
+      {
+        "Id": "5008",
+        "VendorRef": {
+          "value": "3",
+          "name": "Sharpen the jointer knives and reset the"
+        },
+        "TxnDate": "2024-11-06",
+        "TotalAmt": 172.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3008",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 41.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Greensboro barn restoration"
+          }
+        },
+        "PrivateNote": "Auto-pay"
+      },
+      {
+        "Id": "5009",
+        "VendorRef": {
+          "value": "4",
+          "name": "Re: Stowe install date"
+        },
+        "TxnDate": "2025-08-01",
+        "TotalAmt": 58.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3009",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 47.95
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Check the moisture content on the barn o"
+          }
+        },
+        "PrivateNote": "Auto-pay"
+      },
+      {
+        "Id": "5010",
+        "VendorRef": {
+          "value": "6",
+          "name": "Cherry pricing for the Henderson uppers"
+        },
+        "TxnDate": "2025-04-28",
+        "TotalAmt": 1200.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3010",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 2400.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Template the Stowe countertop radius for"
+          }
+        },
+        "PrivateNote": "Built-ins - finish sample for your approval"
+      },
+      {
+        "Id": "5011",
+        "VendorRef": {
+          "value": "7",
+          "name": "Splitting and stacking the winter firewo"
+        },
+        "TxnDate": "2025-11-22",
+        "TotalAmt": 150.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3011",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 62.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Greensboro barn restoration"
+          }
+        },
+        "PrivateNote": "Check #2007"
+      },
+      {
+        "Id": "5012",
+        "VendorRef": {
+          "value": "7",
+          "name": "Mock up the crown profile for the Hender"
+        },
+        "TxnDate": "2025-10-05",
+        "TotalAmt": 150.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3012",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 88.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Estimate for the Greensboro barn (2027)"
+          }
+        },
+        "PrivateNote": "Check #2008"
+      },
+      {
+        "Id": "5013",
+        "VendorRef": {
+          "value": "2",
+          "name": "Bookshelf install Friday the 16th"
+        },
+        "TxnDate": "2024-02-17",
+        "TotalAmt": 900.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3013",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 3200.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Project schedule update"
+          }
+        },
+        "PrivateNote": "Replace the dust collector filter and clean the cyclone"
+      },
+      {
+        "Id": "5014",
+        "VendorRef": {
+          "value": "8",
+          "name": "Cut dadoes for the adjustable shelf pins"
+        },
+        "TxnDate": "2025-07-15",
+        "TotalAmt": 280.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3014",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 4800.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Sand to 220 and raise the grain before f"
+          }
+        },
+        "PrivateNote": "Material order - Hardwick Lumber"
+      },
+      {
+        "Id": "5015",
+        "VendorRef": {
+          "value": "9",
+          "name": "Replace the dust collector filter and cl"
+        },
+        "TxnDate": "2024-12-12",
+        "TotalAmt": 345.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3015",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 5400.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Henderson kitchen cabinets"
+          }
+        },
+        "PrivateNote": "Material order - Hardwick Lumber"
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 100,
+    "totalCount": 15
+  }
+}

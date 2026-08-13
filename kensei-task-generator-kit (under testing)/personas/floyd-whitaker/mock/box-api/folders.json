@@ -1,0 +1,212 @@
+[
+  {
+    "id": "0",
+    "name": "All Files",
+    "parent_id": "",
+    "owner_id": "11446498",
+    "description": "Root folder",
+    "created_at": "2023-09-01T10:00:00-04:00",
+    "modified_at": "2026-06-08T14:00:00-04:00",
+    "item_count": "9"
+  },
+  {
+    "id": "160001",
+    "name": "Carrier Vetting",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Carrier authority, insurance, and safety documents",
+    "created_at": "2023-10-01T09:00:00-04:00",
+    "modified_at": "2026-06-05T16:20:00-04:00",
+    "item_count": "5"
+  },
+  {
+    "id": "160002",
+    "name": "Bills of Lading",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Signed BOLs and proof of delivery",
+    "created_at": "2023-10-02T09:00:00-04:00",
+    "modified_at": "2026-06-07T10:10:00-04:00",
+    "item_count": "6"
+  },
+  {
+    "id": "160003",
+    "name": "Finance",
+    "parent_id": "0",
+    "owner_id": "33102847",
+    "description": "Invoices, rate confirmations, and tax records",
+    "created_at": "2023-10-03T09:00:00-04:00",
+    "modified_at": "2026-06-06T13:45:00-04:00",
+    "item_count": "5"
+  },
+  {
+    "id": "160004",
+    "name": "Broker-Carrier Agreements",
+    "parent_id": "160001",
+    "owner_id": "22893011",
+    "description": "Executed carrier contracts and W-9s",
+    "created_at": "2024-02-10T11:00:00-05:00",
+    "modified_at": "2026-06-04T12:00:00-04:00",
+    "item_count": "4"
+  },
+  {
+    "id": "160005",
+    "name": "Client Accounts",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Account profiles and lane history for active shippers",
+    "created_at": "2023-11-15T09:30:00-05:00",
+    "modified_at": "2026-06-08T11:20:00-04:00",
+    "item_count": "7"
+  },
+  {
+    "id": "160006",
+    "name": "Insurance Certificates",
+    "parent_id": "160001",
+    "owner_id": "33401266",
+    "description": "Current COIs on file for active carriers",
+    "created_at": "2024-01-08T10:00:00-05:00",
+    "modified_at": "2026-06-06T15:30:00-04:00",
+    "item_count": "9"
+  },
+  {
+    "id": "160007",
+    "name": "Rate Confirmations",
+    "parent_id": "160003",
+    "owner_id": "33102847",
+    "description": "Signed rate cons by load number",
+    "created_at": "2024-03-01T09:00:00-05:00",
+    "modified_at": "2026-06-07T13:15:00-04:00",
+    "item_count": "12"
+  },
+  {
+    "id": "160008",
+    "name": "Tax Records",
+    "parent_id": "160003",
+    "owner_id": "33744021",
+    "description": "Annual returns and 1099s prepared with Wayne Prater",
+    "created_at": "2024-03-01T09:10:00-05:00",
+    "modified_at": "2026-04-15T10:00:00-04:00",
+    "item_count": "6"
+  },
+  {
+    "id": "160009",
+    "name": "Mentorship Program",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "TN Freight Mentorship curriculum and cohort materials",
+    "created_at": "2026-02-05T14:00:00-05:00",
+    "modified_at": "2026-06-02T16:00:00-04:00",
+    "item_count": "5"
+  },
+  {
+    "id": "160010",
+    "name": "Onboarding - Brand",
+    "parent_id": "0",
+    "owner_id": "22893011",
+    "description": "Training docs and shadowing checklists for Brand",
+    "created_at": "2026-03-20T11:30:00-04:00",
+    "modified_at": "2026-05-25T09:45:00-04:00",
+    "item_count": "4"
+  },
+  {
+    "id": "160011",
+    "name": "Software Evaluation",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "RoutePoint vs FreightFlow Pro demos, quotes, and notes",
+    "created_at": "2026-04-05T13:00:00-04:00",
+    "modified_at": "2026-05-19T16:00:00-04:00",
+    "item_count": "3"
+  },
+  {
+    "id": "160012",
+    "name": "DOT Compliance",
+    "parent_id": "0",
+    "owner_id": "33401266",
+    "description": "Quarterly webinar materials and compliance bulletins",
+    "created_at": "2024-05-01T09:00:00-04:00",
+    "modified_at": "2026-06-01T10:00:00-04:00",
+    "item_count": "8"
+  },
+  {
+    "id": "160013",
+    "name": "Proof of Delivery",
+    "parent_id": "160002",
+    "owner_id": "33401266",
+    "description": "Scanned PODs by load number",
+    "created_at": "2024-04-12T09:00:00-04:00",
+    "modified_at": "2026-06-08T09:30:00-04:00",
+    "item_count": "14"
+  },
+  {
+    "id": "160014",
+    "name": "Carrier Safety Scores",
+    "parent_id": "160001",
+    "owner_id": "33401266",
+    "description": "SAFER and FMCSA safety snapshots for active carriers",
+    "created_at": "2024-02-20T10:00:00-05:00",
+    "modified_at": "2026-06-05T11:00:00-04:00",
+    "item_count": "11"
+  },
+  {
+    "id": "160015",
+    "name": "Invoices",
+    "parent_id": "160003",
+    "owner_id": "33102847",
+    "description": "Outgoing client invoices by month",
+    "created_at": "2023-11-01T09:00:00-04:00",
+    "modified_at": "2026-06-09T15:00:00-04:00",
+    "item_count": "18"
+  },
+  {
+    "id": "160016",
+    "name": "Cumberland Auto Parts",
+    "parent_id": "160005",
+    "owner_id": "33289104",
+    "description": "Account profile and lane history for Cumberland Auto Parts",
+    "created_at": "2024-09-09T11:10:00-04:00",
+    "modified_at": "2026-06-08T11:25:00-04:00",
+    "item_count": "9"
+  },
+  {
+    "id": "160017",
+    "name": "Valley Grain Cooperative",
+    "parent_id": "160005",
+    "owner_id": "11446498",
+    "description": "Account profile and seasonal lane history for Valley Grain",
+    "created_at": "2025-01-15T10:35:00-05:00",
+    "modified_at": "2026-06-04T10:00:00-04:00",
+    "item_count": "7"
+  },
+  {
+    "id": "160018",
+    "name": "Smoky Mountain Building Supply",
+    "parent_id": "160005",
+    "owner_id": "22893011",
+    "description": "Account profile and lane mapping for Smoky Mountain Building Supply",
+    "created_at": "2026-03-02T10:25:00-05:00",
+    "modified_at": "2026-05-28T14:00:00-04:00",
+    "item_count": "6"
+  },
+  {
+    "id": "160019",
+    "name": "Tri-State Manufacturing",
+    "parent_id": "160005",
+    "owner_id": "11446498",
+    "description": "Account profile and quarterly review notes for Tri-State Manufacturing",
+    "created_at": "2025-03-19T11:10:00-04:00",
+    "modified_at": "2026-04-22T14:05:00-04:00",
+    "item_count": "8"
+  },
+  {
+    "id": "160020",
+    "name": "Appalachian Ag Producers",
+    "parent_id": "160005",
+    "owner_id": "33289104",
+    "description": "Account profile and reefer lane records for Appalachian Ag Producers",
+    "created_at": "2025-04-08T10:55:00-04:00",
+    "modified_at": "2026-05-06T11:05:00-04:00",
+    "item_count": "5"
+  }
+]

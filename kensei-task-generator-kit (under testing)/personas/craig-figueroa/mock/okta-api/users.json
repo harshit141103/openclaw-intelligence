@@ -1,0 +1,123 @@
+[
+  {
+    "id": "00u1craig",
+    "first_name": "Craig",
+    "last_name": "Figueroa",
+    "email": "craig.figueroa@gmail.com",
+    "login": "craig.figueroa@gmail.com",
+    "status": "ACTIVE",
+    "created": "2024-01-10T10:00:00.000Z",
+    "activated": "2024-01-10T10:05:00.000Z",
+    "last_login": "2026-05-26T08:00:00.000Z"
+  },
+  {
+    "id": "00u2jonas",
+    "first_name": "Duncan",
+    "last_name": "Pereira",
+    "email": "duncan.fraser@btinternet.com",
+    "login": "duncan.fraser@btinternet.com",
+    "status": "ACTIVE",
+    "created": "2024-02-04T11:30:00.000Z",
+    "activated": "2024-02-04T11:35:00.000Z",
+    "last_login": "2026-05-25T17:00:00.000Z"
+  },
+  {
+    "id": "00u3helena",
+    "first_name": "Fiona",
+    "last_name": "Park",
+    "email": "fiona.drummond@gmail.com",
+    "login": "fiona.drummond@gmail.com",
+    "status": "ACTIVE",
+    "created": "2024-03-12T14:20:00.000Z",
+    "activated": "2024-03-12T14:25:00.000Z",
+    "last_login": "2026-05-26T07:30:00.000Z"
+  },
+  {
+    "id": "00u4rohit",
+    "first_name": "Graeme",
+    "last_name": "Bansal",
+    "email": "graeme.sutherland@gmail.com",
+    "login": "graeme.sutherland@gmail.com",
+    "status": "SUSPENDED",
+    "created": "2024-05-02T09:10:00.000Z",
+    "activated": "2024-05-02T09:15:00.000Z",
+    "last_login": "2026-04-30T12:00:00.000Z"
+  },
+  {
+    "id": "00u5noor",
+    "first_name": "Noor",
+    "last_name": "Aziz",
+    "email": "rhona.matheson@apha.gov.uk",
+    "login": "rhona.matheson@apha.gov.uk",
+    "status": "PROVISIONED",
+    "created": "2026-05-20T16:45:00.000Z",
+    "activated": "",
+    "last_login": ""
+  },
+  {
+    "id": "00u6priya",
+    "first_name": "Priya",
+    "last_name": "Nair",
+    "email": "isabel.ross@gmail.com",
+    "login": "isabel.ross@gmail.com",
+    "status": "ACTIVE",
+    "created": "2024-08-15T10:00:00.000Z",
+    "activated": "2024-08-15T10:05:00.000Z",
+    "last_login": "2026-05-24T09:00:00.000Z"
+  },
+  {
+    "id": "00u1craig-7000",
+    "first_name": "Fiona",
+    "last_name": "Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "login": "fiona.drummond",
+    "status": "ACTIVE",
+    "created": "2024-01-10T10:00:00.000Z",
+    "activated": "2024-01-10T10:05:00.000Z",
+    "last_login": "2026-05-26T08:00:00.000Z"
+  },
+  {
+    "id": "00u1craig-7001",
+    "first_name": "Alejandro",
+    "last_name": "Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "login": "alejandro.figueroa",
+    "status": "ACTIVE",
+    "created": "2024-01-10T10:00:00.000Z",
+    "activated": "2024-01-10T10:05:00.000Z",
+    "last_login": "2026-05-26T08:00:00.000Z"
+  },
+  {
+    "id": "00u1craig-7002",
+    "first_name": "Elena",
+    "last_name": "Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "login": "elena.figueroa",
+    "status": "ACTIVE",
+    "created": "2024-01-10T10:00:00.000Z",
+    "activated": "2024-01-10T10:05:00.000Z",
+    "last_login": "2026-05-26T08:00:00.000Z"
+  },
+  {
+    "id": "00u1craig-7003",
+    "first_name": "Isabel",
+    "last_name": "Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "login": "isabel.figueroa-ross",
+    "status": "ACTIVE",
+    "created": "2024-01-10T10:00:00.000Z",
+    "activated": "2024-01-10T10:05:00.000Z",
+    "last_login": "2026-05-26T08:00:00.000Z"
+  },
+  {
+    "id": "00u1craig-7004",
+    "first_name": "Callum",
+    "last_name": "Ross",
+    "email": "callum.ross@gmail.com",
+    "login": "callum.ross",
+    "status": "ACTIVE",
+    "created": "2024-01-10T10:00:00.000Z",
+    "activated": "2024-01-10T10:05:00.000Z",
+    "last_login": "2026-05-26T08:00:00.000Z"
+  }
+]

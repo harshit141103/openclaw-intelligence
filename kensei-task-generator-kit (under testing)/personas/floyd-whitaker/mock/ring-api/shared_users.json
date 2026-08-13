@@ -1,0 +1,182 @@
+[
+  {
+    "user_id": "100001",
+    "first_name": "Floyd",
+    "last_name": "Whitaker",
+    "email": "floyd.w@outlook.com",
+    "role": "owner",
+    "device_access": "all",
+    "shared_at": "2022-06-15T10:00:00.000Z"
+  },
+  {
+    "user_id": "100002",
+    "first_name": "Donna",
+    "last_name": "Whitaker",
+    "email": "donna.whitaker@gmail.com",
+    "role": "owner",
+    "device_access": "all",
+    "shared_at": "2022-06-15T10:05:00.000Z"
+  },
+  {
+    "user_id": "100003",
+    "first_name": "Brandon",
+    "last_name": "Whitaker",
+    "email": "brand.whitaker@gmail.com",
+    "role": "shared",
+    "device_access": "all",
+    "shared_at": "2023-09-01T18:20:00.000Z"
+  },
+  {
+    "user_id": "100004",
+    "first_name": "Megan",
+    "last_name": "Whitaker",
+    "email": "megan.whitaker@gmail.com",
+    "role": "shared",
+    "device_access": "all",
+    "shared_at": "2023-09-01T18:25:00.000Z"
+  },
+  {
+    "user_id": "100005",
+    "first_name": "Cody",
+    "last_name": "Whitaker",
+    "email": "cody.whitaker@gmail.com",
+    "role": "shared",
+    "device_access": "all",
+    "shared_at": "2024-01-15T17:00:00.000Z"
+  },
+  {
+    "user_id": "100006",
+    "first_name": "Darrell",
+    "last_name": "Whitaker",
+    "email": "darl.whitaker@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2024-06-10T12:00:00.000Z"
+  },
+  {
+    "user_id": "100007",
+    "first_name": "Tammy",
+    "last_name": "Caldwell",
+    "email": "tammy.caldwell@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2024-06-10T12:05:00.000Z"
+  },
+  {
+    "user_id": "100008",
+    "first_name": "Keith",
+    "last_name": "Burgess",
+    "email": "keith.burgess@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2024-08-22T09:30:00.000Z"
+  },
+  {
+    "user_id": "100009",
+    "first_name": "Brenda",
+    "last_name": "Sizemore",
+    "email": "bren.sizemore@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2024-09-05T10:00:00.000Z"
+  },
+  {
+    "user_id": "100010",
+    "first_name": "Roy",
+    "last_name": "Tackett",
+    "email": "roy.tackett@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2024-10-12T14:00:00.000Z"
+  },
+  {
+    "user_id": "100011",
+    "first_name": "Junior",
+    "last_name": "Mullins",
+    "email": "junior.mullins@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2024-10-12T14:05:00.000Z"
+  },
+  {
+    "user_id": "100012",
+    "first_name": "Eddie",
+    "last_name": "Combs",
+    "email": "eddie.combs@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2024-10-12T14:10:00.000Z"
+  },
+  {
+    "user_id": "100013",
+    "first_name": "Travis",
+    "last_name": "Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-01-08T08:30:00.000Z"
+  },
+  {
+    "user_id": "100014",
+    "first_name": "Carla",
+    "last_name": "Whitfield",
+    "email": "carla.whitfield@finthesiss.ai",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-01-08T08:35:00.000Z"
+  },
+  {
+    "user_id": "100015",
+    "first_name": "Wayne",
+    "last_name": "Prater",
+    "email": "wayne.prater@gmail.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-02-19T11:00:00.000Z"
+  },
+  {
+    "user_id": "100016",
+    "first_name": "Lorrie",
+    "last_name": "Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-03-14T09:00:00.000Z"
+  },
+  {
+    "user_id": "100017",
+    "first_name": "Dale",
+    "last_name": "Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-03-14T09:05:00.000Z"
+  },
+  {
+    "user_id": "100018",
+    "first_name": "Glen",
+    "last_name": "Mabry",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-05-20T13:00:00.000Z"
+  },
+  {
+    "user_id": "100019",
+    "first_name": "Pete",
+    "last_name": "Arnett",
+    "email": "pete.arnett@smokymtnsupply.com",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-07-11T10:30:00.000Z"
+  },
+  {
+    "user_id": "100020",
+    "first_name": "James",
+    "last_name": "Harlan",
+    "email": "pastor.harlan@ridgeviewbaptist.org",
+    "role": "shared",
+    "device_access": "doorbell_front",
+    "shared_at": "2025-09-02T15:00:00.000Z"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "event_type": "purchase",
+    "date": "2024-07-30",
+    "count": "3"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-09-26",
+    "count": "5"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2025-06-29",
+    "count": "8"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-09-28",
+    "count": "6"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2025-10-13",
+    "count": "9"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2023-12-31",
+    "count": "120"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2024-06-06",
+    "count": "134"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2024-07-28",
+    "count": "128"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2024-01-31",
+    "count": "141"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-02-15",
+    "count": "150"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-08-04",
+    "count": "3"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2025-01-02",
+    "count": "5"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2025-02-05",
+    "count": "8"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-02-09",
+    "count": "6"
+  },
+  {
+    "event_type": "purchase",
+    "date": "2026-08-21",
+    "count": "9"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2025-07-17",
+    "count": "120"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2026-04-16",
+    "count": "134"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2024-11-01",
+    "count": "128"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2023-12-21",
+    "count": "141"
+  },
+  {
+    "event_type": "session_start",
+    "date": "2024-12-24",
+    "count": "150"
+  }
+]

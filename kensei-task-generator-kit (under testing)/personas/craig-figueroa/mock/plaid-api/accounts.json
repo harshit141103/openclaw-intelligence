@@ -1,0 +1,62 @@
+[
+  {
+    "account_id": "acc_chk_001",
+    "name": "Personal Current",
+    "official_name": "Bank of Scotland Classic Account",
+    "mask": "0123",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "3140.55",
+    "current": "3240.55",
+    "limit": "",
+    "iso_currency_code": "GBP"
+  },
+  {
+    "account_id": "acc_sav_002",
+    "name": "Personal Savings",
+    "official_name": "Bank of Scotland Instant Access Savings",
+    "mask": "4455",
+    "type": "depository",
+    "subtype": "savings",
+    "available": "28500.00",
+    "current": "28500.00",
+    "limit": "",
+    "iso_currency_code": "GBP"
+  },
+  {
+    "account_id": "acc_bus_005",
+    "name": "Practice Business Current",
+    "official_name": "Bank of Scotland Business Current Account",
+    "mask": "6612",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "14200.00",
+    "current": "14200.00",
+    "limit": "",
+    "iso_currency_code": "GBP"
+  },
+  {
+    "account_id": "acc_crd_003",
+    "name": "Platinum Credit Card",
+    "official_name": "Bank of Scotland Platinum Mastercard",
+    "mask": "7788",
+    "type": "credit",
+    "subtype": "credit card",
+    "available": "3100.00",
+    "current": "1900.00",
+    "limit": "5000.00",
+    "iso_currency_code": "GBP"
+  },
+  {
+    "account_id": "acc_lon_004",
+    "name": "Crofthouse Mortgage",
+    "official_name": "Bank of Scotland Residential Mortgage",
+    "mask": "9901",
+    "type": "loan",
+    "subtype": "mortgage",
+    "available": "",
+    "current": "142000.00",
+    "limit": "",
+    "iso_currency_code": "GBP"
+  }
+]

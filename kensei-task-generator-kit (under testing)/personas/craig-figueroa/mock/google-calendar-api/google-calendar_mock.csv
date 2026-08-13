@@ -1,0 +1,19 @@
+id,calendar,title,location,start,end,attendees,status,recurrence
+1,Craig,Monthly budget review,Basics,2021-01-02T08:00:00+05:30,2021-01-02T09:00:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,monthly
+2,Craig,Healthcare planning block,Basics,2021-04-28T09:07:00+05:30,2021-04-28T10:07:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+3,Craig,Family check-in,Basics,2021-08-23T10:14:00+05:30,2021-08-23T11:14:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+4,Craig,Annual wellness appointment,Basics,2021-12-18T11:21:00+05:30,2021-12-18T12:21:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,yearly
+5,Craig,Document review,Basics,2022-04-14T12:28:00+05:30,2022-04-14T13:28:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+6,Craig,Community event,Basics,2022-08-08T13:35:00+05:30,2022-08-08T14:35:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+7,Craig,Travel hold,Basics,2022-12-03T14:42:00+05:30,2022-12-03T15:42:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+8,Craig,Home maintenance,Basics,2023-03-28T15:49:00+05:30,2023-03-28T16:49:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+9,Craig,Learning session,Basics,2023-07-24T16:56:00+05:30,2023-07-24T17:56:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+10,Craig,Holiday logistics,Basics,2023-11-18T17:03:00+05:30,2023-11-18T18:03:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+11,Craig,Quarterly planning,Basics,2024-03-14T08:10:00+05:30,2024-03-14T09:10:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,monthly
+12,Craig,Friend catch-up,Basics,2024-07-08T09:17:00+05:30,2024-07-08T10:17:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+13,Craig,Subscription audit,Basics,2024-11-02T10:24:00+05:30,2024-11-02T11:24:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+14,Craig,Benefits review,Basics,2025-02-27T11:31:00+05:30,2025-02-27T12:31:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+15,Craig,Summer schedule,Basics,2025-06-23T12:38:00+05:30,2025-06-23T13:38:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+16,Craig,Year-end review,Basics,2025-10-18T13:45:00+05:30,2025-10-18T14:45:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+17,Craig,Project milestone,Basics,2026-02-12T14:52:00+05:30,2026-02-12T15:52:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,
+18,Craig,Birthday reminder,Basics,2026-06-08T15:59:00+05:30,2026-06-08T16:59:00+05:30,elena.figueroa.lochcarron@gmail.com;isabel.ross.plockton@gmail.com,confirmed,yearly

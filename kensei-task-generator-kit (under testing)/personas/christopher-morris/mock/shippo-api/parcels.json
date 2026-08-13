@@ -1,0 +1,152 @@
+[
+  {
+    "object_id": "parcel-01",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-02",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-03",
+    "length": "5",
+    "width": "5",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "0.75",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-04",
+    "length": "12",
+    "width": "10",
+    "height": "6",
+    "distance_unit": "in",
+    "weight": "4.2",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-05",
+    "length": "14",
+    "width": "10",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "3.8",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-06",
+    "length": "8",
+    "width": "6",
+    "height": "3",
+    "distance_unit": "in",
+    "weight": "1.2",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-07",
+    "length": "20",
+    "width": "14",
+    "height": "10",
+    "distance_unit": "in",
+    "weight": "9.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-08",
+    "length": "11",
+    "width": "9",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.9",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-09",
+    "length": "6",
+    "width": "6",
+    "height": "6",
+    "distance_unit": "in",
+    "weight": "1.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-10",
+    "length": "18",
+    "width": "13",
+    "height": "9",
+    "distance_unit": "in",
+    "weight": "8.1",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-11",
+    "length": "9",
+    "width": "7",
+    "height": "3.5",
+    "distance_unit": "in",
+    "weight": "1.8",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-12",
+    "length": "13",
+    "width": "11",
+    "height": "7",
+    "distance_unit": "in",
+    "weight": "5.3",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-13",
+    "length": "7",
+    "width": "5",
+    "height": "2",
+    "distance_unit": "in",
+    "weight": "0.5",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-14",
+    "length": "15",
+    "width": "12",
+    "height": "6",
+    "distance_unit": "in",
+    "weight": "6.2",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-15",
+    "length": "24",
+    "width": "18",
+    "height": "12",
+    "distance_unit": "in",
+    "weight": "11.5",
+    "mass_unit": "lb",
+    "template": ""
+  }
+]

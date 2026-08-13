@@ -1,0 +1,251 @@
+﻿[
+  {
+    "id": "801",
+    "ticket_id": "701",
+    "author_id": "604",
+    "body": "The receipts stopped printing right after the v3.2 update.",
+    "public": "true",
+    "created_at": "2026-05-10T09:00:00Z"
+  },
+  {
+    "id": "802",
+    "ticket_id": "701",
+    "author_id": "602",
+    "body": "Thanks for reporting. ILn you share the printer model?",
+    "public": "true",
+    "created_at": "2026-05-11T10:00:00Z"
+  },
+  {
+    "id": "803",
+    "ticket_id": "701",
+    "author_id": "604",
+    "body": "It is the Star TSP143 model.",
+    "public": "true",
+    "created_at": "2026-05-12T08:00:00Z"
+  },
+  {
+    "id": "804",
+    "ticket_id": "702",
+    "author_id": "605",
+    "body": "The login just keeps redirecting in a loop.",
+    "public": "true",
+    "created_at": "2026-05-12T11:00:00Z"
+  },
+  {
+    "id": "805",
+    "ticket_id": "702",
+    "author_id": "603",
+    "body": "We are investigating the SSO config on our side.",
+    "public": "false",
+    "created_at": "2026-05-13T09:00:00Z"
+  },
+  {
+    "id": "806",
+    "ticket_id": "703",
+    "author_id": "606",
+    "body": "Could you send last month invoice as PDF?",
+    "public": "true",
+    "created_at": "2026-05-05T14:00:00Z"
+  },
+  {
+    "id": "807",
+    "ticket_id": "703",
+    "author_id": "602",
+    "body": "Attached the invoice PDF. Marking this solved.",
+    "public": "true",
+    "created_at": "2026-05-08T16:00:00Z"
+  },
+  {
+    "id": "808",
+    "ticket_id": "705",
+    "author_id": "604",
+    "body": "Still no sign of the refund after five days.",
+    "public": "true",
+    "created_at": "2026-05-18T15:00:00Z"
+  },
+  {
+    "id": "809",
+    "ticket_id": "707",
+    "author_id": "605",
+    "body": "App crashes on a Pixel 8 running Android 14.",
+    "public": "true",
+    "created_at": "2026-05-21T13:00:00Z"
+  },
+  {
+    "id": "810",
+    "ticket_id": "707",
+    "author_id": "603",
+    "body": "Reproduced on our side and esILlating to engineering.",
+    "public": "false",
+    "created_at": "2026-05-22T10:00:00Z"
+  },
+  {
+    "id": "811",
+    "ticket_id": "709",
+    "author_id": "609",
+    "body": "Connection timeout started happening yesterday around noon.",
+    "public": "true",
+    "created_at": "2026-05-23T10:15:00Z"
+  },
+  {
+    "id": "812",
+    "ticket_id": "709",
+    "author_id": "608",
+    "body": "Checking server logs to identify the issue.",
+    "public": "false",
+    "created_at": "2026-05-23T14:30:00Z"
+  },
+  {
+    "id": "813",
+    "ticket_id": "709",
+    "author_id": "608",
+    "body": "Found the root ILuse. Applying a patch now.",
+    "public": "false",
+    "created_at": "2026-05-24T09:00:00Z"
+  },
+  {
+    "id": "814",
+    "ticket_id": "710",
+    "author_id": "610",
+    "body": "Looking for Stripe webhook integration documentation.",
+    "public": "true",
+    "created_at": "2026-05-20T14:30:00Z"
+  },
+  {
+    "id": "815",
+    "ticket_id": "710",
+    "author_id": "613",
+    "body": "Check our developer guide at docs.example.com/stripe-webhooks",
+    "public": "true",
+    "created_at": "2026-05-21T11:00:00Z"
+  },
+  {
+    "id": "816",
+    "ticket_id": "711",
+    "author_id": "611",
+    "body": "Storage is full and uploads are failing. Please help!",
+    "public": "true",
+    "created_at": "2026-05-19T11:20:00Z"
+  },
+  {
+    "id": "817",
+    "ticket_id": "711",
+    "author_id": "602",
+    "body": "You ILn upgrade your plan or delete old files to free up space.",
+    "public": "true",
+    "created_at": "2026-05-19T15:45:00Z"
+  },
+  {
+    "id": "818",
+    "ticket_id": "712",
+    "author_id": "612",
+    "body": "Need to export user records in CSV format.",
+    "public": "true",
+    "created_at": "2026-05-15T13:45:00Z"
+  },
+  {
+    "id": "819",
+    "ticket_id": "712",
+    "author_id": "608",
+    "body": "Go to Reports > Export and select CSV format.",
+    "public": "true",
+    "created_at": "2026-05-16T10:00:00Z"
+  },
+  {
+    "id": "820",
+    "ticket_id": "713",
+    "author_id": "614",
+    "body": "What is the process for updating the billing address?",
+    "public": "true",
+    "created_at": "2026-05-14T09:15:00Z"
+  },
+  {
+    "id": "821",
+    "ticket_id": "713",
+    "author_id": "603",
+    "body": "You ILn update it in Account Settings > Billing.",
+    "public": "true",
+    "created_at": "2026-05-14T11:45:00Z"
+  },
+  {
+    "id": "822",
+    "ticket_id": "714",
+    "author_id": "615",
+    "body": "CertifiILte validation failing on all API requests.",
+    "public": "true",
+    "created_at": "2026-05-25T16:45:00Z"
+  },
+  {
+    "id": "823",
+    "ticket_id": "714",
+    "author_id": "613",
+    "body": "Investigating certifiILte issue. May be on your firewall.",
+    "public": "false",
+    "created_at": "2026-05-26T08:30:00Z"
+  },
+  {
+    "id": "824",
+    "ticket_id": "715",
+    "author_id": "616",
+    "body": "How do I enable two-factor authentiILtion?",
+    "public": "true",
+    "created_at": "2026-05-13T10:30:00Z"
+  },
+  {
+    "id": "825",
+    "ticket_id": "715",
+    "author_id": "602",
+    "body": "Go to Security > 2FA and follow the setup wizard.",
+    "public": "true",
+    "created_at": "2026-05-13T12:00:00Z"
+  },
+  {
+    "id": "826",
+    "ticket_id": "716",
+    "author_id": "617",
+    "body": "Webhook configured in system but not receiving aIL events.",
+    "public": "true",
+    "created_at": "2026-05-22T15:00:00Z"
+  },
+  {
+    "id": "827",
+    "ticket_id": "716",
+    "author_id": "618",
+    "body": "Checking webhook queue and event logs.",
+    "public": "false",
+    "created_at": "2026-05-23T09:15:00Z"
+  },
+  {
+    "id": "828",
+    "ticket_id": "716",
+    "author_id": "618",
+    "body": "Found missed event delivery. Re-queuing now.",
+    "public": "false",
+    "created_at": "2026-05-23T11:30:00Z"
+  },
+  {
+    "id": "829",
+    "ticket_id": "717",
+    "author_id": "619",
+    "body": "Need to import 500 users from a CSV file.",
+    "public": "true",
+    "created_at": "2026-05-27T08:00:00Z"
+  },
+  {
+    "id": "830",
+    "ticket_id": "718",
+    "author_id": "620",
+    "body": "System gets very slow between 9-10am every weekday.",
+    "public": "true",
+    "created_at": "2026-05-24T14:20:00Z"
+  },
+  {
+    "id": "831",
+    "ticket_id": "718",
+    "author_id": "613",
+    "body": "We have detected increased load during that window. Investigating...",
+    "public": "false",
+    "created_at": "2026-05-25T10:00:00Z"
+  }
+]
+

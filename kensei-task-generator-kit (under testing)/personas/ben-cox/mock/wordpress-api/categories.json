@@ -1,0 +1,162 @@
+[
+  {
+    "id": "10",
+    "name": "Dry-fit the face frames before glue-up",
+    "slug": "engineering",
+    "description": "Delivery window for the Stowe cabinets",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "id": "11",
+    "name": "Set up the dado stack for the bookshelf ",
+    "slug": "reliability",
+    "description": "Project schedule update",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "12",
+    "name": "Henderson kitchen cabinets",
+    "slug": "frontend",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "parent": "10",
+    "count": "1"
+  },
+  {
+    "id": "13",
+    "name": "Dry-fit the face frames before glue-up",
+    "slug": "announcements",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "14",
+    "name": "Dry-fit the face frames before glue-up",
+    "slug": "tutorials",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "911",
+    "name": "Splitting and stacking the winter firewo",
+    "slug": "engineering-b1",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "id": "913",
+    "name": "Built-ins - finish sample for your approval",
+    "slug": "reliability-b2",
+    "description": "Re: Bookshelf dimensions",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "915",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "slug": "frontend-b3",
+    "description": "Hang the soft-close doors and adjust the hinges",
+    "parent": "10",
+    "count": "1"
+  },
+  {
+    "id": "917",
+    "name": "Build the drawer boxes with half-blind d",
+    "slug": "announcements-b4",
+    "description": "Built-ins - finish sample for your approval",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "919",
+    "name": "Sand to 220 and raise the grain before f",
+    "slug": "tutorials-b5",
+    "description": "Template the Stowe countertop radius for the corner cabinet",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "916",
+    "name": "Splitting and stacking the winter firewo",
+    "slug": "engineering-b6",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "id": "918",
+    "name": "Whitcomb built-in bookshelves",
+    "slug": "reliability-b7",
+    "description": "Re: Stowe install date",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "920",
+    "name": "Replace the dust collector filter and cl",
+    "slug": "frontend-b8",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "parent": "10",
+    "count": "1"
+  },
+  {
+    "id": "922",
+    "name": "Lay out dovetails for the silverware dra",
+    "slug": "announcements-b9",
+    "description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "924",
+    "name": "Project schedule update",
+    "slug": "tutorials-b10",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "921",
+    "name": "Whitcomb built-in bookshelves",
+    "slug": "engineering-b11",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "id": "923",
+    "name": "Cota window seat & bookcase",
+    "slug": "reliability-b12",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "925",
+    "name": "Delivery window for the Stowe cabinets",
+    "slug": "frontend-b13",
+    "description": "Barn oak is summer 2027 - not pulling material yet.",
+    "parent": "10",
+    "count": "1"
+  },
+  {
+    "id": "927",
+    "name": "Mock up the crown profile for the Hender",
+    "slug": "announcements-b14",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "929",
+    "name": "Template the Stowe countertop radius for",
+    "slug": "tutorials-b15",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "parent": "0",
+    "count": "1"
+  }
+]

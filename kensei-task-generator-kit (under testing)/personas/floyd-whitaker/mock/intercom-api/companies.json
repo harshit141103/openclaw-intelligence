@@ -1,0 +1,202 @@
+[
+  {
+    "id": "company-wfs",
+    "company_id": "WFS-001",
+    "name": "Whitaker Freight Services",
+    "plan": "Pro",
+    "monthly_spend": "249.0",
+    "user_count": "6",
+    "industry": "Logistics",
+    "created_at": "2025-09-01T08:00:00.000Z"
+  },
+  {
+    "id": "company-routepoint",
+    "company_id": "RP-002",
+    "name": "RoutePoint Logistics Suite",
+    "plan": "Trial",
+    "monthly_spend": "0.0",
+    "user_count": "3",
+    "industry": "Software",
+    "created_at": "2026-04-15T08:00:00.000Z"
+  },
+  {
+    "id": "company-freightflow",
+    "company_id": "FF-003",
+    "name": "FreightFlow Pro",
+    "plan": "Trial",
+    "monthly_spend": "0.0",
+    "user_count": "2",
+    "industry": "Software",
+    "created_at": "2026-03-20T08:00:00.000Z"
+  },
+  {
+    "id": "company-burgess",
+    "company_id": "BL-004",
+    "name": "Burgess Logistics",
+    "plan": "Pro",
+    "monthly_spend": "249.0",
+    "user_count": "1",
+    "industry": "Logistics",
+    "created_at": "2025-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "company-cumberland",
+    "company_id": "CAP-005",
+    "name": "Cumberland Auto Parts",
+    "plan": "Pro",
+    "monthly_spend": "249.0",
+    "user_count": "1",
+    "industry": "Automotive Parts",
+    "created_at": "2026-04-25T08:00:00.000Z"
+  },
+  {
+    "id": "company-valleygrain",
+    "company_id": "VGC-006",
+    "name": "Valley Grain Cooperative",
+    "plan": "Pro",
+    "monthly_spend": "249.0",
+    "user_count": "1",
+    "industry": "Agriculture",
+    "created_at": "2026-04-28T08:00:00.000Z"
+  },
+  {
+    "id": "company-smokymtn",
+    "company_id": "SMB-007",
+    "name": "Smoky Mountain Building Supply",
+    "plan": "Pro",
+    "monthly_spend": "249.0",
+    "user_count": "1",
+    "industry": "Building Materials",
+    "created_at": "2026-05-01T08:00:00.000Z"
+  },
+  {
+    "id": "company-tristate",
+    "company_id": "TSM-008",
+    "name": "Tri-State Manufacturing",
+    "plan": "Pro",
+    "monthly_spend": "249.0",
+    "user_count": "1",
+    "industry": "Manufacturing",
+    "created_at": "2026-05-02T08:00:00.000Z"
+  },
+  {
+    "id": "company-appag",
+    "company_id": "AAP-009",
+    "name": "Appalachian Ag Producers",
+    "plan": "Pro",
+    "monthly_spend": "249.0",
+    "user_count": "1",
+    "industry": "Agriculture",
+    "created_at": "2026-05-03T08:00:00.000Z"
+  },
+  {
+    "id": "company-ridgeline",
+    "company_id": "RTL-010",
+    "name": "Ridgeline Trucking LLC",
+    "plan": "Starter",
+    "monthly_spend": "99.0",
+    "user_count": "1",
+    "industry": "Trucking",
+    "created_at": "2026-05-05T08:00:00.000Z"
+  },
+  {
+    "id": "company-cumberlandgap",
+    "company_id": "CGC-011",
+    "name": "Cumberland Gap Carriers",
+    "plan": "Starter",
+    "monthly_spend": "99.0",
+    "user_count": "1",
+    "industry": "Trucking",
+    "created_at": "2026-05-06T08:00:00.000Z"
+  },
+  {
+    "id": "company-volunteer",
+    "company_id": "VLC-012",
+    "name": "Volunteer Logistics Carriers",
+    "plan": "Starter",
+    "monthly_spend": "99.0",
+    "user_count": "1",
+    "industry": "Trucking",
+    "created_at": "2026-05-07T08:00:00.000Z"
+  },
+  {
+    "id": "company-smokyfreight",
+    "company_id": "SMF-013",
+    "name": "Smoky Mountain Freight Lines",
+    "plan": "Starter",
+    "monthly_spend": "99.0",
+    "user_count": "1",
+    "industry": "Trucking",
+    "created_at": "2026-05-08T08:00:00.000Z"
+  },
+  {
+    "id": "company-whitakerhauling",
+    "company_id": "WHL-014",
+    "name": "Whitaker Hauling",
+    "plan": "Starter",
+    "monthly_spend": "99.0",
+    "user_count": "1",
+    "industry": "Trucking",
+    "created_at": "2026-05-09T08:00:00.000Z"
+  },
+  {
+    "id": "company-tnfreightassoc",
+    "company_id": "TFA-015",
+    "name": "TN Freight Association",
+    "plan": "Free",
+    "monthly_spend": "0.0",
+    "user_count": "1",
+    "industry": "Trade Association",
+    "created_at": "2026-05-10T08:00:00.000Z"
+  },
+  {
+    "id": "company-praterco",
+    "company_id": "PRC-016",
+    "name": "Prater Accounting Services",
+    "plan": "Free",
+    "monthly_spend": "0.0",
+    "user_count": "1",
+    "industry": "Accounting",
+    "created_at": "2026-05-11T08:00:00.000Z"
+  },
+  {
+    "id": "company-valleyview",
+    "company_id": "VVM-017",
+    "name": "Valley View Family Medical Clinic",
+    "plan": "Free",
+    "monthly_spend": "0.0",
+    "user_count": "1",
+    "industry": "Healthcare",
+    "created_at": "2026-05-12T08:00:00.000Z"
+  },
+  {
+    "id": "company-prepass",
+    "company_id": "PPS-018",
+    "name": "PrePass",
+    "plan": "Free",
+    "monthly_spend": "0.0",
+    "user_count": "1",
+    "industry": "Transportation Technology",
+    "created_at": "2026-05-13T08:00:00.000Z"
+  },
+  {
+    "id": "company-cargonet",
+    "company_id": "CGN-019",
+    "name": "CargoNet Vetting",
+    "plan": "Starter",
+    "monthly_spend": "99.0",
+    "user_count": "1",
+    "industry": "Software",
+    "created_at": "2026-05-14T08:00:00.000Z"
+  },
+  {
+    "id": "company-firsttnvalley",
+    "company_id": "FTV-020",
+    "name": "First Tennessee Valley Bank",
+    "plan": "Free",
+    "monthly_spend": "0.0",
+    "user_count": "1",
+    "industry": "Banking",
+    "created_at": "2026-05-15T08:00:00.000Z"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "team-ux",
+    "name": "Mentorship Program",
+    "key": "MENT",
+    "description": "Planning the TN Freight Mentorship Program autumn cohort with Keith Burgess",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-06-01T10:00:00"
+  },
+  {
+    "id": "team-web",
+    "name": "WFS Website",
+    "key": "WEB",
+    "description": "Content and upkeep for whitakerfreight.com",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-16T09:00:00",
+    "updatedAt": "2026-06-02T10:00:00"
+  },
+  {
+    "id": "team-fse",
+    "name": "Freight Software Eval",
+    "key": "FSE",
+    "description": "Evaluating FreightFlow Pro vs RoutePoint Logistics Suite",
+    "color": "#F2994A",
+    "createdAt": "2026-01-17T09:00:00",
+    "updatedAt": "2026-06-09T10:00:00"
+  },
+  {
+    "id": "team-carrier",
+    "name": "Carrier Vetting",
+    "key": "CVR",
+    "description": "Carrier vetting refresh for automotive parts clients",
+    "color": "#6FCF97",
+    "createdAt": "2026-01-18T09:00:00",
+    "updatedAt": "2026-06-05T10:00:00"
+  },
+  {
+    "id": "team-onboard",
+    "name": "Brand Onboarding",
+    "key": "BOND",
+    "description": "Onboarding Brandon Whitaker as junior associate",
+    "color": "#BB6BD9",
+    "createdAt": "2026-01-19T09:00:00",
+    "updatedAt": "2026-06-04T10:00:00"
+  },
+  {
+    "id": "team-dot",
+    "name": "DOT Webinars",
+    "key": "DOT",
+    "description": "Quarterly DOT compliance webinars",
+    "color": "#EB5757",
+    "createdAt": "2026-01-20T09:00:00",
+    "updatedAt": "2026-06-03T10:00:00"
+  },
+  {
+    "id": "team-blog",
+    "name": "Blog & Newsletter",
+    "key": "BLOG",
+    "description": "WFS blog and client newsletter content",
+    "color": "#F2C94C",
+    "createdAt": "2026-01-21T09:00:00",
+    "updatedAt": "2026-06-08T10:00:00"
+  },
+  {
+    "id": "team-shop",
+    "name": "Merch Store",
+    "key": "SHOP",
+    "description": "WFS branded merch store",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-22T09:00:00",
+    "updatedAt": "2026-06-01T10:00:00"
+  },
+  {
+    "id": "team-acct",
+    "name": "Books & Tax",
+    "key": "ACCT",
+    "description": "Year-end bookkeeping and tax prep with Wayne Prater",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-23T09:00:00",
+    "updatedAt": "2026-06-08T10:00:00"
+  },
+  {
+    "id": "team-conf",
+    "name": "Conference Planning",
+    "key": "FAIR",
+    "description": "TN Freight Association October conference",
+    "color": "#F2994A",
+    "createdAt": "2026-01-24T09:00:00",
+    "updatedAt": "2026-06-02T10:00:00"
+  },
+  {
+    "id": "team-cookout",
+    "name": "Fall Cookout",
+    "key": "COOK",
+    "description": "October 17 fall client cookout",
+    "color": "#6FCF97",
+    "createdAt": "2026-01-25T09:00:00",
+    "updatedAt": "2026-06-01T10:00:00"
+  },
+  {
+    "id": "team-lane",
+    "name": "Lane Rate Review",
+    "key": "LANE",
+    "description": "Quarterly SE and Midwest lane rate review",
+    "color": "#BB6BD9",
+    "createdAt": "2026-01-26T09:00:00",
+    "updatedAt": "2026-06-05T10:00:00"
+  },
+  {
+    "id": "team-client",
+    "name": "Client Reviews",
+    "key": "CLNT",
+    "description": "Quarterly check-ins with top accounts",
+    "color": "#EB5757",
+    "createdAt": "2026-01-27T09:00:00",
+    "updatedAt": "2026-06-07T10:00:00"
+  },
+  {
+    "id": "team-insur",
+    "name": "Insurance & Bond",
+    "key": "INSUR",
+    "description": "Annual broker bond and insurance renewal",
+    "color": "#F2C94C",
+    "createdAt": "2026-01-28T09:00:00",
+    "updatedAt": "2026-06-01T10:00:00"
+  },
+  {
+    "id": "team-mktg",
+    "name": "Marketing",
+    "key": "MKTG",
+    "description": "Email campaigns, social posts, lead follow-up",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-29T09:00:00",
+    "updatedAt": "2026-06-08T10:00:00"
+  },
+  {
+    "id": "team-hire",
+    "name": "Dispatcher Hiring",
+    "key": "HIRE",
+    "description": "Hiring a dispatcher for the Knoxville office",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-30T09:00:00",
+    "updatedAt": "2026-06-06T10:00:00"
+  },
+  {
+    "id": "team-tms",
+    "name": "TMS Migration",
+    "key": "TMS",
+    "description": "Migrating load data into the chosen TMS",
+    "color": "#F2994A",
+    "createdAt": "2026-02-01T09:00:00",
+    "updatedAt": "2026-06-09T10:00:00"
+  },
+  {
+    "id": "team-phone",
+    "name": "Phone Upgrade",
+    "key": "PHONE",
+    "description": "Office phone and VoIP system upgrade",
+    "color": "#6FCF97",
+    "createdAt": "2026-02-02T09:00:00",
+    "updatedAt": "2026-06-02T10:00:00"
+  },
+  {
+    "id": "team-safety",
+    "name": "Safety Scorecards",
+    "key": "SAFETY",
+    "description": "Monthly carrier safety scorecards from FMCSA data",
+    "color": "#BB6BD9",
+    "createdAt": "2026-02-03T09:00:00",
+    "updatedAt": "2026-06-05T10:00:00"
+  },
+  {
+    "id": "team-assoc",
+    "name": "Assoc Board Duties",
+    "key": "ASSOC",
+    "description": "Floyd's TN Freight Association board tasks",
+    "color": "#EB5757",
+    "createdAt": "2026-02-04T09:00:00",
+    "updatedAt": "2026-06-04T10:00:00"
+  }
+]

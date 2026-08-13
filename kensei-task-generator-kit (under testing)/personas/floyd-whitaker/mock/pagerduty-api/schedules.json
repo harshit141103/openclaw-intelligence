@@ -1,0 +1,182 @@
+[
+  {
+    "schedule_id": "SCH001",
+    "name": "WFS Website On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Email Routing On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU010",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "RoutePoint Portal On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP003",
+    "current_oncall_user_id": "PU009",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH004",
+    "name": "Database Backup On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP004",
+    "current_oncall_user_id": "PU010",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH005",
+    "name": "SSL Monitor On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP005",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH006",
+    "name": "DNS Health On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP006",
+    "current_oncall_user_id": "PU010",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH007",
+    "name": "Contact Form On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP007",
+    "current_oncall_user_id": "PU001",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH008",
+    "name": "QuickBooks Sync On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP008",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH009",
+    "name": "DAT Integration On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP009",
+    "current_oncall_user_id": "PU005",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH010",
+    "name": "MacroPoint Feed On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP010",
+    "current_oncall_user_id": "PU006",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH011",
+    "name": "Web Hosting On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP011",
+    "current_oncall_user_id": "PU010",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH012",
+    "name": "Office Internet On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP012",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH013",
+    "name": "VPN Gateway On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP013",
+    "current_oncall_user_id": "PU010",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH014",
+    "name": "Spam Filter On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP014",
+    "current_oncall_user_id": "PU001",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH015",
+    "name": "RoutePoint Sync On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP015",
+    "current_oncall_user_id": "PU009",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH016",
+    "name": "Invoice Generator On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP016",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH017",
+    "name": "Analytics Collector On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP017",
+    "current_oncall_user_id": "PU010",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH018",
+    "name": "Document Storage On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP018",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH019",
+    "name": "Staging Portal On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP019",
+    "current_oncall_user_id": "PU009",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  },
+  {
+    "schedule_id": "SCH020",
+    "name": "After-Hours Critical On-Call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP020",
+    "current_oncall_user_id": "PU020",
+    "oncall_start": "2026-06-08T12:00:00Z",
+    "oncall_end": "2026-06-15T12:00:00Z"
+  }
+]

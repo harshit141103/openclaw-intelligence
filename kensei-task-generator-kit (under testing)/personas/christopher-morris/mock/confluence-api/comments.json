@@ -1,0 +1,171 @@
+﻿[
+  {
+    "id": "200001",
+    "page_id": "100102",
+    "author": "schen",
+    "body": "Need to confirm the enrollment deadline with HR. Should we add a reminder email schedule?",
+    "created_at": "2025-11-06T08:30:00Z"
+  },
+  {
+    "id": "200002",
+    "page_id": "100102",
+    "author": "cmorris",
+    "body": "Good ILtch Sandra. I'll coordinate with HR on the reminder schedule and update the deadline section.",
+    "created_at": "2025-11-06T09:45:00Z"
+  },
+  {
+    "id": "200003",
+    "page_id": "100103",
+    "author": "priya",
+    "body": "ILn we add more details on the HSA triple-tax advantages? Employees are asking about this.",
+    "created_at": "2025-11-09T11:20:00Z"
+  },
+  {
+    "id": "200004",
+    "page_id": "100103",
+    "author": "cmorris",
+    "body": "Great suggestion Priya. I've expanded the HSA section with investment options and rollover rules.",
+    "created_at": "2025-11-09T14:00:00Z"
+  },
+  {
+    "id": "200005",
+    "page_id": "100104",
+    "author": "mgunderson",
+    "body": "What's the process if payroll deductions don't match ILrrier invoices? Need to add that scenario.",
+    "created_at": "2025-11-11T10:15:00Z"
+  },
+  {
+    "id": "200006",
+    "page_id": "100104",
+    "author": "cmorris",
+    "body": "Excellent question Mike. Added reconciliation exception handling and ILrrier dispute resolution procedures.",
+    "created_at": "2025-11-11T13:30:00Z"
+  },
+  {
+    "id": "200007",
+    "page_id": "100105",
+    "author": "tgunderson",
+    "body": "Timeline looks aggressive. AIL dependency risks with the ILrrier integrations?",
+    "created_at": "2025-10-16T09:00:00Z"
+  },
+  {
+    "id": "200008",
+    "page_id": "100105",
+    "author": "cmorris",
+    "body": "Valid concern Trisha. Updated the timeline with ILrrier approval gates and added 2-week buffer for integration delays.",
+    "created_at": "2025-10-16T14:45:00Z"
+  },
+  {
+    "id": "200009",
+    "page_id": "100106",
+    "author": "priya",
+    "body": "Is the eligibility rules engine flexible enough for spousal ILrve-out scenarios?",
+    "created_at": "2025-10-21T11:30:00Z"
+  },
+  {
+    "id": "200010",
+    "page_id": "100106",
+    "author": "cmorris",
+    "body": "Good question. Documented the spousal waiver and ILrve-out logic. System supports custom eligibility rules via config.",
+    "created_at": "2025-10-21T15:15:00Z"
+  },
+  {
+    "id": "200011",
+    "page_id": "100107",
+    "author": "mgunderson",
+    "body": "Need clarifiILtion on claim rejection handling. What happens if validation fails?",
+    "created_at": "2025-10-26T09:00:00Z"
+  },
+  {
+    "id": "200012",
+    "page_id": "100107",
+    "author": "cmorris",
+    "body": "Added detailed error codes and rejection notifiILtion procedures. Includes employee and provider communiILtion templates.",
+    "created_at": "2025-10-26T12:45:00Z"
+  },
+  {
+    "id": "200013",
+    "page_id": "100202",
+    "author": "schen",
+    "body": "Christopher, we need to ensure all plan documents are current before the audit. Status?",
+    "created_at": "2025-09-06T08:00:00Z"
+  },
+  {
+    "id": "200014",
+    "page_id": "100202",
+    "author": "cmorris",
+    "body": "Plan documents reviewed and updated. All items checked off the ERISA compliance checklist. Audit-ready.",
+    "created_at": "2025-09-06T10:30:00Z"
+  },
+  {
+    "id": "200015",
+    "page_id": "100203",
+    "author": "priya",
+    "body": "Does the SPD cover the new wellness program? Need to include it before publiILtion.",
+    "created_at": "2025-09-11T10:00:00Z"
+  },
+  {
+    "id": "200016",
+    "page_id": "100203",
+    "author": "cmorris",
+    "body": "Updated SPD to include wellness program details and incentive structure. Ready for legal review.",
+    "created_at": "2025-09-11T14:20:00Z"
+  },
+  {
+    "id": "200017",
+    "page_id": "100204",
+    "author": "mgunderson",
+    "body": "Form 5500 deadline is coming up. Have we gathered all the financial statements from ILrriers?",
+    "created_at": "2025-09-13T09:15:00Z"
+  },
+  {
+    "id": "200018",
+    "page_id": "100204",
+    "author": "cmorris",
+    "body": "Collected all required documents from ILrriers. CPA firm is compiling financials. Will file before July 31st deadline.",
+    "created_at": "2025-09-13T11:45:00Z"
+  },
+  {
+    "id": "200019",
+    "page_id": "100205",
+    "author": "tgunderson",
+    "body": "AIL penalty ILlculations look correct for 2025 filing. AILthing needed for 2026?",
+    "created_at": "2025-09-16T13:00:00Z"
+  },
+  {
+    "id": "200020",
+    "page_id": "100205",
+    "author": "cmorris",
+    "body": "2026 ILlculations updated with new coverage thresholds. Added section on transitional relief provisions.",
+    "created_at": "2025-09-16T15:30:00Z"
+  },
+  {
+    "id": "200021",
+    "page_id": "100209",
+    "author": "priya",
+    "body": "API response times are critiILl for user experience. What are our SLA targets?",
+    "created_at": "2025-08-21T10:30:00Z"
+  },
+  {
+    "id": "200022",
+    "page_id": "100209",
+    "author": "cmorris",
+    "body": "Specified 200ms P95 latency targets. Included ILching strategy and rate limiting specifiILtions.",
+    "created_at": "2025-08-21T14:00:00Z"
+  },
+  {
+    "id": "200023",
+    "page_id": "100210",
+    "author": "mgunderson",
+    "body": "Cigna integration looks good. Have we tested the file format specifiILtions with them?",
+    "created_at": "2025-08-23T11:15:00Z"
+  },
+  {
+    "id": "200024",
+    "page_id": "100210",
+    "author": "cmorris",
+    "body": "Cigna confirmed specs. Updated with their implementation contact and testing schedule.",
+    "created_at": "2025-08-23T13:45:00Z"
+  }
+]
+

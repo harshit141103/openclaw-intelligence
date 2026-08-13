@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "slug": "whitaker-freight",
+    "name": "Whitaker Freight Services",
+    "status": "active",
+    "date_created": "2024-02-10T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "slug": "wfs-staging",
+    "name": "Whitaker Freight Staging",
+    "status": "active",
+    "date_created": "2024-02-11T10:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "slug": "wfs-internal-tools",
+    "name": "WFS Internal Tools",
+    "status": "active",
+    "date_created": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "slug": "burgess-logistics",
+    "name": "Burgess Logistics",
+    "status": "active",
+    "date_created": "2024-03-15T10:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "slug": "tn-freight-association",
+    "name": "TN Freight Association",
+    "status": "active",
+    "date_created": "2024-05-18T10:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "slug": "tn-freight-mentorship",
+    "name": "TN Freight Mentorship Program",
+    "status": "active",
+    "date_created": "2025-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "slug": "whitaker-hauling",
+    "name": "Whitaker Hauling",
+    "status": "active",
+    "date_created": "2024-04-10T10:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "slug": "wfs-marketing",
+    "name": "WFS Marketing Site",
+    "status": "active",
+    "date_created": "2024-06-10T10:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "slug": "wfs-tracking-portal",
+    "name": "WFS Tracking Portal",
+    "status": "active",
+    "date_created": "2024-07-22T10:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "slug": "wfs-carrier-portal",
+    "name": "WFS Carrier Portal",
+    "status": "active",
+    "date_created": "2024-08-15T10:00:00.000Z"
+  },
+  {
+    "id": "11",
+    "slug": "wfs-legacy",
+    "name": "WFS Legacy Site",
+    "status": "disabled",
+    "date_created": "2020-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "slug": "wfs-mobile",
+    "name": "WFS Mobile App",
+    "status": "active",
+    "date_created": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "13",
+    "slug": "wfs-webhooks",
+    "name": "WFS Webhooks Service",
+    "status": "active",
+    "date_created": "2025-04-09T10:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "slug": "wfs-quotes",
+    "name": "WFS Quotes Service",
+    "status": "active",
+    "date_created": "2024-09-06T10:00:00.000Z"
+  },
+  {
+    "id": "15",
+    "slug": "wfs-billing",
+    "name": "WFS Billing Integration",
+    "status": "active",
+    "date_created": "2024-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "16",
+    "slug": "wfs-dot-webinars",
+    "name": "WFS DOT Webinars",
+    "status": "active",
+    "date_created": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "17",
+    "slug": "wfs-newsletter",
+    "name": "WFS Newsletter Platform",
+    "status": "active",
+    "date_created": "2024-10-12T10:00:00.000Z"
+  },
+  {
+    "id": "18",
+    "slug": "wfs-chat",
+    "name": "WFS Chat Widget",
+    "status": "active",
+    "date_created": "2025-02-28T10:00:00.000Z"
+  },
+  {
+    "id": "19",
+    "slug": "wfs-sandbox",
+    "name": "WFS Developer Sandbox",
+    "status": "active",
+    "date_created": "2024-12-01T10:00:00.000Z"
+  },
+  {
+    "id": "20",
+    "slug": "wfs-status-page",
+    "name": "WFS Status Page",
+    "status": "active",
+    "date_created": "2025-03-19T10:00:00.000Z"
+  }
+]

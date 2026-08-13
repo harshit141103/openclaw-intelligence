@@ -1,0 +1,182 @@
+[
+  {
+    "id": "t5_aaa001",
+    "name": "BBQ",
+    "title": "Barbecue",
+    "public_description": "All about low and slow smoked meats, rubs, and pit builds",
+    "subscribers": "1900000",
+    "created_utc": "1201234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa002",
+    "name": "smoking",
+    "title": "r/smoking",
+    "public_description": "For everyone who loves smoking meat, fish, and cheese",
+    "subscribers": "880000",
+    "created_utc": "1301234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa003",
+    "name": "Volunteers",
+    "title": "Tennessee Volunteers",
+    "public_description": "Home for fans of Tennessee Vols football and athletics",
+    "subscribers": "78000",
+    "created_utc": "1251234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa004",
+    "name": "Truckers",
+    "title": "r/Truckers",
+    "public_description": "Discussion for drivers, brokers, and the freight industry",
+    "subscribers": "310000",
+    "created_utc": "1281234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa005",
+    "name": "Knoxville",
+    "title": "Knoxville, TN",
+    "public_description": "News and chatter for the Knoxville Tennessee area",
+    "subscribers": "120000",
+    "created_utc": "1291234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa006",
+    "name": "fishing",
+    "title": "Fishing",
+    "public_description": "A community for anglers of all kinds",
+    "subscribers": "2400000",
+    "created_utc": "1241234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa007",
+    "name": "Appalachia",
+    "title": "Appalachia",
+    "public_description": "Culture, history, and life in the Appalachian region",
+    "subscribers": "95000",
+    "created_utc": "1331234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa008",
+    "name": "railroad",
+    "title": "Railroads",
+    "public_description": "Trains, rail history, and railroading past and present",
+    "subscribers": "180000",
+    "created_utc": "1271234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa009",
+    "name": "FreightBrokers",
+    "title": "Freight Brokers",
+    "public_description": "For freight brokers, dispatchers, and 3PL folks talking the business",
+    "subscribers": "42000",
+    "created_utc": "1351234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa010",
+    "name": "Tennessee",
+    "title": "Tennessee",
+    "public_description": "Everything about the Volunteer State",
+    "subscribers": "210000",
+    "created_utc": "1261234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa011",
+    "name": "smokedmeat",
+    "title": "Smoked Meat",
+    "public_description": "Brisket, ribs, pulled pork and everything off the smoker",
+    "subscribers": "150000",
+    "created_utc": "1361234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa012",
+    "name": "bluegrass",
+    "title": "Bluegrass Music",
+    "public_description": "Banjos, fiddles, and all things bluegrass and old-time",
+    "subscribers": "88000",
+    "created_utc": "1311234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa013",
+    "name": "classicrock",
+    "title": "Classic Rock",
+    "public_description": "Discussion of classic rock and Southern rock music",
+    "subscribers": "640000",
+    "created_utc": "1231234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa014",
+    "name": "flyfishing",
+    "title": "Fly Fishing",
+    "public_description": "Tips, trips, and tying for fly anglers",
+    "subscribers": "320000",
+    "created_utc": "1251234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa015",
+    "name": "CFB",
+    "title": "College Football",
+    "public_description": "The home of college football on Reddit",
+    "subscribers": "2600000",
+    "created_utc": "1221234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa016",
+    "name": "Trucking",
+    "title": "Trucking",
+    "public_description": "News and discussion for the trucking and logistics industry",
+    "subscribers": "190000",
+    "created_utc": "1281334567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa017",
+    "name": "Kentucky",
+    "title": "Kentucky",
+    "public_description": "News and community for the Bluegrass State",
+    "subscribers": "160000",
+    "created_utc": "1271334567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa018",
+    "name": "Charcoal",
+    "title": "Charcoal Grilling",
+    "public_description": "Low and slow or hot and fast, all over charcoal and wood",
+    "subscribers": "94000",
+    "created_utc": "1341234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa019",
+    "name": "guitar",
+    "title": "Guitar",
+    "public_description": "A community of guitar players of every skill level",
+    "subscribers": "1500000",
+    "created_utc": "1211234567",
+    "over18": "false"
+  },
+  {
+    "id": "t5_aaa020",
+    "name": "Vols",
+    "title": "Tennessee Vols",
+    "public_description": "Go Big Orange. Tennessee Volunteers fan community",
+    "subscribers": "54000",
+    "created_utc": "1301334567",
+    "over18": "false"
+  }
+]

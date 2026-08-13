@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Craig Figueroa"
+        ],
+        "emails": [
+          {
+            "data": "craig.figueroa@gmail.com",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+447700900101",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "Croft Road, Strathcarron",
+              "city": "Portland",
+              "region": "OR",
+              "postal_code": "97201",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Craig Figueroa"
+        ],
+        "emails": [
+          {
+            "data": "craig.figueroa@gmail.com",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+447700900101",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "Croft Road, Strathcarron",
+              "city": "Portland",
+              "region": "OR",
+              "postal_code": "97201",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

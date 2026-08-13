@@ -1,0 +1,72 @@
+[
+  {
+    "iata_code": "BA",
+    "icao_code": "BAW",
+    "business_name": "British Airways Plc",
+    "common_name": "British Airways",
+    "country_code": "GB"
+  },
+  {
+    "iata_code": "SK",
+    "icao_code": "SAS",
+    "business_name": "Scandinavian Airlines System",
+    "common_name": "SAS",
+    "country_code": "SE"
+  },
+  {
+    "iata_code": "DY",
+    "icao_code": "NOZ",
+    "business_name": "Norwegian Air Shuttle",
+    "common_name": "Norwegian",
+    "country_code": "NO"
+  },
+  {
+    "iata_code": "KL",
+    "icao_code": "KLM",
+    "business_name": "KLM Royal Dutch Airlines",
+    "common_name": "KLM",
+    "country_code": "NL"
+  },
+  {
+    "iata_code": "LM",
+    "icao_code": "LOG",
+    "business_name": "Loganair Limited",
+    "common_name": "Loganair",
+    "country_code": "GB"
+  },
+  {
+    "iata_code": "WF",
+    "icao_code": "WIF",
+    "business_name": "Wideroe",
+    "common_name": "Wideroe",
+    "country_code": "NO"
+  },
+  {
+    "iata_code": "LH",
+    "icao_code": "DLH",
+    "business_name": "Deutsche Lufthansa AG",
+    "common_name": "Lufthansa",
+    "country_code": "DE"
+  },
+  {
+    "iata_code": "AF",
+    "icao_code": "AFR",
+    "business_name": "Air France",
+    "common_name": "Air France",
+    "country_code": "FR"
+  },
+  {
+    "iata_code": "FR",
+    "icao_code": "RYR",
+    "business_name": "Ryanair",
+    "common_name": "Ryanair",
+    "country_code": "IE"
+  },
+  {
+    "iata_code": "U2",
+    "icao_code": "EZY",
+    "business_name": "easyJet",
+    "common_name": "easyJet",
+    "country_code": "GB"
+  }
+]

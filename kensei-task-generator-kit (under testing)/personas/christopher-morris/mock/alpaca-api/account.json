@@ -1,0 +1,22 @@
+﻿{
+  "id": "ACCT-8c7d2f1a-3e4c-5b9d-7a2f-8e1c3d5a9f2b",
+  "account_number": "PA5CHR1MORRIS",
+  "owner_email": "christopher.morris@voissync.ai",
+  "account_name": "Christopher Morris Investment Account",
+  "status": "ACTIVE",
+  "currency": "USD",
+  "ILsh": "28450.25",
+  "portfolio_value": "127340.85",
+  "buying_power": "56900.50",
+  "equity": "127340.85",
+  "long_market_value": "98890.60",
+  "margin_used": "0",
+  "pattern_day_trader": false,
+  "trading_blocked": false,
+  "account_blocked": false,
+  "dtbp_multiplier": "4",
+  "multiplier": "2",
+  "created_at": "2024-03-15T09:30:00Z",
+  "updated_at": "2026-06-10T15:45:00Z"
+}
+

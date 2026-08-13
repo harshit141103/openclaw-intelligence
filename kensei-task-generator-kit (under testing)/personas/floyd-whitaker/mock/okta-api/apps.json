@@ -1,0 +1,162 @@
+[
+  {
+    "id": "0oa1gworkspace",
+    "name": "google_workspace",
+    "label": "Google Workspace",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-09T10:00:00.000Z"
+  },
+  {
+    "id": "0oa2outlook",
+    "name": "microsoft_office365",
+    "label": "Outlook (Legacy)",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-09T10:05:00.000Z"
+  },
+  {
+    "id": "0oa3zoom",
+    "name": "zoom",
+    "label": "Zoom",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "0oa4quickbooks",
+    "name": "quickbooks_online",
+    "label": "QuickBooks Online",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-12T10:00:00.000Z"
+  },
+  {
+    "id": "0oa5routepoint",
+    "name": "routepoint_logistics",
+    "label": "RoutePoint Logistics Suite",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2025-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "0oa6freightflow",
+    "name": "freightflow_pro",
+    "label": "FreightFlow Pro",
+    "status": "INACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa7dat",
+    "name": "dat_load_board",
+    "label": "DAT Load Board",
+    "status": "ACTIVE",
+    "sign_on_mode": "SECURE_PASSWORD_STORE",
+    "created": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "0oa8linkedin",
+    "name": "linkedin",
+    "label": "LinkedIn",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-05-20T10:00:00.000Z"
+  },
+  {
+    "id": "0oa9gmail",
+    "name": "google_gmail",
+    "label": "Gmail",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-09T10:02:00.000Z"
+  },
+  {
+    "id": "0oa10calendar",
+    "name": "google_calendar",
+    "label": "Google Calendar",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-09T10:03:00.000Z"
+  },
+  {
+    "id": "0oa11drive",
+    "name": "google_drive",
+    "label": "Google Drive",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-09T10:04:00.000Z"
+  },
+  {
+    "id": "0oa12sheets",
+    "name": "google_sheets",
+    "label": "Google Sheets",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-09T10:06:00.000Z"
+  },
+  {
+    "id": "0oa13slack",
+    "name": "slack",
+    "label": "Slack",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-06-10T10:00:00.000Z"
+  },
+  {
+    "id": "0oa14notion",
+    "name": "notion",
+    "label": "Notion",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-08T10:00:00.000Z"
+  },
+  {
+    "id": "0oa15dropbox",
+    "name": "dropbox",
+    "label": "Dropbox",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-04-22T10:00:00.000Z"
+  },
+  {
+    "id": "0oa16docusign",
+    "name": "docusign",
+    "label": "DocuSign",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-05-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa17adp",
+    "name": "adp_run",
+    "label": "ADP RUN Payroll",
+    "status": "ACTIVE",
+    "sign_on_mode": "SECURE_PASSWORD_STORE",
+    "created": "2024-02-20T10:00:00.000Z"
+  },
+  {
+    "id": "0oa18paypal",
+    "name": "paypal",
+    "label": "PayPal",
+    "status": "ACTIVE",
+    "sign_on_mode": "SECURE_PASSWORD_STORE",
+    "created": "2024-03-15T10:00:00.000Z"
+  },
+  {
+    "id": "0oa19macropoint",
+    "name": "macropoint",
+    "label": "MacroPoint Tracking",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-07-08T10:00:00.000Z"
+  },
+  {
+    "id": "0oa20pagerduty",
+    "name": "pagerduty",
+    "label": "PagerDuty",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-06-25T10:00:00.000Z"
+  }
+]

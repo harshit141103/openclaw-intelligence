@@ -1,0 +1,102 @@
+[
+  {
+    "app_id": "0oa1gworkspace",
+    "user_id": "00u1floyd",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1gworkspace",
+    "user_id": "00u2bren",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1gworkspace",
+    "user_id": "00u3brand",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1gworkspace",
+    "user_id": "00u4travis",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1gworkspace",
+    "user_id": "00u5lorrie",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1gworkspace",
+    "user_id": "00u6dale",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1gworkspace",
+    "user_id": "00u7carla",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2outlook",
+    "user_id": "00u1floyd",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3zoom",
+    "user_id": "00u1floyd",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3zoom",
+    "user_id": "00u2bren",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3zoom",
+    "user_id": "00u3brand",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa4quickbooks",
+    "user_id": "00u6dale",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa4quickbooks",
+    "user_id": "00u1floyd",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5routepoint",
+    "user_id": "00u1floyd",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5routepoint",
+    "user_id": "00u4travis",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5routepoint",
+    "user_id": "00u5lorrie",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa5routepoint",
+    "user_id": "00u3brand",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa7dat",
+    "user_id": "00u4travis",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa7dat",
+    "user_id": "00u5lorrie",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa8linkedin",
+    "user_id": "00u1floyd",
+    "scope": "USER"
+  }
+]

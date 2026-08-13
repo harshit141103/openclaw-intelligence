@@ -1,0 +1,182 @@
+[
+  {
+    "id": "diane.cox.vt@gmail.com",
+    "summary": "Mill cherry stock to thickness for the u",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "keith.cox.bvt@gmail.com",
+    "summary": "Delivery window for the Stowe cabinets",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "marie.gagne.vt@gmail.com",
+    "summary": "Built-ins - finish sample for your approval",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "tom.gagne.vt@gmail.com",
+    "summary": "Mill cherry stock to thickness for the u",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "pete.lafleur.vt@gmail.com",
+    "summary": "Cut dadoes for the adjustable shelf pins",
+    "description": "Delivery window for the Stowe cabinets",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "jwhitfield@copleyvt.org",
+    "summary": "Mock up the crown profile for the Hender",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "frontdesk@hardwickdental.com",
+    "summary": "Sharpen the jointer knives and reset the",
+    "description": "Final fit of the Henderson island base cabinets",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "shenderson@stowevt.net",
+    "summary": "Church pew repair",
+    "description": "Re: Stowe install date",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "lhenderson@stowevt.net",
+    "summary": "Mill cherry stock to thickness for the u",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "awhitcomb@sterling.edu",
+    "summary": "Lafleur barn door (favor)",
+    "description": "Final fit of the Henderson island base cabinets",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "paul.dufresne@myfairpoint.net",
+    "summary": "Cherry pricing for the Henderson uppers",
+    "description": "Re-saw the walnut for bookmatched panels",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "marc.belanger.mason@gmail.com",
+    "summary": "Mock up the crown profile for the Hender",
+    "description": "Splitting and stacking the winter firewood",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "stoddard.electric@gmail.com",
+    "summary": "Splitting and stacking the winter firewo",
+    "description": "Project schedule update",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "orders@hardwicklumber.com",
+    "summary": "Built-ins - finish sample for your approval",
+    "description": "Built-ins - finish sample for your approval",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "sales@greenmountainhardwoods.com",
+    "summary": "Stage the bookshelf sections for the Cra",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "ray@hardwicklumber.com",
+    "summary": "Hang the soft-close doors and adjust the",
+    "description": "Cherry pricing for the Henderson uppers",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "nancy.beaulieu@gmavt.net",
+    "summary": "Delivery window for the Stowe cabinets",
+    "description": "Lay out dovetails for the silverware drawer",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "office@craftsburychurch.org",
+    "summary": "Check the moisture content on the barn o",
+    "description": "Cherry pricing for the Henderson uppers",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "walt.perreault@gmail.com",
+    "summary": "Re-saw the walnut for bookmatched panels",
+    "description": "Built-ins - finish sample for your approval",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "donna.sloan@comcast.net",
+    "summary": "Template the Stowe countertop radius for",
+    "description": "Lay out dovetails for the silverware drawer",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  }
+]

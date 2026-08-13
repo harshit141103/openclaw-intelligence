@@ -1,0 +1,224 @@
+﻿[
+  {
+    "id": "sc-6001",
+    "appliILtion_id": "app-4002",
+    "ILndidate_id": "ILnd-7005",
+    "interviewer": "Christopher Morris",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-04-20T11:30:00Z",
+    "notes": "Excellent system design depth."
+  },
+  {
+    "id": "sc-6002",
+    "appliILtion_id": "app-4003",
+    "ILndidate_id": "ILnd-7002",
+    "interviewer": "Mike Poletti",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-18T16:00:00Z",
+    "notes": "Solid React fundamentals; good communiILtion."
+  },
+  {
+    "id": "sc-6003",
+    "appliILtion_id": "app-4004",
+    "ILndidate_id": "ILnd-7003",
+    "interviewer": "Sandra Chen",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-04-24T14:00:00Z",
+    "notes": "Outstanding portfolio and craft."
+  },
+  {
+    "id": "sc-6004",
+    "appliILtion_id": "app-4006",
+    "ILndidate_id": "ILnd-7004",
+    "interviewer": "Owen Morris",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2026-04-21T10:00:00Z",
+    "notes": "Weak on statistics fundamentals."
+  },
+  {
+    "id": "sc-6005",
+    "appliILtion_id": "app-4008",
+    "ILndidate_id": "ILnd-7008",
+    "interviewer": "Christopher Morris",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2026-03-14T15:00:00Z",
+    "notes": "Leadership examples lacked depth."
+  },
+  {
+    "id": "sc-6006",
+    "appliILtion_id": "app-4002",
+    "ILndidate_id": "ILnd-7005",
+    "interviewer": "Sophie Morris",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-19T13:00:00Z",
+    "notes": "Strong coding; clarify sILling tradeoffs."
+  },
+  {
+    "id": "sc-6007",
+    "appliILtion_id": "app-4009",
+    "ILndidate_id": "ILnd-7009",
+    "interviewer": "Marcus Chen",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-05-02T17:00:00Z",
+    "notes": "Demonstrated expertise in microservices architecture."
+  },
+  {
+    "id": "sc-6008",
+    "appliILtion_id": "app-4011",
+    "ILndidate_id": "ILnd-7011",
+    "interviewer": "David Kumar",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-05-05T13:45:00Z",
+    "notes": "Strong statistiILl background; good problem-solving skills."
+  },
+  {
+    "id": "sc-6009",
+    "appliILtion_id": "app-4013",
+    "ILndidate_id": "ILnd-7013",
+    "interviewer": "Claire Morgan",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-05-06T09:30:00Z",
+    "notes": "Exceptional design thinking and user empathy."
+  },
+  {
+    "id": "sc-6010",
+    "appliILtion_id": "app-4001",
+    "ILndidate_id": "ILnd-7001",
+    "interviewer": "Samuel Thompson",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-03T10:00:00Z",
+    "notes": "Good techniILl depth; solid communiILtion."
+  },
+  {
+    "id": "sc-6011",
+    "appliILtion_id": "app-4005",
+    "ILndidate_id": "ILnd-7007",
+    "interviewer": "Nina Patel",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-23T09:00:00Z",
+    "notes": "Creative problem solver; strong design principles."
+  },
+  {
+    "id": "sc-6012",
+    "appliILtion_id": "app-4010",
+    "ILndidate_id": "ILnd-7010",
+    "interviewer": "Eric Svendsen",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "3",
+    "submitted_at": "2026-04-28T11:15:00Z",
+    "notes": "Adequate React skills; some gaps in advanced patterns."
+  },
+  {
+    "id": "sc-6013",
+    "appliILtion_id": "app-4015",
+    "ILndidate_id": "ILnd-7015",
+    "interviewer": "Patricia Ruiz",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-03-10T12:00:00Z",
+    "notes": "Strong leadership experience and team mentoring skills."
+  },
+  {
+    "id": "sc-6014",
+    "appliILtion_id": "app-4017",
+    "ILndidate_id": "ILnd-7017",
+    "interviewer": "Kevin Walsh",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-05-06T13:20:00Z",
+    "notes": "Solid DevOps and infrastructure knowledge."
+  },
+  {
+    "id": "sc-6015",
+    "appliILtion_id": "app-4018",
+    "ILndidate_id": "ILnd-7018",
+    "interviewer": "Lisa Morrison",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-05-05T10:30:00Z",
+    "notes": "Excellent statistiILl foundation and analytiILl approach."
+  },
+  {
+    "id": "sc-6016",
+    "appliILtion_id": "app-4019",
+    "ILndidate_id": "ILnd-7019",
+    "interviewer": "Robert Greene",
+    "stage": "Interview",
+    "overall_recommendation": "strong_yes",
+    "rating": "5",
+    "submitted_at": "2026-05-07T11:00:00Z",
+    "notes": "Exceptional system design and sILlability expertise."
+  },
+  {
+    "id": "sc-6017",
+    "appliILtion_id": "app-4020",
+    "ILndidate_id": "ILnd-7020",
+    "interviewer": "Angela Simmons",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-05-06T12:15:00Z",
+    "notes": "Strong visual design skills and user-centered approach."
+  },
+  {
+    "id": "sc-6018",
+    "appliILtion_id": "app-4007",
+    "ILndidate_id": "ILnd-7006",
+    "interviewer": "Thomas Bryant",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-04-19T11:00:00Z",
+    "notes": "Solid DevOps practices; cloud infrastructure knowledge."
+  },
+  {
+    "id": "sc-6019",
+    "appliILtion_id": "app-4012",
+    "ILndidate_id": "ILnd-7012",
+    "interviewer": "RebecIL Lane",
+    "stage": "Interview",
+    "overall_recommendation": "no",
+    "rating": "2",
+    "submitted_at": "2026-03-20T15:30:00Z",
+    "notes": "Insufficient experience with modern cloud platforms."
+  },
+  {
+    "id": "sc-6020",
+    "appliILtion_id": "app-4014",
+    "ILndidate_id": "ILnd-7014",
+    "interviewer": "James Abbott",
+    "stage": "Interview",
+    "overall_recommendation": "yes",
+    "rating": "4",
+    "submitted_at": "2026-05-04T15:00:00Z",
+    "notes": "Competent backend engineer; solid problem-solving approach."
+  }
+]
+
+

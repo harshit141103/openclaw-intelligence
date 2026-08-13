@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sub_Keith",
+    "customer": "cus_Keith01",
+    "price": "price_RubClub_Y",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1740960000",
+    "current_period_end": "1772496000",
+    "cancel_at_period_end": "false",
+    "created": "1693526400"
+  },
+  {
+    "id": "sub_Pete",
+    "customer": "cus_Pete01",
+    "price": "price_RubClub_Y",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1741910400",
+    "current_period_end": "1773446400",
+    "cancel_at_period_end": "false",
+    "created": "1705968000"
+  },
+  {
+    "id": "sub_Roy",
+    "customer": "cus_Roy01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1696118400"
+  },
+  {
+    "id": "sub_Eddie",
+    "customer": "cus_Eddie01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1698364800"
+  },
+  {
+    "id": "sub_Travis",
+    "customer": "cus_Travis01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1701475200"
+  },
+  {
+    "id": "sub_Nan",
+    "customer": "cus_Nan01",
+    "price": "price_RubClub_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1709337600"
+  },
+  {
+    "id": "sub_Brand",
+    "customer": "cus_Brand01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "true",
+    "created": "1711584000"
+  },
+  {
+    "id": "sub_Darrell",
+    "customer": "cus_Darrell01",
+    "price": "price_RubClub_Y",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1743552000",
+    "current_period_end": "1775088000",
+    "cancel_at_period_end": "false",
+    "created": "1695081600"
+  },
+  {
+    "id": "sub_Junior",
+    "customer": "cus_Junior01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1700006400"
+  },
+  {
+    "id": "sub_Wayne",
+    "customer": "cus_Wayne01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1702598400"
+  },
+  {
+    "id": "sub_Dale",
+    "customer": "cus_Dale01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1704067200"
+  },
+  {
+    "id": "sub_Carla",
+    "customer": "cus_Carla01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1705536000"
+  },
+  {
+    "id": "sub_Lorrie",
+    "customer": "cus_Lorrie01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1706140800"
+  },
+  {
+    "id": "sub_Glen",
+    "customer": "cus_Glen01",
+    "price": "price_RubClub_Y",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1744156800",
+    "current_period_end": "1775692800",
+    "cancel_at_period_end": "false",
+    "created": "1697587200"
+  },
+  {
+    "id": "sub_Hal",
+    "customer": "cus_Hal01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1707350400"
+  },
+  {
+    "id": "sub_Ruth",
+    "customer": "cus_Ruth01",
+    "price": "price_RubClub_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1746057600",
+    "current_period_end": "1748649600",
+    "cancel_at_period_end": "true",
+    "created": "1708560000"
+  },
+  {
+    "id": "sub_Tammy",
+    "customer": "cus_Tammy01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1710288000"
+  },
+  {
+    "id": "sub_Pastor",
+    "customer": "cus_Pastor01",
+    "price": "price_RubClub_Y",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1742342400",
+    "current_period_end": "1773878400",
+    "cancel_at_period_end": "false",
+    "created": "1694476800"
+  },
+  {
+    "id": "sub_Junior2",
+    "customer": "cus_Mullins01",
+    "price": "price_RubClub_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1748736000",
+    "current_period_end": "1751328000",
+    "cancel_at_period_end": "false",
+    "created": "1712880000"
+  },
+  {
+    "id": "sub_Donna",
+    "customer": "cus_Donna01",
+    "price": "price_RubClub_Y",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1742947200",
+    "current_period_end": "1774483200",
+    "cancel_at_period_end": "false",
+    "created": "1693008000"
+  }
+]

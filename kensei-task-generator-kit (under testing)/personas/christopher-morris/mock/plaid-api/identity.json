@@ -1,0 +1,126 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": ["Christopher Morris"],
+        "emails": [
+          {"data": "christopher.morris@voissync.ai", "primary": true, "type": "primary"},
+          {"data": "cmorris@meridianbenefits.com", "primary": false, "type": "work"}
+        ],
+        "phone_numbers": [
+          {"data": "+15035551247", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "2847 Westridge Drive", "city": "Portland", "region": "OR", "postal_code": "97239", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_chk_002": [
+      {
+        "names": ["Christopher Morris"],
+        "emails": [
+          {"data": "cmorris@meridianbenefits.com", "primary": true, "type": "work"}
+        ],
+        "phone_numbers": [
+          {"data": "+15035551247", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "2847 Westridge Drive", "city": "Portland", "region": "OR", "postal_code": "97239", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_001": [
+      {
+        "names": ["Christopher Morris", "Greg Morris"],
+        "emails": [
+          {"data": "christopher.morris@voissync.ai", "primary": true, "type": "primary"},
+          {"data": "greg.morris77@gmail.com", "primary": false, "type": "secondary"}
+        ],
+        "phone_numbers": [
+          {"data": "+15035551247", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "2847 Westridge Drive", "city": "Portland", "region": "OR", "postal_code": "97239", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_crd_001": [
+      {
+        "names": ["Christopher Morris"],
+        "emails": [
+          {"data": "christopher.morris@voissync.ai", "primary": true, "type": "primary"}
+        ],
+        "phone_numbers": [
+          {"data": "+15035551247", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "2847 Westridge Drive", "city": "Portland", "region": "OR", "postal_code": "97239", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_crd_002": [
+      {
+        "names": ["Christopher Morris"],
+        "emails": [
+          {"data": "cmorris@meridianbenefits.com", "primary": true, "type": "work"}
+        ],
+        "phone_numbers": [
+          {"data": "+15035551247", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "2847 Westridge Drive", "city": "Portland", "region": "OR", "postal_code": "97239", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_lon_001": [
+      {
+        "names": ["Christopher Morris"],
+        "emails": [
+          {"data": "christopher.morris@voissync.ai", "primary": true, "type": "primary"}
+        ],
+        "phone_numbers": [
+          {"data": "+15035551247", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "2847 Westridge Drive", "city": "Portland", "region": "OR", "postal_code": "97239", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_mma_001": [
+      {
+        "names": ["Christopher Morris", "Greg Morris"],
+        "emails": [
+          {"data": "christopher.morris@voissync.ai", "primary": true, "type": "primary"},
+          {"data": "greg.morris77@gmail.com", "primary": false, "type": "secondary"}
+        ],
+        "phone_numbers": [
+          {"data": "+15035551247", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "2847 Westridge Drive", "city": "Portland", "region": "OR", "postal_code": "97239", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

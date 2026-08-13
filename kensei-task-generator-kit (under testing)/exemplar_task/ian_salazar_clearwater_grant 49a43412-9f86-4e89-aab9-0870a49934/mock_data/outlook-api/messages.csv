@@ -1,0 +1,3 @@
+id,subject,from_name,from_address,to_name,to_address,body_preview,content_type,is_read,importance,received_date
+AAMkout001,Lab safety refresher due,County HR,hr@donaanacounty.example.org,Ian Salazar,ian.salazar@voissync.ai,Complete the annual lab safety refresher by month end.,html,false,normal,2026-12-03T15:00:00Z
+AAMkout002,Fleet vehicle checkout change,Fleet Services,fleet@donaanacounty.example.org,All Staff,staff@donaanacounty.example.org,New checkout procedure for field vehicles starting January.,html,true,normal,2026-12-02T15:00:00Z

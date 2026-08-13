@@ -1,0 +1,182 @@
+[
+  {
+    "id": "19:chan-eng-gen01@thread.tacv2",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for WFS Dispatch",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-gen01",
+    "created_date": "2024-01-12T09:00:00Z"
+  },
+  {
+    "id": "19:chan-eng-plat02@thread.tacv2",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Active Loads",
+    "description": "Live load tracking and carrier check calls",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-plat02",
+    "created_date": "2024-02-03T10:15:00Z"
+  },
+  {
+    "id": "19:chan-eng-infra3@thread.tacv2",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "After Hours",
+    "description": "Private channel for after-hours dispatch issues",
+    "membership_type": "private",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-infra3",
+    "created_date": "2024-02-20T14:30:00Z"
+  },
+  {
+    "id": "19:chan-prod-gen04@thread.tacv2",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for WFS Client Loads",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-gen04",
+    "created_date": "2024-01-15T08:45:00Z"
+  },
+  {
+    "id": "19:chan-prod-road5@thread.tacv2",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Automotive Accounts",
+    "description": "Cumberland Auto Parts and Tri-State Manufacturing",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-road5",
+    "created_date": "2024-03-01T11:00:00Z"
+  },
+  {
+    "id": "19:chan-mktg-gen06@thread.tacv2",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for WFS Carrier Vetting",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-mktg-gen06",
+    "created_date": "2024-01-20T13:20:00Z"
+  },
+  {
+    "id": "19:chan-mktg-camp7@thread.tacv2",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "Vetting Refresh 2026",
+    "description": "Q3-Q4 carrier vetting refresh for automotive clients",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-mktg-camp7",
+    "created_date": "2026-04-05T09:30:00Z"
+  },
+  {
+    "id": "19:chan-sales-gen8@thread.tacv2",
+    "team_id": "19:team-sales004@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for TN Freight Mentorship",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-sales-gen8",
+    "created_date": "2025-08-01T16:00:00Z"
+  },
+  {
+    "id": "19:chan-allco-gen9@thread.tacv2",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "display_name": "General",
+    "description": "Company-wide announcements",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-allco-gen9",
+    "created_date": "2024-01-05T07:00:00Z"
+  },
+  {
+    "id": "19:chan-eng-claims10@thread.tacv2",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Detention and Claims",
+    "description": "Detention disputes and cargo claim tracking",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-eng-claims10",
+    "created_date": "2024-04-10T10:00:00Z"
+  },
+  {
+    "id": "19:chan-prod-ag11@thread.tacv2",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Agricultural Accounts",
+    "description": "Valley Grain Cooperative and Appalachian Ag Producers",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-ag11",
+    "created_date": "2024-03-15T11:00:00Z"
+  },
+  {
+    "id": "19:chan-prod-bld12@thread.tacv2",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Building Materials Accounts",
+    "description": "Smoky Mountain Building Supply loads and flatbed needs",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-prod-bld12",
+    "created_date": "2024-03-22T11:00:00Z"
+  },
+  {
+    "id": "19:chan-vett-auth13@thread.tacv2",
+    "team_id": "19:team-vett0007@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for WFS Compliance and DOT",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-vett-auth13",
+    "created_date": "2024-04-15T09:00:00Z"
+  },
+  {
+    "id": "19:chan-vett-web14@thread.tacv2",
+    "team_id": "19:team-vett0007@thread.tacv2",
+    "display_name": "DOT Webinars",
+    "description": "Quarterly DOT compliance webinar planning",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-vett-web14",
+    "created_date": "2024-04-18T09:30:00Z"
+  },
+  {
+    "id": "19:chan-book-gen15@thread.tacv2",
+    "team_id": "19:team-book0008@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for WFS Billing and Accounting",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-book-gen15",
+    "created_date": "2024-02-12T08:30:00Z"
+  },
+  {
+    "id": "19:chan-book-set16@thread.tacv2",
+    "team_id": "19:team-book0008@thread.tacv2",
+    "display_name": "Carrier Settlements",
+    "description": "Carrier pay, factoring, and settlement disputes",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-book-set16",
+    "created_date": "2024-02-20T08:30:00Z"
+  },
+  {
+    "id": "19:chan-cumb-gen17@thread.tacv2",
+    "team_id": "19:team-cumb0009@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for Cumberland Auto Parts Account",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-cumb-gen17",
+    "created_date": "2024-03-05T10:00:00Z"
+  },
+  {
+    "id": "19:chan-carr-gen18@thread.tacv2",
+    "team_id": "19:team-carr0014@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for WFS Carrier Relations",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-carr-gen18",
+    "created_date": "2024-05-01T09:00:00Z"
+  },
+  {
+    "id": "19:chan-onbd-gen19@thread.tacv2",
+    "team_id": "19:team-onbd0016@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for Brand Onboarding",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-onbd-gen19",
+    "created_date": "2025-09-02T09:00:00Z"
+  },
+  {
+    "id": "19:chan-soft-gen20@thread.tacv2",
+    "team_id": "19:team-soft0017@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for WFS TMS Software Eval 2026",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-soft-gen20",
+    "created_date": "2026-02-01T09:00:00Z"
+  }
+]

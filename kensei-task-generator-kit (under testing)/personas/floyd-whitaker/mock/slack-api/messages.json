@@ -1,0 +1,335 @@
+[
+  {
+    "ts": "1748872800.000100",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01TRAVIS",
+    "text": "Cumberland Auto Parts has a load out of Chattanooga to Detroit, needs pickup Thursday AM. Who do we have?",
+    "thread_ts": "",
+    "reply_count": "3",
+    "reactions": ""
+  },
+  {
+    "ts": "1748873100.000200",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01LORRIE",
+    "text": "Ridgeline Trucking has a truck repositioning near there. I'll get a rate.",
+    "thread_ts": "1748872800.000100",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748873400.000300",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01FLOYD",
+    "text": "Good. Keep the margin reasonable, Glen at Cumberland watches every dollar.",
+    "thread_ts": "1748872800.000100",
+    "reply_count": "0",
+    "reactions": "+1:U01TRAVIS,U01LORRIE"
+  },
+  {
+    "ts": "1748873700.000400",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01LORRIE",
+    "text": "Booked Ridgeline at $2,150. Rate con going out now.",
+    "thread_ts": "1748872800.000100",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748958000.000500",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01BRAND",
+    "text": "Driver on the Valley Grain load says the dock in Memphis is backed up two hours. Detention concern?",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1748958300.000600",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01FLOYD",
+    "text": "Note the arrival time and get it in writing from the shipper. We'll handle detention if it goes past free time.",
+    "thread_ts": "1748958000.000500",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1748958600.000700",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01BRAND",
+    "text": "Got it, logged the times with Ruth Lyle on the email chain.",
+    "thread_ts": "1748958000.000500",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749045600.000800",
+    "channel_id": "C01VETTING",
+    "user_id": "U01FLOYD",
+    "text": "Running the carrier vetting refresh for the automotive parts clients this week. Brand, you're shadowing me on it.",
+    "thread_ts": "",
+    "reply_count": "3",
+    "reactions": ""
+  },
+  {
+    "ts": "1749045900.000900",
+    "channel_id": "C01VETTING",
+    "user_id": "U01BRAND",
+    "text": "Sounds good. What do I check first?",
+    "thread_ts": "1749045600.000800",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749046200.001000",
+    "channel_id": "C01VETTING",
+    "user_id": "U01FLOYD",
+    "text": "MC authority active, insurance current at $100k cargo minimum, and pull the SAFER safety record. No exceptions.",
+    "thread_ts": "1749045600.000800",
+    "reply_count": "0",
+    "reactions": "+1:U01BRAND,U01TRAVIS"
+  },
+  {
+    "ts": "1749046500.001100",
+    "channel_id": "C01VETTING",
+    "user_id": "U01TRAVIS",
+    "text": "I'll pull the SAFER reports for the four carriers we use most and drop them here.",
+    "thread_ts": "1749045600.000800",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749132000.001200",
+    "channel_id": "C01VETTING",
+    "user_id": "U01LORRIE",
+    "text": "Volunteer Logistics Carriers insurance lapses end of June. Flagging before we book anything new with them.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1749132300.001300",
+    "channel_id": "C01VETTING",
+    "user_id": "U01FLOYD",
+    "text": "Good catch. Hold all new bookings with them until we see the renewal certificate.",
+    "thread_ts": "1749132000.001200",
+    "reply_count": "0",
+    "reactions": "eyes:U01TRAVIS"
+  },
+  {
+    "ts": "1749132600.001400",
+    "channel_id": "C01VETTING",
+    "user_id": "U01LORRIE",
+    "text": "Will do. I'll email their dispatcher for an updated COI.",
+    "thread_ts": "1749132000.001200",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749218400.001500",
+    "channel_id": "C01GENERAL",
+    "user_id": "U01FLOYD",
+    "text": "Office closed Friday June 19 for Juneteenth. Carla has the phones on forward for anything urgent.",
+    "thread_ts": "",
+    "reply_count": "1",
+    "reactions": "+1:U01BREN,U01CARLA,U01DALE"
+  },
+  {
+    "ts": "1749218700.001600",
+    "channel_id": "C01GENERAL",
+    "user_id": "U01CARLA",
+    "text": "Forwards are set. Y'all enjoy the long weekend.",
+    "thread_ts": "1749218400.001500",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749304800.001700",
+    "channel_id": "C01GENERAL",
+    "user_id": "U01BREN",
+    "text": "Reminder: Wayne Prater needs the Q2 numbers by month end. Dale, can you get him the commission reconciliation?",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1749305100.001800",
+    "channel_id": "C01GENERAL",
+    "user_id": "U01DALE",
+    "text": "On it. I'll have the spreadsheet to Wayne by Friday.",
+    "thread_ts": "1749304800.001700",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749305400.001900",
+    "channel_id": "C01GENERAL",
+    "user_id": "U01FLOYD",
+    "text": "Appreciate it Dale. Tell Wayne I'll call him about the equipment depreciation question.",
+    "thread_ts": "1749304800.001700",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749391200.002000",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01FLOYD",
+    "text": "Keith, the autumn cohort for the mentorship program is shaping up. Six brokers signed up so far.",
+    "thread_ts": "",
+    "reply_count": "3",
+    "reactions": ""
+  },
+  {
+    "ts": "1749391500.002100",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01KEITH",
+    "text": "That's a solid group, Floyd. Want me to handle the carrier relations session?",
+    "thread_ts": "1749391200.002000",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749391800.002200",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01FLOYD",
+    "text": "Yes sir. I'll take broker authority and load pricing. Bren can put together the schedule.",
+    "thread_ts": "1749391200.002000",
+    "reply_count": "0",
+    "reactions": "+1:U01KEITH,U01BREN"
+  },
+  {
+    "ts": "1749392100.002300",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01BREN",
+    "text": "I'll draft a six-week schedule and share it for review by next week.",
+    "thread_ts": "1749391200.002000",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749477600.002400",
+    "channel_id": "C01VOLS",
+    "user_id": "U01TRAVIS",
+    "text": "Anybody got the season ticket renewal in yet? Neyland upper deck calling my name.",
+    "thread_ts": "",
+    "reply_count": "3",
+    "reactions": ""
+  },
+  {
+    "ts": "1749477900.002500",
+    "channel_id": "C01VOLS",
+    "user_id": "U01FLOYD",
+    "text": "Renewed mine already. Same seats, section Y. Cody's homecoming game in October is circled.",
+    "thread_ts": "1749477600.002400",
+    "reply_count": "0",
+    "reactions": "football:U01TRAVIS,U01BRAND"
+  },
+  {
+    "ts": "1749478200.002600",
+    "channel_id": "C01VOLS",
+    "user_id": "U01BRAND",
+    "text": "Schedule looks rough early but I think we win the East again.",
+    "thread_ts": "1749477600.002400",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749478500.002700",
+    "channel_id": "C01VOLS",
+    "user_id": "U01LORRIE",
+    "text": "As long as we beat Alabama I'll be happy. Go Vols.",
+    "thread_ts": "1749477600.002400",
+    "reply_count": "0",
+    "reactions": "fire:U01FLOYD"
+  },
+  {
+    "ts": "1749564000.002800",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01FLOYD",
+    "text": "Smoky Mountain Building Supply wants three loads of lumber to Nashville next week. Pete Arnett emailed me.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1749564300.002900",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01TRAVIS",
+    "text": "I can cover two with Smoky Mountain Freight Lines. Need a third carrier for the last one.",
+    "thread_ts": "1749564000.002800",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749564600.003000",
+    "channel_id": "C01DISPATCH",
+    "user_id": "U01LORRIE",
+    "text": "Cumberland Gap Carriers can take the third. I'll confirm rates this afternoon.",
+    "thread_ts": "1749564000.002800",
+    "reply_count": "0",
+    "reactions": "+1:U01FLOYD"
+  },
+  {
+    "ts": "1749650000.003100",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01KEITH",
+    "text": "Welcome Earl and Roy to the autumn cohort channel. We'll start with broker authority basics week one.",
+    "thread_ts": "",
+    "reply_count": "3",
+    "reactions": ""
+  },
+  {
+    "ts": "1749650300.003200",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01EARL",
+    "text": "Glad to be here. Been hauling for years, ready to learn the brokerage side.",
+    "thread_ts": "1749650000.003100",
+    "reply_count": "0",
+    "reactions": "+1:U01FLOYD,U01KEITH"
+  },
+  {
+    "ts": "1749650600.003300",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01ROYM",
+    "text": "Same here. Appreciate you and Floyd putting this together.",
+    "thread_ts": "1749650000.003100",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749650900.003400",
+    "channel_id": "C01MENTOR",
+    "user_id": "U01FLOYD",
+    "text": "Good to have you both. Bren will post the week one schedule and reading by Friday.",
+    "thread_ts": "1749650000.003100",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "1749737000.003500",
+    "channel_id": "C01VETTING",
+    "user_id": "U01FLOYD",
+    "text": "Carrier vetting refresh for the auto parts clients is due end of Q3. Let's pull MC authority and insurance on all of them.",
+    "thread_ts": "",
+    "reply_count": "2",
+    "reactions": ""
+  },
+  {
+    "ts": "1749737300.003600",
+    "channel_id": "C01VETTING",
+    "user_id": "U01BRAND",
+    "text": "I can start with Ridgeline and Cumberland Gap. Pulling SAFER reports now.",
+    "thread_ts": "1749737000.003500",
+    "reply_count": "0",
+    "reactions": "+1:U01FLOYD"
+  },
+  {
+    "ts": "1749737600.003700",
+    "channel_id": "C01VETTING",
+    "user_id": "U01BREN",
+    "text": "I'll flag any COIs expiring before October so we don't get caught short.",
+    "thread_ts": "1749737000.003500",
+    "reply_count": "0",
+    "reactions": ""
+  }
+]

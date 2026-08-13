@@ -1,0 +1,162 @@
+[
+  {
+    "device_id": "987007",
+    "zone_id": "zone_013",
+    "zone_name": "Re: Stowe install date",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_014",
+    "zone_name": "Mill cherry stock to thickness for the u",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_015",
+    "zone_name": "Cut dadoes for the adjustable shelf pins",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.7,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_016",
+    "zone_name": "Build the drawer boxes with half-blind d",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.3,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_013",
+    "zone_name": "Dry-fit the face frames before glue-up",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_014",
+    "zone_name": "Stowe kitchen - cabinet hardware lead time",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_015",
+    "zone_name": "Splitting and stacking the winter firewo",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.7,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_016",
+    "zone_name": "Sharpen the jointer knives and reset the",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.3,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_013",
+    "zone_name": "Church pew repair",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_014",
+    "zone_name": "Henderson kitchen cabinets",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_015",
+    "zone_name": "Cut dadoes for the adjustable shelf pins",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.7,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_016",
+    "zone_name": "Splitting and stacking the winter firewo",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.3,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_013",
+    "zone_name": "Estimate for the Greensboro barn (2027)",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_014",
+    "zone_name": "Bookshelf install Friday the 16th",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_015",
+    "zone_name": "Stowe kitchen - cabinet hardware lead time",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.7,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_016",
+    "zone_name": "Delivery window for the Stowe cabinets",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.3,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_013",
+    "zone_name": "Sloan cherry dining table",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_014",
+    "zone_name": "Bookshelf install Friday the 16th",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_015",
+    "zone_name": "Re-saw the walnut for bookmatched panels",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.7,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "987007",
+    "zone_id": "zone_016",
+    "zone_name": "Stage the bookshelf sections for the Cra",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.3,0.9"
+  }
+]

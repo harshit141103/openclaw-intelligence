@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ven-001",
+    "name": "Eden Court Theatre",
+    "city": "Inverness",
+    "state": "Highland",
+    "country": "GB",
+    "postal_code": "IV3 5SA",
+    "address": "Bishops Rd",
+    "latitude": "57.4730",
+    "longitude": "-4.2310"
+  },
+  {
+    "id": "ven-002",
+    "name": "Ironworks Inverness",
+    "city": "Inverness",
+    "state": "Highland",
+    "country": "GB",
+    "postal_code": "IV1 1JN",
+    "address": "122b Academy St",
+    "latitude": "57.4800",
+    "longitude": "-4.2240"
+  },
+  {
+    "id": "ven-003",
+    "name": "SEC Armadillo",
+    "city": "Glasgow",
+    "state": "Glasgow",
+    "country": "GB",
+    "postal_code": "G3 8YW",
+    "address": "Exhibition Way",
+    "latitude": "55.8610",
+    "longitude": "-4.2860"
+  },
+  {
+    "id": "ven-004",
+    "name": "Strathpeffer Pavilion",
+    "city": "Strathpeffer",
+    "state": "Highland",
+    "country": "GB",
+    "postal_code": "IV14 9DL",
+    "address": "The Square",
+    "latitude": "57.5850",
+    "longitude": "-4.5400"
+  },
+  {
+    "id": "ven-005",
+    "name": "Royal Concert Hall",
+    "city": "Glasgow",
+    "state": "Glasgow",
+    "country": "GB",
+    "postal_code": "G2 3NY",
+    "address": "2 Sauchiehall St",
+    "latitude": "55.8650",
+    "longitude": "-4.2530"
+  },
+  {
+    "id": "ven-006",
+    "name": "Plockton Village Hall",
+    "city": "Plockton",
+    "state": "Highland",
+    "country": "GB",
+    "postal_code": "IV52 8TN",
+    "address": "Innes St",
+    "latitude": "57.3360",
+    "longitude": "-5.6570"
+  }
+]

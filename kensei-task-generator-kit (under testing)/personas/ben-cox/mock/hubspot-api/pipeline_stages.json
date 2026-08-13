@@ -1,0 +1,182 @@
+[
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "2024-06-05T09:30:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Order Blum slides for the Stowe drawer banks",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "2024-07-31T12:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Cut dadoes for the adjustable shelf pins",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "2023-08-30T18:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Dry-fit the face frames before glue-up",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "2026-05-06T18:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "2025-01-20T12:30:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "2026-02-20T11:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "2026-01-20T13:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Cut dadoes for the adjustable shelf pins",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "2025-06-24T09:15:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Set up the dado stack for the bookshelf rabbets",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "2025-09-09T13:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Delivery window for the Stowe cabinets",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "2026-04-04T09:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "2024-11-08T18:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "2024-12-02T15:30:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Cherry pricing for the Henderson uppers",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "2024-04-21T13:30:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "2026-04-30T13:15:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Template the Stowe countertop radius for the corner cabinet",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "2026-09-25T14:30:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Mock up the crown profile for the Henderson uppers",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "2025-01-03T06:30:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "2024-01-28T09:00:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "2026-05-31T13:45:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Template the Stowe countertop radius for the corner cabinet",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "2025-05-07T18:15:00Z"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Hold the Stowe drive until the morning forecast clears.",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "2023-10-22T06:15:00Z"
+  }
+]

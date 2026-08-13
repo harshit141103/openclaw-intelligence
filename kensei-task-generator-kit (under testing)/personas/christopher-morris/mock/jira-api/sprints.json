@@ -1,0 +1,165 @@
+﻿[
+  {
+    "id": "101",
+    "board_id": "1",
+    "name": "ABR Sprint 1",
+    "state": "closed",
+    "start_date": "2026-05-05T09:00:00Z",
+    "end_date": "2026-05-19T09:00:00Z",
+    "goal": "Complete enrollment process review"
+  },
+  {
+    "id": "102",
+    "board_id": "1",
+    "name": "ABR Sprint 2",
+    "state": "active",
+    "start_date": "2026-05-19T09:00:00Z",
+    "end_date": "2026-06-02T09:00:00Z",
+    "goal": "Finalize benefits documentation and testing"
+  },
+  {
+    "id": "103",
+    "board_id": "1",
+    "name": "ABR Sprint 3",
+    "state": "future",
+    "start_date": "2026-06-02T09:00:00Z",
+    "end_date": "2026-06-16T09:00:00Z",
+    "goal": "Employee communiILtion ILmpaign"
+  },
+  {
+    "id": "201",
+    "board_id": "2",
+    "name": "COMP Continuous",
+    "state": "active",
+    "start_date": "2026-05-01T09:00:00Z",
+    "end_date": "",
+    "goal": "Maintain regulatory compliance"
+  },
+  {
+    "id": "301",
+    "board_id": "3",
+    "name": "CLAIMS Sprint 1",
+    "state": "closed",
+    "start_date": "2026-04-21T09:00:00Z",
+    "end_date": "2026-05-05T09:00:00Z",
+    "goal": "Claims module testing and validation"
+  },
+  {
+    "id": "302",
+    "board_id": "3",
+    "name": "CLAIMS Sprint 2",
+    "state": "active",
+    "start_date": "2026-05-05T09:00:00Z",
+    "end_date": "2026-05-19T09:00:00Z",
+    "goal": "Payroll reconciliation enhancements"
+  },
+  {
+    "id": "401",
+    "board_id": "4",
+    "name": "BIR Sprint 1",
+    "state": "closed",
+    "start_date": "2026-04-14T09:00:00Z",
+    "end_date": "2026-04-28T09:00:00Z",
+    "goal": "Platform setup and initial configuration"
+  },
+  {
+    "id": "402",
+    "board_id": "4",
+    "name": "BIR Sprint 2",
+    "state": "active",
+    "start_date": "2026-04-28T09:00:00Z",
+    "end_date": "2026-05-12T09:00:00Z",
+    "goal": "User training and pilot deployment"
+  },
+  {
+    "id": "501",
+    "board_id": "5",
+    "name": "HR Sprint 1",
+    "state": "closed",
+    "start_date": "2026-04-07T09:00:00Z",
+    "end_date": "2026-04-21T09:00:00Z",
+    "goal": "Database schema design and implementation"
+  },
+  {
+    "id": "502",
+    "board_id": "5",
+    "name": "HR Sprint 2",
+    "state": "active",
+    "start_date": "2026-04-21T09:00:00Z",
+    "end_date": "2026-05-05T09:00:00Z",
+    "goal": "API development and testing"
+  },
+  {
+    "id": "601",
+    "board_id": "6",
+    "name": "PAY Continuous",
+    "state": "active",
+    "start_date": "2026-05-08T09:00:00Z",
+    "end_date": "",
+    "goal": "Payroll processing and compliance"
+  },
+  {
+    "id": "701",
+    "board_id": "7",
+    "name": "SEC Sprint 1",
+    "state": "active",
+    "start_date": "2026-05-22T09:00:00Z",
+    "end_date": "2026-06-05T09:00:00Z",
+    "goal": "SSO implementation and integration"
+  },
+  {
+    "id": "801",
+    "board_id": "8",
+    "name": "DATA Sprint 1",
+    "state": "active",
+    "start_date": "2026-05-15T09:00:00Z",
+    "end_date": "2026-05-29T09:00:00Z",
+    "goal": "Data warehouse setup and ETL pipeline"
+  },
+  {
+    "id": "901",
+    "board_id": "9",
+    "name": "INFRA Sprint 1",
+    "state": "closed",
+    "start_date": "2026-04-28T09:00:00Z",
+    "end_date": "2026-05-12T09:00:00Z",
+    "goal": "Kubernetes cluster provisioning"
+  },
+  {
+    "id": "902",
+    "board_id": "9",
+    "name": "INFRA Sprint 2",
+    "state": "active",
+    "start_date": "2026-05-12T09:00:00Z",
+    "end_date": "2026-05-26T09:00:00Z",
+    "goal": "Monitoring and alerting implementation"
+  },
+  {
+    "id": "1001",
+    "board_id": "10",
+    "name": "QA Continuous",
+    "state": "active",
+    "start_date": "2026-05-01T09:00:00Z",
+    "end_date": "",
+    "goal": "Automated testing and quality metrics"
+  },
+  {
+    "id": "1101",
+    "board_id": "11",
+    "name": "DOCS Sprint 1",
+    "state": "active",
+    "start_date": "2026-05-20T09:00:00Z",
+    "end_date": "2026-06-03T09:00:00Z",
+    "goal": "API documentation and user guides"
+  },
+  {
+    "id": "1201",
+    "board_id": "12",
+    "name": "MOBILE Sprint 1",
+    "state": "active",
+    "start_date": "2026-05-26T09:00:00Z",
+    "end_date": "2026-06-09T09:00:00Z",
+    "goal": "Mobile app MVP development"
+  }
+]
+

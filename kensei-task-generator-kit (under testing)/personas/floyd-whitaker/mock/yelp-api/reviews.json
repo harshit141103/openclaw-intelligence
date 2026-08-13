@@ -1,0 +1,178 @@
+[
+  {
+    "id": "rev-0000000001",
+    "business_id": "biz-oakwood-diner-01",
+    "rating": "5",
+    "text": "I eat lunch here most days. Black coffee, meat and three, and they know my order. Best diner in west Knoxville.",
+    "user_name": "Floyd W",
+    "time_created": "2026-04-02T12:15:00"
+  },
+  {
+    "id": "rev-0000000002",
+    "business_id": "biz-oakwood-diner-01",
+    "rating": "5",
+    "text": "Cornbread is real, sweet tea is right, and the folks are friendly. Hard to beat for the price.",
+    "user_name": "Floyd W",
+    "time_created": "2026-02-18T12:30:00"
+  },
+  {
+    "id": "rev-0000000003",
+    "business_id": "biz-oakwood-diner-01",
+    "rating": "4",
+    "text": "Good as ever, just gets packed by noon. Get there early if you want a booth.",
+    "user_name": "Keith B",
+    "time_created": "2026-01-25T11:45:00"
+  },
+  {
+    "id": "rev-0000000004",
+    "business_id": "biz-calhouns-knox-02",
+    "rating": "4",
+    "text": "Ribs are solid and the river view is hard to beat after a Vols game. Gets busy on Saturdays.",
+    "user_name": "Floyd W",
+    "time_created": "2026-04-20T18:45:00"
+  },
+  {
+    "id": "rev-0000000005",
+    "business_id": "biz-calhouns-knox-02",
+    "rating": "4",
+    "text": "Took Donna here for an anniversary lunch. Pulled pork was good, service was a touch slow.",
+    "user_name": "Floyd W",
+    "time_created": "2026-03-30T13:50:00"
+  },
+  {
+    "id": "rev-0000000006",
+    "business_id": "biz-pretentious-03",
+    "rating": "5",
+    "text": "They make their own glasses and the beer is excellent. I bring out of town freight folks here every time.",
+    "user_name": "Floyd W",
+    "time_created": "2026-05-01T17:30:00"
+  },
+  {
+    "id": "rev-0000000007",
+    "business_id": "biz-pretentious-03",
+    "rating": "4",
+    "text": "Good local spot. Smaller place so it fills up, but the pours are worth it.",
+    "user_name": "Roy T",
+    "time_created": "2026-04-14T19:00:00"
+  },
+  {
+    "id": "rev-0000000008",
+    "business_id": "biz-smoky-mtn-brew-04",
+    "rating": "4",
+    "text": "Decent beer and the pizza holds up. Good place to watch a game with the poker boys.",
+    "user_name": "Floyd W",
+    "time_created": "2026-05-10T20:20:00"
+  },
+  {
+    "id": "rev-0000000009",
+    "business_id": "biz-northshore-bras-05",
+    "rating": "5",
+    "text": "Took Donna here for her birthday. Nicer than our usual but the food and service were worth it.",
+    "user_name": "Floyd W",
+    "time_created": "2026-03-15T19:30:00"
+  },
+  {
+    "id": "rev-0000000010",
+    "business_id": "biz-sweet-p-bbq-07",
+    "rating": "5",
+    "text": "As a pitmaster myself I am picky about brisket. Theirs has a real smoke ring and good bark. Respect.",
+    "user_name": "Floyd W",
+    "time_created": "2026-05-12T13:20:00"
+  },
+  {
+    "id": "rev-0000000011",
+    "business_id": "biz-sweet-p-bbq-07",
+    "rating": "4",
+    "text": "Pulled pork and the sauces are great. Lines can get long on the weekend but it moves.",
+    "user_name": "Junior M",
+    "time_created": "2026-04-28T12:45:00"
+  },
+  {
+    "id": "rev-0000000012",
+    "business_id": "biz-dead-end-bbq-18",
+    "rating": "5",
+    "text": "Smoked chicken here is done right. I picked up a tip or two for my own pit. Good people.",
+    "user_name": "Floyd W",
+    "time_created": "2026-05-05T13:00:00"
+  },
+  {
+    "id": "rev-0000000013",
+    "business_id": "biz-archers-bbq-11",
+    "rating": "4",
+    "text": "Solid ribs close to the house. Not fancy but they know smoke. Sweet tea is good too.",
+    "user_name": "Floyd W",
+    "time_created": "2026-04-09T12:40:00"
+  },
+  {
+    "id": "rev-0000000014",
+    "business_id": "biz-ye-olde-steak-08",
+    "rating": "5",
+    "text": "Old school steakhouse done right. The rolls alone are worth the drive down Chapman.",
+    "user_name": "Floyd W",
+    "time_created": "2026-02-22T19:15:00"
+  },
+  {
+    "id": "rev-0000000015",
+    "business_id": "biz-litton-burgers-12",
+    "rating": "5",
+    "text": "Best burger in Knoxville and the cake case is dangerous. Worth the wait every single time.",
+    "user_name": "Floyd W",
+    "time_created": "2026-03-08T12:50:00"
+  },
+  {
+    "id": "rev-0000000016",
+    "business_id": "biz-chandlers-bbq-06",
+    "rating": "5",
+    "text": "Real meat and three. Reminds me of my mama June's table back in Harlan. Get the dumplings.",
+    "user_name": "Floyd W",
+    "time_created": "2026-01-30T12:20:00"
+  },
+  {
+    "id": "rev-0000000017",
+    "business_id": "biz-the-back-porch-10",
+    "rating": "4",
+    "text": "Reliable spot out west for a quick supper. Wings are good. Service was friendly.",
+    "user_name": "Eddie C",
+    "time_created": "2026-04-18T18:30:00"
+  },
+  {
+    "id": "rev-0000000018",
+    "business_id": "biz-the-back-porch-10",
+    "rating": "4",
+    "text": "Good casual American food close to Turkey Creek. Easy stop after errands.",
+    "user_name": "Floyd W",
+    "time_created": "2026-05-16T18:10:00"
+  },
+  {
+    "id": "rev-0000000019",
+    "business_id": "biz-river-tap-19",
+    "rating": "4",
+    "text": "Nice riverfront tavern. Good steak, a little pricey, but a fine spot for a client dinner.",
+    "user_name": "Floyd W",
+    "time_created": "2026-04-25T19:40:00"
+  },
+  {
+    "id": "rev-0000000020",
+    "business_id": "biz-old-mill-pf-20",
+    "rating": "4",
+    "text": "Stopped on the way back from the Smokies. Country cooking and big portions. Touristy but tasty.",
+    "user_name": "Floyd W",
+    "time_created": "2026-03-22T13:30:00"
+  },
+  {
+    "id": "rev-0000000021",
+    "business_id": "biz-ktown-coffee-09",
+    "rating": "4",
+    "text": "Good black coffee when I am down in the Old City early. Nothing fancy, just does the job.",
+    "user_name": "Floyd W",
+    "time_created": "2026-05-20T07:45:00"
+  },
+  {
+    "id": "rev-0000000022",
+    "business_id": "biz-shrimp-dock-16",
+    "rating": "4",
+    "text": "Surprisingly good seafood for being inland. The shrimp basket is a solid lunch.",
+    "user_name": "Floyd W",
+    "time_created": "2026-02-11T12:35:00"
+  }
+]

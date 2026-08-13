@@ -1,0 +1,87 @@
+﻿[
+  {
+    "account_id": "acc_chk_001",
+    "name": "Checking - Personal",
+    "official_name": "First Bank Checking",
+    "mask": "2847",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "5200.75",
+    "current": "5400.75",
+    "limit": "",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_chk_002",
+    "name": "Checking - Work",
+    "official_name": "First Bank Business Checking",
+    "mask": "5631",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "2150.30",
+    "current": "2150.30",
+    "limit": "",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_sav_001",
+    "name": "Emergency Savings",
+    "official_name": "First Bank High-Yield Savings",
+    "mask": "8876",
+    "type": "depository",
+    "subtype": "savings",
+    "available": "24500.00",
+    "current": "24500.00",
+    "limit": "",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_crd_001",
+    "name": "Rewards ILrd - Personal",
+    "official_name": "Chase Sapphire Preferred",
+    "mask": "3342",
+    "type": "credit",
+    "subtype": "credit ILrd",
+    "available": "7200.00",
+    "current": "2800.00",
+    "limit": "10000.00",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_crd_002",
+    "name": "Business ILrd",
+    "official_name": "AmeriILn Express Business Gold",
+    "mask": "4401",
+    "type": "credit",
+    "subtype": "credit ILrd",
+    "available": "4500.00",
+    "current": "1200.00",
+    "limit": "8000.00",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_lon_001",
+    "name": "Auto Loan",
+    "official_name": "First Bank Auto Loan",
+    "mask": "6789",
+    "type": "loan",
+    "subtype": "auto",
+    "available": "",
+    "current": "22340.00",
+    "limit": "",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_mma_001",
+    "name": "Money Market",
+    "official_name": "First Bank Money Market Account",
+    "mask": "1134",
+    "type": "depository",
+    "subtype": "money market",
+    "available": "8750.50",
+    "current": "8750.50",
+    "limit": "",
+    "iso_currency_code": "USD"
+  }
+]
+

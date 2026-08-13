@@ -1,0 +1,233 @@
+[
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "30303",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "584.20",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "30303",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "642.90",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "38103",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "611.45",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "38103",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "678.30",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "28202",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "552.70",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "28202",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "609.15",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "60601",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "724.80",
+    "transit_days": "3",
+    "delivery_day": "2026-06-13"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "60601",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "812.55",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "43215",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "668.40",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "43215",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "742.10",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "46204",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "639.25",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "46204",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "710.90",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "63101",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "751.60",
+    "transit_days": "3",
+    "delivery_day": "2026-06-13"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "63101",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "834.20",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "37203",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "498.30",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "37203",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "541.75",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_ECONOMY",
+    "service_name": "FedEx Freight Economy",
+    "origin_zip": "37932",
+    "dest_zip": "40202",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "512.90",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_FREIGHT_PRIORITY",
+    "service_name": "FedEx Freight Priority",
+    "origin_zip": "37932",
+    "dest_zip": "40202",
+    "weight_lb": "4000.0",
+    "currency": "USD",
+    "net_charge": "558.45",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "37932",
+    "dest_zip": "30303",
+    "weight_lb": "500.0",
+    "currency": "USD",
+    "net_charge": "142.60",
+    "transit_days": "2",
+    "delivery_day": "2026-06-12"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "37932",
+    "dest_zip": "60601",
+    "weight_lb": "500.0",
+    "currency": "USD",
+    "net_charge": "176.85",
+    "transit_days": "3",
+    "delivery_day": "2026-06-13"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "37932",
+    "dest_zip": "37203",
+    "weight_lb": "500.0",
+    "currency": "USD",
+    "net_charge": "118.40",
+    "transit_days": "1",
+    "delivery_day": "2026-06-11"
+  }
+]

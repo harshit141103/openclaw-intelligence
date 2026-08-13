@@ -1,0 +1,162 @@
+[
+  {
+    "template_id": "tmpl-msa",
+    "name": "Cherry pricing for the Henderson uppers",
+    "description": "Template the Stowe countertop radius for the corner cabinet",
+    "shared": "true",
+    "owner_name": "Diane Cox",
+    "created_time": "2025-04-12T16:00:00Z"
+  },
+  {
+    "template_id": "tmpl-nda",
+    "name": "Splitting and stacking the winter firewo",
+    "description": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "shared": "true",
+    "owner_name": "Keith Cox",
+    "created_time": "2026-10-06T14:15:00Z"
+  },
+  {
+    "template_id": "tmpl-vendor",
+    "name": "Re: Stowe install date",
+    "description": "Built-ins - finish sample for your approval",
+    "shared": "false",
+    "owner_name": "Marie Cox-Gagne",
+    "created_time": "2026-09-02T08:45:00Z"
+  },
+  {
+    "template_id": "tmpl-msa",
+    "name": "Boucher mudroom built-ins",
+    "description": "Cherry pricing for the Henderson uppers",
+    "shared": "true",
+    "owner_name": "Tom Gagne",
+    "created_time": "2026-03-09T12:15:00Z"
+  },
+  {
+    "template_id": "tmpl-nda",
+    "name": "Stage the bookshelf sections for the Cra",
+    "description": "Final fit of the Henderson island base cabinets",
+    "shared": "true",
+    "owner_name": "Pete Lafleur",
+    "created_time": "2026-07-16T06:00:00Z"
+  },
+  {
+    "template_id": "tmpl-vendor",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "description": "Hang the soft-close doors and adjust the hinges",
+    "shared": "false",
+    "owner_name": "Dr. James Whitfield",
+    "created_time": "2024-05-11T16:15:00Z"
+  },
+  {
+    "template_id": "tmpl-msa",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "shared": "true",
+    "owner_name": "Dr. Paul LeBlanc",
+    "created_time": "2025-07-28T09:15:00Z"
+  },
+  {
+    "template_id": "tmpl-nda",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "description": "Barn oak is summer 2027 - not pulling material yet.",
+    "shared": "true",
+    "owner_name": "Scott Henderson",
+    "created_time": "2026-03-11T06:30:00Z"
+  },
+  {
+    "template_id": "tmpl-vendor",
+    "name": "Material order - Hardwick Lumber",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "shared": "false",
+    "owner_name": "Linda Henderson",
+    "created_time": "2025-08-29T08:30:00Z"
+  },
+  {
+    "template_id": "tmpl-msa",
+    "name": "Stage the bookshelf sections for the Cra",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "shared": "true",
+    "owner_name": "Alan Whitcomb",
+    "created_time": "2025-07-31T07:30:00Z"
+  },
+  {
+    "template_id": "tmpl-nda",
+    "name": "Church pew repair",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "shared": "true",
+    "owner_name": "Paul Dufresne",
+    "created_time": "2025-04-27T16:00:00Z"
+  },
+  {
+    "template_id": "tmpl-vendor",
+    "name": "Sharpen the jointer knives and reset the",
+    "description": "Project schedule update",
+    "shared": "false",
+    "owner_name": "Marc Belanger",
+    "created_time": "2026-05-21T08:30:00Z"
+  },
+  {
+    "template_id": "tmpl-msa",
+    "name": "Boucher mudroom built-ins",
+    "description": "Final fit of the Henderson island base cabinets",
+    "shared": "true",
+    "owner_name": "Gary Stoddard",
+    "created_time": "2026-06-27T11:30:00Z"
+  },
+  {
+    "template_id": "tmpl-nda",
+    "name": "Bookshelf install Friday the 16th",
+    "description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "shared": "true",
+    "owner_name": "Hardwick Lumber",
+    "created_time": "2024-12-12T17:00:00Z"
+  },
+  {
+    "template_id": "tmpl-vendor",
+    "name": "Re: Stowe install date",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "shared": "false",
+    "owner_name": "Green Mountain Hardwoods",
+    "created_time": "2025-02-02T07:00:00Z"
+  },
+  {
+    "template_id": "tmpl-msa",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "description": "Project schedule update",
+    "shared": "true",
+    "owner_name": "Ray Tetreault",
+    "created_time": "2024-05-26T16:30:00Z"
+  },
+  {
+    "template_id": "tmpl-nda",
+    "name": "Lay out dovetails for the silverware dra",
+    "description": "Material order - Hardwick Lumber",
+    "shared": "true",
+    "owner_name": "Nancy Beaulieu",
+    "created_time": "2025-02-23T14:45:00Z"
+  },
+  {
+    "template_id": "tmpl-vendor",
+    "name": "Henderson kitchen cabinets",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "shared": "false",
+    "owner_name": "Rev. Susan Mills",
+    "created_time": "2025-12-18T08:45:00Z"
+  },
+  {
+    "template_id": "tmpl-msa",
+    "name": "Hang the soft-close doors and adjust the",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "shared": "true",
+    "owner_name": "Walt Perreault",
+    "created_time": "2025-02-07T13:15:00Z"
+  },
+  {
+    "template_id": "tmpl-nda",
+    "name": "Set up the dado stack for the bookshelf ",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "shared": "true",
+    "owner_name": "Donna Sloan",
+    "created_time": "2026-10-08T12:00:00Z"
+  }
+]

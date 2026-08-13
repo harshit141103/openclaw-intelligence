@@ -1,0 +1,202 @@
+[
+  {
+    "id": "700100200300400001",
+    "guild_id": "900100200300400001",
+    "name": "Cota window seat & bookcase",
+    "color": "15158332",
+    "position": "4",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400002",
+    "guild_id": "900100200300400001",
+    "name": "Material order - Hardwick Lumber",
+    "color": "3447003",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "268435456"
+  },
+  {
+    "id": "700100200300400003",
+    "guild_id": "900100200300400001",
+    "name": "Cherry pricing for the Henderson uppers",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400004",
+    "guild_id": "900100200300400001",
+    "name": "Mill cherry stock to thickness for the u",
+    "color": "9807270",
+    "position": "2",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400005",
+    "guild_id": "900100200300400002",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "color": "10181046",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400006",
+    "guild_id": "900100200300400002",
+    "name": "Mill cherry stock to thickness for the u",
+    "color": "5763719",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400902",
+    "guild_id": "900100200300400001",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "color": "15158332",
+    "position": "4",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400904",
+    "guild_id": "900100200300400001",
+    "name": "Church pew repair",
+    "color": "3447003",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "268435456"
+  },
+  {
+    "id": "700100200300400906",
+    "guild_id": "900100200300400001",
+    "name": "Set up the dado stack for the bookshelf ",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400908",
+    "guild_id": "900100200300400001",
+    "name": "Bookshelf install Friday the 16th",
+    "color": "9807270",
+    "position": "2",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400910",
+    "guild_id": "900100200300400002",
+    "name": "Cherry pricing for the Henderson uppers",
+    "color": "10181046",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400912",
+    "guild_id": "900100200300400002",
+    "name": "Re: Stowe install date",
+    "color": "5763719",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400908-12",
+    "guild_id": "900100200300400001",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "color": "15158332",
+    "position": "4",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400910-13",
+    "guild_id": "900100200300400001",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "color": "3447003",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "268435456"
+  },
+  {
+    "id": "700100200300400912-14",
+    "guild_id": "900100200300400001",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400914",
+    "guild_id": "900100200300400001",
+    "name": "Check the moisture content on the barn o",
+    "color": "9807270",
+    "position": "2",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400916",
+    "guild_id": "900100200300400002",
+    "name": "Church pew repair",
+    "color": "10181046",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400918",
+    "guild_id": "900100200300400002",
+    "name": "Final fit of the Henderson island base c",
+    "color": "5763719",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400914-18",
+    "guild_id": "900100200300400001",
+    "name": "Replace the dust collector filter and cl",
+    "color": "15158332",
+    "position": "4",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400916-19",
+    "guild_id": "900100200300400001",
+    "name": "Sharpen the jointer knives and reset the",
+    "color": "3447003",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "268435456"
+  }
+]

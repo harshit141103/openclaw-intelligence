@@ -1,0 +1,162 @@
+[
+  {
+    "id": "author-floyd",
+    "content_type": "author",
+    "created_at": "2025-09-01T10:00:00.000Z",
+    "updated_at": "2025-09-01T10:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"name\":\"Floyd Whitaker\",\"bio\":\"Owner of Whitaker Freight Services and a Certified Transportation Broker in Knoxville TN.\",\"twitter\":\"@whitakerfreight\"}"
+  },
+  {
+    "id": "author-bren",
+    "content_type": "author",
+    "created_at": "2025-09-02T11:00:00.000Z",
+    "updated_at": "2025-09-02T11:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"name\":\"Brenda Sizemore\",\"bio\":\"Office manager at Whitaker Freight Services keeping the dispatch desk running.\",\"twitter\":\"\"}"
+  },
+  {
+    "id": "cat-compliance",
+    "content_type": "category",
+    "created_at": "2025-09-01T09:00:00.000Z",
+    "updated_at": "2025-09-01T09:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Compliance\",\"slug\":\"compliance\"}"
+  },
+  {
+    "id": "cat-shipping",
+    "content_type": "category",
+    "created_at": "2025-09-01T09:05:00.000Z",
+    "updated_at": "2025-09-01T09:05:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Shipping Tips\",\"slug\":\"shipping-tips\"}"
+  },
+  {
+    "id": "post-choosing-broker",
+    "content_type": "blogPost",
+    "created_at": "2025-09-10T08:00:00.000Z",
+    "updated_at": "2025-09-12T14:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"title\":\"How to Choose a Freight Broker You Can Trust\",\"slug\":\"choosing-a-freight-broker\",\"body\":\"A good broker earns your trust with honest rates and carriers they have vetted themselves.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-floyd\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-1\"}},\"published\":true}"
+  },
+  {
+    "id": "post-carrier-vetting",
+    "content_type": "blogPost",
+    "created_at": "2025-10-01T08:00:00.000Z",
+    "updated_at": "2025-10-03T09:30:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"title\":\"What Carrier Vetting Really Means\",\"slug\":\"carrier-vetting-explained\",\"body\":\"We check authority insurance and safety scores before a truck ever touches your freight.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-bren\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-2\"}},\"published\":true}"
+  },
+  {
+    "id": "post-draft-fuel-surcharge",
+    "content_type": "blogPost",
+    "created_at": "2025-11-05T08:00:00.000Z",
+    "updated_at": "2025-11-05T08:00:00.000Z",
+    "published_version": "0",
+    "fields_json": "{\"title\":\"Understanding Fuel Surcharges\",\"slug\":\"understanding-fuel-surcharges\",\"body\":\"Draft article explaining how fuel surcharges are calculated on a load.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-floyd\"}},\"published\":false}"
+  },
+  {
+    "id": "author-keith",
+    "content_type": "author",
+    "created_at": "2025-09-05T10:00:00.000Z",
+    "updated_at": "2025-09-05T10:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"name\":\"Keith Burgess\",\"bio\":\"Owner of Burgess Logistics and co-leader of the TN Freight Mentorship Program.\",\"twitter\":\"\"}"
+  },
+  {
+    "id": "author-brand",
+    "content_type": "author",
+    "created_at": "2025-10-10T10:00:00.000Z",
+    "updated_at": "2025-10-10T10:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"name\":\"Brand Whitaker\",\"bio\":\"Junior associate at Whitaker Freight Services learning the brokerage business.\",\"twitter\":\"\"}"
+  },
+  {
+    "id": "cat-carriers",
+    "content_type": "category",
+    "created_at": "2025-09-01T09:10:00.000Z",
+    "updated_at": "2025-09-01T09:10:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Carrier Relations\",\"slug\":\"carrier-relations\"}"
+  },
+  {
+    "id": "cat-industry",
+    "content_type": "category",
+    "created_at": "2025-09-01T09:15:00.000Z",
+    "updated_at": "2025-09-01T09:15:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Industry News\",\"slug\":\"industry-news\"}"
+  },
+  {
+    "id": "cat-pricing",
+    "content_type": "category",
+    "created_at": "2025-09-01T09:20:00.000Z",
+    "updated_at": "2025-09-01T09:20:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Pricing and Rates\",\"slug\":\"pricing-and-rates\"}"
+  },
+  {
+    "id": "post-net-30-terms",
+    "content_type": "blogPost",
+    "created_at": "2025-10-08T08:00:00.000Z",
+    "updated_at": "2025-10-09T10:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"title\":\"Why We Run Net 30 Terms\",\"slug\":\"why-net-30-terms\",\"body\":\"Net 30 keeps cash flowing for carriers and shippers alike without surprises.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-floyd\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-3\"}},\"published\":true}"
+  },
+  {
+    "id": "post-reefer-season",
+    "content_type": "blogPost",
+    "created_at": "2025-08-15T08:00:00.000Z",
+    "updated_at": "2025-08-18T11:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Reefer Capacity in Grain Season\",\"slug\":\"reefer-capacity-grain-season\",\"body\":\"Late summer grain runs tighten reefer capacity across the Midwest corridor.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-bren\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-4\"}},\"published\":true}"
+  },
+  {
+    "id": "post-flatbed-securement",
+    "content_type": "blogPost",
+    "created_at": "2025-09-20T08:00:00.000Z",
+    "updated_at": "2025-09-22T09:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Flatbed Securement Basics\",\"slug\":\"flatbed-securement-basics\",\"body\":\"Proper tarping and chain securement keeps building materials safe and legal.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-floyd\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-5\"}},\"published\":true}"
+  },
+  {
+    "id": "post-dot-compliance",
+    "content_type": "blogPost",
+    "created_at": "2025-10-25T08:00:00.000Z",
+    "updated_at": "2025-10-27T13:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"title\":\"Staying DOT Compliant as a Broker\",\"slug\":\"dot-compliant-broker\",\"body\":\"Broker bond surety and carrier monitoring are the backbone of DOT compliance.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-floyd\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-6\"}},\"published\":true}"
+  },
+  {
+    "id": "post-mentorship",
+    "content_type": "blogPost",
+    "created_at": "2025-10-30T08:00:00.000Z",
+    "updated_at": "2025-11-01T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Building the Next Generation of Brokers\",\"slug\":\"next-generation-brokers\",\"body\":\"Our autumn mentorship cohort with Keith Burgess passes hard won lessons forward.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-keith\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-7\"}},\"published\":true}"
+  },
+  {
+    "id": "post-automotive-parts",
+    "content_type": "blogPost",
+    "created_at": "2025-11-10T08:00:00.000Z",
+    "updated_at": "2025-11-12T09:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Moving Automotive Parts on Tight Schedules\",\"slug\":\"automotive-parts-schedules\",\"body\":\"Auto parts shippers run lean so on time pickup and delivery is everything.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-bren\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-8\"}},\"published\":true}"
+  },
+  {
+    "id": "post-draft-tms-upgrade",
+    "content_type": "blogPost",
+    "created_at": "2026-01-15T08:00:00.000Z",
+    "updated_at": "2026-01-15T08:00:00.000Z",
+    "published_version": "0",
+    "fields_json": "{\"title\":\"Choosing a New TMS\",\"slug\":\"choosing-a-new-tms\",\"body\":\"Draft notes on our TMS upgrade comparing RoutePoint and FreightFlow Pro.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-floyd\"}},\"published\":false}"
+  },
+  {
+    "id": "post-draft-brand-intro",
+    "content_type": "blogPost",
+    "created_at": "2026-02-02T08:00:00.000Z",
+    "updated_at": "2026-02-02T08:00:00.000Z",
+    "published_version": "0",
+    "fields_json": "{\"title\":\"Meet Our Newest Associate\",\"slug\":\"meet-newest-associate\",\"body\":\"Draft introducing Brand Whitaker joining the WFS team this year.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-brand\"}},\"published\":false}"
+  }
+]

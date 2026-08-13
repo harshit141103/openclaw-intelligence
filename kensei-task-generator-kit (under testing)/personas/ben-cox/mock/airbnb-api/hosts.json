@@ -1,0 +1,162 @@
+[
+  {
+    "host_id": "host-ava",
+    "name": "Diane Cox",
+    "superhost": "true",
+    "joined_year": "1754112600",
+    "response_rate": "99",
+    "languages": "English,Swedish"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Keith Cox",
+    "superhost": "true",
+    "joined_year": "1735354800",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-mei",
+    "name": "Marie Cox-Gagne",
+    "superhost": "false",
+    "joined_year": "1773387000",
+    "response_rate": "92",
+    "languages": "English,Mandarin"
+  },
+  {
+    "host_id": "host-ava",
+    "name": "Tom Gagne",
+    "superhost": "true",
+    "joined_year": "1788831900",
+    "response_rate": "99",
+    "languages": "English,Swedish"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Pete Lafleur",
+    "superhost": "true",
+    "joined_year": "1722990600",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-mei",
+    "name": "Dr. James Whitfield",
+    "superhost": "false",
+    "joined_year": "1776319200",
+    "response_rate": "92",
+    "languages": "English,Mandarin"
+  },
+  {
+    "host_id": "host-ava",
+    "name": "Dr. Paul LeBlanc",
+    "superhost": "true",
+    "joined_year": "1766380500",
+    "response_rate": "99",
+    "languages": "English,Swedish"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Scott Henderson",
+    "superhost": "true",
+    "joined_year": "1769406300",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-mei",
+    "name": "Linda Henderson",
+    "superhost": "false",
+    "joined_year": "1765880100",
+    "response_rate": "92",
+    "languages": "English,Mandarin"
+  },
+  {
+    "host_id": "host-ava",
+    "name": "Alan Whitcomb",
+    "superhost": "true",
+    "joined_year": "1697522400",
+    "response_rate": "99",
+    "languages": "English,Swedish"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Paul Dufresne",
+    "superhost": "true",
+    "joined_year": "1698143400",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-mei",
+    "name": "Marc Belanger",
+    "superhost": "false",
+    "joined_year": "1779884100",
+    "response_rate": "92",
+    "languages": "English,Mandarin"
+  },
+  {
+    "host_id": "host-ava",
+    "name": "Gary Stoddard",
+    "superhost": "true",
+    "joined_year": "1745928900",
+    "response_rate": "99",
+    "languages": "English,Swedish"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Hardwick Lumber",
+    "superhost": "true",
+    "joined_year": "1704460500",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-mei",
+    "name": "Green Mountain Hardwoods",
+    "superhost": "false",
+    "joined_year": "1774440000",
+    "response_rate": "92",
+    "languages": "English,Mandarin"
+  },
+  {
+    "host_id": "host-ava",
+    "name": "Ray Tetreault",
+    "superhost": "true",
+    "joined_year": "1729840500",
+    "response_rate": "99",
+    "languages": "English,Swedish"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Nancy Beaulieu",
+    "superhost": "true",
+    "joined_year": "1776483000",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  },
+  {
+    "host_id": "host-mei",
+    "name": "Rev. Susan Mills",
+    "superhost": "false",
+    "joined_year": "1691981100",
+    "response_rate": "92",
+    "languages": "English,Mandarin"
+  },
+  {
+    "host_id": "host-ava",
+    "name": "Walt Perreault",
+    "superhost": "true",
+    "joined_year": "1755153000",
+    "response_rate": "99",
+    "languages": "English,Swedish"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Donna Sloan",
+    "superhost": "true",
+    "joined_year": "1760339700",
+    "response_rate": "97",
+    "languages": "English,Spanish"
+  }
+]

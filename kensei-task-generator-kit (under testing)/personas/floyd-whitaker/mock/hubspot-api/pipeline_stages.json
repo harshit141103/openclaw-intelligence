@@ -1,0 +1,209 @@
+[
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Presentation Scheduled",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "carrier-onboarding",
+    "pipeline_label": "Carrier Onboarding",
+    "stage_id": "carrier_identified",
+    "stage_label": "Carrier Identified",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "carrier-onboarding",
+    "pipeline_label": "Carrier Onboarding",
+    "stage_id": "authority_verified",
+    "stage_label": "Authority Verified",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "carrier-onboarding",
+    "pipeline_label": "Carrier Onboarding",
+    "stage_id": "insurance_confirmed",
+    "stage_label": "Insurance Confirmed",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "carrier-onboarding",
+    "pipeline_label": "Carrier Onboarding",
+    "stage_id": "packet_signed",
+    "stage_label": "Carrier Packet Signed",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "carrier-onboarding",
+    "pipeline_label": "Carrier Onboarding",
+    "stage_id": "carrier_approved",
+    "stage_label": "Carrier Approved",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "carrier-onboarding",
+    "pipeline_label": "Carrier Onboarding",
+    "stage_id": "carrier_rejected",
+    "stage_label": "Carrier Rejected",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "mentorship-enrollment",
+    "pipeline_label": "Mentorship Enrollment",
+    "stage_id": "inquiry_received",
+    "stage_label": "Inquiry Received",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "mentorship-enrollment",
+    "pipeline_label": "Mentorship Enrollment",
+    "stage_id": "application_submitted",
+    "stage_label": "Application Submitted",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "mentorship-enrollment",
+    "pipeline_label": "Mentorship Enrollment",
+    "stage_id": "interview_completed",
+    "stage_label": "Interview Completed",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "mentorship-enrollment",
+    "pipeline_label": "Mentorship Enrollment",
+    "stage_id": "seat_offered",
+    "stage_label": "Cohort Seat Offered",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "mentorship-enrollment",
+    "pipeline_label": "Mentorship Enrollment",
+    "stage_id": "enrolled",
+    "stage_label": "Enrolled",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "mentorship-enrollment",
+    "pipeline_label": "Mentorship Enrollment",
+    "stage_id": "declined",
+    "stage_label": "Declined",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "account-renewal",
+    "pipeline_label": "Account Renewal",
+    "stage_id": "renewal_due",
+    "stage_label": "Renewal Due",
+    "display_order": "0",
+    "probability": "0.5",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "account-renewal",
+    "pipeline_label": "Account Renewal",
+    "stage_id": "review_scheduled",
+    "stage_label": "Account Review Scheduled",
+    "display_order": "1",
+    "probability": "0.7",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "account-renewal",
+    "pipeline_label": "Account Renewal",
+    "stage_id": "terms_agreed",
+    "stage_label": "Terms Agreed",
+    "display_order": "2",
+    "probability": "0.9",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "account-renewal",
+    "pipeline_label": "Account Renewal",
+    "stage_id": "renewed",
+    "stage_label": "Renewed",
+    "display_order": "3",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "account-renewal",
+    "pipeline_label": "Account Renewal",
+    "stage_id": "churned",
+    "stage_label": "Churned",
+    "display_order": "4",
+    "probability": "0.0",
+    "closed": "true"
+  }
+]

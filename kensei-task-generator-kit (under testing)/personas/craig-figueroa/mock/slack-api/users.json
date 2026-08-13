@@ -1,0 +1,123 @@
+[
+  {
+    "id": "U01CRAIG",
+    "name": "craig",
+    "real_name": "Craig Figueroa",
+    "email": "craig@figueroavet.co.uk",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "heads-down on platform rollout",
+    "presence": "active"
+  },
+  {
+    "id": "U01JONAS",
+    "name": "jonas",
+    "real_name": "Duncan Fraser",
+    "email": "jonas@figueroavet.co.uk",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01HELENA",
+    "name": "helena",
+    "real_name": "Fiona Drummond",
+    "email": "helena@figueroavet.co.uk",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "reviewing PRs",
+    "presence": "active"
+  },
+  {
+    "id": "U01ROHIT",
+    "name": "rohit",
+    "real_name": "Graeme Sutherland",
+    "email": "rohit@figueroavet.co.uk",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "Asia/Kolkata",
+    "status_text": "",
+    "presence": "away"
+  },
+  {
+    "id": "U01NOOR",
+    "name": "noor",
+    "real_name": "Rhona Matheson",
+    "email": "noor@figueroavet.co.uk",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "Asia/Dubai",
+    "status_text": "onboarding",
+    "presence": "active"
+  },
+  {
+    "id": "U01BOT",
+    "name": "deployer",
+    "real_name": "Deployer Bot",
+    "email": "",
+    "is_admin": "false",
+    "is_bot": "true",
+    "tz": "Europe/London",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01CRAIG-7000",
+    "name": "Alejandro Figueroa",
+    "real_name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "heads-down on platform rollout",
+    "presence": "active"
+  },
+  {
+    "id": "U01CRAIG-7001",
+    "name": "Elena Figueroa",
+    "real_name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "heads-down on platform rollout",
+    "presence": "active"
+  },
+  {
+    "id": "U01CRAIG-7002",
+    "name": "Isabel Figueroa-Ross",
+    "real_name": "Isabel Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "heads-down on platform rollout",
+    "presence": "active"
+  },
+  {
+    "id": "U01CRAIG-7003",
+    "name": "Callum Ross",
+    "real_name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "heads-down on platform rollout",
+    "presence": "active"
+  },
+  {
+    "id": "U01CRAIG-7004",
+    "name": "Iain Campbell",
+    "real_name": "Iain Campbell",
+    "email": "iain.campbell@btinternet.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "Europe/London",
+    "status_text": "heads-down on platform rollout",
+    "presence": "active"
+  }
+]

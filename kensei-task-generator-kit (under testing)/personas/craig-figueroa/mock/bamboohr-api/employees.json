@@ -1,0 +1,38 @@
+[
+  {
+    "id": "emp-101",
+    "firstName": "Craig",
+    "lastName": "Figueroa",
+    "workEmail": "craig.figueroa@gmail.com",
+    "department": "Veterinary Practice",
+    "jobTitle": "Principal Veterinary Surgeon",
+    "location": "Strathcarron",
+    "hireDate": "2015-06-01",
+    "status": "Active",
+    "supervisorId": ""
+  },
+  {
+    "id": "emp-102",
+    "firstName": "Graeme",
+    "lastName": "Sutherland",
+    "workEmail": "graeme.sutherland@gmail.com",
+    "department": "Veterinary Practice",
+    "jobTitle": "Relief Veterinary Surgeon",
+    "location": "Inverness",
+    "hireDate": "2021-09-01",
+    "status": "Active",
+    "supervisorId": ""
+  },
+  {
+    "id": "emp-103",
+    "firstName": "Morag",
+    "lastName": "Sinclair",
+    "workEmail": "morag.sinclair@gmail.com",
+    "department": "Veterinary Practice",
+    "jobTitle": "Part-time Veterinary Nurse",
+    "location": "Strathcarron",
+    "hireDate": "2024-05-01",
+    "status": "Active",
+    "supervisorId": ""
+  }
+]

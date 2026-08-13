@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rev-0000000001",
+    "business_id": "Craftsbury General Store",
+    "rating": "5",
+    "text": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "user_name": "mariegagne",
+    "time_created": "2026-01-04T15:00:00Z"
+  },
+  {
+    "id": "rev-0000000002",
+    "business_id": "Hardwick Lumber",
+    "rating": "4",
+    "text": "Pete coming by Saturday for coffee; shop's a mess.",
+    "user_name": "bencox",
+    "time_created": "2024-08-29T09:45:00Z"
+  },
+  {
+    "id": "rev-0000000003",
+    "business_id": "Craftsbury General Store",
+    "rating": "4",
+    "text": "Built-ins - finish sample for your approval",
+    "user_name": "bencox",
+    "time_created": "2026-09-03T06:15:00Z"
+  },
+  {
+    "id": "rev-0000000004",
+    "business_id": "Parker Pie Co.",
+    "rating": "5",
+    "text": "Sharpen the jointer knives and reset the infeed table",
+    "user_name": "bencox",
+    "time_created": "2026-07-15T06:00:00Z"
+  },
+  {
+    "id": "rev-0000000005",
+    "business_id": "Hardwick Lumber",
+    "rating": "5",
+    "text": "Bookshelf install Friday the 16th",
+    "user_name": "coxcustomwoodwork",
+    "time_created": "2025-09-18T14:00:00Z"
+  },
+  {
+    "id": "rev-0000000006",
+    "business_id": "Vermont Tool & Die",
+    "rating": "4",
+    "text": "Re: Stowe install date",
+    "user_name": "dianecox",
+    "time_created": "2026-02-28T12:45:00Z"
+  },
+  {
+    "id": "rev-0000000007",
+    "business_id": "Willey's Store",
+    "rating": "5",
+    "text": "Set up the dado stack for the bookshelf rabbets",
+    "user_name": "bencox",
+    "time_created": "2025-12-10T07:30:00Z"
+  },
+  {
+    "id": "rev-0000000008",
+    "business_id": "Positive Pie",
+    "rating": "4",
+    "text": "Stage the bookshelf sections for the Craftsbury install",
+    "user_name": "mariegagne",
+    "time_created": "2026-07-26T09:30:00Z"
+  },
+  {
+    "id": "rev-0000000009",
+    "business_id": "Buffalo Mountain Food Co-op",
+    "rating": "5",
+    "text": "Material order - Hardwick Lumber",
+    "user_name": "coxcustomwoodwork",
+    "time_created": "2026-07-17T09:45:00Z"
+  },
+  {
+    "id": "rev-0000000010",
+    "business_id": "Willey's Store",
+    "rating": "4",
+    "text": "Sharpened the chisels; the 1in was overdue.",
+    "user_name": "keithcox_dev",
+    "time_created": "2026-01-15T14:30:00Z"
+  },
+  {
+    "id": "rev-902",
+    "business_id": "Green Mountain Hardwoods",
+    "rating": "5",
+    "text": "Splitting and stacking the winter firewood",
+    "user_name": "bencox",
+    "time_created": "2026-07-10T16:15:00Z"
+  },
+  {
+    "id": "rev-904",
+    "business_id": "Willey's Store",
+    "rating": "4",
+    "text": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "user_name": "bencox",
+    "time_created": "2025-04-29T18:30:00Z"
+  },
+  {
+    "id": "rev-906",
+    "business_id": "Green Mountain Hardwoods",
+    "rating": "4",
+    "text": "Replace the dust collector filter and clean the cyclone",
+    "user_name": "mariegagne",
+    "time_created": "2024-03-16T17:00:00Z"
+  },
+  {
+    "id": "rev-908",
+    "business_id": "Tractor Supply Morrisville",
+    "rating": "5",
+    "text": "Sand to 220 and raise the grain before finish",
+    "user_name": "bencox",
+    "time_created": "2025-12-04T10:00:00Z"
+  },
+  {
+    "id": "rev-910",
+    "business_id": "Craftsbury General Store",
+    "rating": "5",
+    "text": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "user_name": "keithcox_dev",
+    "time_created": "2024-02-22T15:00:00Z"
+  },
+  {
+    "id": "rev-912",
+    "business_id": "Vermont Tool & Die",
+    "rating": "4",
+    "text": "Final fit of the Henderson island base cabinets",
+    "user_name": "keithcox_dev",
+    "time_created": "2025-04-01T17:30:00Z"
+  },
+  {
+    "id": "rev-914",
+    "business_id": "Cox Custom Woodwork",
+    "rating": "5",
+    "text": "Pete coming by Saturday for coffee; shop's a mess.",
+    "user_name": "coxcustomwoodwork",
+    "time_created": "2026-01-14T09:30:00Z"
+  },
+  {
+    "id": "rev-916",
+    "business_id": "Green Mountain Hardwoods",
+    "rating": "4",
+    "text": "Built-ins - finish sample for your approval",
+    "user_name": "dianecox",
+    "time_created": "2024-06-10T11:45:00Z"
+  },
+  {
+    "id": "rev-918",
+    "business_id": "Cox Custom Woodwork",
+    "rating": "5",
+    "text": "Stowe kitchen - cabinet hardware lead time",
+    "user_name": "keithcox_dev",
+    "time_created": "2025-01-27T10:15:00Z"
+  },
+  {
+    "id": "rev-920",
+    "business_id": "Craftsbury General Store",
+    "rating": "4",
+    "text": "Splitting and stacking the winter firewood",
+    "user_name": "mariegagne",
+    "time_created": "2024-09-17T09:00:00Z"
+  }
+]

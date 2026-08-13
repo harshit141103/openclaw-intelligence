@@ -1,0 +1,529 @@
+[
+  {
+    "Id": "3001",
+    "DocNumber": "RENT-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Lafleur barn door (favor)"
+    },
+    "TxnDate": "2026-10-09",
+    "DueDate": "2024-06-10",
+    "Line": [
+      {
+        "Amount": 620.0,
+        "Description": "Bookshelf install Friday the 16th",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Church pew repair",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 700.0,
+    "Balance": 19,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3002",
+    "DocNumber": "PGE-2026-03",
+    "VendorRef": {
+      "value": "3",
+      "name": "Mill cherry stock to thickness for the u"
+    },
+    "TxnDate": "2026-03-21",
+    "DueDate": "2026-06-29",
+    "Line": [
+      {
+        "Amount": 24.0,
+        "Description": "Delivery window for the Stowe cabinets",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Apply second coat of Arm-R-Seal to the b",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 185.0,
+    "Balance": 29
+  },
+  {
+    "Id": "3003",
+    "DocNumber": "BWD-2026-03",
+    "VendorRef": {
+      "value": "4",
+      "name": "Stowe kitchen - cabinet hardware lead time"
+    },
+    "TxnDate": "2024-07-02",
+    "DueDate": "2025-12-19",
+    "Line": [
+      {
+        "Amount": 34.5,
+        "Description": "Final fit of the Henderson island base cabinets",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Church pew repair",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 62.0,
+    "Balance": 41
+  },
+  {
+    "Id": "3004",
+    "DocNumber": "RAJ-2026-03",
+    "VendorRef": {
+      "value": "6",
+      "name": "Material order - Hardwick Lumber"
+    },
+    "TxnDate": "2024-02-03",
+    "DueDate": "2025-04-04",
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Stage the bookshelf sections for the Craftsbury install",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Order Blum slides for the Stowe drawer b",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 48
+  },
+  {
+    "Id": "3005",
+    "DocNumber": "WCS-2026-03A",
+    "VendorRef": {
+      "value": "7",
+      "name": "Replace the dust collector filter and cl"
+    },
+    "TxnDate": "2026-08-07",
+    "DueDate": "2025-11-26",
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Barn oak is summer 2027 - not pulling material yet.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Stowe kitchen - cabinet hardware lead time",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 88
+  },
+  {
+    "Id": "3006",
+    "DocNumber": "WCS-2026-03B",
+    "VendorRef": {
+      "value": "7",
+      "name": "Boucher mudroom built-ins"
+    },
+    "TxnDate": "2025-06-07",
+    "DueDate": "2025-04-03",
+    "Line": [
+      {
+        "Amount": 110.0,
+        "Description": "Sharpened the chisels; the 1in was overdue.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Lay out dovetails for the silverware dra",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 7
+  },
+  {
+    "Id": "3007",
+    "DocNumber": "RENT-2026-04",
+    "VendorRef": {
+      "value": "1",
+      "name": "Splitting and stacking the winter firewo"
+    },
+    "TxnDate": "2025-10-02",
+    "DueDate": "2025-02-10",
+    "Line": [
+      {
+        "Amount": 1850.0,
+        "Description": "Re-saw the walnut for bookmatched panels",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Boucher mudroom built-ins",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 700.0,
+    "Balance": 9,
+    "PrivateNote": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut."
+  },
+  {
+    "Id": "3008",
+    "DocNumber": "PGE-2026-04",
+    "VendorRef": {
+      "value": "3",
+      "name": "Lay out dovetails for the silverware dra"
+    },
+    "TxnDate": "2024-02-13",
+    "DueDate": "2023-08-24",
+    "Line": [
+      {
+        "Amount": 12.5,
+        "Description": "Sharpen the jointer knives and reset the infeed table",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cherry pricing for the Henderson uppers",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 172.0,
+    "Balance": 19
+  },
+  {
+    "Id": "3009",
+    "DocNumber": "BWD-2026-04",
+    "VendorRef": {
+      "value": "4",
+      "name": "Mill cherry stock to thickness for the u"
+    },
+    "TxnDate": "2024-10-23",
+    "DueDate": "2026-09-13",
+    "Line": [
+      {
+        "Amount": 24.0,
+        "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Estimate for the Greensboro barn (2027)",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 58.0,
+    "Balance": 29
+  },
+  {
+    "Id": "3010",
+    "DocNumber": "RAJ-2026-04",
+    "VendorRef": {
+      "value": "6",
+      "name": "Sloan cherry dining table"
+    },
+    "TxnDate": "2024-06-23",
+    "DueDate": "2025-11-24",
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Project schedule update",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Apply second coat of Arm-R-Seal to the b",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 34
+  },
+  {
+    "Id": "3011",
+    "DocNumber": "WCS-2026-04A",
+    "VendorRef": {
+      "value": "7",
+      "name": "Sand to 220 and raise the grain before f"
+    },
+    "TxnDate": "2026-10-03",
+    "DueDate": "2023-10-04",
+    "Line": [
+      {
+        "Amount": 41.0,
+        "Description": "Hold the Stowe drive until the morning forecast clears.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Re-saw the walnut for bookmatched panels",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 48
+  },
+  {
+    "Id": "3012",
+    "DocNumber": "WCS-2026-04B",
+    "VendorRef": {
+      "value": "7",
+      "name": "Set up the dado stack for the bookshelf "
+    },
+    "TxnDate": "2024-06-02",
+    "DueDate": "2026-01-19",
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Bookshelf install Friday the 16th",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 88
+  },
+  {
+    "Id": "3013",
+    "DocNumber": "PNWIG-2026-Q2",
+    "VendorRef": {
+      "value": "2",
+      "name": "Church pew repair"
+    },
+    "TxnDate": "2025-09-06",
+    "DueDate": "2024-07-25",
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Check the moisture content on the barn oak before joinery",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Estimate for the Greensboro barn (2027)",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 900.0,
+    "Balance": 110
+  },
+  {
+    "Id": "3014",
+    "DocNumber": "PMR-2026-04",
+    "VendorRef": {
+      "value": "8",
+      "name": "Boucher mudroom built-ins"
+    },
+    "TxnDate": "2026-06-08",
+    "DueDate": "2026-09-17",
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Estimate for the Greensboro barn (2027)",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 280.0,
+    "Balance": 7
+  },
+  {
+    "Id": "3015",
+    "DocNumber": "CTA-2026-04",
+    "VendorRef": {
+      "value": "9",
+      "name": "Sharpen the jointer knives and reset the"
+    },
+    "TxnDate": "2024-08-04",
+    "DueDate": "2024-07-29",
+    "Line": [
+      {
+        "Amount": 5400.0,
+        "Description": "Sand to 220 and raise the grain before finish",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Dry-fit the face frames before glue-up",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 345.0,
+    "Balance": 9
+  },
+  {
+    "Id": "3016",
+    "DocNumber": "BSC-2026-04",
+    "VendorRef": {
+      "value": "5",
+      "name": "Stage the bookshelf sections for the Cra"
+    },
+    "TxnDate": "2026-02-05",
+    "DueDate": "2025-12-02",
+    "Line": [
+      {
+        "Amount": 6200.0,
+        "Description": "Need to confirm material lead time on the Blum hardware before ordering.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Boucher mudroom built-ins",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 425.0,
+    "Balance": 8500.0,
+    "PrivateNote": "Sharpen the jointer knives and reset the infeed table"
+  },
+  {
+    "Id": "3017",
+    "DocNumber": "RENT-2026-05",
+    "VendorRef": {
+      "value": "1",
+      "name": "Stowe kitchen - cabinet hardware lead time"
+    },
+    "TxnDate": "2025-11-26",
+    "DueDate": "2024-11-25",
+    "Line": [
+      {
+        "Amount": 12000.0,
+        "Description": "Set up the dado stack for the bookshelf rabbets",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Cherry pricing for the Henderson uppers",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 700.0,
+    "Balance": 18500.0,
+    "PrivateNote": "Need to confirm material lead time on the Blum hardware before ordering."
+  },
+  {
+    "Id": "3401",
+    "DocNumber": "INV-MC-8821",
+    "VendorRef": {
+      "value": "401",
+      "name": "Boucher mudroom built-ins"
+    },
+    "TxnDate": "2025-11-06",
+    "DueDate": "2024-12-19",
+    "Line": [
+      {
+        "Amount": 480.0,
+        "Description": "Splitting and stacking the winter firewood",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "421",
+            "name": "Cota window seat & bookcase"
+          }
+        },
+        "Quantity": 55,
+        "UnitPrice": 12.5,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      },
+      {
+        "Amount": 620.0,
+        "Description": "Re: Stowe install date",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "421",
+            "name": "Stowe kitchen - cabinet hardware lead time"
+          }
+        },
+        "Quantity": 12,
+        "UnitPrice": 18.99,
+        "Id": "2",
+        "LineNum": 2,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      },
+      {
+        "Amount": 1200.0,
+        "Description": "Splitting and stacking the winter firewood",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "421",
+            "name": "Built-ins - finish sample for your approval"
+          }
+        },
+        "Quantity": 10,
+        "UnitPrice": 24.0,
+        "Id": "3",
+        "LineNum": 3,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 1298.5,
+    "Balance": 1850.0,
+    "PrivateNote": "Hold the Stowe drive until the morning forecast clears.",
+    "Status": "Open",
+    "MetaData": {
+      "CreateTime": "2025-08-01T18:15:00Z",
+      "LastUpdatedTime": "2024-12-06T08:30:00Z"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "3902",
+    "DocNumber": "RENT-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Re-saw the walnut for bookmatched panels"
+    },
+    "TxnDate": "2026-09-18",
+    "DueDate": "2026-03-18",
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Cherry came in a shade darker than the sample - will read better after finish.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Whitcomb built-in bookshelves",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 700.0,
+    "Balance": 29,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3904",
+    "DocNumber": "PGE-2026-03",
+    "VendorRef": {
+      "value": "3",
+      "name": "Re: Bookshelf dimensions"
+    },
+    "TxnDate": "2026-02-21",
+    "DueDate": "2023-12-23",
+    "Line": [
+      {
+        "Amount": 34.5,
+        "Description": "Estimate for the Greensboro barn (2027)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Mill cherry stock to thickness for the u",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 185.0,
+    "Balance": 41
+  }
+]

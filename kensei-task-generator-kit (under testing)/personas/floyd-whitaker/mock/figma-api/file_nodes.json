@@ -1,0 +1,112 @@
+{
+  "FK001abcdefg": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Page 1",
+        "type": "CANVAS",
+        "backgroundColor": {"r": 0.96, "g": 0.96, "b": 0.96, "a": 1},
+        "children": [
+          {
+            "id": "5:10",
+            "name": "Hero Section",
+            "type": "FRAME",
+            "absoluteBoundingBox": {"x": 0, "y": 0, "width": 1440, "height": 720},
+            "children": [
+              {"id": "5:11", "name": "Headline", "type": "TEXT", "characters": "Reliable Freight Across the Southeast"},
+              {"id": "5:12", "name": "Get a Quote", "type": "INSTANCE", "componentId": "comp-btn-primary"}
+            ]
+          },
+          {
+            "id": "5:20",
+            "name": "Services Section",
+            "type": "FRAME",
+            "absoluteBoundingBox": {"x": 0, "y": 760, "width": 1440, "height": 600},
+            "children": [
+              {"id": "5:21", "name": "Service Card", "type": "INSTANCE", "componentId": "comp-card-basic"},
+              {"id": "5:22", "name": "Learn More", "type": "INSTANCE", "componentId": "comp-btn-secondary"}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FK002hijklmn": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Contact",
+        "type": "CANVAS",
+        "backgroundColor": {"r": 1, "g": 1, "b": 1, "a": 1},
+        "children": [
+          {
+            "id": "12:1",
+            "name": "Contact Form",
+            "type": "FRAME",
+            "absoluteBoundingBox": {"x": 0, "y": 0, "width": 1440, "height": 1024},
+            "children": [
+              {"id": "12:5", "name": "Phone Line", "type": "TEXT", "characters": "(865) 555-2750"}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FK003opqrstu": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Logos",
+        "type": "CANVAS",
+        "backgroundColor": {"r": 0.1, "g": 0.1, "b": 0.12, "a": 1},
+        "children": [
+          {
+            "id": "3:1",
+            "name": "Logo Option A",
+            "type": "FRAME",
+            "absoluteBoundingBox": {"x": 0, "y": 0, "width": 600, "height": 300},
+            "children": [
+              {"id": "3:8", "name": "Wordmark", "type": "TEXT", "characters": "Whitaker Freight Services"}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FK004vwxyz12": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Components",
+        "type": "CANVAS",
+        "backgroundColor": {"r": 0.98, "g": 0.98, "b": 0.98, "a": 1},
+        "children": [
+          {
+            "id": "10:1",
+            "name": "Elements",
+            "type": "FRAME",
+            "absoluteBoundingBox": {"x": 0, "y": 0, "width": 800, "height": 600},
+            "children": [
+              {"id": "10:21", "name": "Button / Primary", "type": "COMPONENT", "componentId": "comp-btn-primary"},
+              {"id": "10:22", "name": "Button / Secondary", "type": "COMPONENT", "componentId": "comp-btn-secondary"},
+              {"id": "10:30", "name": "Input / Text", "type": "COMPONENT", "componentId": "comp-input-text"},
+              {"id": "10:41", "name": "Card / Basic", "type": "COMPONENT", "componentId": "comp-card-basic"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Dr. Paul LeBlanc"
+        ],
+        "emails": [
+          {
+            "data": "ben.cox@finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+14155550101",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1842 Wylie Hill Road",
+              "city": "Montpelier",
+              "region": "Wolcott, VT",
+              "postal_code": "05478",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Donna Sloan"
+        ],
+        "emails": [
+          {
+            "data": "office@craftsburychurch.org",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+14155550101",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1842 Wylie Hill Road",
+              "city": "Stowe",
+              "region": "Wolcott, VT",
+              "postal_code": "05826",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

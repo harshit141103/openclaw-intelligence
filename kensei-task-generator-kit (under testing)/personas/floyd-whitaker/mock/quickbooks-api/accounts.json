@@ -1,0 +1,152 @@
+[
+  {
+    "Id": "1",
+    "Name": "Brokerage Commission Revenue",
+    "AccountType": "Income",
+    "AccountSubType": "SalesOfProductIncome",
+    "CurrentBalance": "412580.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Freight brokerage commission income on loads booked between shippers and carriers"
+  },
+  {
+    "Id": "2",
+    "Name": "Cost of Freight - Carrier Payments",
+    "AccountType": "Cost of Goods Sold",
+    "AccountSubType": "SuppliesMaterialsCogs",
+    "CurrentBalance": "318940.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Linehaul payments to carriers for loads hauled on behalf of WFS clients"
+  },
+  {
+    "Id": "3",
+    "Name": "Logistics Consulting Revenue",
+    "AccountType": "Income",
+    "AccountSubType": "ServiceFeeIncome",
+    "CurrentBalance": "84210.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Consulting fees for lane analysis carrier vetting and supply chain advisory"
+  },
+  {
+    "Id": "4",
+    "Name": "Insurance Expense",
+    "AccountType": "Expense",
+    "AccountSubType": "Insurance",
+    "CurrentBalance": "13200.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Contingent cargo general liability and surety bond premiums"
+  },
+  {
+    "Id": "5",
+    "Name": "Operating Checking",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": "33890.74",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "First Tennessee Valley Bank business operating checking account"
+  },
+  {
+    "Id": "6",
+    "Name": "Accounts Receivable",
+    "AccountType": "Accounts Receivable",
+    "AccountSubType": "AccountsReceivable",
+    "CurrentBalance": "28450.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Outstanding client invoices for brokerage commissions and consulting"
+  },
+  {
+    "Id": "7",
+    "Name": "Office Rent",
+    "AccountType": "Expense",
+    "AccountSubType": "RentOrLeaseOfBuildings",
+    "CurrentBalance": "22800.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Monthly lease on commercial suite near the Pellissippi Parkway corridor"
+  },
+  {
+    "Id": "8",
+    "Name": "Utilities",
+    "AccountType": "Expense",
+    "AccountSubType": "Utilities",
+    "CurrentBalance": "4180.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Electric internet and phone service for the WFS office"
+  },
+  {
+    "Id": "9",
+    "Name": "Accounts Payable",
+    "AccountType": "Accounts Payable",
+    "AccountSubType": "AccountsPayable",
+    "CurrentBalance": "19840.00",
+    "Active": "true",
+    "Classification": "Liability",
+    "Description": "Outstanding carrier and vendor bills not yet paid"
+  },
+  {
+    "Id": "10",
+    "Name": "Payroll Expense",
+    "AccountType": "Expense",
+    "AccountSubType": "PayrollExpenses",
+    "CurrentBalance": "186400.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Wages and salaries for the WFS team and Floyd owner salary"
+  },
+  {
+    "Id": "11",
+    "Name": "Software & Subscriptions",
+    "AccountType": "Expense",
+    "AccountSubType": "OfficeGeneralAdministrativeExpenses",
+    "CurrentBalance": "9640.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "TMS load board freight software and office subscriptions"
+  },
+  {
+    "Id": "12",
+    "Name": "Professional Fees",
+    "AccountType": "Expense",
+    "AccountSubType": "LegalProfessionalFees",
+    "CurrentBalance": "8200.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Accounting and legal services including Wayne Prater accounting"
+  },
+  {
+    "Id": "13",
+    "Name": "Owner Distributions",
+    "AccountType": "Equity",
+    "AccountSubType": "OwnersEquity",
+    "CurrentBalance": "24000.00",
+    "Active": "true",
+    "Classification": "Equity",
+    "Description": "Owner draws and distributions to Floyd Whitaker"
+  },
+  {
+    "Id": "14",
+    "Name": "Retained Earnings",
+    "AccountType": "Equity",
+    "AccountSubType": "RetainedEarnings",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Equity",
+    "Description": "Accumulated net earnings for Whitaker Freight Services"
+  },
+  {
+    "Id": "15",
+    "Name": "Fuel & Travel",
+    "AccountType": "Expense",
+    "AccountSubType": "Travel",
+    "CurrentBalance": "6320.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Conference travel and Silverado fuel for client and carrier visits"
+  }
+]

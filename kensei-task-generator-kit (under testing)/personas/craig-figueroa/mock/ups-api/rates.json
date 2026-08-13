@@ -1,0 +1,90 @@
+[
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "6.5",
+    "currency": "GBP",
+    "total_charge": "18.4",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  },
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "BA22 7TT",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "12.0",
+    "currency": "GBP",
+    "total_charge": "27.2",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  },
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "EH54 6AX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "3.2",
+    "currency": "GBP",
+    "total_charge": "13.12",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  },
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "IV2 7JQ",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "1.5",
+    "currency": "GBP",
+    "total_charge": "10.4",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  },
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "G52 4XB",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "9.0",
+    "currency": "GBP",
+    "total_charge": "22.4",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  },
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "18.5",
+    "currency": "GBP",
+    "total_charge": "37.6",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  },
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "BA22 7TT",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "4.0",
+    "currency": "GBP",
+    "total_charge": "14.4",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  },
+  {
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "origin_zip": "EH54 6AX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "7.5",
+    "currency": "GBP",
+    "total_charge": "20.0",
+    "transit_days": "2",
+    "delivery_date": "2026-05-29"
+  }
+]

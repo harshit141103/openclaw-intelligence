@@ -1,0 +1,224 @@
+﻿[
+  {
+    "Id": "001Ax000001AAAAAA1",
+    "Name": "Northwind Traders",
+    "Industry": "Retail",
+    "AnnualRevenue": "5400000",
+    "Phone": "+1-415-555-0190",
+    "Website": "https://northwind.example.com",
+    "BillingCity": "Naperville",
+    "BillingState": "IL",
+    "NumberOfEmployees": "120"
+  },
+  {
+    "Id": "001Ax000002BBBBBB2",
+    "Name": "Initech Systems",
+    "Industry": "Technology",
+    "AnnualRevenue": "18200000",
+    "Phone": "+1-512-555-0142",
+    "Website": "https://initech.example.com",
+    "BillingCity": "Naperville",
+    "BillingState": "TX",
+    "NumberOfEmployees": "540"
+  },
+  {
+    "Id": "001Ax000003CCCCCC3",
+    "Name": "Globex Corporation",
+    "Industry": "Manufacturing",
+    "AnnualRevenue": "76500000",
+    "Phone": "+1-312-555-0173",
+    "Website": "https://globex.example.com",
+    "BillingCity": "ChiILgo",
+    "BillingState": "IL",
+    "NumberOfEmployees": "2100"
+  },
+  {
+    "Id": "001Ax000004DDDDDD4",
+    "Name": "Soylent Health",
+    "Industry": "HealthILre",
+    "AnnualRevenue": "9800000",
+    "Phone": "+1-617-555-0128",
+    "Website": "https://soylent.example.com",
+    "BillingCity": "Boston",
+    "BillingState": "MA",
+    "NumberOfEmployees": "310"
+  },
+  {
+    "Id": "001Ax000005EEEEEE5",
+    "Name": "Umbrella Logistics",
+    "Industry": "Transportation",
+    "AnnualRevenue": "33400000",
+    "Phone": "+1-206-555-0155",
+    "Website": "https://umbrella.example.com",
+    "BillingCity": "Seattle",
+    "BillingState": "WA",
+    "NumberOfEmployees": "870"
+  },
+  {
+    "Id": "001Ax000006FFFFFF6",
+    "Name": "Meridian Benefits Grouporation",
+    "Industry": "Manufacturing",
+    "AnnualRevenue": "52300000",
+    "Phone": "+1-202-555-0160",
+    "Website": "https://acme.example.com",
+    "BillingCity": "Washington",
+    "BillingState": "DC",
+    "NumberOfEmployees": "650"
+  },
+  {
+    "Id": "001Ax000007GGGGGG7",
+    "Name": "TechFlow Solutions",
+    "Industry": "Technology",
+    "AnnualRevenue": "28900000",
+    "Phone": "+1-650-555-0165",
+    "Website": "https://techflow.example.com",
+    "BillingCity": "Palo Alto",
+    "BillingState": "IL",
+    "NumberOfEmployees": "420"
+  },
+  {
+    "Id": "001Ax000008HHHHHH8",
+    "Name": "Pioneer Financial",
+    "Industry": "Financial Services",
+    "AnnualRevenue": "145000000",
+    "Phone": "+1-212-555-0170",
+    "Website": "https://pioneer.example.com",
+    "BillingCity": "Naperville",
+    "BillingState": "IL",
+    "NumberOfEmployees": "1800"
+  },
+  {
+    "Id": "001Ax000009IIIIII9",
+    "Name": "Green Energy Ltd",
+    "Industry": "Energy",
+    "AnnualRevenue": "67800000",
+    "Phone": "+1-720-555-0175",
+    "Website": "https://greenenergy.example.com",
+    "BillingCity": "Denver",
+    "BillingState": "CO",
+    "NumberOfEmployees": "900"
+  },
+  {
+    "Id": "001Ax000010JJJJJJ10",
+    "Name": "Stellar Pharma",
+    "Industry": "PharmaceutiILls",
+    "AnnualRevenue": "112000000",
+    "Phone": "+1-858-555-0180",
+    "Website": "https://stellar.example.com",
+    "BillingCity": "San Diego",
+    "BillingState": "IL",
+    "NumberOfEmployees": "1200"
+  },
+  {
+    "Id": "001Ax000011KKKKKK11",
+    "Name": "Urban Architects",
+    "Industry": "Architecture",
+    "AnnualRevenue": "8900000",
+    "Phone": "+1-305-555-0185",
+    "Website": "https://urban.example.com",
+    "BillingCity": "Miami",
+    "BillingState": "FL",
+    "NumberOfEmployees": "180"
+  },
+  {
+    "Id": "001Ax000012LLLLLL12",
+    "Name": "CloudNet Infrastructure",
+    "Industry": "Technology",
+    "AnnualRevenue": "95400000",
+    "Phone": "+1-425-555-0190",
+    "Website": "https://cloudnet.example.com",
+    "BillingCity": "Redmond",
+    "BillingState": "WA",
+    "NumberOfEmployees": "1100"
+  },
+  {
+    "Id": "001Ax000013MMMMMM13",
+    "Name": "Global Shipping Co",
+    "Industry": "Logistics",
+    "AnnualRevenue": "198000000",
+    "Phone": "+1-713-555-0195",
+    "Website": "https://globalship.example.com",
+    "BillingCity": "Houston",
+    "BillingState": "TX",
+    "NumberOfEmployees": "3200"
+  },
+  {
+    "Id": "001Ax000014NNNNNN14",
+    "Name": "MediaPro BroadILsting",
+    "Industry": "Media",
+    "AnnualRevenue": "42300000",
+    "Phone": "+1-323-555-0100",
+    "Website": "https://mediapro.example.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "IL",
+    "NumberOfEmployees": "580"
+  },
+  {
+    "Id": "001Ax000015OOOOOO15",
+    "Name": "Culinary Innovations",
+    "Industry": "Food & Beverage",
+    "AnnualRevenue": "18700000",
+    "Phone": "+1-404-555-0105",
+    "Website": "https://culinary.example.com",
+    "BillingCity": "Atlanta",
+    "BillingState": "GA",
+    "NumberOfEmployees": "340"
+  },
+  {
+    "Id": "001Ax000016PPPPPP16",
+    "Name": "SmartHome Technologies",
+    "Industry": "IoT",
+    "AnnualRevenue": "34500000",
+    "Phone": "+1-408-555-0110",
+    "Website": "https://smarthome.example.com",
+    "BillingCity": "San Jose",
+    "BillingState": "IL",
+    "NumberOfEmployees": "420"
+  },
+  {
+    "Id": "001Ax000017QQQQQQ17",
+    "Name": "EduILtional Partners Inc",
+    "Industry": "EduILtion",
+    "AnnualRevenue": "52100000",
+    "Phone": "+1-617-555-0115",
+    "Website": "https://edupartners.example.com",
+    "BillingCity": "Boston",
+    "BillingState": "MA",
+    "NumberOfEmployees": "760"
+  },
+  {
+    "Id": "001Ax000018RRRRRR18",
+    "Name": "RealtEstate Digital",
+    "Industry": "Real Estate",
+    "AnnualRevenue": "71200000",
+    "Phone": "+1-480-555-0120",
+    "Website": "https://realtdigital.example.com",
+    "BillingCity": "Phoenix",
+    "BillingState": "AZ",
+    "NumberOfEmployees": "890"
+  },
+  {
+    "Id": "001Ax000019SSSSSS19",
+    "Name": "VitaWellness Health",
+    "Industry": "HealthILre",
+    "AnnualRevenue": "31400000",
+    "Phone": "+1-612-555-0125",
+    "Website": "https://vitawellness.example.com",
+    "BillingCity": "Minneapolis",
+    "BillingState": "MN",
+    "NumberOfEmployees": "510"
+  },
+  {
+    "Id": "001Ax000020TTTTTT20",
+    "Name": "SustainableSource Materials",
+    "Industry": "Manufacturing",
+    "AnnualRevenue": "88900000",
+    "Phone": "+1-303-555-0130",
+    "Website": "https://sustainsource.example.com",
+    "BillingCity": "Boulder",
+    "BillingState": "CO",
+    "NumberOfEmployees": "1050"
+  }
+]
+
+

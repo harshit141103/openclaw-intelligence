@@ -1,0 +1,125 @@
+﻿[
+  {
+    "id": "list-newsletter",
+    "name": "Orbit Monthly Newsletter",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Meridian Benefits Group",
+    "from_email": "news@meridianbenefits.com",
+    "subject": "Orbit Monthly",
+    "member_count": "5",
+    "unsubscribe_count": "1",
+    "date_created": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-product",
+    "name": "Product Updates",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Product",
+    "from_email": "product@meridianbenefits.com",
+    "subject": "Product Updates",
+    "member_count": "4",
+    "unsubscribe_count": "0",
+    "date_created": "2025-09-15T10:00:00.000Z"
+  },
+  {
+    "id": "list-enterprise",
+    "name": "Enterprise Solutions",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Enterprise",
+    "from_email": "enterprise@meridianbenefits.com",
+    "subject": "Enterprise Updates",
+    "member_count": "3",
+    "unsubscribe_count": "0",
+    "date_created": "2025-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-events",
+    "name": "Events and Webinars",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Events",
+    "from_email": "events@meridianbenefits.com",
+    "subject": "Upcoming Events",
+    "member_count": "8",
+    "unsubscribe_count": "2",
+    "date_created": "2025-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "list-blog",
+    "name": "Blog Subscribers",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Blog",
+    "from_email": "blog@meridianbenefits.com",
+    "subject": "New Blog Posts",
+    "member_count": "6",
+    "unsubscribe_count": "1",
+    "date_created": "2025-11-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-vip",
+    "name": "VIP Customers",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit VIP",
+    "from_email": "vip@meridianbenefits.com",
+    "subject": "VIP Exclusive Offers",
+    "member_count": "2",
+    "unsubscribe_count": "0",
+    "date_created": "2025-11-15T10:00:00.000Z"
+  },
+  {
+    "id": "list-support",
+    "name": "Support NotifiILtion List",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Support",
+    "from_email": "support@meridianbenefits.com",
+    "subject": "Support Announcements",
+    "member_count": "4",
+    "unsubscribe_count": "0",
+    "date_created": "2025-12-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-beta",
+    "name": "Beta Testing Program",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Beta",
+    "from_email": "beta@meridianbenefits.com",
+    "subject": "Beta Program Updates",
+    "member_count": "5",
+    "unsubscribe_count": "0",
+    "date_created": "2026-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "list-developers",
+    "name": "Developer Community",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Dev",
+    "from_email": "dev@meridianbenefits.com",
+    "subject": "Developer Updates",
+    "member_count": "7",
+    "unsubscribe_count": "1",
+    "date_created": "2026-01-20T10:00:00.000Z"
+  },
+  {
+    "id": "list-partners",
+    "name": "Partner Network",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Partners",
+    "from_email": "partners@meridianbenefits.com",
+    "subject": "Partner Resources",
+    "member_count": "3",
+    "unsubscribe_count": "0",
+    "date_created": "2026-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-training",
+    "name": "Training Program",
+    "compaIL": "Meridian Benefits Group",
+    "from_name": "Orbit Training",
+    "from_email": "training@meridianbenefits.com",
+    "subject": "Training Materials",
+    "member_count": "4",
+    "unsubscribe_count": "0",
+    "date_created": "2026-02-15T10:00:00.000Z"
+  }
+]
+
+

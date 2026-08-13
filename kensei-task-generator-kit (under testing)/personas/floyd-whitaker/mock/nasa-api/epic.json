@@ -1,0 +1,162 @@
+[
+  {
+    "identifier": "20260527003633",
+    "image": "epic_1b_20260527003633",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 00:31:45",
+    "centroid_lat": "7.12",
+    "centroid_lon": "-165.34"
+  },
+  {
+    "identifier": "20260527021810",
+    "image": "epic_1b_20260527021810",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 02:13:22",
+    "centroid_lat": "6.98",
+    "centroid_lon": "-192.07"
+  },
+  {
+    "identifier": "20260527040022",
+    "image": "epic_1b_20260527040022",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 03:55:40",
+    "centroid_lat": "6.81",
+    "centroid_lon": "-218.45"
+  },
+  {
+    "identifier": "20260527054310",
+    "image": "epic_1b_20260527054310",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 05:38:55",
+    "centroid_lat": "6.62",
+    "centroid_lon": "-244.90"
+  },
+  {
+    "identifier": "20260527072545",
+    "image": "epic_1b_20260527072545",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 07:21:08",
+    "centroid_lat": "6.44",
+    "centroid_lon": "-271.33"
+  },
+  {
+    "identifier": "20260527090820",
+    "image": "epic_1b_20260527090820",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 09:04:31",
+    "centroid_lat": "6.25",
+    "centroid_lon": "-297.71"
+  },
+  {
+    "identifier": "20260527105055",
+    "image": "epic_1b_20260527105055",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 10:47:08",
+    "centroid_lat": "6.07",
+    "centroid_lon": "-324.12"
+  },
+  {
+    "identifier": "20260527123330",
+    "image": "epic_1b_20260527123330",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 12:29:44",
+    "centroid_lat": "5.88",
+    "centroid_lon": "-350.55"
+  },
+  {
+    "identifier": "20260527141605",
+    "image": "epic_1b_20260527141605",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 14:12:19",
+    "centroid_lat": "5.70",
+    "centroid_lon": "-16.98"
+  },
+  {
+    "identifier": "20260527155840",
+    "image": "epic_1b_20260527155840",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 15:54:53",
+    "centroid_lat": "5.51",
+    "centroid_lon": "-43.40"
+  },
+  {
+    "identifier": "20260527174115",
+    "image": "epic_1b_20260527174115",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 17:37:28",
+    "centroid_lat": "5.33",
+    "centroid_lon": "-69.82"
+  },
+  {
+    "identifier": "20260527192350",
+    "image": "epic_1b_20260527192350",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 19:20:03",
+    "centroid_lat": "5.14",
+    "centroid_lon": "-96.25"
+  },
+  {
+    "identifier": "20260527210625",
+    "image": "epic_1b_20260527210625",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 21:02:38",
+    "centroid_lat": "4.96",
+    "centroid_lon": "-122.67"
+  },
+  {
+    "identifier": "20260527224900",
+    "image": "epic_1b_20260527224900",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-27 22:45:13",
+    "centroid_lat": "4.77",
+    "centroid_lon": "-149.09"
+  },
+  {
+    "identifier": "20260528002145",
+    "image": "epic_1b_20260528002145",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-28 00:19:58",
+    "centroid_lat": "4.59",
+    "centroid_lon": "-175.52"
+  },
+  {
+    "identifier": "20260528015420",
+    "image": "epic_1b_20260528015420",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-28 01:51:33",
+    "centroid_lat": "4.40",
+    "centroid_lon": "-201.94"
+  },
+  {
+    "identifier": "20260528033655",
+    "image": "epic_1b_20260528033655",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-28 03:33:08",
+    "centroid_lat": "4.22",
+    "centroid_lon": "-228.36"
+  },
+  {
+    "identifier": "20260528051930",
+    "image": "epic_1b_20260528051930",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-28 05:15:43",
+    "centroid_lat": "4.03",
+    "centroid_lon": "-254.79"
+  },
+  {
+    "identifier": "20260528070205",
+    "image": "epic_1b_20260528070205",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-28 06:58:18",
+    "centroid_lat": "3.85",
+    "centroid_lon": "-281.21"
+  },
+  {
+    "identifier": "20260528084440",
+    "image": "epic_1b_20260528084440",
+    "caption": "This image was taken by the DSCOVR EPIC camera",
+    "date": "2026-05-28 08:40:53",
+    "centroid_lat": "3.66",
+    "centroid_lon": "-307.63"
+  }
+]

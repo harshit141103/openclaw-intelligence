@@ -1,0 +1,142 @@
+[
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "monday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "tuesday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "wednesday",
+    "start_time": "09:00",
+    "end_time": "15:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "thursday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "friday",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "monday",
+    "start_time": "07:30",
+    "end_time": "08:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "tuesday",
+    "start_time": "07:30",
+    "end_time": "08:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "wednesday",
+    "start_time": "07:30",
+    "end_time": "08:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "thursday",
+    "start_time": "07:30",
+    "end_time": "08:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "wednesday",
+    "start_time": "15:30",
+    "end_time": "16:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "friday",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "monday",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "thursday",
+    "start_time": "17:00",
+    "end_time": "18:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "tuesday",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-keith-burgess",
+    "weekday": "monday",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-keith-burgess",
+    "weekday": "tuesday",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-keith-burgess",
+    "weekday": "wednesday",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-keith-burgess",
+    "weekday": "thursday",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-keith-burgess",
+    "weekday": "friday",
+    "start_time": "10:00",
+    "end_time": "14:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "owner": "user-floyd-whitaker",
+    "weekday": "saturday",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "timezone": "America/New_York"
+  }
+]

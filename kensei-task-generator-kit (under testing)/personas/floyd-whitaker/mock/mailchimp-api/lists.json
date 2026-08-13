@@ -1,0 +1,222 @@
+[
+  {
+    "id": "list-newsletter",
+    "name": "WFS Client Newsletter",
+    "company": "Whitaker Freight Services",
+    "from_name": "Whitaker Freight Services",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "WFS Freight Update",
+    "member_count": "16",
+    "unsubscribe_count": "1",
+    "date_created": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "list-product",
+    "name": "WFS Carrier and Mentorship Updates",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "floyd.whitaker@whitakerfreight.com",
+    "subject": "Carrier and Mentorship News",
+    "member_count": "8",
+    "unsubscribe_count": "0",
+    "date_created": "2024-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-carriers",
+    "name": "WFS Approved Carriers",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "dispatch@whitakerfreight.com",
+    "subject": "Carrier Lane and Capacity Updates",
+    "member_count": "12",
+    "unsubscribe_count": "0",
+    "date_created": "2024-02-10T10:00:00.000Z"
+  },
+  {
+    "id": "list-automotive",
+    "name": "WFS Automotive Accounts",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Automotive Freight Update",
+    "member_count": "6",
+    "unsubscribe_count": "0",
+    "date_created": "2024-03-05T10:00:00.000Z"
+  },
+  {
+    "id": "list-agriculture",
+    "name": "WFS Agricultural Accounts",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Ag Freight and Harvest Capacity",
+    "member_count": "5",
+    "unsubscribe_count": "0",
+    "date_created": "2024-03-12T10:00:00.000Z"
+  },
+  {
+    "id": "list-building",
+    "name": "WFS Building Materials Accounts",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Building Materials Freight Update",
+    "member_count": "4",
+    "unsubscribe_count": "0",
+    "date_created": "2024-03-18T10:00:00.000Z"
+  },
+  {
+    "id": "list-mentorship",
+    "name": "TN Freight Mentorship Program",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "floyd.whitaker@whitakerfreight.com",
+    "subject": "Mentorship Cohort Announcements",
+    "member_count": "9",
+    "unsubscribe_count": "0",
+    "date_created": "2024-08-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-compliance",
+    "name": "WFS DOT Compliance Webinars",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Quarterly DOT Compliance Webinar",
+    "member_count": "18",
+    "unsubscribe_count": "1",
+    "date_created": "2024-04-02T10:00:00.000Z"
+  },
+  {
+    "id": "list-prospects",
+    "name": "WFS Prospects and Inbound Quotes",
+    "company": "Whitaker Freight Services",
+    "from_name": "Whitaker Freight Services",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Get a Freight Quote",
+    "member_count": "22",
+    "unsubscribe_count": "3",
+    "date_created": "2024-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "list-allclients",
+    "name": "WFS All Active Clients",
+    "company": "Whitaker Freight Services",
+    "from_name": "Whitaker Freight Services",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Whitaker Freight Services Update",
+    "member_count": "34",
+    "unsubscribe_count": "2",
+    "date_created": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "list-holiday",
+    "name": "WFS Holiday and Seasonal",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Seasonal Capacity and Holiday Schedule",
+    "member_count": "34",
+    "unsubscribe_count": "1",
+    "date_created": "2024-11-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-ratealerts",
+    "name": "WFS Lane Rate Alerts",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "dispatch@whitakerfreight.com",
+    "subject": "Lane Rate Alert",
+    "member_count": "14",
+    "unsubscribe_count": "0",
+    "date_created": "2024-06-20T10:00:00.000Z"
+  },
+  {
+    "id": "list-midwest",
+    "name": "WFS Midwest Corridor Shippers",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Midwest Corridor Capacity Update",
+    "member_count": "9",
+    "unsubscribe_count": "0",
+    "date_created": "2024-07-08T10:00:00.000Z"
+  },
+  {
+    "id": "list-southeast",
+    "name": "WFS Southeast Corridor Shippers",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Southeast Corridor Capacity Update",
+    "member_count": "21",
+    "unsubscribe_count": "1",
+    "date_created": "2024-07-09T10:00:00.000Z"
+  },
+  {
+    "id": "list-referrals",
+    "name": "WFS Referral Partners",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "floyd.whitaker@whitakerfreight.com",
+    "subject": "Partner Referral Update",
+    "member_count": "7",
+    "unsubscribe_count": "0",
+    "date_created": "2024-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-tnfa",
+    "name": "TN Freight Association Members",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "floyd.whitaker@whitakerfreight.com",
+    "subject": "TN Freight Association Update",
+    "member_count": "26",
+    "unsubscribe_count": "0",
+    "date_created": "2024-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "list-invoices",
+    "name": "WFS Billing and Invoices",
+    "company": "Whitaker Freight Services",
+    "from_name": "Whitaker Freight Services",
+    "from_email": "billing@whitakerfreight.com",
+    "subject": "WFS Invoice and Statement",
+    "member_count": "34",
+    "unsubscribe_count": "0",
+    "date_created": "2024-01-12T10:00:00.000Z"
+  },
+  {
+    "id": "list-newcarriers",
+    "name": "WFS Carrier Applicants",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "dispatch@whitakerfreight.com",
+    "subject": "Carrier Onboarding Next Steps",
+    "member_count": "11",
+    "unsubscribe_count": "0",
+    "date_created": "2024-05-20T10:00:00.000Z"
+  },
+  {
+    "id": "list-staff",
+    "name": "WFS Internal Staff",
+    "company": "Whitaker Freight Services",
+    "from_name": "Floyd Whitaker",
+    "from_email": "floyd.whitaker@whitakerfreight.com",
+    "subject": "WFS Team Update",
+    "member_count": "6",
+    "unsubscribe_count": "0",
+    "date_created": "2024-01-08T10:00:00.000Z"
+  },
+  {
+    "id": "list-quarterly",
+    "name": "WFS Quarterly Freight Report",
+    "company": "Whitaker Freight Services",
+    "from_name": "Whitaker Freight Services",
+    "from_email": "news@whitakerfreight.com",
+    "subject": "Quarterly Freight Market Report",
+    "member_count": "30",
+    "unsubscribe_count": "2",
+    "date_created": "2024-04-01T10:00:00.000Z"
+  }
+]

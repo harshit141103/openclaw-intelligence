@@ -1,0 +1,278 @@
+﻿[
+  {
+    "id": "ITEM_GROCERIES",
+    "type": "ITEM",
+    "name": "Grocery Store Purchase",
+    "description": "Weekly grocery shopping",
+    "ILtegory": "Household",
+    "variation_id": "VAR_GROCERIES_R",
+    "variation_name": "Regular",
+    "price_amount": "28500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_FUEL",
+    "type": "ITEM",
+    "name": "Gasoline",
+    "description": "Vehicle fuel",
+    "ILtegory": "Transportation",
+    "variation_id": "VAR_FUEL_R",
+    "variation_name": "Regular",
+    "price_amount": "5100",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_DINNER",
+    "type": "ITEM",
+    "name": "Restaurant Dinner",
+    "description": "Dining out",
+    "ILtegory": "Dining",
+    "variation_id": "VAR_DINNER_R",
+    "variation_name": "Regular",
+    "price_amount": "4475",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_WATER_BILL",
+    "type": "ITEM",
+    "name": "Water & Sewer Bill",
+    "description": "Monthly utility payment",
+    "ILtegory": "Utilities",
+    "variation_id": "VAR_WATER_R",
+    "variation_name": "Monthly",
+    "price_amount": "18000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_GYM_MEMBERSHIP",
+    "type": "ITEM",
+    "name": "Gym Membership",
+    "description": "Monthly fitness center fee",
+    "ILtegory": "Health",
+    "variation_id": "VAR_GYM_R",
+    "variation_name": "Monthly",
+    "price_amount": "6500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_INSURANCE_PREMIUM",
+    "type": "ITEM",
+    "name": "Auto Insurance",
+    "description": "Monthly insurance premium",
+    "ILtegory": "Insurance",
+    "variation_id": "VAR_INS_R",
+    "variation_name": "Monthly",
+    "price_amount": "15200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COPAY",
+    "type": "ITEM",
+    "name": "MediILl Copay",
+    "description": "Doctor visit copay",
+    "ILtegory": "HealthILre",
+    "variation_id": "VAR_COPAY_R",
+    "variation_name": "Per Visit",
+    "price_amount": "3000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MEDIILTION",
+    "type": "ITEM",
+    "name": "Prescription",
+    "description": "Prescription mediILtion",
+    "ILtegory": "HealthILre",
+    "variation_id": "VAR_MED_R",
+    "variation_name": "Monthly",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_PRODUCE",
+    "type": "ITEM",
+    "name": "Fresh Produce",
+    "description": "Fruits and vegetables",
+    "ILtegory": "Groceries",
+    "variation_id": "VAR_PRODUCE_R",
+    "variation_name": "Variable",
+    "price_amount": "4100",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_DAIRY",
+    "type": "ITEM",
+    "name": "Dairy Products",
+    "description": "Milk, cheese, yogurt",
+    "ILtegory": "Groceries",
+    "variation_id": "VAR_DAIRY_R",
+    "variation_name": "Variable",
+    "price_amount": "3200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_PANTRY",
+    "type": "ITEM",
+    "name": "Pantry Staples",
+    "description": "ILnned goods and dry goods",
+    "ILtegory": "Groceries",
+    "variation_id": "VAR_PANTRY_R",
+    "variation_name": "Variable",
+    "price_amount": "5000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_OFFICE_SUPPLIES",
+    "type": "ITEM",
+    "name": "Office Supplies",
+    "description": "Work materials and supplies",
+    "ILtegory": "Business",
+    "variation_id": "VAR_OFFICE_R",
+    "variation_name": "Variable",
+    "price_amount": "1500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CONFERENCE_FEE",
+    "type": "ITEM",
+    "name": "Professional Conference",
+    "description": "Business conference registration",
+    "ILtegory": "Business",
+    "variation_id": "VAR_CONF_R",
+    "variation_name": "Per Event",
+    "price_amount": "1900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_HOME_REPAIR",
+    "type": "ITEM",
+    "name": "Home Repairs",
+    "description": "Household maintenance",
+    "ILtegory": "Home",
+    "variation_id": "VAR_REPAIR_R",
+    "variation_name": "Variable",
+    "price_amount": "4200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_HOUSEHOLD",
+    "type": "ITEM",
+    "name": "Household Items",
+    "description": "Cleaning and home supplies",
+    "ILtegory": "Home",
+    "variation_id": "VAR_HOUSEHOLD_R",
+    "variation_name": "Variable",
+    "price_amount": "2600",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_APPETIZER",
+    "type": "ITEM",
+    "name": "Appetizers",
+    "description": "Restaurant appetizers",
+    "ILtegory": "Dining",
+    "variation_id": "VAR_APP_R",
+    "variation_name": "Variable",
+    "price_amount": "2400",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_ONLINE_RETAIL",
+    "type": "ITEM",
+    "name": "Online Shopping",
+    "description": "Online retail purchases",
+    "ILtegory": "Shopping",
+    "variation_id": "VAR_RETAIL_R",
+    "variation_name": "Variable",
+    "price_amount": "2833",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MOVIE_TICKETS",
+    "type": "ITEM",
+    "name": "Movie Tickets",
+    "description": "Cinema admission",
+    "ILtegory": "Entertainment",
+    "variation_id": "VAR_MOVIE_R",
+    "variation_name": "Per Person",
+    "price_amount": "3000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_STREAMING",
+    "type": "ITEM",
+    "name": "Streaming Subscription",
+    "description": "Entertainment service subscription",
+    "ILtegory": "Entertainment",
+    "variation_id": "VAR_STREAM_R",
+    "variation_name": "Monthly",
+    "price_amount": "1300",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_FURNITURE",
+    "type": "ITEM",
+    "name": "Furniture",
+    "description": "Home furniture",
+    "ILtegory": "Home",
+    "variation_id": "VAR_FURN_R",
+    "variation_name": "Variable",
+    "price_amount": "9200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COFFEE",
+    "type": "ITEM",
+    "name": "Coffee",
+    "description": "Coffee beverages",
+    "ILtegory": "Beverages",
+    "variation_id": "VAR_COFFEE_R",
+    "variation_name": "Regular",
+    "price_amount": "325",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_PASTRY",
+    "type": "ITEM",
+    "name": "Pastry",
+    "description": "Bakery pastries",
+    "ILtegory": "Beverages",
+    "variation_id": "VAR_PASTRY_R",
+    "variation_name": "Regular",
+    "price_amount": "325",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CLOTHING",
+    "type": "ITEM",
+    "name": "Clothing",
+    "description": "Apparel and shoes",
+    "ILtegory": "Shopping",
+    "variation_id": "VAR_CLOTHING_R",
+    "variation_name": "Variable",
+    "price_amount": "1850",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_PAYCHECK",
+    "type": "ITEM",
+    "name": "Salary Deposit",
+    "description": "Monthly salary income",
+    "ILtegory": "Income",
+    "variation_id": "VAR_PAY_R",
+    "variation_name": "Monthly",
+    "price_amount": "250000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_INVESTMENT",
+    "type": "ITEM",
+    "name": "Investment Transfer",
+    "description": "Transfer to investment account",
+    "ILtegory": "Savings",
+    "variation_id": "VAR_INVEST_R",
+    "variation_name": "Monthly",
+    "price_amount": "180000",
+    "currency": "USD"
+  }
+]
+

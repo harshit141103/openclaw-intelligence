@@ -1,0 +1,142 @@
+[
+  {
+    "escalation_policy_id": "EP001",
+    "name": "WFS Website Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Email Routing Alerts",
+    "num_loops": "2",
+    "tier1_user_id": "PU010",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP003",
+    "name": "RoutePoint Portal Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU009",
+    "tier2_user_id": "PU002"
+  },
+  {
+    "escalation_policy_id": "EP004",
+    "name": "Database Backup Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU010",
+    "tier2_user_id": "PU004"
+  },
+  {
+    "escalation_policy_id": "EP005",
+    "name": "SSL Monitor Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU010"
+  },
+  {
+    "escalation_policy_id": "EP006",
+    "name": "DNS Health Alerts",
+    "num_loops": "2",
+    "tier1_user_id": "PU010",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP007",
+    "name": "Contact Form Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU001",
+    "tier2_user_id": "PU002"
+  },
+  {
+    "escalation_policy_id": "EP008",
+    "name": "QuickBooks Sync Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP009",
+    "name": "DAT Integration Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU005",
+    "tier2_user_id": "PU002"
+  },
+  {
+    "escalation_policy_id": "EP010",
+    "name": "MacroPoint Feed Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU006",
+    "tier2_user_id": "PU002"
+  },
+  {
+    "escalation_policy_id": "EP011",
+    "name": "Web Hosting Alerts",
+    "num_loops": "2",
+    "tier1_user_id": "PU010",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP012",
+    "name": "Office Internet Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU020"
+  },
+  {
+    "escalation_policy_id": "EP013",
+    "name": "VPN Gateway Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU010",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP014",
+    "name": "Spam Filter Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU001",
+    "tier2_user_id": "PU002"
+  },
+  {
+    "escalation_policy_id": "EP015",
+    "name": "RoutePoint Sync Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU009",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP016",
+    "name": "Invoice Generator Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU002"
+  },
+  {
+    "escalation_policy_id": "EP017",
+    "name": "Analytics Collector Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU010",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP018",
+    "name": "Document Storage Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU010"
+  },
+  {
+    "escalation_policy_id": "EP019",
+    "name": "Staging Portal Alerts",
+    "num_loops": "1",
+    "tier1_user_id": "PU009",
+    "tier2_user_id": "PU020"
+  },
+  {
+    "escalation_policy_id": "EP020",
+    "name": "After-Hours Critical Alerts",
+    "num_loops": "3",
+    "tier1_user_id": "PU020",
+    "tier2_user_id": "PU001"
+  }
+]

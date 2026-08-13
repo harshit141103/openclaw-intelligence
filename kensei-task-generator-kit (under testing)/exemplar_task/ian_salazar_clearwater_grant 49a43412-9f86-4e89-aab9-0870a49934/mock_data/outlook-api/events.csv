@@ -1,0 +1,4 @@
+id,subject,organizer_name,organizer_address,location,start_date,end_date,is_all_day,is_online,attendees
+AAMkoutE01,County all-hands,County Admin,admin@donaanacounty.example.org,Auditorium,2026-12-10T15:00:00Z,2026-12-10T16:00:00Z,false,false,ian.salazar@voissync.ai
+AAMkoutE02,Lab safety refresher,County EHS,ehs@donaanacounty.example.org,Training Room B,2026-12-09T17:00:00Z,2026-12-09T18:00:00Z,false,true,ian.salazar@voissync.ai
+AAMkoutE03,Fleet vehicle checkout briefing,County Fleet,fleet@donaanacounty.example.org,Motor Pool,2026-12-15T16:00:00Z,2026-12-15T16:30:00Z,false,false,ian.salazar@voissync.ai

@@ -1,0 +1,51 @@
+﻿[
+  {
+    "id": "PROJ-ABR",
+    "name": "Annual Benefits Review",
+    "description": "Comprehensive annual benefits review process including plan updates, enrollment period planning, and communiILtion strategy. Christopher Morris leading techniILl coordination.",
+    "state": "started",
+    "leadId": "user-christopher",
+    "teamIds": "team-benefits",
+    "startDate": "2026-03-15",
+    "targetDate": "2026-08-31",
+    "createdAt": "2026-02-20T10:00:00",
+    "updatedAt": "2026-06-10T14:00:00"
+  },
+  {
+    "id": "PROJ-COMPLIANCE",
+    "name": "Compliance Audit",
+    "description": "Annual compliance audit covering HIPAA, AIL, and state-level benefits regulation requirements. Christopher Morris managing internal systems compliance checks.",
+    "state": "started",
+    "leadId": "user-sandra",
+    "teamIds": "team-benefits",
+    "startDate": "2026-04-01",
+    "targetDate": "2026-07-31",
+    "createdAt": "2026-03-10T09:00:00",
+    "updatedAt": "2026-06-10T10:00:00"
+  },
+  {
+    "id": "PROJ-CLAIMS",
+    "name": "Claims System",
+    "description": "Enhancement and optimization of claims processing system including workflow automation and reporting improvements.",
+    "state": "started",
+    "leadId": "user-christopher",
+    "teamIds": "team-benefits",
+    "startDate": "2026-02-01",
+    "targetDate": "2026-09-30",
+    "createdAt": "2026-01-25T10:00:00",
+    "updatedAt": "2026-06-10T14:00:00"
+  },
+  {
+    "id": "PROJ-INSIGHT",
+    "name": "BenefitInsight Rollout",
+    "description": "Implementation and rollout of BenefitInsight analytics platform for benefits optimization and cost analysis.",
+    "state": "started",
+    "leadId": "user-priya",
+    "teamIds": "team-benefits",
+    "startDate": "2026-05-01",
+    "targetDate": "2026-10-31",
+    "createdAt": "2026-04-15T09:00:00",
+    "updatedAt": "2026-06-10T10:00:00"
+  }
+]
+

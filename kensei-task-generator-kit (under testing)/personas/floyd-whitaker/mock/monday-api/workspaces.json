@@ -1,0 +1,122 @@
+[
+  {
+    "workspace_id": "ws-1",
+    "name": "WFS Operations",
+    "kind": "open",
+    "description": "Carrier vetting and client load deadlines"
+  },
+  {
+    "workspace_id": "ws-2",
+    "name": "WFS Programs",
+    "kind": "open",
+    "description": "Mentorship cohort and freight software evaluation"
+  },
+  {
+    "workspace_id": "ws-3",
+    "name": "WFS Client Accounts",
+    "kind": "open",
+    "description": "Per-client account boards and load tracking"
+  },
+  {
+    "workspace_id": "ws-4",
+    "name": "WFS Carrier Relations",
+    "kind": "open",
+    "description": "Carrier sourcing, capacity, and approved carrier roster"
+  },
+  {
+    "workspace_id": "ws-5",
+    "name": "WFS Compliance",
+    "kind": "closed",
+    "description": "DOT compliance, authority monitoring, and webinars"
+  },
+  {
+    "workspace_id": "ws-6",
+    "name": "WFS Finance",
+    "kind": "closed",
+    "description": "Invoicing, settlements, and accountant coordination"
+  },
+  {
+    "workspace_id": "ws-7",
+    "name": "WFS Automotive",
+    "kind": "open",
+    "description": "Automotive parts accounts and lane planning"
+  },
+  {
+    "workspace_id": "ws-8",
+    "name": "WFS Agriculture",
+    "kind": "open",
+    "description": "Agricultural product accounts and harvest capacity"
+  },
+  {
+    "workspace_id": "ws-9",
+    "name": "WFS Building Materials",
+    "kind": "open",
+    "description": "Building materials accounts and flatbed sourcing"
+  },
+  {
+    "workspace_id": "ws-10",
+    "name": "WFS Sales and Quotes",
+    "kind": "open",
+    "description": "Inbound quotes, prospects, and pipeline tracking"
+  },
+  {
+    "workspace_id": "ws-11",
+    "name": "WFS Onboarding",
+    "kind": "closed",
+    "description": "New staff and junior associate onboarding"
+  },
+  {
+    "workspace_id": "ws-12",
+    "name": "WFS Midwest Corridor",
+    "kind": "open",
+    "description": "Midwest lane planning and Ohio Valley accounts"
+  },
+  {
+    "workspace_id": "ws-13",
+    "name": "WFS Southeast Corridor",
+    "kind": "open",
+    "description": "Southeast lane planning and regional accounts"
+  },
+  {
+    "workspace_id": "ws-14",
+    "name": "WFS Safety and Insurance",
+    "kind": "closed",
+    "description": "Insurance certificates and cargo claim tracking"
+  },
+  {
+    "workspace_id": "ws-15",
+    "name": "TN Freight Association",
+    "kind": "open",
+    "description": "Board duties and annual conference planning"
+  },
+  {
+    "workspace_id": "ws-16",
+    "name": "WFS Marketing",
+    "kind": "open",
+    "description": "Newsletters, campaigns, and website content"
+  },
+  {
+    "workspace_id": "ws-17",
+    "name": "WFS Software and Tools",
+    "kind": "closed",
+    "description": "TMS evaluation and internal tooling"
+  },
+  {
+    "workspace_id": "ws-18",
+    "name": "WFS Operations Archive",
+    "kind": "closed",
+    "description": "Archived legacy operations boards"
+  },
+  {
+    "workspace_id": "ws-19",
+    "name": "WFS Quarterly Planning",
+    "kind": "closed",
+    "description": "Quarterly goals and revenue planning"
+  },
+  {
+    "workspace_id": "ws-20",
+    "name": "WFS Vendor Management",
+    "kind": "closed",
+    "description": "Factoring, fuel cards, and vendor contracts"
+  }
+]

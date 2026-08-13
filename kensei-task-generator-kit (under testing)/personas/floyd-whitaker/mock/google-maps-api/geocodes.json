@@ -1,0 +1,162 @@
+[
+  {
+    "query": "knoxville tn",
+    "formatted_address": "Knoxville, TN, USA",
+    "lat": "35.9606",
+    "lng": "-83.9207",
+    "place_id": "ChIJgeo0knox0001",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "pellissippi parkway",
+    "formatted_address": "Pellissippi Pkwy, Knoxville, TN, USA",
+    "lat": "35.9020",
+    "lng": "-84.0860",
+    "place_id": "ChIJgeo0knox0002",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "lakeshore park knoxville",
+    "formatted_address": "6410 S Northshore Dr, Knoxville, TN 37919, USA",
+    "lat": "35.9012",
+    "lng": "-84.0006",
+    "place_id": "ChIJgeo0knox0003",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "neyland stadium",
+    "formatted_address": "1235 Phillip Fulmer Way, Knoxville, TN 37916, USA",
+    "lat": "35.9550",
+    "lng": "-83.9252",
+    "place_id": "ChIJgeo0knox0004",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "ridgeview baptist church knoxville",
+    "formatted_address": "7717 Middlebrook Pike, Knoxville, TN 37909, USA",
+    "lat": "35.9438",
+    "lng": "-84.0461",
+    "place_id": "ChIJgeo0knox0005",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "farragut high school",
+    "formatted_address": "11237 Kingston Pike, Knoxville, TN 37934, USA",
+    "lat": "35.8853",
+    "lng": "-84.1599",
+    "place_id": "ChIJgeo0knox0006",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "harlan ky",
+    "formatted_address": "Harlan, KY, USA",
+    "lat": "36.8431",
+    "lng": "-83.3216",
+    "place_id": "ChIJgeo0knox0007",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "douglas lake tn",
+    "formatted_address": "Douglas Lake, Dandridge, TN, USA",
+    "lat": "35.9620",
+    "lng": "-83.5388",
+    "place_id": "ChIJgeo0knox0008",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "cherokee lake tn",
+    "formatted_address": "Cherokee Lake, Jefferson City, TN, USA",
+    "lat": "36.2034",
+    "lng": "-83.4632",
+    "place_id": "ChIJgeo0knox0009",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "nashville tn",
+    "formatted_address": "Nashville, TN, USA",
+    "lat": "36.1627",
+    "lng": "-86.7816",
+    "place_id": "ChIJgeo0knox0010",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "volunteer conference center knoxville",
+    "formatted_address": "525 Henley St, Knoxville, TN 37902, USA",
+    "lat": "35.9628",
+    "lng": "-83.9192",
+    "place_id": "ChIJgeo0knox0011",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "oakwood diner knoxville",
+    "formatted_address": "4628 Western Ave, Knoxville, TN 37921, USA",
+    "lat": "35.9831",
+    "lng": "-83.9745",
+    "place_id": "ChIJgeo0knox0012",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "whitaker freight services knoxville",
+    "formatted_address": "10810 Murdock Dr, Knoxville, TN 37932, USA",
+    "lat": "35.9001",
+    "lng": "-84.1372",
+    "place_id": "ChIJgeo0knox0013",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "cumberland auto parts knoxville",
+    "formatted_address": "2300 Heiskell Rd, Knoxville, TN 37921, USA",
+    "lat": "36.0421",
+    "lng": "-83.9912",
+    "place_id": "ChIJgeo0knox0014",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "smoky mountain building supply sevierville",
+    "formatted_address": "1245 Dolly Parton Pkwy, Sevierville, TN 37862, USA",
+    "lat": "35.8682",
+    "lng": "-83.5619",
+    "place_id": "ChIJgeo0knox0015",
+    "location_type": "ROOFTOP"
+  },
+  {
+    "query": "morristown tn",
+    "formatted_address": "Morristown, TN, USA",
+    "lat": "36.2145",
+    "lng": "-83.2949",
+    "place_id": "ChIJgeo0knox0016",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "chattanooga tn",
+    "formatted_address": "Chattanooga, TN, USA",
+    "lat": "35.0456",
+    "lng": "-85.3097",
+    "place_id": "ChIJgeo0knox0017",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "atlanta ga",
+    "formatted_address": "Atlanta, GA, USA",
+    "lat": "33.7490",
+    "lng": "-84.3880",
+    "place_id": "ChIJgeo0knox0018",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "memphis tn",
+    "formatted_address": "Memphis, TN, USA",
+    "lat": "35.1495",
+    "lng": "-90.0490",
+    "place_id": "ChIJgeo0knox0019",
+    "location_type": "APPROXIMATE"
+  },
+  {
+    "query": "charlotte nc",
+    "formatted_address": "Charlotte, NC, USA",
+    "lat": "35.2271",
+    "lng": "-80.8431",
+    "place_id": "ChIJgeo0knox0020",
+    "location_type": "APPROXIMATE"
+  }
+]

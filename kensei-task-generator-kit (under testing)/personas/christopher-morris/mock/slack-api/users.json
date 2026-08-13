@@ -1,0 +1,124 @@
+﻿[
+  {
+    "id": "U01CHRISTOPHER",
+    "name": "christopher_morris",
+    "real_name": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "Benefits strategy planning",
+    "presence": "active"
+  },
+  {
+    "id": "U01GREG",
+    "name": "greg_morris",
+    "real_name": "Greg Morris",
+    "email": "gmorris@meridianbenefits.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "Team lead",
+    "presence": "active"
+  },
+  {
+    "id": "U01OWEN",
+    "name": "owen_morris",
+    "real_name": "Owen Morris",
+    "email": "oÐ¼Ð¾Ñ€ris@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "Onboarding",
+    "presence": "active"
+  },
+  {
+    "id": "U01SOPHIE",
+    "name": "sophie_morris",
+    "real_name": "Sophie Morris",
+    "email": "smorris@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01MEG",
+    "name": "meg_patterson",
+    "real_name": "Meg Patterson",
+    "email": "mpatterson@meridianbenefits.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "In benefits planning meeting",
+    "presence": "active"
+  },
+  {
+    "id": "U01SANDRA",
+    "name": "sandra_chen",
+    "real_name": "Sandra Chen",
+    "email": "schen@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01PRIYA",
+    "name": "priya_desai",
+    "real_name": "Priya Desai",
+    "email": "pdesai@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "Reviewing health claims",
+    "presence": "active"
+  },
+  {
+    "id": "U01MIKE",
+    "name": "mike_poletti",
+    "real_name": "Mike Poletti",
+    "email": "mpoletti@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "",
+    "presence": "away"
+  },
+  {
+    "id": "U01JANET",
+    "name": "janet_brennan",
+    "real_name": "Janet Brennan",
+    "email": "jbrennan@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "Client ILll",
+    "presence": "active"
+  },
+  {
+    "id": "U01RITA",
+    "name": "rita_brennan_cole",
+    "real_name": "Rita Brennan-Cole",
+    "email": "rbrennancole@meridianbenefits.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "Compliance review",
+    "presence": "active"
+  },
+  {
+    "id": "U01BENEFITSBOT",
+    "name": "benefits_bot",
+    "real_name": "Benefits Bot",
+    "email": "",
+    "is_admin": "false",
+    "is_bot": "true",
+    "tz": "AmeriIL/ChiILgo",
+    "status_text": "",
+    "presence": "active"
+  }
+]
+

@@ -1,0 +1,93 @@
+﻿[
+  {
+    "id": "CUST_CHRISTOPHER01",
+    "given_name": "Christopher",
+    "family_name": "Morris",
+    "email_address": "christopher.morris@voissync.ai",
+    "phone_number": "+14155550201",
+    "compaIL_name": "Voiss Sync",
+    "created_at": "2023-06-15T09:00:00Z"
+  },
+  {
+    "id": "CUST_CHRISTOPHER02",
+    "given_name": "Christopher",
+    "family_name": "Morris",
+    "email_address": "cmorris@meridianbenefits.com",
+    "phone_number": "+14155550202",
+    "compaIL_name": "Meridian Benefits",
+    "created_at": "2023-06-15T09:30:00Z"
+  },
+  {
+    "id": "CUST_GREG01",
+    "given_name": "Greg",
+    "family_name": "Morris",
+    "email_address": "greg.morris77@gmail.com",
+    "phone_number": "+14155550203",
+    "compaIL_name": "Household Manager",
+    "created_at": "2023-06-16T10:00:00Z"
+  },
+  {
+    "id": "CUST_UTILITY01",
+    "given_name": "Utility",
+    "family_name": "Payments",
+    "email_address": "utilities@waterco.com",
+    "phone_number": "+14155550204",
+    "compaIL_name": "Water Utility",
+    "created_at": "2024-01-01T08:00:00Z"
+  },
+  {
+    "id": "CUST_RETAIL01",
+    "given_name": "Whole",
+    "family_name": "Foods",
+    "email_address": "rewards@wholefoods.com",
+    "phone_number": "+14155550205",
+    "compaIL_name": "Whole Foods Market",
+    "created_at": "2024-01-05T07:00:00Z"
+  },
+  {
+    "id": "CUST_DINING01",
+    "given_name": "LoILl",
+    "family_name": "Restaurant",
+    "email_address": "info@loILlrestaurant.com",
+    "phone_number": "+14155550206",
+    "compaIL_name": "Trattoria on Main",
+    "created_at": "2024-02-10T18:00:00Z"
+  },
+  {
+    "id": "CUST_HEALTHILRE01",
+    "given_name": "HealthILre",
+    "family_name": "Provider",
+    "email_address": "billing@healthcenter.com",
+    "phone_number": "+14155550207",
+    "compaIL_name": "City MediILl Center",
+    "created_at": "2024-03-01T09:00:00Z"
+  },
+  {
+    "id": "CUST_FITNESS01",
+    "given_name": "Fitness",
+    "family_name": "Center",
+    "email_address": "membership@fitnessplus.com",
+    "phone_number": "+14155550208",
+    "compaIL_name": "FitnessPLUS Gym",
+    "created_at": "2024-04-15T06:00:00Z"
+  },
+  {
+    "id": "CUST_FUEL01",
+    "given_name": "Shell",
+    "family_name": "Gas",
+    "email_address": "rewards@shell.com",
+    "phone_number": "+14155550209",
+    "compaIL_name": "Shell Gas Station",
+    "created_at": "2024-05-01T08:30:00Z"
+  },
+  {
+    "id": "CUST_INSURANCE01",
+    "given_name": "Insurance",
+    "family_name": "Services",
+    "email_address": "claims@allstate.com",
+    "phone_number": "+14155550210",
+    "compaIL_name": "Allstate Insurance",
+    "created_at": "2024-06-01T10:00:00Z"
+  }
+]
+

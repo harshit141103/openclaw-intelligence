@@ -1,0 +1,222 @@
+[
+  {
+    "id": "9001",
+    "project_id": "101",
+    "ref": "main",
+    "sha": "a1b2c3d4e5f6",
+    "status": "success",
+    "source": "push",
+    "duration": "412",
+    "created_at": "2023-06-13T10:45:00Z",
+    "updated_at": "2025-04-24T07:15:00Z"
+  },
+  {
+    "id": "9002",
+    "project_id": "101",
+    "ref": "feature/dual-write-shim",
+    "sha": "b2c3d4e5f6a1",
+    "status": "running",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2026-07-03T17:00:00Z",
+    "updated_at": "2023-12-15T14:00:00Z"
+  },
+  {
+    "id": "9003",
+    "project_id": "101",
+    "ref": "feature/session-cleanup",
+    "sha": "c3d4e5f6a1b2",
+    "status": "failed",
+    "source": "push",
+    "duration": "188",
+    "created_at": "2026-02-12T10:00:00Z",
+    "updated_at": "2025-02-11T16:00:00Z"
+  },
+  {
+    "id": "9010",
+    "project_id": "102",
+    "ref": "main",
+    "sha": "d4e5f6a1b2c3",
+    "status": "success",
+    "source": "push",
+    "duration": "520",
+    "created_at": "2023-10-10T13:00:00Z",
+    "updated_at": "2026-09-21T08:30:00Z"
+  },
+  {
+    "id": "9011",
+    "project_id": "102",
+    "ref": "feature/grpc-dual-serve",
+    "sha": "e5f6a1b2c3d4",
+    "status": "failed",
+    "source": "merge_request_event",
+    "duration": "240",
+    "created_at": "2025-04-28T09:45:00Z",
+    "updated_at": "2025-05-18T13:00:00Z"
+  },
+  {
+    "id": "9020",
+    "project_id": "103",
+    "ref": "main",
+    "sha": "f6a1b2c3d4e5",
+    "status": "success",
+    "source": "push",
+    "duration": "305",
+    "created_at": "2025-07-30T14:15:00Z",
+    "updated_at": "2024-03-07T08:45:00Z"
+  },
+  {
+    "id": "9021",
+    "project_id": "103",
+    "ref": "feature/router-v2",
+    "sha": "a1c3e5b2d4f6",
+    "status": "running",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2025-11-25T17:15:00Z",
+    "updated_at": "2024-05-09T16:15:00Z"
+  },
+  {
+    "id": "9902",
+    "project_id": "101",
+    "ref": "main",
+    "sha": "a1b2c3d4e5f907",
+    "status": "success",
+    "source": "push",
+    "duration": "412",
+    "created_at": "2024-11-10T14:45:00Z",
+    "updated_at": "2024-10-17T18:30:00Z"
+  },
+  {
+    "id": "9904",
+    "project_id": "101",
+    "ref": "feature/dual-write-shim",
+    "sha": "b2c3d4e5f6a903",
+    "status": "running",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2024-10-15T10:00:00Z",
+    "updated_at": "2024-08-29T09:30:00Z"
+  },
+  {
+    "id": "9906",
+    "project_id": "101",
+    "ref": "feature/session-cleanup",
+    "sha": "c3d4e5f6a1b905",
+    "status": "failed",
+    "source": "push",
+    "duration": "188",
+    "created_at": "2025-06-24T16:45:00Z",
+    "updated_at": "2026-06-26T09:30:00Z"
+  },
+  {
+    "id": "9914",
+    "project_id": "102",
+    "ref": "main",
+    "sha": "d4e5f6a1b2c907",
+    "status": "success",
+    "source": "push",
+    "duration": "520",
+    "created_at": "2025-09-25T10:45:00Z",
+    "updated_at": "2025-05-06T18:00:00Z"
+  },
+  {
+    "id": "9916",
+    "project_id": "102",
+    "ref": "feature/grpc-dual-serve",
+    "sha": "e5f6a1b2c3d909",
+    "status": "failed",
+    "source": "merge_request_event",
+    "duration": "240",
+    "created_at": "2024-10-01T15:00:00Z",
+    "updated_at": "2026-05-26T16:45:00Z"
+  },
+  {
+    "id": "9926",
+    "project_id": "103",
+    "ref": "main",
+    "sha": "f6a1b2c3d4e911",
+    "status": "success",
+    "source": "push",
+    "duration": "305",
+    "created_at": "2025-04-08T14:45:00Z",
+    "updated_at": "2026-01-07T18:45:00Z"
+  },
+  {
+    "id": "9928",
+    "project_id": "103",
+    "ref": "feature/router-v2",
+    "sha": "a1c3e5b2d4f913",
+    "status": "running",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2025-03-14T10:15:00Z",
+    "updated_at": "2026-08-16T10:30:00Z"
+  },
+  {
+    "id": "9909",
+    "project_id": "101",
+    "ref": "main",
+    "sha": "a1b2c3d4e5f914",
+    "status": "success",
+    "source": "push",
+    "duration": "412",
+    "created_at": "2026-06-19T18:30:00Z",
+    "updated_at": "2026-06-17T10:15:00Z"
+  },
+  {
+    "id": "9911",
+    "project_id": "101",
+    "ref": "feature/dual-write-shim",
+    "sha": "b2c3d4e5f6a910",
+    "status": "running",
+    "source": "merge_request_event",
+    "duration": "0",
+    "created_at": "2025-11-13T10:45:00Z",
+    "updated_at": "2026-05-06T09:45:00Z"
+  },
+  {
+    "id": "9913",
+    "project_id": "101",
+    "ref": "feature/session-cleanup",
+    "sha": "c3d4e5f6a1b912",
+    "status": "failed",
+    "source": "push",
+    "duration": "188",
+    "created_at": "2025-08-25T07:45:00Z",
+    "updated_at": "2024-08-10T06:45:00Z"
+  },
+  {
+    "id": "9921",
+    "project_id": "102",
+    "ref": "main",
+    "sha": "d4e5f6a1b2c914",
+    "status": "success",
+    "source": "push",
+    "duration": "520",
+    "created_at": "2026-01-07T12:30:00Z",
+    "updated_at": "2023-12-29T16:45:00Z"
+  },
+  {
+    "id": "9923",
+    "project_id": "102",
+    "ref": "feature/grpc-dual-serve",
+    "sha": "e5f6a1b2c3d916",
+    "status": "failed",
+    "source": "merge_request_event",
+    "duration": "240",
+    "created_at": "2026-04-27T14:00:00Z",
+    "updated_at": "2025-03-31T13:30:00Z"
+  },
+  {
+    "id": "9933",
+    "project_id": "103",
+    "ref": "main",
+    "sha": "f6a1b2c3d4e918",
+    "status": "success",
+    "source": "push",
+    "duration": "305",
+    "created_at": "2023-11-27T12:30:00Z",
+    "updated_at": "2024-10-18T06:30:00Z"
+  }
+]

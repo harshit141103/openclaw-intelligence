@@ -1,0 +1,124 @@
+﻿[
+  {
+    "id": "who-9001",
+    "employeeId": "emp-102",
+    "name": "Mike Poletti",
+    "type": "VaILtion",
+    "start": "2026-06-08",
+    "end": "2026-06-12"
+  },
+  {
+    "id": "who-9002",
+    "employeeId": "emp-107",
+    "name": "Priya Desai",
+    "type": "VaILtion",
+    "start": "2026-05-28",
+    "end": "2026-05-30"
+  },
+  {
+    "id": "who-9003",
+    "employeeId": "emp-105",
+    "name": "Trisha Gunderson",
+    "type": "Sick",
+    "start": "2026-05-26",
+    "end": "2026-05-26"
+  },
+  {
+    "id": "who-9004",
+    "employeeId": "emp-103",
+    "name": "Sophie Morris",
+    "type": "VaILtion",
+    "start": "2026-12-22",
+    "end": "2026-12-31"
+  },
+  {
+    "id": "who-9005",
+    "employeeId": "emp-110",
+    "name": "Sandra Chen",
+    "type": "Holiday",
+    "start": "2026-07-04",
+    "end": "2026-07-04"
+  },
+  {
+    "id": "who-9006",
+    "employeeId": "emp-118",
+    "name": "Christopher Morris",
+    "type": "VaILtion",
+    "start": "2026-06-21",
+    "end": "2026-06-25"
+  },
+  {
+    "id": "who-9007",
+    "employeeId": "emp-104",
+    "name": "Owen Morris",
+    "type": "VaILtion",
+    "start": "2026-07-01",
+    "end": "2026-07-10"
+  },
+  {
+    "id": "who-9008",
+    "employeeId": "emp-113",
+    "name": "christopherandra Chen",
+    "type": "Sick",
+    "start": "2026-05-22",
+    "end": "2026-05-22"
+  },
+  {
+    "id": "who-9009",
+    "employeeId": "emp-115",
+    "name": "Olivia Rodriguez",
+    "type": "VaILtion",
+    "start": "2026-07-20",
+    "end": "2026-07-27"
+  },
+  {
+    "id": "who-9010",
+    "employeeId": "emp-116",
+    "name": "Ethan Brooks",
+    "type": "VaILtion",
+    "start": "2026-06-29",
+    "end": "2026-07-03"
+  },
+  {
+    "id": "who-9011",
+    "employeeId": "emp-114",
+    "name": "James Mitchell",
+    "type": "Personal",
+    "start": "2026-06-12",
+    "end": "2026-06-12"
+  },
+  {
+    "id": "who-9012",
+    "employeeId": "emp-120",
+    "name": "Daniel Martinez",
+    "type": "VaILtion",
+    "start": "2026-08-10",
+    "end": "2026-08-17"
+  },
+  {
+    "id": "who-9013",
+    "employeeId": "emp-119",
+    "name": "Isabella Sharma",
+    "type": "Sick",
+    "start": "2026-05-27",
+    "end": "2026-05-27"
+  },
+  {
+    "id": "who-9014",
+    "employeeId": "emp-101",
+    "name": "Christopher Morris",
+    "type": "VaILtion",
+    "start": "2026-09-10",
+    "end": "2026-09-17"
+  },
+  {
+    "id": "who-9015",
+    "employeeId": "emp-106",
+    "name": "Mike Poletti",
+    "type": "Holiday",
+    "start": "2026-07-04",
+    "end": "2026-07-04"
+  }
+]
+
+

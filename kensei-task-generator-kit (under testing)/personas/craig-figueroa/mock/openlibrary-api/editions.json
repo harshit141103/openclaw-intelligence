@@ -1,0 +1,101 @@
+[
+  {
+    "edition_id": "OL1E",
+    "work_id": "OL1W",
+    "title": "All Creatures Great and Small",
+    "isbn_13": "9780330235488",
+    "isbn_10": "0330235486",
+    "publisher": "Pan Books",
+    "publish_date": "1973",
+    "number_of_pages": "442",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL2E",
+    "work_id": "OL2W",
+    "title": "If Only They Could Talk",
+    "isbn_13": "9780330106597",
+    "isbn_10": "0330106597",
+    "publisher": "Pan Books",
+    "publish_date": "1972",
+    "number_of_pages": "224",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL3E",
+    "work_id": "OL3W",
+    "title": "One Hundred Years of Solitude",
+    "isbn_13": "9780060883287",
+    "isbn_10": "0060883286",
+    "publisher": "Harper Perennial",
+    "publish_date": "2006",
+    "number_of_pages": "417",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL4E",
+    "work_id": "OL4W",
+    "title": "The House of the Spirits",
+    "isbn_13": "9781501117015",
+    "isbn_10": "1501117017",
+    "publisher": "Atria Books",
+    "publish_date": "2015",
+    "number_of_pages": "433",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL5E",
+    "work_id": "OL5W",
+    "title": "The Old Ways: A Journey on Foot",
+    "isbn_13": "9780241143810",
+    "isbn_10": "0241143810",
+    "publisher": "Hamish Hamilton",
+    "publish_date": "2012",
+    "number_of_pages": "433",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL6E",
+    "work_id": "OL6W",
+    "title": "The Living Mountain",
+    "isbn_13": "9780857861832",
+    "isbn_10": "0857861832",
+    "publisher": "Canongate",
+    "publish_date": "2011",
+    "number_of_pages": "108",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL7E",
+    "work_id": "OL7W",
+    "title": "My First Summer in the Sierra",
+    "isbn_13": "9780143105219",
+    "isbn_10": "0143105213",
+    "publisher": "Penguin Classics",
+    "publish_date": "2011",
+    "number_of_pages": "256",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL8E",
+    "work_id": "OL8W",
+    "title": "The Wild Places",
+    "isbn_13": "9780141027012",
+    "isbn_10": "0141027010",
+    "publisher": "Granta",
+    "publish_date": "2008",
+    "number_of_pages": "340",
+    "language": "eng"
+  },
+  {
+    "edition_id": "OL9E",
+    "work_id": "OL3W",
+    "title": "Cien anos de soledad",
+    "isbn_13": "9788437604947",
+    "isbn_10": "8437604940",
+    "publisher": "Catedra",
+    "publish_date": "2010",
+    "number_of_pages": "550",
+    "language": "spa"
+  }
+]

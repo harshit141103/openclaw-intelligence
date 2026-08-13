@@ -1,0 +1,142 @@
+[
+  {
+    "device_id": "987001",
+    "motion_alerts": "true",
+    "ding_alerts": "true",
+    "person_alerts": "true",
+    "package_alerts": "true"
+  },
+  {
+    "device_id": "987002",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "true",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987003",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "true",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987004",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987005",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987006",
+    "motion_alerts": "",
+    "ding_alerts": "true",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987007",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987008",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987009",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987010",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987011",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "true",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987012",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "true",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987013",
+    "motion_alerts": "",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987014",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "true",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987015",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987016",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987017",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987018",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "true",
+    "package_alerts": ""
+  },
+  {
+    "device_id": "987019",
+    "motion_alerts": "true",
+    "ding_alerts": "true",
+    "person_alerts": "true",
+    "package_alerts": "true"
+  },
+  {
+    "device_id": "987020",
+    "motion_alerts": "true",
+    "ding_alerts": "",
+    "person_alerts": "",
+    "package_alerts": ""
+  }
+]

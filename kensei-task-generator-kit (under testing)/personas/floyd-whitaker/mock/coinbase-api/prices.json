@@ -1,0 +1,128 @@
+[
+  {
+    "pair": "BTC-USD",
+    "base": "BTC",
+    "currency": "USD",
+    "amount": "67250.45"
+  },
+  {
+    "pair": "ETH-USD",
+    "base": "ETH",
+    "currency": "USD",
+    "amount": "3520.18"
+  },
+  {
+    "pair": "SOL-USD",
+    "base": "SOL",
+    "currency": "USD",
+    "amount": "168.92"
+  },
+  {
+    "pair": "BTC-EUR",
+    "base": "BTC",
+    "currency": "EUR",
+    "amount": "62130.40"
+  },
+  {
+    "pair": "ETH-EUR",
+    "base": "ETH",
+    "currency": "EUR",
+    "amount": "3252.16"
+  },
+  {
+    "pair": "SOL-EUR",
+    "base": "SOL",
+    "currency": "EUR",
+    "amount": "156.05"
+  },
+  {
+    "pair": "ADA-USD",
+    "base": "ADA",
+    "currency": "USD",
+    "amount": "0.4612"
+  },
+  {
+    "pair": "DOGE-USD",
+    "base": "DOGE",
+    "currency": "USD",
+    "amount": "0.1582"
+  },
+  {
+    "pair": "XRP-USD",
+    "base": "XRP",
+    "currency": "USD",
+    "amount": "0.5234"
+  },
+  {
+    "pair": "LTC-USD",
+    "base": "LTC",
+    "currency": "USD",
+    "amount": "84.55"
+  },
+  {
+    "pair": "BCH-USD",
+    "base": "BCH",
+    "currency": "USD",
+    "amount": "412.30"
+  },
+  {
+    "pair": "DOT-USD",
+    "base": "DOT",
+    "currency": "USD",
+    "amount": "7.214"
+  },
+  {
+    "pair": "LINK-USD",
+    "base": "LINK",
+    "currency": "USD",
+    "amount": "14.82"
+  },
+  {
+    "pair": "AVAX-USD",
+    "base": "AVAX",
+    "currency": "USD",
+    "amount": "36.18"
+  },
+  {
+    "pair": "MATIC-USD",
+    "base": "MATIC",
+    "currency": "USD",
+    "amount": "0.7245"
+  },
+  {
+    "pair": "ATOM-USD",
+    "base": "ATOM",
+    "currency": "USD",
+    "amount": "6.842"
+  },
+  {
+    "pair": "UNI-USD",
+    "base": "UNI",
+    "currency": "USD",
+    "amount": "8.915"
+  },
+  {
+    "pair": "NEAR-USD",
+    "base": "NEAR",
+    "currency": "USD",
+    "amount": "5.214"
+  },
+  {
+    "pair": "FIL-USD",
+    "base": "FIL",
+    "currency": "USD",
+    "amount": "4.328"
+  },
+  {
+    "pair": "APT-USD",
+    "base": "APT",
+    "currency": "USD",
+    "amount": "7.912"
+  },
+  {
+    "pair": "ARB-USD",
+    "base": "ARB",
+    "currency": "USD",
+    "amount": "0.8412"
+  }
+]

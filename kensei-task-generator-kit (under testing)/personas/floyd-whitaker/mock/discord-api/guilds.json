@@ -1,0 +1,182 @@
+[
+  {
+    "id": "900100200300400001",
+    "name": "Vol Nation Knoxville",
+    "owner_id": "500100200300400001",
+    "member_count": "6",
+    "description": "Tennessee Volunteers football fans talking gameday and tailgates",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400002",
+    "name": "Smoke & Coals BBQ",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "A guild for backyard pitmasters trading rubs recipes and brisket tips",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400003",
+    "name": "East TN Freight Brokers",
+    "owner_id": "500100200300400006",
+    "member_count": "5",
+    "description": "Freight brokers and dispatchers in East Tennessee talking lanes rates and carriers",
+    "icon": "b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400004",
+    "name": "Douglas Lake Anglers",
+    "owner_id": "500100200300400002",
+    "member_count": "4",
+    "description": "Fishing reports for Douglas and Cherokee Lake bass crappie and fly fishing the Smokies",
+    "icon": "c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400005",
+    "name": "Knoxville Locals",
+    "owner_id": "500100200300400004",
+    "member_count": "4",
+    "description": "West Knoxville neighbors trading restaurant tips events and local news",
+    "icon": "d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400006",
+    "name": "Classic Country & Bluegrass",
+    "owner_id": "500100200300400005",
+    "member_count": "4",
+    "description": "George Jones Merle Haggard pickers and classic country fans swapping records and tabs",
+    "icon": "e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400007",
+    "name": "Appalachian Railroad History",
+    "owner_id": "500100200300400010",
+    "member_count": "4",
+    "description": "Collectors of Cumberland Gap and Great Valley Railroad maps and TVA history buffs",
+    "icon": "f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400008",
+    "name": "Smoker Builds & Pits",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Offset smokers brick pits and rig builds for the serious backyard cook",
+    "icon": "a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400009",
+    "name": "Over-40 Softball Knoxville",
+    "owner_id": "500100200300400004",
+    "member_count": "4",
+    "description": "Saturday rec league softball at Lakeshore Park rosters and game scheduling",
+    "icon": "b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400010",
+    "name": "Guitar Pickers Lounge",
+    "owner_id": "500100200300400005",
+    "member_count": "4",
+    "description": "Acoustic and classic rock players sharing tabs gear and porch jam clips",
+    "icon": "c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400011",
+    "name": "Tennessee Tailgaters",
+    "owner_id": "500100200300400001",
+    "member_count": "4",
+    "description": "Neyland Stadium tailgate crews trading parking spots menus and gameday plans",
+    "icon": "d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400012",
+    "name": "Brisket & Low Slow",
+    "owner_id": "500100200300400003",
+    "member_count": "4",
+    "description": "Long cook talk for brisket pork shoulder and overnight smokes",
+    "icon": "e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400013",
+    "name": "Cherokee Lake Crappie Club",
+    "owner_id": "500100200300400002",
+    "member_count": "4",
+    "description": "Crappie and bass anglers trading spots and reports on Cherokee Lake",
+    "icon": "f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400014",
+    "name": "Carrier Vetting Pros",
+    "owner_id": "500100200300400006",
+    "member_count": "4",
+    "description": "Brokers comparing notes on FMCSA authority insurance and carrier safety vetting",
+    "icon": "a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400015",
+    "name": "Southern Rock Records",
+    "owner_id": "500100200300400005",
+    "member_count": "4",
+    "description": "Allman Brothers Skynyrd and Southern rock vinyl collectors and trivia",
+    "icon": "b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400016",
+    "name": "TVA History & Lakes",
+    "owner_id": "500100200300400010",
+    "member_count": "4",
+    "description": "TVA dams reservoirs and East Tennessee waterway history and old maps",
+    "icon": "c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400017",
+    "name": "Knoxville BBQ Joints",
+    "owner_id": "500100200300400004",
+    "member_count": "4",
+    "description": "Reviews and ranks of Knoxville barbecue spots from Calhoun's to the food trucks",
+    "icon": "d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400018",
+    "name": "Volunteer Football Talk",
+    "owner_id": "500100200300400001",
+    "member_count": "4",
+    "description": "Year round Tennessee Volunteers recruiting depth chart and bowl talk",
+    "icon": "e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400019",
+    "name": "Fly Fishing the Smokies",
+    "owner_id": "500100200300400002",
+    "member_count": "4",
+    "description": "Tailwater and mountain stream fly fishing in the Great Smoky Mountains",
+    "icon": "f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2",
+    "region": "us-east"
+  },
+  {
+    "id": "900100200300400020",
+    "name": "Maker's & Bourbon Talk",
+    "owner_id": "500100200300400005",
+    "member_count": "4",
+    "description": "Maker's Mark and Tennessee whiskey fans trading pours and tasting notes",
+    "icon": "a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3",
+    "region": "us-east"
+  }
+]

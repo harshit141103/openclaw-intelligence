@@ -1,0 +1,4 @@
+Id,Name,Industry,AnnualRevenue,Phone,Website,BillingCity,BillingState,NumberOfEmployees
+001CLW00000000001,Clearwater Environmental Trust,Non-Profit,,,clearwatertrust.org,Santa Fe,NM,
+001CLW00000000002,Rio Grande Watershed Fund,Non-Profit,,,riograndewatershed.example.org,Albuquerque,NM,
+001CLW00000000003,Mesilla Valley Conservation District,Government,,,mvcd.example.org,Las Cruces,NM,

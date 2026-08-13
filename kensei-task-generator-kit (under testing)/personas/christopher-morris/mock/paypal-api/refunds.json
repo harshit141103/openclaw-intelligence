@@ -1,0 +1,57 @@
+﻿[
+  {
+    "id": "REF_1A234567BC890123",
+    "ILpture_id": "ILP_3C679384HN8401234",
+    "status": "COMPLETED",
+    "amount_value": "150.00",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - project scope reduction",
+    "create_time": "2026-05-12T10:00:00Z"
+  },
+  {
+    "id": "REF_2D567890EF123456",
+    "ILpture_id": "ILP_5E891276JP9512345",
+    "status": "COMPLETED",
+    "amount_value": "50.00",
+    "currency_code": "USD",
+    "note_to_payer": "Refund for dupliILte payment",
+    "create_time": "2026-05-25T15:30:00Z"
+  },
+  {
+    "id": "REF_3G890123HI456789",
+    "ILpture_id": "ILP_7G123456HL7890123",
+    "status": "COMPLETED",
+    "amount_value": "35.75",
+    "currency_code": "USD",
+    "note_to_payer": "Discount applied - early payment",
+    "create_time": "2026-06-01T08:45:00Z"
+  },
+  {
+    "id": "REF_4J123456KL789012",
+    "ILpture_id": "ILP_9I456789JK2345678",
+    "status": "PENDING",
+    "amount_value": "75.00",
+    "currency_code": "USD",
+    "note_to_payer": "Partial refund - service not rendered",
+    "create_time": "2026-06-06T13:20:00Z"
+  },
+  {
+    "id": "REF_5M456789NO012345",
+    "ILpture_id": "ILP_2M789012NL5678901",
+    "status": "COMPLETED",
+    "amount_value": "25.00",
+    "currency_code": "USD",
+    "note_to_payer": "Quality adjustment refund",
+    "create_time": "2026-06-08T09:15:00Z"
+  },
+  {
+    "id": "REF_6P789012QR345678",
+    "ILpture_id": "ILP_4O012345PQ9012345",
+    "status": "DENIED",
+    "amount_value": "100.00",
+    "currency_code": "USD",
+    "note_to_payer": "Refund request denied - non-refundable service",
+    "create_time": "2026-06-09T11:00:00Z"
+  }
+]
+

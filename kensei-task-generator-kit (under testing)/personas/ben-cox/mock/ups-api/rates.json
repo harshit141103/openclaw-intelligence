@@ -1,0 +1,222 @@
+[
+  {
+    "service_code": "03",
+    "service_name": "Cut dadoes for the adjustable shelf pins",
+    "origin_zip": "05843",
+    "dest_zip": "05401",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "16.20",
+    "transit_days": "5",
+    "delivery_date": "2025-05-28"
+  },
+  {
+    "service_code": "03",
+    "service_name": "Replace the dust collector filter and cl",
+    "origin_zip": "05401",
+    "dest_zip": "05680",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "13.85",
+    "transit_days": "3",
+    "delivery_date": "2024-12-14"
+  },
+  {
+    "service_code": "02",
+    "service_name": "Set up the dado stack for the bookshelf ",
+    "origin_zip": "05661",
+    "dest_zip": "05843",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "38.95",
+    "transit_days": "2",
+    "delivery_date": "2024-12-28"
+  },
+  {
+    "service_code": "02",
+    "service_name": "Re: Bookshelf dimensions",
+    "origin_zip": "05661",
+    "dest_zip": "05875",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "32.40",
+    "transit_days": "2",
+    "delivery_date": "2026-03-01"
+  },
+  {
+    "service_code": "01",
+    "service_name": "Re-saw the walnut for bookmatched panels",
+    "origin_zip": "05602",
+    "dest_zip": "05826",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "89.75",
+    "transit_days": "1",
+    "delivery_date": "2025-11-11"
+  },
+  {
+    "service_code": "01",
+    "service_name": "Mill cherry stock to thickness for the u",
+    "origin_zip": "05602",
+    "dest_zip": "05843",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "74.50",
+    "transit_days": "1",
+    "delivery_date": "2026-01-01"
+  },
+  {
+    "service_code": "12",
+    "service_name": "Splitting and stacking the winter firewo",
+    "origin_zip": "05401",
+    "dest_zip": "05672",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "28.60",
+    "transit_days": "3",
+    "delivery_date": "2026-01-01"
+  },
+  {
+    "service_code": "07",
+    "service_name": "Cota window seat & bookcase",
+    "origin_zip": "05478",
+    "dest_zip": "05602",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "128.30",
+    "transit_days": "3",
+    "delivery_date": "2025-11-17"
+  },
+  {
+    "service_code": "03",
+    "service_name": "Apply second coat of Arm-R-Seal to the b",
+    "origin_zip": "05661",
+    "dest_zip": "05875",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "16.20",
+    "transit_days": "5",
+    "delivery_date": "2024-11-03"
+  },
+  {
+    "service_code": "03",
+    "service_name": "Hang the soft-close doors and adjust the",
+    "origin_zip": "05841",
+    "dest_zip": "05478",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "13.85",
+    "transit_days": "3",
+    "delivery_date": "2026-06-03"
+  },
+  {
+    "service_code": "02",
+    "service_name": "Stage the bookshelf sections for the Cra",
+    "origin_zip": "05841",
+    "dest_zip": "05826",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "38.95",
+    "transit_days": "2",
+    "delivery_date": "2024-12-22"
+  },
+  {
+    "service_code": "02",
+    "service_name": "Apply second coat of Arm-R-Seal to the b",
+    "origin_zip": "05875",
+    "dest_zip": "05602",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "32.40",
+    "transit_days": "2",
+    "delivery_date": "2025-03-31"
+  },
+  {
+    "service_code": "01",
+    "service_name": "Sharpen the jointer knives and reset the",
+    "origin_zip": "05841",
+    "dest_zip": "05843",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "89.75",
+    "transit_days": "1",
+    "delivery_date": "2024-11-14"
+  },
+  {
+    "service_code": "01",
+    "service_name": "Final fit of the Henderson island base c",
+    "origin_zip": "05680",
+    "dest_zip": "05875",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "74.50",
+    "transit_days": "1",
+    "delivery_date": "2025-02-13"
+  },
+  {
+    "service_code": "12",
+    "service_name": "Apply second coat of Arm-R-Seal to the b",
+    "origin_zip": "05843",
+    "dest_zip": "05680",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "28.60",
+    "transit_days": "3",
+    "delivery_date": "2025-06-04"
+  },
+  {
+    "service_code": "07",
+    "service_name": "Lafleur barn door (favor)",
+    "origin_zip": "05672",
+    "dest_zip": "05478",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "128.30",
+    "transit_days": "3",
+    "delivery_date": "2026-03-20"
+  },
+  {
+    "service_code": "03",
+    "service_name": "Cota window seat & bookcase",
+    "origin_zip": "05661",
+    "dest_zip": "05826",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "16.20",
+    "transit_days": "5",
+    "delivery_date": "2026-03-21"
+  },
+  {
+    "service_code": "03",
+    "service_name": "Splitting and stacking the winter firewo",
+    "origin_zip": "05478",
+    "dest_zip": "05826",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "13.85",
+    "transit_days": "3",
+    "delivery_date": "2026-05-04"
+  },
+  {
+    "service_code": "02",
+    "service_name": "Bookshelf install Friday the 16th",
+    "origin_zip": "05826",
+    "dest_zip": "05478",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "38.95",
+    "transit_days": "2",
+    "delivery_date": "2025-08-19"
+  },
+  {
+    "service_code": "02",
+    "service_name": "Project schedule update",
+    "origin_zip": "05826",
+    "dest_zip": "05661",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "total_charge": "32.40",
+    "transit_days": "2",
+    "delivery_date": "2026-04-30"
+  }
+]

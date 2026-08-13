@@ -1,0 +1,202 @@
+[
+  {
+    "id": "pr0001aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*.whitakerfreight.com/assets/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-04-01T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "whitakerfreight.com/shop/*",
+    "setting": "security_level",
+    "value": "medium",
+    "status": "active",
+    "priority": "2",
+    "created_on": "2024-04-02T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "target": "finthesiss.ai/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-04-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0004dddd",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "whitakerfreight.com/contact",
+    "setting": "cache_level",
+    "value": "bypass",
+    "status": "active",
+    "priority": "3",
+    "created_on": "2024-04-03T10:00:00.000Z"
+  },
+  {
+    "id": "pr0005eeee",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*whitakerfreight.com/*",
+    "setting": "always_use_https",
+    "value": "on",
+    "status": "active",
+    "priority": "4",
+    "created_on": "2024-04-03T10:05:00.000Z"
+  },
+  {
+    "id": "pr0006ffff",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "target": "*finthesiss.ai/*",
+    "setting": "always_use_https",
+    "value": "on",
+    "status": "active",
+    "priority": "2",
+    "created_on": "2024-04-11T10:00:00.000Z"
+  },
+  {
+    "id": "pr0007gggg",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "target": "finthesiss.ai/assets/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "3",
+    "created_on": "2024-04-11T10:05:00.000Z"
+  },
+  {
+    "id": "pr0008hhhh",
+    "zone_id": "zone3iiii7777jjjj8888kkkk9999llll",
+    "target": "whitakerfreightservices.com/*",
+    "setting": "forwarding_url",
+    "value": "https://whitakerfreight.com/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-04-16T10:00:00.000Z"
+  },
+  {
+    "id": "pr0009iiii",
+    "zone_id": "zone4mmmm0000nnnn1111oooo2222pppp",
+    "target": "whitakerfreight.net/*",
+    "setting": "forwarding_url",
+    "value": "https://whitakerfreight.com/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-04-19T10:00:00.000Z"
+  },
+  {
+    "id": "pr0010jjjj",
+    "zone_id": "zone5qqqq3333rrrr4444ssss5555tttt",
+    "target": "wfsfreight.com/*",
+    "setting": "forwarding_url",
+    "value": "https://whitakerfreight.com/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "pr0011kkkk",
+    "zone_id": "zone6uuuu6666vvvv7777wwww8888xxxx",
+    "target": "wfsbrokerage.com/*",
+    "setting": "forwarding_url",
+    "value": "https://whitakerfreight.com/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-05-02T10:05:00.000Z"
+  },
+  {
+    "id": "pr0012llll",
+    "zone_id": "zone7yyyy9999zzzz0000aaab1111bbbc",
+    "target": "finthesiss.com/*",
+    "setting": "forwarding_url",
+    "value": "https://finthesiss.ai/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-05-06T10:00:00.000Z"
+  },
+  {
+    "id": "pr0013mmmm",
+    "zone_id": "zone8ccccd222eeeef333ggggh444iiii",
+    "target": "finthesiss.net/*",
+    "setting": "forwarding_url",
+    "value": "https://finthesiss.ai/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-05-06T10:05:00.000Z"
+  },
+  {
+    "id": "pr0014nnnn",
+    "zone_id": "zone9jjjjk555llllm666nnnno777pppp",
+    "target": "tnfreightmentorship.org/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2026-02-06T10:00:00.000Z"
+  },
+  {
+    "id": "pr0015oooo",
+    "zone_id": "zone10qqqr888sssst999uuuuv000wwww",
+    "target": "tnfreightmentorship.com/*",
+    "setting": "forwarding_url",
+    "value": "https://tnfreightmentorship.org/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2026-02-06T10:05:00.000Z"
+  },
+  {
+    "id": "pr0016pppp",
+    "zone_id": "zone11xxxy111zzzz222aaaa333bbbb444",
+    "target": "carriervetting.whitakerfreight.com/*",
+    "setting": "cache_level",
+    "value": "bypass",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2026-01-13T10:00:00.000Z"
+  },
+  {
+    "id": "pr0017qqqq",
+    "zone_id": "zone12cccc555dddd666eeee777ffff888",
+    "target": "dotwebinars.whitakerfreight.com/replay/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-05-03T10:00:00.000Z"
+  },
+  {
+    "id": "pr0018rrrr",
+    "zone_id": "zone13gggg999hhhh000iiii111jjjj222",
+    "target": "shipwithwfs.com/*",
+    "setting": "forwarding_url",
+    "value": "https://whitakerfreight.com/$1",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-06-13T10:00:00.000Z"
+  },
+  {
+    "id": "pr0019ssss",
+    "zone_id": "zone17wwww555xxxx666yyyy777zzzz888",
+    "target": "knoxvillefreightbroker.com/*",
+    "setting": "always_use_https",
+    "value": "on",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2024-10-04T10:00:00.000Z"
+  },
+  {
+    "id": "pr0020tttt",
+    "zone_id": "zone20iiij777jjjk888kkkl999lllm000",
+    "target": "freightflowtrial.finthesiss.ai/*",
+    "setting": "cache_level",
+    "value": "bypass",
+    "status": "disabled",
+    "priority": "1",
+    "created_on": "2026-04-06T10:00:00.000Z"
+  }
+]

@@ -1,0 +1,807 @@
+[
+  {
+    "Id": "5001",
+    "DocNumber": "INV-2026-0301",
+    "TxnDate": "2026-03-02",
+    "DueDate": "2026-03-17",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Cumberland Auto Parts"
+    },
+    "Line": [
+      {
+        "Amount": 485.0,
+        "Description": "Dry van load - Knoxville to Charlotte, automotive parts",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Dry Van"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 485.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "glen.mabry@cumberlandautoparts.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-02T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-02T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5002",
+    "DocNumber": "INV-2026-0302",
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Valley Grain Cooperative"
+    },
+    "Line": [
+      {
+        "Amount": 560.0,
+        "Description": "Flatbed grain haul - Maryville to Louisville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Flatbed"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 560.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "ruth.lyle@valleygrainco.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-04T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-04T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5003",
+    "DocNumber": "INV-2026-0303",
+    "TxnDate": "2026-03-06",
+    "DueDate": "2026-03-21",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Appalachian Ag Producers"
+    },
+    "Line": [
+      {
+        "Amount": 620.0,
+        "Description": "Reefer produce load - Greeneville to Atlanta",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Reefer"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 620.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "nan.coley@appalachianag.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-06T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-06T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5004",
+    "DocNumber": "INV-2026-0304",
+    "TxnDate": "2026-03-09",
+    "DueDate": "2026-03-24",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Smoky Mountain Building Supply"
+    },
+    "Line": [
+      {
+        "Amount": 560.0,
+        "Description": "Flatbed lumber load - Sevierville to Nashville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Flatbed"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 560.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "pete.arnett@smokymtnsupply.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-09T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-09T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5005",
+    "DocNumber": "INV-2026-0305",
+    "TxnDate": "2026-03-12",
+    "DueDate": "2026-03-27",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Tri-State Manufacturing"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Expedited partial load - Kingsport to Knoxville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Expedited Load Coordination"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "hal.eubanks@tristatemfg.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-12T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-12T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5006",
+    "DocNumber": "INV-2026-0306",
+    "TxnDate": "2026-03-16",
+    "DueDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Cumberland Auto Parts"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Carrier vetting refresh - Q2 automotive carrier pool",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Carrier Vetting Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "glen.mabry@cumberlandautoparts.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-16T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-16T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5007",
+    "DocNumber": "INV-2026-0307",
+    "TxnDate": "2026-03-20",
+    "DueDate": "2026-04-04",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Volunteer Beverage Co"
+    },
+    "Line": [
+      {
+        "Amount": 485.0,
+        "Description": "Dry van beverage load - Knoxville to Memphis",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Dry Van"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 485.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "mike.ledford@volunteerbev.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-20T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-20T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5008",
+    "DocNumber": "INV-2026-0308",
+    "TxnDate": "2026-03-25",
+    "DueDate": "2026-04-09",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Blue Ridge Metals"
+    },
+    "Line": [
+      {
+        "Amount": 560.0,
+        "Description": "Flatbed coil load - Chattanooga to Birmingham",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Flatbed"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 560.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "dwayne.foust@blueridgemetals.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-03-25T10:00:00-05:00",
+      "LastUpdatedTime": "2026-03-25T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2001",
+    "DocNumber": "INV-2026-0401",
+    "TxnDate": "2026-04-01",
+    "DueDate": "2026-04-16",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Cumberland Auto Parts"
+    },
+    "Line": [
+      {
+        "Amount": 485.0,
+        "Description": "Dry van load - Knoxville to Charlotte, automotive parts",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Dry Van"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 485.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "glen.mabry@cumberlandautoparts.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-01T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-01T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2002",
+    "DocNumber": "INV-2026-0402",
+    "TxnDate": "2026-04-03",
+    "DueDate": "2026-04-18",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Valley Grain Cooperative"
+    },
+    "Line": [
+      {
+        "Amount": 560.0,
+        "Description": "Flatbed grain haul - Maryville to Cincinnati",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Flatbed"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 560.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "ruth.lyle@valleygrainco.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-03T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-03T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2003",
+    "DocNumber": "INV-2026-0403",
+    "TxnDate": "2026-04-06",
+    "DueDate": "2026-04-21",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Riverbend Distribution Co"
+    },
+    "Line": [
+      {
+        "Amount": 395.0,
+        "Description": "Backhaul coordination - Nashville to Knoxville return load",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Backhaul Coordination"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 395.0,
+    "Balance": 395.0,
+    "Status": "Overdue",
+    "PrivateNote": "",
+    "EmailStatus": "NotSet",
+    "BillEmail": {
+      "Address": "carl.hutto@riverbenddist.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-06T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-06T10:00:00-05:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2004",
+    "DocNumber": "INV-2026-0404",
+    "TxnDate": "2026-04-08",
+    "DueDate": "2026-04-23",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Appalachian Ag Producers"
+    },
+    "Line": [
+      {
+        "Amount": 620.0,
+        "Description": "Reefer produce load - Greeneville to Charlotte",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Reefer"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 620.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "nan.coley@appalachianag.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-08T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-08T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2005",
+    "DocNumber": "INV-2026-0405",
+    "TxnDate": "2026-04-10",
+    "DueDate": "2026-04-25",
+    "CustomerRef": {
+      "value": "8",
+      "name": "Heritage Food Distributors"
+    },
+    "Line": [
+      {
+        "Amount": 620.0,
+        "Description": "Reefer foodservice load - Knoxville to Lexington",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Reefer"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 620.0,
+    "Balance": 310.0,
+    "Status": "Partial",
+    "PrivateNote": "",
+    "EmailStatus": "NotSet",
+    "BillEmail": {
+      "Address": "pam.easter@heritagefooddist.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-10T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-10T10:00:00-05:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2006",
+    "DocNumber": "INV-2026-0406",
+    "TxnDate": "2026-04-13",
+    "DueDate": "2026-04-28",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Smoky Mountain Building Supply"
+    },
+    "Line": [
+      {
+        "Amount": 560.0,
+        "Description": "Flatbed lumber load - Sevierville to Asheville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Flatbed"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 560.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "pete.arnett@smokymtnsupply.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-13T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-13T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2007",
+    "DocNumber": "INV-2026-0407",
+    "TxnDate": "2026-04-16",
+    "DueDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Tri-State Manufacturing"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Expedited load - Kingsport to Knoxville, rush parts",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Expedited Load Coordination"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 375.0,
+    "Status": "Overdue",
+    "PrivateNote": "",
+    "EmailStatus": "NotSet",
+    "BillEmail": {
+      "Address": "hal.eubanks@tristatemfg.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-16T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-16T10:00:00-05:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2008",
+    "DocNumber": "INV-2026-0408",
+    "TxnDate": "2026-04-20",
+    "DueDate": "2026-05-05",
+    "CustomerRef": {
+      "value": "9",
+      "name": "Knox Industrial Supply"
+    },
+    "Line": [
+      {
+        "Amount": 220.0,
+        "Description": "LTL industrial supply - Knoxville to Nashville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "LTL Brokerage Commission"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 220.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "roger.penland@knoxindustrial.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-20T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-20T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2009",
+    "DocNumber": "INV-2026-0409",
+    "TxnDate": "2026-04-24",
+    "DueDate": "2026-05-09",
+    "CustomerRef": {
+      "value": "13",
+      "name": "Memphis Freight Partners"
+    },
+    "Line": [
+      {
+        "Amount": 485.0,
+        "Description": "Co-brokered dry van - Memphis to Knoxville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Dry Van"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 485.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "earl.dotson@memphisfreightpartners.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-24T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-24T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2010",
+    "DocNumber": "INV-2026-0410",
+    "TxnDate": "2026-04-28",
+    "DueDate": "2026-05-13",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Valley Grain Cooperative"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Lane analysis report - Midwest grain corridor capacity",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Lane Analysis Report"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "ruth.lyle@valleygrainco.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-04-28T10:00:00-05:00",
+      "LastUpdatedTime": "2026-04-28T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2011",
+    "DocNumber": "INV-2026-0411",
+    "TxnDate": "2026-05-04",
+    "DueDate": "2026-05-19",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Cumberland Auto Parts"
+    },
+    "Line": [
+      {
+        "Amount": 485.0,
+        "Description": "Dry van load - Knoxville to Charlotte, automotive parts",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Dry Van"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 485.0,
+    "Balance": 485.0,
+    "Status": "Open",
+    "PrivateNote": "",
+    "EmailStatus": "NotSet",
+    "BillEmail": {
+      "Address": "glen.mabry@cumberlandautoparts.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-05-04T10:00:00-05:00",
+      "LastUpdatedTime": "2026-05-04T10:00:00-05:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2012",
+    "DocNumber": "INV-2026-0412",
+    "TxnDate": "2026-05-06",
+    "DueDate": "2026-05-21",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Appalachian Ag Producers"
+    },
+    "Line": [
+      {
+        "Amount": 620.0,
+        "Description": "Reefer produce load - Greeneville to Knoxville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Reefer"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 620.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "nan.coley@appalachianag.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-05-06T10:00:00-05:00",
+      "LastUpdatedTime": "2026-05-06T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2013",
+    "DocNumber": "INV-2026-0413",
+    "TxnDate": "2026-05-08",
+    "DueDate": "2026-05-23",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Volunteer Beverage Co"
+    },
+    "Line": [
+      {
+        "Amount": 485.0,
+        "Description": "Dry van beverage load - Knoxville to Nashville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Dry Van"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 485.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "mike.ledford@volunteerbev.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-05-08T10:00:00-05:00",
+      "LastUpdatedTime": "2026-05-08T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2014",
+    "DocNumber": "INV-2026-0414",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-26",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Smoky Mountain Building Supply"
+    },
+    "Line": [
+      {
+        "Amount": 560.0,
+        "Description": "Flatbed lumber load - Sevierville to Knoxville",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Brokerage Commission - Flatbed"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 560.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "pete.arnett@smokymtnsupply.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-05-11T10:00:00-05:00",
+      "LastUpdatedTime": "2026-05-11T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  },
+  {
+    "Id": "2015",
+    "DocNumber": "INV-2026-0415",
+    "TxnDate": "2026-05-13",
+    "DueDate": "2026-05-28",
+    "CustomerRef": {
+      "value": "13",
+      "name": "Memphis Freight Partners"
+    },
+    "Line": [
+      {
+        "Amount": 395.0,
+        "Description": "Backhaul coordination - Memphis to Knoxville return load",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Backhaul Coordination"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 395.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "",
+    "EmailStatus": "EmailSent",
+    "BillEmail": {
+      "Address": "earl.dotson@memphisfreightpartners.com"
+    },
+    "MetaData": {
+      "CreateTime": "2026-05-13T10:00:00-05:00",
+      "LastUpdatedTime": "2026-05-13T10:00:00-05:00"
+    },
+    "PrintStatus": "PrintComplete",
+    "SyncToken": "1"
+  }
+]

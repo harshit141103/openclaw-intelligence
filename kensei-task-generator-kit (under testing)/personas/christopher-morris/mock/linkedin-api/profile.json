@@ -1,0 +1,16 @@
+﻿{
+  "id": "urn:li:person:christopher-morris",
+  "loILlizedFirstName": "Christopher",
+  "loILlizedLastName": "Morris",
+  "headline": "VP Engineering at Meridian Benefits Group | Distributed Systems",
+  "vanityName": "christopher-morris",
+  "loILtion": "Seattle, Washington, United States",
+  "industry": "Software Development",
+  "summary": "Engineering leader focused on developer platforms and reliability. Previously infra lead at two high-growth startups.",
+  "profilePicture": "https://media.example.com/christopher.png",
+  "publicProfileUrl": "https://www.linkedin.com/in/christopher-morris",
+  "numConnections": 842,
+  "currentOrganizationId": "5001"
+}
+
+

@@ -1,0 +1,362 @@
+[
+  {
+    "object_id": "rate-0001",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "585.47",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0002",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "595.04",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0003",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_express_saver",
+    "servicelevel_name": "FedEx Express Saver",
+    "amount": "363.69",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0004",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "338.49",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0005",
+    "shipment": "ship-1002",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "265.41",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0006",
+    "shipment": "ship-1002",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_express_saver",
+    "servicelevel_name": "FedEx Express Saver",
+    "amount": "181.75",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0007",
+    "shipment": "ship-1003",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "569.93",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0008",
+    "shipment": "ship-1003",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "568.63",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0009",
+    "shipment": "ship-1003",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_express_saver",
+    "servicelevel_name": "FedEx Express Saver",
+    "amount": "704.82",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0010",
+    "shipment": "ship-1004",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "591.46",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0011",
+    "shipment": "ship-1004",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "454.15",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0012",
+    "shipment": "ship-1004",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_express_saver",
+    "servicelevel_name": "FedEx Express Saver",
+    "amount": "237.46",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0013",
+    "shipment": "ship-1005",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "517.66",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0014",
+    "shipment": "ship-1005",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "634.50",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0015",
+    "shipment": "ship-1006",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "454.14",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0016",
+    "shipment": "ship-1006",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "287.41",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0017",
+    "shipment": "ship-1007",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "381.91",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0018",
+    "shipment": "ship-1007",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "267.24",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0019",
+    "shipment": "ship-1008",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "694.89",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0020",
+    "shipment": "ship-1008",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "678.11",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0021",
+    "shipment": "ship-1009",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "675.99",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0022",
+    "shipment": "ship-1009",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "503.43",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0023",
+    "shipment": "ship-1010",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "443.85",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0024",
+    "shipment": "ship-1010",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "240.41",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-0025",
+    "shipment": "ship-1011",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "376.01",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0026",
+    "shipment": "ship-1012",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "712.07",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0027",
+    "shipment": "ship-1013",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "615.66",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0028",
+    "shipment": "ship-1014",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "309.30",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0029",
+    "shipment": "ship-1015",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "310.07",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0030",
+    "shipment": "ship-1016",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "486.37",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0031",
+    "shipment": "ship-1017",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "222.53",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0032",
+    "shipment": "ship-1018",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "575.23",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0033",
+    "shipment": "ship-1019",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "620.65",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0034",
+    "shipment": "ship-1020",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "708.11",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0035",
+    "shipment": "ship-1021",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "467.66",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-0036",
+    "shipment": "ship-1022",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "247.91",
+    "currency": "USD",
+    "estimated_days": "2"
+  }
+]

@@ -1,0 +1,183 @@
+﻿[
+  {
+    "name": "web-01",
+    "up": "true",
+    "apps": "nginx;auth-service",
+    "sources": "agent",
+    "cpu_pct": "72.4",
+    "mem_pct": "61.0",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "web-02",
+    "up": "true",
+    "apps": "nginx;web-frontend",
+    "sources": "agent",
+    "cpu_pct": "48.1",
+    "mem_pct": "55.3",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "db-01",
+    "up": "true",
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": "33.7",
+    "mem_pct": "82.5",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "worker-01",
+    "up": "false",
+    "apps": "billing-service",
+    "sources": "agent",
+    "cpu_pct": "0.0",
+    "mem_pct": "0.0",
+    "last_reported": "1748160000"
+  },
+  {
+    "name": "web-03",
+    "up": "true",
+    "apps": "nginx;api-gateway",
+    "sources": "agent",
+    "cpu_pct": "56.2",
+    "mem_pct": "67.8",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "web-04",
+    "up": "true",
+    "apps": "nginx;auth-service;api-gateway",
+    "sources": "agent",
+    "cpu_pct": "41.3",
+    "mem_pct": "52.1",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "db-02",
+    "up": "true",
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": "28.4",
+    "mem_pct": "79.2",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "db-repliIL-01",
+    "up": "true",
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": "15.1",
+    "mem_pct": "71.5",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "worker-02",
+    "up": "true",
+    "apps": "billing-service;payment-processor",
+    "sources": "agent",
+    "cpu_pct": "65.7",
+    "mem_pct": "73.4",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "worker-03",
+    "up": "true",
+    "apps": "email-service;notifiILtion-handler",
+    "sources": "agent",
+    "cpu_pct": "22.5",
+    "mem_pct": "44.3",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "ILche-01",
+    "up": "true",
+    "apps": "redis",
+    "sources": "agent",
+    "cpu_pct": "38.9",
+    "mem_pct": "88.2",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "ILche-02",
+    "up": "true",
+    "apps": "redis",
+    "sources": "agent",
+    "cpu_pct": "35.6",
+    "mem_pct": "85.7",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "lb-01",
+    "up": "true",
+    "apps": "haproxy",
+    "sources": "agent",
+    "cpu_pct": "12.3",
+    "mem_pct": "28.5",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "cdn-master",
+    "up": "true",
+    "apps": "varnish;nginx",
+    "sources": "agent",
+    "cpu_pct": "44.2",
+    "mem_pct": "76.1",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "cdn-edge-01",
+    "up": "true",
+    "apps": "varnish",
+    "sources": "agent",
+    "cpu_pct": "19.7",
+    "mem_pct": "62.3",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "cdn-edge-02",
+    "up": "true",
+    "apps": "varnish",
+    "sources": "agent",
+    "cpu_pct": "21.4",
+    "mem_pct": "64.8",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "logging-01",
+    "up": "true",
+    "apps": "elasticsearch;logstash",
+    "sources": "agent",
+    "cpu_pct": "58.3",
+    "mem_pct": "91.2",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "logging-02",
+    "up": "true",
+    "apps": "elasticsearch;kibana",
+    "sources": "agent",
+    "cpu_pct": "52.1",
+    "mem_pct": "87.6",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "monitoring-01",
+    "up": "true",
+    "apps": "prometheus;grafana",
+    "sources": "agent",
+    "cpu_pct": "31.5",
+    "mem_pct": "74.2",
+    "last_reported": "1748250600"
+  },
+  {
+    "name": "security-01",
+    "up": "true",
+    "apps": "falco;osquery",
+    "sources": "agent",
+    "cpu_pct": "18.9",
+    "mem_pct": "42.7",
+    "last_reported": "1748250600"
+  }
+]
+

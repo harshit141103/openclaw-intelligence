@@ -1,0 +1,162 @@
+[
+  {
+    "service_id": "PS001",
+    "name": "Henderson kitchen cabinets",
+    "description": "Replace the dust collector filter and clean the cyclone",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Bookshelf install Friday the 16th",
+    "description": "Final fit of the Henderson island base cabinets",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "Replace the dust collector filter and cl",
+    "description": "Final fit of the Henderson island base cabinets",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS001",
+    "name": "Check the moisture content on the barn o",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Replace the dust collector filter and cl",
+    "description": "Hang the soft-close doors and adjust the hinges",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "Re: Stowe install date",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS001",
+    "name": "Splitting and stacking the winter firewo",
+    "description": "Built-ins - finish sample for your approval",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Plane the bookshelf shelves and ease the",
+    "description": "Replace the dust collector filter and clean the cyclone",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "Splitting and stacking the winter firewo",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS001",
+    "name": "Template the Stowe countertop radius for",
+    "description": "Project schedule update",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Stage the bookshelf sections for the Cra",
+    "description": "Final fit of the Henderson island base cabinets",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "Dry-fit the face frames before glue-up",
+    "description": "Project schedule update",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS001",
+    "name": "Replace the dust collector filter and cl",
+    "description": "Plane the bookshelf shelves and ease the front edges",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Mill cherry stock to thickness for the u",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "Set up the dado stack for the bookshelf ",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS001",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "description": "Re-saw the walnut for bookmatched panels",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "Mock up the crown profile for the Hender",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS001",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Hang the soft-close doors and adjust the",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  }
+]

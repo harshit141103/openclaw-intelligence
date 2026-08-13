@@ -1,0 +1,42 @@
+[
+  {
+    "name": "visit_reminder",
+    "language": "en_GB",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Reminder: your farm visit with Figueroa Veterinary Services is booked for {{1}} at {{2}}.",
+    "header_text": "Visit reminder"
+  },
+  {
+    "name": "tb_test_notice",
+    "language": "en_GB",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, your TB test is scheduled for {{2}}. Please have the herd gathered and yarded.",
+    "header_text": "TB testing"
+  },
+  {
+    "name": "invoice_ready",
+    "language": "en_GB",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, invoice {{2}} for {{3}} is ready. Payment within 30 days, thank you.",
+    "header_text": "Invoice"
+  },
+  {
+    "name": "oncall_ack",
+    "language": "en_GB",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Message received. Craig is on a call-out and will ring you back within {{1}}.",
+    "header_text": ""
+  },
+  {
+    "name": "results_ready",
+    "language": "en_GB",
+    "category": "UTILITY",
+    "status": "PENDING",
+    "body_text": "Hi {{1}}, the lab results for {{2}} are back. Craig will call to discuss.",
+    "header_text": ""
+  }
+]

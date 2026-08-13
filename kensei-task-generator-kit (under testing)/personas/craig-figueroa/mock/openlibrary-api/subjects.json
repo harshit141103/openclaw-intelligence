@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "veterinary",
+    "name": "Veterinary medicine",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "nature_writing",
+    "name": "Nature writing",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "magical_realism",
+    "name": "Magical realism",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "scotland",
+    "name": "Scotland",
+    "subject_type": "place"
+  },
+  {
+    "subject": "memoir",
+    "name": "Memoir",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "walking",
+    "name": "Walking and hill-craft",
+    "subject_type": "subject"
+  }
+]

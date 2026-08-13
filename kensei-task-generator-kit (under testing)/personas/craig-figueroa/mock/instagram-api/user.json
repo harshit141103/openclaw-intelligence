@@ -1,0 +1,70 @@
+[
+  {
+    "id": "17841400123456789",
+    "username": "brewedawakening_",
+    "name": "Brewed Awakening ☕",
+    "biography": "Specialty coffee roasters & cafe 🌿 Inverness, OR\nSingle-origin beans • Latte art • Brewing tutorials\nOnline shop ⬇️ Fresh roasts shipped weekly",
+    "website": "https://brewedawakening.co",
+    "followers_count": 28500,
+    "follows_count": 890,
+    "media_count": 33,
+    "profile_picture_url": "https://instagram.mock/profiles/brewedawakening_/avatar_hd.jpg",
+    "ig_id": 5214783690,
+    "account_type": "BUSINESS",
+    "category": "Coffee Shop"
+  },
+  {
+    "id": "17841400567890123",
+    "username": "eleanors_tavern",
+    "name": "Eleanor's Tavern",
+    "biography": "Classic American tavern in Astoria, Queens 🍷🥃\nNatural wine • Craft cocktails • Local beer\nTasting events monthly\nReservations ⬇️",
+    "website": "https://eleanorstav.mock",
+    "followers_count": 9200,
+    "follows_count": 445,
+    "media_count": 5,
+    "profile_picture_url": "https://instagram.mock/profiles/eleanors_tavern/avatar_hd.jpg",
+    "ig_id": 5214783692,
+    "account_type": "BUSINESS",
+    "category": "Bar"
+  },
+  {
+    "id": "17841400234567890",
+    "username": "sunlight.gallery",
+    "name": "Sunlight Gallery",
+    "biography": "Contemporary Southwestern art ☀️ Albuquerque Old Town\nExhibitions • Artist talks • Community programs\nCurrent show: Tierra y Cielo (thru May 15)\nVisit us ⬇️",
+    "website": "https://sunlightgallery.mock",
+    "followers_count": 4800,
+    "follows_count": 312,
+    "media_count": 18,
+    "profile_picture_url": "https://instagram.mock/profiles/sunlight.gallery/avatar_hd.jpg",
+    "ig_id": 5214783693,
+    "account_type": "BUSINESS",
+    "category": "Art Gallery"
+  },
+  {
+    "id": "17841400123451234",
+    "username": "russells_pastries",
+    "name": "Russell's Pastries",
+    "account_type": "BUSINESS",
+    "media_count": 8,
+    "followers_count": 12400,
+    "follows_count": 612,
+    "biography": "Southern pastries & French pâtisserie baked before sunrise ✨\nBrighton Beach, Brooklyn\nSweet potato pie • Croissants • Custom cakes\nWholesale + custom orders ⬇️",
+    "website": "https://russellspastries.co",
+    "profile_picture_url": "https://instagram.mock/profiles/russells_pastries/avatar_hd.jpg"
+  },
+  {
+    "id": "17841400888999111",
+    "username": "ben.hernandez.pm",
+    "name": "Ben Hernandez",
+    "biography": "Senior PM @ Oakmount Connect | Angel investor — fintech + devtools | Jersey City, NJ\nSoccer • salsa • specialty coffee\nLatino Founders Network",
+    "website": "https://benhernandez.co",
+    "followers_count": 1240,
+    "follows_count": 487,
+    "media_count": 10,
+    "profile_picture_url": "https://instagram.mock/profiles/ben.hernandez.pm/avatar_hd.jpg",
+    "ig_id": 6892341075,
+    "account_type": "PERSONAL",
+    "category": null
+  }
+]

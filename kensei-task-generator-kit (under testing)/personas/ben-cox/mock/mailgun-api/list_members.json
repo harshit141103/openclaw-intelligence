@@ -1,0 +1,142 @@
+[
+  {
+    "list_address": "diane.cox.vt@gmail.com",
+    "address": "diane.cox.vt@gmail.com",
+    "name": "Diane Cox",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "keith.cox.bvt@gmail.com",
+    "address": "keith.cox.bvt@gmail.com",
+    "name": "Keith Cox",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "marie.gagne.vt@gmail.com",
+    "address": "marie.gagne.vt@gmail.com",
+    "name": "Marie Cox-Gagne",
+    "subscribed": "false",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "tom.gagne.vt@gmail.com",
+    "address": "tom.gagne.vt@gmail.com",
+    "name": "Tom Gagne",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"enterprise\"}"
+  },
+  {
+    "list_address": "pete.lafleur.vt@gmail.com",
+    "address": "pete.lafleur.vt@gmail.com",
+    "name": "Pete Lafleur",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  },
+  {
+    "list_address": "jwhitfield@copleyvt.org",
+    "address": "jwhitfield@copleyvt.org",
+    "name": "Dr. James Whitfield",
+    "subscribed": "true",
+    "vars": "{\"team\":\"frontend\"}"
+  },
+  {
+    "list_address": "frontdesk@hardwickdental.com",
+    "address": "frontdesk@hardwickdental.com",
+    "name": "Dr. Paul LeBlanc",
+    "subscribed": "false",
+    "vars": "{\"team\":\"qa\"}"
+  },
+  {
+    "list_address": "shenderson@stowevt.net",
+    "address": "shenderson@stowevt.net",
+    "name": "Scott Henderson",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "lhenderson@stowevt.net",
+    "address": "lhenderson@stowevt.net",
+    "name": "Linda Henderson",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "awhitcomb@sterling.edu",
+    "address": "awhitcomb@sterling.edu",
+    "name": "Alan Whitcomb",
+    "subscribed": "false",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "paul.dufresne@myfairpoint.net",
+    "address": "paul.dufresne@myfairpoint.net",
+    "name": "Paul Dufresne",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"enterprise\"}"
+  },
+  {
+    "list_address": "marc.belanger.mason@gmail.com",
+    "address": "marc.belanger.mason@gmail.com",
+    "name": "Marc Belanger",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  },
+  {
+    "list_address": "stoddard.electric@gmail.com",
+    "address": "stoddard.electric@gmail.com",
+    "name": "Gary Stoddard",
+    "subscribed": "true",
+    "vars": "{\"team\":\"frontend\"}"
+  },
+  {
+    "list_address": "orders@hardwicklumber.com",
+    "address": "orders@hardwicklumber.com",
+    "name": "Hardwick Lumber",
+    "subscribed": "false",
+    "vars": "{\"team\":\"qa\"}"
+  },
+  {
+    "list_address": "sales@greenmountainhardwoods.com",
+    "address": "sales@greenmountainhardwoods.com",
+    "name": "Green Mountain Hardwoods",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "ray@hardwicklumber.com",
+    "address": "ray@hardwicklumber.com",
+    "name": "Ray Tetreault",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "nancy.beaulieu@gmavt.net",
+    "address": "nancy.beaulieu@gmavt.net",
+    "name": "Nancy Beaulieu",
+    "subscribed": "false",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "office@craftsburychurch.org",
+    "address": "office@craftsburychurch.org",
+    "name": "Rev. Susan Mills",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"enterprise\"}"
+  },
+  {
+    "list_address": "walt.perreault@gmail.com",
+    "address": "walt.perreault@gmail.com",
+    "name": "Walt Perreault",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  },
+  {
+    "list_address": "donna.sloan@comcast.net",
+    "address": "donna.sloan@comcast.net",
+    "name": "Donna Sloan",
+    "subscribed": "true",
+    "vars": "{\"team\":\"frontend\"}"
+  }
+]

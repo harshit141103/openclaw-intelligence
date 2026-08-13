@@ -1,0 +1,222 @@
+[
+  {
+    "asset_id": "69b6d1aa-5c14-4920-aef3-7eb33a01c456",
+    "symbol": "KO",
+    "qty": "8",
+    "avg_entry_price": "61.20",
+    "current_price": "63.45",
+    "side": "long",
+    "market_value": "507.60",
+    "cost_basis": "489.60",
+    "unrealized_pl": "18.00"
+  },
+  {
+    "asset_id": "b6d1aa75-5c14-4920-aef3-7eb33a01c123",
+    "symbol": "F",
+    "qty": "25",
+    "avg_entry_price": "11.80",
+    "current_price": "12.05",
+    "side": "long",
+    "market_value": "301.25",
+    "cost_basis": "295.00",
+    "unrealized_pl": "6.25"
+  },
+  {
+    "asset_id": "5c6d7e8f-9012-3456-7890-123456789012",
+    "symbol": "SCHD",
+    "qty": "10",
+    "avg_entry_price": "27.40",
+    "current_price": "28.10",
+    "side": "long",
+    "market_value": "281.00",
+    "cost_basis": "274.00",
+    "unrealized_pl": "7.00"
+  },
+  {
+    "asset_id": "4b5c6d7e-8f90-1234-5678-901234567890",
+    "symbol": "VTI",
+    "qty": "3",
+    "avg_entry_price": "268.50",
+    "current_price": "285.20",
+    "side": "long",
+    "market_value": "855.60",
+    "cost_basis": "805.50",
+    "unrealized_pl": "50.10"
+  },
+  {
+    "asset_id": "a1b2c3d4-1111-4920-aef3-7eb33a010001",
+    "symbol": "T",
+    "qty": "20",
+    "avg_entry_price": "18.40",
+    "current_price": "19.10",
+    "side": "long",
+    "market_value": "382.00",
+    "cost_basis": "368.00",
+    "unrealized_pl": "14.00"
+  },
+  {
+    "asset_id": "a1b2c3d4-2222-4920-aef3-7eb33a010002",
+    "symbol": "VZ",
+    "qty": "12",
+    "avg_entry_price": "39.75",
+    "current_price": "40.20",
+    "side": "long",
+    "market_value": "482.40",
+    "cost_basis": "477.00",
+    "unrealized_pl": "5.40"
+  },
+  {
+    "asset_id": "a1b2c3d4-3333-4920-aef3-7eb33a010003",
+    "symbol": "PG",
+    "qty": "4",
+    "avg_entry_price": "152.30",
+    "current_price": "158.65",
+    "side": "long",
+    "market_value": "634.60",
+    "cost_basis": "609.20",
+    "unrealized_pl": "25.40"
+  },
+  {
+    "asset_id": "a1b2c3d4-4444-4920-aef3-7eb33a010004",
+    "symbol": "JNJ",
+    "qty": "5",
+    "avg_entry_price": "148.90",
+    "current_price": "151.20",
+    "side": "long",
+    "market_value": "756.00",
+    "cost_basis": "744.50",
+    "unrealized_pl": "11.50"
+  },
+  {
+    "asset_id": "a1b2c3d4-5555-4920-aef3-7eb33a010005",
+    "symbol": "PEP",
+    "qty": "3",
+    "avg_entry_price": "171.40",
+    "current_price": "168.55",
+    "side": "long",
+    "market_value": "505.65",
+    "cost_basis": "514.20",
+    "unrealized_pl": "-8.55"
+  },
+  {
+    "asset_id": "a1b2c3d4-6666-4920-aef3-7eb33a010006",
+    "symbol": "VYM",
+    "qty": "6",
+    "avg_entry_price": "112.80",
+    "current_price": "118.30",
+    "side": "long",
+    "market_value": "709.80",
+    "cost_basis": "676.80",
+    "unrealized_pl": "33.00"
+  },
+  {
+    "asset_id": "a1b2c3d4-7777-4920-aef3-7eb33a010007",
+    "symbol": "VOO",
+    "qty": "2",
+    "avg_entry_price": "418.60",
+    "current_price": "452.10",
+    "side": "long",
+    "market_value": "904.20",
+    "cost_basis": "837.20",
+    "unrealized_pl": "67.00"
+  },
+  {
+    "asset_id": "a1b2c3d4-8888-4920-aef3-7eb33a010008",
+    "symbol": "GM",
+    "qty": "10",
+    "avg_entry_price": "42.30",
+    "current_price": "44.85",
+    "side": "long",
+    "market_value": "448.50",
+    "cost_basis": "423.00",
+    "unrealized_pl": "25.50"
+  },
+  {
+    "asset_id": "a1b2c3d4-9999-4920-aef3-7eb33a010009",
+    "symbol": "CAT",
+    "qty": "2",
+    "avg_entry_price": "298.40",
+    "current_price": "312.75",
+    "side": "long",
+    "market_value": "625.50",
+    "cost_basis": "596.80",
+    "unrealized_pl": "28.70"
+  },
+  {
+    "asset_id": "a1b2c3d4-aaaa-4920-aef3-7eb33a010010",
+    "symbol": "UNP",
+    "qty": "3",
+    "avg_entry_price": "228.70",
+    "current_price": "235.40",
+    "side": "long",
+    "market_value": "706.20",
+    "cost_basis": "686.10",
+    "unrealized_pl": "20.10"
+  },
+  {
+    "asset_id": "a1b2c3d4-bbbb-4920-aef3-7eb33a010011",
+    "symbol": "XOM",
+    "qty": "6",
+    "avg_entry_price": "104.20",
+    "current_price": "108.90",
+    "side": "long",
+    "market_value": "653.40",
+    "cost_basis": "625.20",
+    "unrealized_pl": "28.20"
+  },
+  {
+    "asset_id": "a1b2c3d4-cccc-4920-aef3-7eb33a010012",
+    "symbol": "MO",
+    "qty": "9",
+    "avg_entry_price": "44.10",
+    "current_price": "45.65",
+    "side": "long",
+    "market_value": "410.85",
+    "cost_basis": "396.90",
+    "unrealized_pl": "13.95"
+  },
+  {
+    "asset_id": "a1b2c3d4-dddd-4920-aef3-7eb33a010013",
+    "symbol": "WMT",
+    "qty": "7",
+    "avg_entry_price": "62.40",
+    "current_price": "66.80",
+    "side": "long",
+    "market_value": "467.60",
+    "cost_basis": "436.80",
+    "unrealized_pl": "30.80"
+  },
+  {
+    "asset_id": "a1b2c3d4-eeee-4920-aef3-7eb33a010014",
+    "symbol": "O",
+    "qty": "8",
+    "avg_entry_price": "57.30",
+    "current_price": "55.90",
+    "side": "long",
+    "market_value": "447.20",
+    "cost_basis": "458.40",
+    "unrealized_pl": "-11.20"
+  },
+  {
+    "asset_id": "a1b2c3d4-ffff-4920-aef3-7eb33a010015",
+    "symbol": "JPM",
+    "qty": "3",
+    "avg_entry_price": "198.50",
+    "current_price": "214.30",
+    "side": "long",
+    "market_value": "642.90",
+    "cost_basis": "595.50",
+    "unrealized_pl": "47.40"
+  },
+  {
+    "asset_id": "a1b2c3d4-1010-4920-aef3-7eb33a010016",
+    "symbol": "HD",
+    "qty": "1",
+    "avg_entry_price": "342.80",
+    "current_price": "358.15",
+    "side": "long",
+    "market_value": "358.15",
+    "cost_basis": "342.80",
+    "unrealized_pl": "15.35"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "event_id": "evt-001",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-001",
+    "email": "awhitcomb@sterling.edu",
+    "display_name": "Alan Whitcomb",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-003",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-003",
+    "email": "pete.lafleur.vt@gmail.com",
+    "display_name": "Pete Lafleur",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-004",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-004",
+    "email": "diane.cox.vt@gmail.com",
+    "display_name": "Diane Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-005",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-005",
+    "email": "diane.cox.vt@gmail.com",
+    "display_name": "Diane Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-007",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-007",
+    "email": "marie.gagne.vt@gmail.com",
+    "display_name": "Marie Cox-Gagne",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-007",
+    "email": "tom.gagne.vt@gmail.com",
+    "display_name": "Tom Gagne",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-007",
+    "email": "diane.cox.vt@gmail.com",
+    "display_name": "Diane Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "shenderson@stowevt.net",
+    "display_name": "Scott Henderson",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "lhenderson@stowevt.net",
+    "display_name": "Linda Henderson",
+    "response_status": "tentative",
+    "optional": "true",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-012",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-012",
+    "email": "frontdesk@hardwickdental.com",
+    "display_name": "Hardwick Dental",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "office@craftsburychurch.org",
+    "display_name": "Rev. Susan Mills",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-020",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-020",
+    "email": "nancy.beaulieu@gmavt.net",
+    "display_name": "Nancy Beaulieu",
+    "response_status": "needsAction",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-018",
+    "email": "ben.cox@finthesiss.ai",
+    "display_name": "Ben Cox",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-018",
+    "email": "donna.sloan@comcast.net",
+    "display_name": "Donna Sloan",
+    "response_status": "needsAction",
+    "optional": "false",
+    "organizer": "false"
+  }
+]

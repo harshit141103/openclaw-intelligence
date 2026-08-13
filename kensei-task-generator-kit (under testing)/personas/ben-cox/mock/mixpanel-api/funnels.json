@@ -1,0 +1,142 @@
+[
+  {
+    "funnel_id": "7461001",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "step_order": "1",
+    "step_event": "App Open",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Cota window seat & bookcase",
+    "step_order": "2",
+    "step_event": "Product Viewed",
+    "count": "860"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Stage the bookshelf sections for the Cra",
+    "step_order": "3",
+    "step_event": "Add to Cart",
+    "count": "430"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Bookshelf install Friday the 16th",
+    "step_order": "4",
+    "step_event": "Checkout",
+    "count": "180"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Stage the bookshelf sections for the Cra",
+    "step_order": "1",
+    "step_event": "Signup",
+    "count": "2000"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Template the Stowe countertop radius for",
+    "step_order": "2",
+    "step_event": "App Open",
+    "count": "1450"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Dry-fit the face frames before glue-up",
+    "step_order": "3",
+    "step_event": "Product Viewed",
+    "count": "940"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Sloan cherry dining table",
+    "step_order": "1",
+    "step_event": "App Open",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Set up the dado stack for the bookshelf ",
+    "step_order": "2",
+    "step_event": "Product Viewed",
+    "count": "860"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "step_order": "3",
+    "step_event": "Add to Cart",
+    "count": "430"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Lafleur barn door (favor)",
+    "step_order": "4",
+    "step_event": "Checkout",
+    "count": "180"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Check the moisture content on the barn o",
+    "step_order": "1",
+    "step_event": "Signup",
+    "count": "2000"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Mill cherry stock to thickness for the u",
+    "step_order": "2",
+    "step_event": "App Open",
+    "count": "1450"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Church pew repair",
+    "step_order": "3",
+    "step_event": "Product Viewed",
+    "count": "940"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "step_order": "1",
+    "step_event": "App Open",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "step_order": "2",
+    "step_event": "Product Viewed",
+    "count": "860"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "step_order": "3",
+    "step_event": "Add to Cart",
+    "count": "430"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "step_order": "4",
+    "step_event": "Checkout",
+    "count": "180"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Church pew repair",
+    "step_order": "1",
+    "step_event": "Signup",
+    "count": "2000"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Mill cherry stock to thickness for the u",
+    "step_order": "2",
+    "step_event": "App Open",
+    "count": "1450"
+  }
+]

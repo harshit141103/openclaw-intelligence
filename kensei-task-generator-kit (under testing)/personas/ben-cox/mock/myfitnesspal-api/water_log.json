@@ -1,0 +1,212 @@
+[
+  {
+    "water_id": "1",
+    "date": "2024-09-24",
+    "cups": "8",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "water_id": "2",
+    "date": "2025-05-22",
+    "cups": "7",
+    "notes": "Grilled trout"
+  },
+  {
+    "water_id": "3",
+    "date": "2026-03-31",
+    "cups": "9",
+    "notes": "Grilled trout"
+  },
+  {
+    "water_id": "4",
+    "date": "2025-12-04",
+    "cups": "6",
+    "notes": "French toast"
+  },
+  {
+    "water_id": "5",
+    "date": "2026-01-25",
+    "cups": "8",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "water_id": "6",
+    "date": "2025-01-23",
+    "cups": "10",
+    "notes": "Apple & jerky"
+  },
+  {
+    "water_id": "7",
+    "date": "2025-11-23",
+    "cups": "7",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "water_id": "8",
+    "date": "2025-03-18",
+    "cups": "6",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "water_id": "9",
+    "date": "2026-02-16",
+    "cups": "9",
+    "notes": "Grilled trout"
+  },
+  {
+    "water_id": "10",
+    "date": "2024-12-13",
+    "cups": "8",
+    "notes": "Apple & jerky"
+  },
+  {
+    "water_id": "11",
+    "date": "2026-04-03",
+    "cups": "7",
+    "notes": "Black coffee"
+  },
+  {
+    "water_id": "12",
+    "date": "2025-08-01",
+    "cups": "8",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "water_id": "13",
+    "date": "2025-04-18",
+    "cups": "9",
+    "notes": "Apple & jerky"
+  },
+  {
+    "water_id": "14",
+    "date": "2024-12-17",
+    "cups": "10",
+    "notes": "French toast"
+  },
+  {
+    "water_id": "15",
+    "date": "2024-03-23",
+    "cups": "7",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "water_id": "16",
+    "date": "2025-01-08",
+    "cups": "8",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "water_id": "17",
+    "date": "2026-03-07",
+    "cups": "8",
+    "notes": "Black coffee"
+  },
+  {
+    "water_id": "18",
+    "date": "2024-05-19",
+    "cups": "7",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "water_id": "19",
+    "date": "2026-04-14",
+    "cups": "9",
+    "notes": "Diane's fish dinner"
+  },
+  {
+    "water_id": "20",
+    "date": "2025-09-26",
+    "cups": "8",
+    "notes": "Grilled trout"
+  },
+  {
+    "water_id": "21",
+    "date": "2025-09-12",
+    "cups": "6",
+    "notes": "French toast"
+  },
+  {
+    "water_id": "22",
+    "date": "2023-07-12",
+    "cups": "7",
+    "notes": "Black coffee"
+  },
+  {
+    "water_id": "23",
+    "date": "2023-12-22",
+    "cups": "8",
+    "notes": "Grilled trout"
+  },
+  {
+    "water_id": "24",
+    "date": "2025-12-20",
+    "cups": "9",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "water_id": "25",
+    "date": "2026-08-20",
+    "cups": "8",
+    "notes": "French toast"
+  },
+  {
+    "water_id": "26",
+    "date": "2024-09-22",
+    "cups": "10",
+    "notes": "Apple & jerky"
+  },
+  {
+    "water_id": "27",
+    "date": "2025-12-18",
+    "cups": "8",
+    "notes": "Black coffee"
+  },
+  {
+    "water_id": "28",
+    "date": "2025-06-10",
+    "cups": "7",
+    "notes": "Vermont cheddar & crackers"
+  },
+  {
+    "water_id": "29",
+    "date": "2024-09-18",
+    "cups": "9",
+    "notes": "Black coffee"
+  },
+  {
+    "water_id": "30",
+    "date": "2026-03-16",
+    "cups": "8",
+    "notes": "Grilled trout"
+  },
+  {
+    "water_id": "101",
+    "date": "2024-04-26",
+    "cups": "6",
+    "notes": "Black coffee"
+  },
+  {
+    "water_id": "102",
+    "date": "2023-11-08",
+    "cups": "5",
+    "notes": "French toast"
+  },
+  {
+    "water_id": "103",
+    "date": "2026-02-25",
+    "cups": "6",
+    "notes": "Apple & jerky"
+  },
+  {
+    "water_id": "104",
+    "date": "2025-06-20",
+    "cups": "7",
+    "notes": "Black coffee"
+  },
+  {
+    "water_id": "105",
+    "date": "2026-02-04",
+    "cups": "6",
+    "notes": "Diane's fish dinner"
+  }
+]

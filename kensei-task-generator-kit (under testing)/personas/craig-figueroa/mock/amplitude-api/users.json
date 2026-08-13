@@ -1,0 +1,101 @@
+[
+  {
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  },
+  {
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "country": "United Kingdom",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-25T10:00:00Z",
+    "last_seen": "2026-05-03T10:30:05Z"
+  },
+  {
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "country": "Canada",
+    "platform": "web",
+    "version": "4.1.8",
+    "first_seen": "2026-04-28T14:00:00Z",
+    "last_seen": "2026-05-07T11:27:44Z"
+  },
+  {
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "country": "Germany",
+    "platform": "ios",
+    "version": "3.9.1",
+    "first_seen": "2026-05-01T18:00:00Z",
+    "last_seen": "2026-05-06T18:10:09Z"
+  },
+  {
+    "user_id": "user_2005",
+    "device_id": "dev_ee05",
+    "country": "Australia",
+    "platform": "android",
+    "version": "3.9.1",
+    "first_seen": "2026-05-02T07:00:00Z",
+    "last_seen": "2026-05-08T07:14:02Z"
+  },
+  {
+    "user_id": "user_7000",
+    "device_id": "dev_aa7000",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  },
+  {
+    "user_id": "user_7001",
+    "device_id": "dev_aa7001",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  },
+  {
+    "user_id": "user_7002",
+    "device_id": "dev_aa7002",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  },
+  {
+    "user_id": "user_7003",
+    "device_id": "dev_aa7003",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  },
+  {
+    "user_id": "user_7004",
+    "device_id": "dev_aa7004",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  },
+  {
+    "user_id": "user_7005",
+    "device_id": "dev_aa7005",
+    "country": "United States",
+    "platform": "web",
+    "version": "4.2.0",
+    "first_seen": "2026-04-20T08:00:00Z",
+    "last_seen": "2026-05-05T09:45:51Z"
+  }
+]

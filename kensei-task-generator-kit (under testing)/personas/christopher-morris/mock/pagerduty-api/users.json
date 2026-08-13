@@ -1,0 +1,163 @@
+﻿[
+  {
+    "user_id": "PU001",
+    "name": "Sandra Chen",
+    "email": "sandra.chen@meridianbenefits.com",
+    "role": "admin",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Benefits Operations Manager"
+  },
+  {
+    "user_id": "PU002",
+    "name": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Benefits Analyst"
+  },
+  {
+    "user_id": "PU003",
+    "name": "Priya Desai",
+    "email": "priya.desai@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/New_York",
+    "job_title": "Compliance Specialist"
+  },
+  {
+    "user_id": "PU004",
+    "name": "Mike Poletti",
+    "email": "mike.poletti@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "job_title": "Systems Administrator"
+  },
+  {
+    "user_id": "PU005",
+    "name": "Trisha Gunderson",
+    "email": "trisha.gunderson@meridianbenefits.com",
+    "role": "manager",
+    "time_zone": "AmeriIL/Denver",
+    "job_title": "Claims Processing Manager"
+  },
+  {
+    "user_id": "PU006",
+    "name": "David Chen",
+    "email": "david.chen@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Payroll Specialist"
+  },
+  {
+    "user_id": "PU007",
+    "name": "Jennifer Martinez",
+    "email": "jennifer.martinez@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Enrollment Coordinator"
+  },
+  {
+    "user_id": "PU008",
+    "name": "Robert Sullivan",
+    "email": "robert.sullivan@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/New_York",
+    "job_title": "Benefits Counselor"
+  },
+  {
+    "user_id": "PU009",
+    "name": "Lisa Weinstein",
+    "email": "lisa.weinstein@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "job_title": "HIPAA Compliance Officer"
+  },
+  {
+    "user_id": "PU010",
+    "name": "Marcus Johnson",
+    "email": "marcus.johnson@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/Denver",
+    "job_title": "Data Analyst"
+  },
+  {
+    "user_id": "PU011",
+    "name": "RebecIL Torres",
+    "email": "rebecIL.torres@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Quality Assurance Specialist"
+  },
+  {
+    "user_id": "PU012",
+    "name": "Steven Park",
+    "email": "steven.park@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/New_York",
+    "job_title": "TechniILl Support Lead"
+  },
+  {
+    "user_id": "PU013",
+    "name": "Amanda Garrett",
+    "email": "amanda.garrett@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Customer Success Manager"
+  },
+  {
+    "user_id": "PU014",
+    "name": "Kevin Shah",
+    "email": "kevin.shah@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "job_title": "Infrastructure Engineer"
+  },
+  {
+    "user_id": "PU015",
+    "name": "Nicole Rodriguez",
+    "email": "nicole.rodriguez@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/New_York",
+    "job_title": "Benefits Administrator"
+  },
+  {
+    "user_id": "PU016",
+    "name": "James ILmpbell",
+    "email": "james.ILmpbell@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/Denver",
+    "job_title": "Network Operations Specialist"
+  },
+  {
+    "user_id": "PU017",
+    "name": "Elena Volkov",
+    "email": "elena.volkov@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Database Administrator"
+  },
+  {
+    "user_id": "PU018",
+    "name": "Thomas O'Brien",
+    "email": "thomas.obrien@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/New_York",
+    "job_title": "Security Officer"
+  },
+  {
+    "user_id": "PU019",
+    "name": "Victoria Nguyen",
+    "email": "victoria.nguyen@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "job_title": "Vendor Relations Manager"
+  },
+  {
+    "user_id": "PU020",
+    "name": "Patrick Kelly",
+    "email": "patrick.kelly@meridianbenefits.com",
+    "role": "user",
+    "time_zone": "AmeriIL/ChiILgo",
+    "job_title": "Operations Analyst"
+  }
+]
+

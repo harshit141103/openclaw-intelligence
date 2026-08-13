@@ -1,0 +1,162 @@
+[
+  {
+    "id": "10",
+    "name": "Freight Brokerage",
+    "slug": "freight-brokerage",
+    "description": "How freight brokering and logistics work.",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "id": "11",
+    "name": "Carrier Selection",
+    "slug": "carrier-selection",
+    "description": "Vetting and managing carriers.",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "12",
+    "name": "DOT Compliance",
+    "slug": "dot-compliance",
+    "description": "FMCSA rules, safety, and audits.",
+    "parent": "10",
+    "count": "1"
+  },
+  {
+    "id": "13",
+    "name": "Company News",
+    "slug": "company-news",
+    "description": "Whitaker Freight Services updates.",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "14",
+    "name": "Mentorship",
+    "slug": "mentorship",
+    "description": "TN Freight Mentorship Program guides.",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "15",
+    "name": "Rate Negotiation",
+    "slug": "rate-negotiation",
+    "description": "Pricing lanes and negotiating with carriers.",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "16",
+    "name": "Cross-Border Freight",
+    "slug": "cross-border-freight",
+    "description": "Mexico and Canada freight lanes.",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "17",
+    "name": "Carrier Resources",
+    "slug": "carrier-resources",
+    "description": "Packets, checklists, and tools for carriers.",
+    "parent": "0",
+    "count": "3"
+  },
+  {
+    "id": "18",
+    "name": "Insurance and Bonds",
+    "slug": "insurance-bonds",
+    "description": "Broker bonds, COIs, and cargo coverage.",
+    "parent": "17",
+    "count": "1"
+  },
+  {
+    "id": "19",
+    "name": "BBQ and Smoking",
+    "slug": "bbq-smoking",
+    "description": "Pitmaster recipes and smoking guides.",
+    "parent": "0",
+    "count": "3"
+  },
+  {
+    "id": "20",
+    "name": "Brisket",
+    "slug": "brisket",
+    "description": "Smoking brisket low and slow.",
+    "parent": "19",
+    "count": "1"
+  },
+  {
+    "id": "21",
+    "name": "Ribs and Pork",
+    "slug": "ribs-pork",
+    "description": "Ribs, pulled pork, and bark.",
+    "parent": "19",
+    "count": "1"
+  },
+  {
+    "id": "22",
+    "name": "Fishing",
+    "slug": "fishing",
+    "description": "Douglas and Cherokee Lake fishing reports.",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "23",
+    "name": "Vols Football",
+    "slug": "vols-football",
+    "description": "Tennessee Volunteers tailgate and game notes.",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "24",
+    "name": "Appalachian History",
+    "slug": "appalachian-history",
+    "description": "Cumberland Gap and Great Valley railroad history.",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "25",
+    "name": "Supply Chain Trends",
+    "slug": "supply-chain-trends",
+    "description": "Market conditions and freight outlook.",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "26",
+    "name": "Building Materials",
+    "slug": "building-materials",
+    "description": "Flatbed and construction freight.",
+    "parent": "10",
+    "count": "1"
+  },
+  {
+    "id": "27",
+    "name": "Events",
+    "slug": "events",
+    "description": "WFS webinars, cookouts, and conferences.",
+    "parent": "13",
+    "count": "2"
+  },
+  {
+    "id": "28",
+    "name": "Faith and Community",
+    "slug": "faith-community",
+    "description": "Ridgeview Baptist and community outreach.",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "29",
+    "name": "Smoke Shop",
+    "slug": "smoke-shop",
+    "description": "Whitaker Smoke Shop rubs, sauces, and gear.",
+    "parent": "19",
+    "count": "2"
+  }
+]

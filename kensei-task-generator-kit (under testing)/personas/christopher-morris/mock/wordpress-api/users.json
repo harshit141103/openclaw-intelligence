@@ -1,0 +1,104 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Christopher Morris",
+    "slug": "christopher-morris",
+    "description": "Lead developer and techniILl architect.",
+    "email": "kashifrichy@gmail.com",
+    "url": "https://blog.example.com/author/christopher-morris",
+    "roles": "administrator",
+    "avatar_url": "https://gravatar.example.com/christopher-morris.png"
+  },
+  {
+    "id": "2",
+    "name": "Christopher Morris",
+    "slug": "amelia-ortega",
+    "description": "Editor in chief and platform lead.",
+    "email": "amelia.ortega@meridianbenefits.com",
+    "url": "https://blog.example.com/author/amelia",
+    "roles": "editor",
+    "avatar_url": "https://gravatar.example.com/amelia.png"
+  },
+  {
+    "id": "3",
+    "name": "Mike Poletti",
+    "slug": "jonas-pereira",
+    "description": "Infrastructure writer and SRE.",
+    "email": "jonas.pereira@meridianbenefits.com",
+    "url": "https://blog.example.com/author/jonas",
+    "roles": "editor",
+    "avatar_url": "https://gravatar.example.com/jonas.png"
+  },
+  {
+    "id": "4",
+    "name": "Sophie Morris",
+    "slug": "helena-park",
+    "description": "Frontend and accessibility contributor.",
+    "email": "helena.park@meridianbenefits.com",
+    "url": "https://blog.example.com/author/helena",
+    "roles": "author",
+    "avatar_url": "https://gravatar.example.com/helena.png"
+  },
+  {
+    "id": "5",
+    "name": "Trisha Gunderson",
+    "slug": "noor-aziz",
+    "description": "Developer advoILte and tutorial author.",
+    "email": "noor.aziz@meridianbenefits.com",
+    "url": "https://blog.example.com/author/noor",
+    "roles": "author",
+    "avatar_url": "https://gravatar.example.com/noor.png"
+  },
+  {
+    "id": "6",
+    "name": "Guest Contributor",
+    "slug": "guest-contributor",
+    "description": "OcILsional guest posts.",
+    "email": "guest@voissync.ai",
+    "url": "https://blog.example.com/author/guest",
+    "roles": "contributor",
+    "avatar_url": "https://gravatar.example.com/guest.png"
+  },
+  {
+    "id": "7",
+    "name": "Sarah Mitchell",
+    "slug": "sarah-mitchell",
+    "description": "Backend performance specialist.",
+    "email": "sarah.mitchell@meridianbenefits.com",
+    "url": "https://blog.example.com/author/sarah-mitchell",
+    "roles": "author",
+    "avatar_url": "https://gravatar.example.com/sarah-mitchell.png"
+  },
+  {
+    "id": "8",
+    "name": "Marcus Johnson",
+    "slug": "marcus-johnson",
+    "description": "DevOps and cloud infrastructure expert.",
+    "email": "marcus.johnson@meridianbenefits.com",
+    "url": "https://blog.example.com/author/marcus-johnson",
+    "roles": "author",
+    "avatar_url": "https://gravatar.example.com/marcus-johnson.png"
+  },
+  {
+    "id": "9",
+    "name": "Elena Rodriguez",
+    "slug": "elena-rodriguez",
+    "description": "API design and documentation lead.",
+    "email": "elena.rodriguez@meridianbenefits.com",
+    "url": "https://blog.example.com/author/elena-rodriguez",
+    "roles": "editor",
+    "avatar_url": "https://gravatar.example.com/elena-rodriguez.png"
+  },
+  {
+    "id": "10",
+    "name": "David Chen",
+    "slug": "david-chen",
+    "description": "Database optimization and indexing.",
+    "email": "david.chen@meridianbenefits.com",
+    "url": "https://blog.example.com/author/david-chen",
+    "roles": "author",
+    "avatar_url": "https://gravatar.example.com/david-chen.png"
+  }
+]
+
+

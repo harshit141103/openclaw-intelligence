@@ -1,0 +1,10 @@
+{
+  "id": "comp-001",
+  "name": "Figueroa Veterinary Services",
+  "ein": "84-1234567",
+  "entity_type": "C-Corporation",
+  "company_status": "Approved",
+  "primary_address": "500 Market St, Inverness, Highland 94105",
+  "pay_schedule": "Semimonthly",
+  "currency": "GBP"
+}

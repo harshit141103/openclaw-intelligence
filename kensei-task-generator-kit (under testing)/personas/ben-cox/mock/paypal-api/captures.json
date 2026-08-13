@@ -1,0 +1,182 @@
+[
+  {
+    "id": "CAP_3C679384HN8401234",
+    "order_id": "ORDER-5O190127TN364715T",
+    "status": "COMPLETED",
+    "amount_value": "18.99",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-06-27T18:00:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9512345",
+    "order_id": "ORDER-9PQ11223RS445566G",
+    "status": "COMPLETED",
+    "amount_value": "24.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2024-12-31T12:30:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402135",
+    "order_id": "ORDER-5O190127TN364715T-b1",
+    "status": "COMPLETED",
+    "amount_value": "28.99",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-04-05T16:00:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513247",
+    "order_id": "ORDER-9PQ11223RS445566G-b2",
+    "status": "COMPLETED",
+    "amount_value": "34.50",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2025-09-28T18:00:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402137",
+    "order_id": "ORDER-5O190127TN364715T-b3",
+    "status": "COMPLETED",
+    "amount_value": "41.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-04-13T15:15:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513249",
+    "order_id": "ORDER-9PQ11223RS445566G-b4",
+    "status": "COMPLETED",
+    "amount_value": "47.95",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-06-08T06:00:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402139",
+    "order_id": "ORDER-5O190127TN364715T-b5",
+    "status": "COMPLETED",
+    "amount_value": "62.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2025-12-24T14:15:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513251",
+    "order_id": "ORDER-9PQ11223RS445566G-b6",
+    "status": "COMPLETED",
+    "amount_value": "88.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2024-07-22T10:30:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402141",
+    "order_id": "ORDER-5O190127TN364715T-b7",
+    "status": "COMPLETED",
+    "amount_value": "110.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2025-06-22T16:00:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513253",
+    "order_id": "ORDER-9PQ11223RS445566G-b8",
+    "status": "COMPLETED",
+    "amount_value": "6.80",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-07-25T18:15:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402143",
+    "order_id": "ORDER-5O190127TN364715T-b9",
+    "status": "COMPLETED",
+    "amount_value": "9.25",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2024-02-17T17:15:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513255",
+    "order_id": "ORDER-9PQ11223RS445566G-b10",
+    "status": "COMPLETED",
+    "amount_value": "12.50",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-06-20T12:00:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402145",
+    "order_id": "ORDER-5O190127TN364715T-b11",
+    "status": "COMPLETED",
+    "amount_value": "18.99",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-02-15T09:15:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513257",
+    "order_id": "ORDER-9PQ11223RS445566G-b12",
+    "status": "COMPLETED",
+    "amount_value": "24.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2023-07-07T06:00:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402147",
+    "order_id": "ORDER-5O190127TN364715T-b13",
+    "status": "COMPLETED",
+    "amount_value": "28.99",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2025-04-30T14:45:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513259",
+    "order_id": "ORDER-9PQ11223RS445566G-b14",
+    "status": "COMPLETED",
+    "amount_value": "34.50",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2023-08-25T15:15:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402149",
+    "order_id": "ORDER-5O190127TN364715T-b15",
+    "status": "COMPLETED",
+    "amount_value": "41.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-01-20T15:00:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513261",
+    "order_id": "ORDER-9PQ11223RS445566G-b16",
+    "status": "COMPLETED",
+    "amount_value": "47.95",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2023-11-19T16:00:00Z"
+  },
+  {
+    "id": "CAP_3C679384HN8402151",
+    "order_id": "ORDER-5O190127TN364715T-b17",
+    "status": "COMPLETED",
+    "amount_value": "62.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-08-24T10:45:00Z"
+  },
+  {
+    "id": "CAP_5E891276JP9513263",
+    "order_id": "ORDER-9PQ11223RS445566G-b18",
+    "status": "COMPLETED",
+    "amount_value": "88.00",
+    "currency_code": "USD",
+    "final_capture": "true",
+    "create_time": "2026-03-26T16:15:00Z"
+  }
+]

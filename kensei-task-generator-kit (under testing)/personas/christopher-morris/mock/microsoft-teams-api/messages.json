@@ -1,0 +1,278 @@
+﻿[
+  {
+    "id": "1747900000001",
+    "channel_id": "19:chan-benefits-gen01@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Welcome to the Benefits Administration channel! Let's keep the platform running smoothly for our members.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-05-04T09:12:00Z"
+  },
+  {
+    "id": "1747900000002",
+    "channel_id": "19:chan-benefits-gen01@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "from_user_id": "schen@meridianbenefits.com",
+    "from_display_name": "Sandra Chen",
+    "content": "Reminder: quarterly benefits audit scheduled for Friday at 2pm. Please ensure all documentation is current.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-05-11T13:45:00Z"
+  },
+  {
+    "id": "1747900000003",
+    "channel_id": "19:chan-benefits-tech02@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "from_user_id": "mpoletti@meridianbenefits.com",
+    "from_display_name": "Mike Poletti",
+    "content": "Deployed the enrollment validation fix to staging environment.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-05-12T16:20:00Z"
+  },
+  {
+    "id": "1747900000004",
+    "channel_id": "19:chan-benefits-tech02@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Great! ILn you run the full test suite and post results when ready? Want to make sure we ILtch aIL edge ILses.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-05-12T16:45:00Z"
+  },
+  {
+    "id": "1747900000005",
+    "channel_id": "19:chan-benefits-integr3@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "from_user_id": "pdesai@meridianbenefits.com",
+    "from_display_name": "Priya Desai",
+    "content": "Need to schedule meeting with Blue Cross integration team. The API timeout issue is impacting daily reconciliation.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-05-13T10:05:00Z"
+  },
+  {
+    "id": "1747900000006",
+    "channel_id": "19:chan-claims-gen04@thread.tacv2",
+    "team_id": "19:team-claims0002@thread.tacv2",
+    "from_user_id": "jbrennan@meridianbenefits.com",
+    "from_display_name": "Janet Brennan",
+    "content": "Claims volume is up 15% this week. Great processing speed by the team though!",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-05-06T11:30:00Z"
+  },
+  {
+    "id": "1747900000007",
+    "channel_id": "19:chan-claims-queue5@thread.tacv2",
+    "team_id": "19:team-claims0002@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Updated the claims triage workflow to prioritize urgent mediILl claims. Please review and provide feedback by EOD.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-05-18T09:00:00Z"
+  },
+  {
+    "id": "1747900000008",
+    "channel_id": "19:chan-claims-esILlations6@thread.tacv2",
+    "team_id": "19:team-claims0002@thread.tacv2",
+    "from_user_id": "rbrennan-cole@meridianbenefits.com",
+    "from_display_name": "Rita Brennan-Cole",
+    "content": "ILse 45823 - Appeal overturned. Member is now approved for preventive dental coverage. NotifiILtion sent.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-05-20T14:15:00Z"
+  },
+  {
+    "id": "1747900000009",
+    "channel_id": "19:chan-product-gen07@thread.tacv2",
+    "team_id": "19:team-product003@thread.tacv2",
+    "from_user_id": "pdesai@meridianbenefits.com",
+    "from_display_name": "Priya Desai",
+    "content": "User research feedback consolidated - mobile app experience is a top priority for next quarter.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-05-22T17:50:00Z"
+  },
+  {
+    "id": "1747900000010",
+    "channel_id": "19:chan-product-roadmap8@thread.tacv2",
+    "team_id": "19:team-product003@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Q3 roadmap is finalized. Mobile enhancements, API improvements, and claims dashboard redesign are priorities.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-05-25T08:30:00Z"
+  },
+  {
+    "id": "1747900000011",
+    "channel_id": "19:chan-compliance-gen09@thread.tacv2",
+    "team_id": "19:team-compliance004@thread.tacv2",
+    "from_user_id": "schen@meridianbenefits.com",
+    "from_display_name": "Sandra Chen",
+    "content": "Annual compliance training is due by June 15 for all staff. Link sent via email.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-05-28T10:00:00Z"
+  },
+  {
+    "id": "1747900000012",
+    "channel_id": "19:chan-compliance-hipaa10@thread.tacv2",
+    "team_id": "19:team-compliance004@thread.tacv2",
+    "from_user_id": "jbrennan@meridianbenefits.com",
+    "from_display_name": "Janet Brennan",
+    "content": "Audit trail review complete for April - no compliance violations detected. Full report attached.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-05-29T14:30:00Z"
+  },
+  {
+    "id": "1747900000013",
+    "channel_id": "19:chan-allco-gen11@thread.tacv2",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Reminder: Next town hall is Thursday 10am CT. CEO will discuss our new product launch timeline.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-06-02T08:15:00Z"
+  },
+  {
+    "id": "1747900000014",
+    "channel_id": "19:chan-allco-events12@thread.tacv2",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "from_user_id": "schen@meridianbenefits.com",
+    "from_display_name": "Sandra Chen",
+    "content": "Summer picnic event scheduled for July 12 at Centennial Park in Naperville! Sign up by June 20.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-03T11:45:00Z"
+  },
+  {
+    "id": "1747900000015",
+    "channel_id": "19:chan-wellness-gen13@thread.tacv2",
+    "team_id": "19:team-wellness006@thread.tacv2",
+    "from_user_id": "pdesai@meridianbenefits.com",
+    "from_display_name": "Priya Desai",
+    "content": "June wellness focus: Mental health awareness. Free virtual meditation sessions Tuesdays and Thursdays at noon CT.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-04T09:00:00Z"
+  },
+  {
+    "id": "1747900000016",
+    "channel_id": "19:chan-wellness-fitness14@thread.tacv2",
+    "team_id": "19:team-wellness006@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Just signed up for the summer running challenge! Goal is 100 miles by end of August. Who's in?",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-05T06:30:00Z"
+  },
+  {
+    "id": "1747900000017",
+    "channel_id": "19:chan-wellness-fitness14@thread.tacv2",
+    "team_id": "19:team-wellness006@thread.tacv2",
+    "from_user_id": "mpoletti@meridianbenefits.com",
+    "from_display_name": "Mike Poletti",
+    "content": "Count me in! Let's create a group on Strava to track progress together.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-05T07:15:00Z"
+  },
+  {
+    "id": "1747900000018",
+    "channel_id": "19:chan-naperville-gen15@thread.tacv2",
+    "team_id": "19:team-naperville007@thread.tacv2",
+    "from_user_id": "jbrennan@meridianbenefits.com",
+    "from_display_name": "Janet Brennan",
+    "content": "Office renovation updates: Second floor break room reopens Monday. New coffee machine and updated furniture.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-06T14:00:00Z"
+  },
+  {
+    "id": "1747900000019",
+    "channel_id": "19:chan-naperville-logistics16@thread.tacv2",
+    "team_id": "19:team-naperville007@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Parking lot construction will affect Lot B next week. Please use Lots A and C. Full details in attached memo.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-06-08T13:30:00Z"
+  },
+  {
+    "id": "1747900000020",
+    "channel_id": "19:chan-benefits-gen01@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "from_user_id": "mpoletti@meridianbenefits.com",
+    "from_display_name": "Mike Poletti",
+    "content": "PR #847 is ready for code review. Updates to member enrollment flow with improved error handling.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-09T10:20:00Z"
+  },
+  {
+    "id": "1747900000021",
+    "channel_id": "19:chan-benefits-gen01@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Thanks Mike, I'll review today and get feedback by end of business. Looking good from what I ILn see!",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-09T11:05:00Z"
+  },
+  {
+    "id": "1747900000022",
+    "channel_id": "19:chan-claims-gen04@thread.tacv2",
+    "team_id": "19:team-claims0002@thread.tacv2",
+    "from_user_id": "rbrennan-cole@meridianbenefits.com",
+    "from_display_name": "Rita Brennan-Cole",
+    "content": "Member satisfaction scores increased 8% this month. Excellent work by the team on customer service improvements.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-09T15:45:00Z"
+  },
+  {
+    "id": "1747900000023",
+    "channel_id": "19:chan-product-gen07@thread.tacv2",
+    "team_id": "19:team-product003@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Mobile app beta testing cohort selected. First round of testing begins Monday with 500 members.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-06-09T16:20:00Z"
+  },
+  {
+    "id": "1747900000024",
+    "channel_id": "19:chan-allco-gen11@thread.tacv2",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "from_user_id": "schen@meridianbenefits.com",
+    "from_display_name": "Sandra Chen",
+    "content": "Congratulations to the Benefits team for exceeding Q2 targets by 12%! Outstanding performance.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-06-09T17:00:00Z"
+  },
+  {
+    "id": "1747900000025",
+    "channel_id": "19:chan-wellness-fitness14@thread.tacv2",
+    "team_id": "19:team-wellness006@thread.tacv2",
+    "from_user_id": "cmorris@meridianbenefits.com",
+    "from_display_name": "Christopher Morris",
+    "content": "Week 1 running challenge: 18 miles done! Conditions have been perfect in Naperville this week.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-06-10T06:45:00Z"
+  }
+]
+

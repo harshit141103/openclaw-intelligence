@@ -1,0 +1,202 @@
+[
+  {
+    "date": "1775799900",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "desktop",
+    "sessions": "120",
+    "activeUsers": "98",
+    "screenPageViews": "bencox",
+    "eventCount": "1280"
+  },
+  {
+    "date": "1780360200",
+    "country": "United States",
+    "pagePath": "/pricing",
+    "deviceCategory": "mobile",
+    "sessions": "85",
+    "activeUsers": "72",
+    "screenPageViews": "dianecox",
+    "eventCount": "640"
+  },
+  {
+    "date": "1763269200",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "mobile",
+    "sessions": "60",
+    "activeUsers": "51",
+    "screenPageViews": "bencox",
+    "eventCount": "470"
+  },
+  {
+    "date": "1790820000",
+    "country": "United States",
+    "pagePath": "/blog",
+    "deviceCategory": "desktop",
+    "sessions": "40",
+    "activeUsers": "33",
+    "screenPageViews": "dianecox",
+    "eventCount": "300"
+  },
+  {
+    "date": "1741507200",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "desktop",
+    "sessions": "135",
+    "activeUsers": "110",
+    "screenPageViews": "bencox",
+    "eventCount": "1390"
+  },
+  {
+    "date": "1722740400",
+    "country": "United States",
+    "pagePath": "/blog",
+    "deviceCategory": "mobile",
+    "sessions": "72",
+    "activeUsers": "60",
+    "screenPageViews": "mariegagne",
+    "eventCount": "520"
+  },
+  {
+    "date": "1754297100",
+    "country": "United States",
+    "pagePath": "/pricing",
+    "deviceCategory": "desktop",
+    "sessions": "48",
+    "activeUsers": "40",
+    "screenPageViews": "mariegagne",
+    "eventCount": "360"
+  },
+  {
+    "date": "1754541000",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "tablet",
+    "sessions": "22",
+    "activeUsers": "18",
+    "screenPageViews": "coxcustomwoodwork",
+    "eventCount": "160"
+  },
+  {
+    "date": "1788487200",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "mobile",
+    "sessions": "150",
+    "activeUsers": "128",
+    "screenPageViews": "dianecox",
+    "eventCount": "1530"
+  },
+  {
+    "date": "1734527700",
+    "country": "United States",
+    "pagePath": "/pricing",
+    "deviceCategory": "desktop",
+    "sessions": "55",
+    "activeUsers": "46",
+    "screenPageViews": "bencox",
+    "eventCount": "420"
+  },
+  {
+    "date": "1752812100",
+    "country": "United States",
+    "pagePath": "/blog",
+    "deviceCategory": "mobile",
+    "sessions": "38",
+    "activeUsers": "31",
+    "screenPageViews": "keithcox_dev",
+    "eventCount": "275"
+  },
+  {
+    "date": "1699262100",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "desktop",
+    "sessions": "30",
+    "activeUsers": "25",
+    "screenPageViews": "keithcox_dev",
+    "eventCount": "210"
+  },
+  {
+    "date": "1701676800",
+    "country": "United States",
+    "pagePath": "/pricing",
+    "deviceCategory": "desktop",
+    "sessions": "98",
+    "activeUsers": "80",
+    "screenPageViews": "coxcustomwoodwork",
+    "eventCount": "900"
+  },
+  {
+    "date": "1700963100",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "tablet",
+    "sessions": "28",
+    "activeUsers": "23",
+    "screenPageViews": "bencox",
+    "eventCount": "205"
+  },
+  {
+    "date": "1784457900",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "mobile",
+    "sessions": "44",
+    "activeUsers": "37",
+    "screenPageViews": "keithcox_dev",
+    "eventCount": "330"
+  },
+  {
+    "date": "1762849800",
+    "country": "United States",
+    "pagePath": "/blog",
+    "deviceCategory": "desktop",
+    "sessions": "33",
+    "activeUsers": "27",
+    "screenPageViews": "mariegagne",
+    "eventCount": "240"
+  },
+  {
+    "date": "1790734500",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "desktop",
+    "sessions": "120",
+    "activeUsers": "98",
+    "screenPageViews": "keithcox_dev",
+    "eventCount": "1280"
+  },
+  {
+    "date": "1768536000",
+    "country": "United States",
+    "pagePath": "/pricing",
+    "deviceCategory": "mobile",
+    "sessions": "85",
+    "activeUsers": "72",
+    "screenPageViews": "coxcustomwoodwork",
+    "eventCount": "640"
+  },
+  {
+    "date": "1735709400",
+    "country": "United States",
+    "pagePath": "/home",
+    "deviceCategory": "mobile",
+    "sessions": "60",
+    "activeUsers": "51",
+    "screenPageViews": "dianecox",
+    "eventCount": "470"
+  },
+  {
+    "date": "1758697200",
+    "country": "United States",
+    "pagePath": "/blog",
+    "deviceCategory": "desktop",
+    "sessions": "40",
+    "activeUsers": "33",
+    "screenPageViews": "coxcustomwoodwork",
+    "eventCount": "300"
+  }
+]

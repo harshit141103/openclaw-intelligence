@@ -1,0 +1,182 @@
+[
+  {
+    "ts": "2025-10-17T11:15:00Z",
+    "channel_id": "C01ENG100",
+    "user_id": "U01ben",
+    "text": "Template the Stowe countertop radius for the corner cabinet",
+    "thread_ts": "2026-03-12T11:45:00Z",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "2026-08-08T14:30:00Z",
+    "channel_id": "C01ENG100",
+    "user_id": "U01keith",
+    "text": "Replace the dust collector filter and clean the cyclone",
+    "thread_ts": "2025-06-13T09:45:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-10-13T10:30:00Z",
+    "channel_id": "C01ENG100",
+    "user_id": "U01ben-2",
+    "text": "Order Blum slides for the Stowe drawer banks",
+    "thread_ts": "2025-09-13T07:45:00Z",
+    "reply_count": "2",
+    "reactions": "+1:U01keith,U01diane"
+  },
+  {
+    "ts": "2026-01-14T07:45:00Z",
+    "channel_id": "C01ENG100",
+    "user_id": "U01diane",
+    "text": "Re-saw the walnut for bookmatched panels",
+    "thread_ts": "2025-12-28T07:45:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-11-11T15:45:00Z",
+    "channel_id": "C01ENG100",
+    "user_id": "U01BOT",
+    "text": "Re: Bookshelf dimensions",
+    "thread_ts": "2026-03-11T12:30:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2024-01-13T10:00:00Z",
+    "channel_id": "C01ENG101",
+    "user_id": "U01BOT-5",
+    "text": "Project schedule update",
+    "thread_ts": "2025-12-08T15:00:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-12-08T08:30:00Z",
+    "channel_id": "C01ENG101",
+    "user_id": "U01ben-6",
+    "text": "Check the moisture content on the barn oak before joinery",
+    "thread_ts": "2024-08-21T14:30:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-04-18T06:00:00Z",
+    "channel_id": "C01ENG101",
+    "user_id": "U01PETE",
+    "text": "Final fit of the Henderson island base cabinets",
+    "thread_ts": "2024-05-14T09:15:00Z",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "2026-07-07T08:30:00Z",
+    "channel_id": "C01ENG102",
+    "user_id": "U01ben-8",
+    "text": "Replace the dust collector filter and clean the cyclone",
+    "thread_ts": "2026-10-01T07:30:00Z",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-12-12T15:45:00Z",
+    "channel_id": "C01ENG102",
+    "user_id": "U01keith-9",
+    "text": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "thread_ts": "2026-04-24T08:15:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-11-08T11:45:00Z",
+    "channel_id": "C01ENG102",
+    "user_id": "U01ben-10",
+    "text": "Sharpen the jointer knives and reset the infeed table",
+    "thread_ts": "2024-11-02T10:45:00Z",
+    "reply_count": "2",
+    "reactions": "+1:U01keith,U01diane"
+  },
+  {
+    "ts": "2025-02-18T09:00:00Z",
+    "channel_id": "C01ENG102",
+    "user_id": "U01diane-11",
+    "text": "Sand to 220 and raise the grain before finish",
+    "thread_ts": "2025-10-24T13:15:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2024-01-13T14:30:00Z",
+    "channel_id": "C01ENG102",
+    "user_id": "U01BOT-12",
+    "text": "Delivery window for the Stowe cabinets",
+    "thread_ts": "2026-06-09T08:45:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2024-09-09T10:45:00Z",
+    "channel_id": "C01ENG103",
+    "user_id": "U01BOT-13",
+    "text": "Lay out dovetails for the silverware drawer",
+    "thread_ts": "2024-10-04T07:45:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-11-18T13:15:00Z",
+    "channel_id": "C01ENG103",
+    "user_id": "U01ben-14",
+    "text": "Estimate for the Greensboro barn (2027)",
+    "thread_ts": "2024-12-14T06:15:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2024-07-09T08:00:00Z",
+    "channel_id": "C01ENG103",
+    "user_id": "U01PETE-15",
+    "text": "Sharpen the jointer knives and reset the infeed table",
+    "thread_ts": "2024-11-10T13:15:00Z",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "2025-12-14T10:30:00Z",
+    "channel_id": "C01ENG103",
+    "user_id": "U01ben-16",
+    "text": "Material order - Hardwick Lumber",
+    "thread_ts": "2024-06-05T11:15:00Z",
+    "reply_count": "1",
+    "reactions": ""
+  },
+  {
+    "ts": "2026-01-14T15:00:00Z",
+    "channel_id": "C01ENG103",
+    "user_id": "U01keith-17",
+    "text": "Set up the dado stack for the bookshelf rabbets",
+    "thread_ts": "2024-10-22T07:45:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  },
+  {
+    "ts": "2024-11-26T12:00:00Z",
+    "channel_id": "C01ENG104",
+    "user_id": "U01ben-18",
+    "text": "Sand to 220 and raise the grain before finish",
+    "thread_ts": "2026-09-28T14:00:00Z",
+    "reply_count": "2",
+    "reactions": "+1:U01keith,U01diane"
+  },
+  {
+    "ts": "2023-11-24T14:30:00Z",
+    "channel_id": "C01ENG104",
+    "user_id": "U01diane-19",
+    "text": "Replace the dust collector filter and clean the cyclone",
+    "thread_ts": "2024-09-05T13:45:00Z",
+    "reply_count": "0",
+    "reactions": ""
+  }
+]

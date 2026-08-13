@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cus_Keith01",
+    "name": "Keith Burgess",
+    "email": "keith.burgess@gmail.com",
+    "description": "Rub Club annual member",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1693526400",
+    "phone": "+18655557715"
+  },
+  {
+    "id": "cus_Darl01",
+    "name": "Darrell Whitaker",
+    "email": "darl.whitaker@gmail.com",
+    "description": "Brisket Box and chip orders",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1695081600",
+    "phone": "+16065550944"
+  },
+  {
+    "id": "cus_Roy01",
+    "name": "Roy Tackett",
+    "email": "roy.tackett@gmail.com",
+    "description": "Poker group, Rub Club monthly",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1696118400",
+    "phone": "+18655557702"
+  },
+  {
+    "id": "cus_Junior01",
+    "name": "Junior Mullins",
+    "email": "junior.mullins@gmail.com",
+    "description": "Thermometer and kit buyer",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1697241600",
+    "phone": "+18655557719"
+  },
+  {
+    "id": "cus_Eddie01",
+    "name": "Eddie Combs",
+    "email": "eddie.combs@gmail.com",
+    "description": "Rub Club monthly member",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1698364800",
+    "phone": "+18655557733"
+  },
+  {
+    "id": "cus_Tammy01",
+    "name": "Tammy Caldwell",
+    "email": "tammy.caldwell@gmail.com",
+    "description": "Gift orders for the family",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1699315200",
+    "phone": "+18655552208"
+  },
+  {
+    "id": "cus_Wayne01",
+    "name": "Wayne Prater",
+    "email": "wayne.prater@gmail.com",
+    "description": "Pitmaster kit one-time",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1700438400",
+    "phone": "+18655555501"
+  },
+  {
+    "id": "cus_Travis01",
+    "name": "Travis Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "description": "Rub Club monthly member",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1701475200",
+    "phone": "+18655556621"
+  },
+  {
+    "id": "cus_Dale01",
+    "name": "Dale Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "description": "Chip bundle and thermometer",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1702598400",
+    "phone": "+18655556648"
+  },
+  {
+    "id": "cus_Pastor01",
+    "name": "James Harlan",
+    "email": "pastor.harlan@ridgeviewbaptist.org",
+    "description": "Church cookout supplies",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1703721600",
+    "phone": "+18655551100"
+  },
+  {
+    "id": "cus_Glen01",
+    "name": "Glen Mabry",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "description": "Client gift, Brisket Box",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1704844800",
+    "phone": "+18655550130"
+  },
+  {
+    "id": "cus_Pete01",
+    "name": "Pete Arnett",
+    "email": "pete.arnett@smokymtnsupply.com",
+    "description": "Rub Club annual",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1705968000",
+    "phone": "+18655550155"
+  },
+  {
+    "id": "cus_Hal01",
+    "name": "Hal Eubanks",
+    "email": "hal.eubanks@tristatemfg.com",
+    "description": "Pitmaster kit and chips",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1707091200",
+    "phone": "+18655550177"
+  },
+  {
+    "id": "cus_Ruth01",
+    "name": "Ruth Lyle",
+    "email": "ruth.lyle@valleygrainco.com",
+    "description": "Gift order, thermometer",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1708214400",
+    "phone": "+16155550188"
+  },
+  {
+    "id": "cus_Nan01",
+    "name": "Nan Coley",
+    "email": "nan.coley@appalachianag.com",
+    "description": "Rub Club monthly",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1709337600",
+    "phone": "+18655550199"
+  },
+  {
+    "id": "cus_Donna01",
+    "name": "Donna Whitaker",
+    "email": "donna.whitaker@gmail.com",
+    "description": "Household and gift orders",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1710460800",
+    "phone": "+18655553140"
+  },
+  {
+    "id": "cus_Brand01",
+    "name": "Brandon Whitaker",
+    "email": "brand.whitaker@gmail.com",
+    "description": "Rub Club monthly member",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1711584000",
+    "phone": "+18655558827"
+  },
+  {
+    "id": "cus_Carla01",
+    "name": "Carla Whitfield",
+    "email": "carla.whitfield@finthesiss.ai",
+    "description": "Chip bundle buyer",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1712707200",
+    "phone": "+18655556650"
+  },
+  {
+    "id": "cus_Lorrie01",
+    "name": "Lorrie Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "description": "Pitmaster kit one-time",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1713830400",
+    "phone": "+18655556634"
+  },
+  {
+    "id": "cus_Bren01",
+    "name": "Brenda Sizemore",
+    "email": "bren.sizemore@gmail.com",
+    "description": "Brisket Box for office cookout",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714953600",
+    "phone": "+18655553390"
+  }
+]

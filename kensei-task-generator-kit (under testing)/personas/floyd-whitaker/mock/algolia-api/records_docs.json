@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "doc-getting-started",
+    "title": "Getting Started with WFS",
+    "body": "How to set up a new shipper account with Whitaker Freight Services",
+    "section": "getting-started",
+    "tags": "intro"
+  },
+  {
+    "objectID": "doc-request-quote",
+    "title": "Requesting a Freight Quote",
+    "body": "Submit lane details and weight to get a same-day freight quote",
+    "section": "guides",
+    "tags": "quote"
+  },
+  {
+    "objectID": "doc-carrier-packet",
+    "title": "Carrier Onboarding Packet",
+    "body": "Documents carriers must submit to join the WFS network",
+    "section": "carriers",
+    "tags": "onboarding"
+  },
+  {
+    "objectID": "doc-insurance-req",
+    "title": "Carrier Insurance Requirements",
+    "body": "Minimum auto liability and cargo insurance limits for carriers",
+    "section": "carriers",
+    "tags": "compliance"
+  },
+  {
+    "objectID": "doc-dot-compliance",
+    "title": "DOT Compliance Checklist",
+    "body": "Key FMCSA and DOT items reviewed during carrier vetting",
+    "section": "compliance",
+    "tags": "compliance"
+  },
+  {
+    "objectID": "doc-lane-rates",
+    "title": "Understanding Lane Rates",
+    "body": "How contract and spot rates are built for each freight lane",
+    "section": "guides",
+    "tags": "rates"
+  },
+  {
+    "objectID": "doc-fuel-surcharge",
+    "title": "Fuel Surcharge Explained",
+    "body": "How weekly fuel surcharges are calculated and applied",
+    "section": "guides",
+    "tags": "rates"
+  },
+  {
+    "objectID": "doc-reefer-handling",
+    "title": "Refrigerated Freight Handling",
+    "body": "Temperature requirements and pre-cool steps for reefer loads",
+    "section": "guides",
+    "tags": "reefer"
+  },
+  {
+    "objectID": "doc-flatbed-securement",
+    "title": "Flatbed Load Securement",
+    "body": "Strap, chain, and tarp requirements for flatbed steel and lumber",
+    "section": "guides",
+    "tags": "flatbed"
+  },
+  {
+    "objectID": "doc-ltl-vs-tl",
+    "title": "LTL vs Truckload",
+    "body": "When to ship less-than-truckload versus a full truckload",
+    "section": "guides",
+    "tags": "ltl"
+  },
+  {
+    "objectID": "doc-tracking",
+    "title": "Tracking Your Shipment",
+    "body": "How to check the status of an active load with your dispatcher",
+    "section": "guides",
+    "tags": "tracking"
+  },
+  {
+    "objectID": "doc-claims",
+    "title": "Filing a Freight Claim",
+    "body": "Steps to file a damage or shortage claim on a delivered load",
+    "section": "guides",
+    "tags": "claims"
+  },
+  {
+    "objectID": "doc-detention",
+    "title": "Detention and Accessorial Fees",
+    "body": "How detention, layover, and lumper fees are billed",
+    "section": "reference",
+    "tags": "rates"
+  },
+  {
+    "objectID": "doc-mentorship",
+    "title": "TN Freight Mentorship Program",
+    "body": "Overview of the mentorship program for new freight brokers",
+    "section": "programs",
+    "tags": "mentorship"
+  },
+  {
+    "objectID": "doc-carrier-scoring",
+    "title": "Carrier Safety Scoring",
+    "body": "How CSA scores factor into carrier selection at WFS",
+    "section": "carriers",
+    "tags": "compliance"
+  },
+  {
+    "objectID": "doc-payment-terms",
+    "title": "Carrier Payment Terms",
+    "body": "Standard net pay terms and quick pay options for carriers",
+    "section": "carriers",
+    "tags": "payment"
+  },
+  {
+    "objectID": "doc-corridors",
+    "title": "Southeast and Midwest Corridors",
+    "body": "Primary freight corridors WFS specializes in serving",
+    "section": "reference",
+    "tags": "lanes"
+  },
+  {
+    "objectID": "doc-automotive",
+    "title": "Automotive Parts Freight",
+    "body": "Handling and timing requirements for automotive parts shippers",
+    "section": "guides",
+    "tags": "automotive"
+  },
+  {
+    "objectID": "doc-ag-products",
+    "title": "Agricultural Products Freight",
+    "body": "Seasonal hauling notes for grain and produce shippers",
+    "section": "guides",
+    "tags": "agriculture"
+  },
+  {
+    "objectID": "doc-building-materials",
+    "title": "Building Materials Freight",
+    "body": "Best practices for moving lumber, drywall, and building supply",
+    "section": "guides",
+    "tags": "building"
+  },
+  {
+    "objectID": "doc-faq",
+    "title": "Frequently Asked Questions",
+    "body": "Answers to common shipper and carrier questions about WFS",
+    "section": "reference",
+    "tags": "faq"
+  },
+  {
+    "objectID": "doc-contact",
+    "title": "Contact Whitaker Freight",
+    "body": "How to reach the WFS dispatch desk and after-hours line",
+    "section": "reference",
+    "tags": "contact"
+  }
+]

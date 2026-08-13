@@ -1,0 +1,164 @@
+﻿[
+  {
+    "id": "11",
+    "slug": "auth-service",
+    "name": "Auth Service",
+    "org_slug": "meridian-benefits",
+    "platform": "go",
+    "status": "active",
+    "team_lead": "christopher.morris@orbitlabs.com",
+    "date_created": "2024-04-12T10:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "slug": "web-frontend",
+    "name": "Web Frontend",
+    "org_slug": "meridian-benefits",
+    "platform": "javascript-react",
+    "status": "active",
+    "team_lead": "alice.jenkins@orbitlabs.com",
+    "date_created": "2024-03-20T10:00:00.000Z"
+  },
+  {
+    "id": "13",
+    "slug": "billing-service",
+    "name": "Billing Service",
+    "org_slug": "meridian-benefits",
+    "platform": "java",
+    "status": "active",
+    "team_lead": "robert.smith@orbitlabs.com",
+    "date_created": "2024-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "slug": "api-gateway",
+    "name": "API Gateway",
+    "org_slug": "meridian-benefits",
+    "platform": "go",
+    "status": "active",
+    "team_lead": "christopher.morris@orbitlabs.com",
+    "date_created": "2024-05-08T09:30:00.000Z"
+  },
+  {
+    "id": "15",
+    "slug": "notifiILtion-service",
+    "name": "NotifiILtion Service",
+    "org_slug": "meridian-benefits",
+    "platform": "python",
+    "status": "active",
+    "team_lead": "jessiIL.wong@orbitlabs.com",
+    "date_created": "2024-04-25T11:15:00.000Z"
+  },
+  {
+    "id": "16",
+    "slug": "analytics-engine",
+    "name": "Analytics Engine",
+    "org_slug": "nexus-corp",
+    "platform": "sILla",
+    "status": "active",
+    "team_lead": "michael.chen@nexuscorp.com",
+    "date_created": "2024-03-10T08:45:00.000Z"
+  },
+  {
+    "id": "17",
+    "slug": "mobile-app",
+    "name": "Mobile App",
+    "org_slug": "nexus-corp",
+    "platform": "swift",
+    "status": "active",
+    "team_lead": "emma.davis@nexuscorp.com",
+    "date_created": "2024-02-20T14:20:00.000Z"
+  },
+  {
+    "id": "18",
+    "slug": "search-service",
+    "name": "Search Service",
+    "org_slug": "cloudverse-inc",
+    "platform": "rust",
+    "status": "active",
+    "team_lead": "david.robinson@cloudverse.io",
+    "date_created": "2024-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "19",
+    "slug": "database-sync",
+    "name": "Database Sync",
+    "org_slug": "cloudverse-inc",
+    "platform": "go",
+    "status": "active",
+    "team_lead": "sarah.miller@cloudverse.io",
+    "date_created": "2024-04-02T13:30:00.000Z"
+  },
+  {
+    "id": "20",
+    "slug": "ILche-layer",
+    "name": "ILche Layer",
+    "org_slug": "techwave-systems",
+    "platform": "cpp",
+    "status": "active",
+    "team_lead": "paul.anderson@techwave.com",
+    "date_created": "2024-03-25T09:45:00.000Z"
+  },
+  {
+    "id": "21",
+    "slug": "monitoring-dashboard",
+    "name": "Monitoring Dashboard",
+    "org_slug": "techwave-systems",
+    "platform": "typescript",
+    "status": "active",
+    "team_lead": "karen.wilson@techwave.com",
+    "date_created": "2024-02-18T11:00:00.000Z"
+  },
+  {
+    "id": "22",
+    "slug": "logging-service",
+    "name": "Logging Service",
+    "org_slug": "quantum-labs",
+    "platform": "java",
+    "status": "active",
+    "team_lead": "james.taylor@quantumlabs.com",
+    "date_created": "2024-06-02T15:30:00.000Z"
+  },
+  {
+    "id": "23",
+    "slug": "security-module",
+    "name": "Security Module",
+    "org_slug": "quantum-labs",
+    "platform": "go",
+    "status": "active",
+    "team_lead": "linda.garcia@quantumlabs.com",
+    "date_created": "2024-05-30T12:15:00.000Z"
+  },
+  {
+    "id": "24",
+    "slug": "recommendation-engine",
+    "name": "Recommendation Engine",
+    "org_slug": "vertis-analytics",
+    "platform": "python",
+    "status": "active",
+    "team_lead": "thomas.martin@vertisanalytics.com",
+    "date_created": "2024-04-08T10:40:00.000Z"
+  },
+  {
+    "id": "25",
+    "slug": "payment-processor",
+    "name": "Payment Processor",
+    "org_slug": "harmoIL-solutions",
+    "platform": "java",
+    "status": "active",
+    "team_lead": "christopher.morris@harmoIL-solutions.io",
+    "date_created": "2024-05-22T14:50:00.000Z"
+  },
+  {
+    "id": "26",
+    "slug": "content-delivery",
+    "name": "Content Delivery",
+    "org_slug": "apex-systems",
+    "platform": "go",
+    "status": "active",
+    "team_lead": "margaret.turner@apexsystems.com",
+    "date_created": "2024-03-30T08:20:00.000Z"
+  }
+]
+
+

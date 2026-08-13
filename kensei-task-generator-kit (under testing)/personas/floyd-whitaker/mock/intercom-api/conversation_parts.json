@@ -1,0 +1,560 @@
+[
+  {
+    "id": "part-1",
+    "conversation_id": "conv-1001",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "I'm trying to import our carrier list from a CSV and nothing happens when I hit upload. About 340 rows.",
+    "created_at": "2026-06-02T09:00:00.000Z"
+  },
+  {
+    "id": "part-2",
+    "conversation_id": "conv-1001",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "Happy to help, Floyd. Can you tell me what column headers are in the file? The importer needs an exact MC number column.",
+    "created_at": "2026-06-02T11:30:00.000Z"
+  },
+  {
+    "id": "part-3",
+    "conversation_id": "conv-1001",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "It's got Carrier Name, MC#, DOT#, contact, and phone. The MC column has the pound sign in the header.",
+    "created_at": "2026-06-09T14:00:00.000Z"
+  },
+  {
+    "id": "part-4",
+    "conversation_id": "conv-1002",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "If I add a sixth user to the Pro plan, does the price go up per seat or is it flat?",
+    "created_at": "2026-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "part-5",
+    "conversation_id": "conv-1002",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Pro is flat up to 8 users, so your whole team is covered at the same price. No per-seat charge.",
+    "created_at": "2026-05-16T09:00:00.000Z"
+  },
+  {
+    "id": "part-6",
+    "conversation_id": "conv-1002",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-18T11:00:00.000Z"
+  },
+  {
+    "id": "part-7",
+    "conversation_id": "conv-1003",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-bren",
+    "body": "How do I set it up so our dispatchers get a text when a load is marked delivered?",
+    "created_at": "2026-06-03T13:00:00.000Z"
+  },
+  {
+    "id": "part-8",
+    "conversation_id": "conv-1003",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "Go to Settings then Notifications and toggle SMS on the Delivered event. You can pick which users get them.",
+    "created_at": "2026-06-03T15:00:00.000Z"
+  },
+  {
+    "id": "part-9",
+    "conversation_id": "conv-1003",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-bren",
+    "body": "Found it, thank you. One more - can I limit it to business hours only?",
+    "created_at": "2026-06-08T10:00:00.000Z"
+  },
+  {
+    "id": "part-10",
+    "conversation_id": "conv-1004",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "We're partway through evaluating and need a little more time. Could we get two more weeks on the trial?",
+    "created_at": "2026-05-10T08:00:00.000Z"
+  },
+  {
+    "id": "part-11",
+    "conversation_id": "conv-1004",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Absolutely. I've pushed your trial out to June 1. Take your time deciding.",
+    "created_at": "2026-05-11T09:00:00.000Z"
+  },
+  {
+    "id": "part-12",
+    "conversation_id": "conv-1004",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-12T09:00:00.000Z"
+  },
+  {
+    "id": "part-13",
+    "conversation_id": "conv-1005",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-brand",
+    "body": "My dad set me up but my login says account not found. Email is brand.whitaker@gmail.com.",
+    "created_at": "2026-05-22T14:00:00.000Z"
+  },
+  {
+    "id": "part-14",
+    "conversation_id": "conv-1005",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "Your invite was still pending. I've resent it - check your inbox and set a password.",
+    "created_at": "2026-05-22T16:00:00.000Z"
+  },
+  {
+    "id": "part-15",
+    "conversation_id": "conv-1005",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "",
+    "created_at": "2026-05-23T09:00:00.000Z"
+  },
+  {
+    "id": "part-16",
+    "conversation_id": "conv-1006",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-travis",
+    "body": "The dispatch board only updates when I refresh the page. Is there a live mode?",
+    "created_at": "2026-05-25T11:00:00.000Z"
+  },
+  {
+    "id": "part-17",
+    "conversation_id": "conv-1006",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "There is - turn on Live Sync in the board settings. It was off by default on trial accounts.",
+    "created_at": "2026-05-25T14:00:00.000Z"
+  },
+  {
+    "id": "part-18",
+    "conversation_id": "conv-1006",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-travis",
+    "body": "That did it, updating live now. Much better.",
+    "created_at": "2026-05-27T15:00:00.000Z"
+  },
+  {
+    "id": "part-19",
+    "conversation_id": "conv-1006",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "",
+    "created_at": "2026-05-27T15:00:00.000Z"
+  },
+  {
+    "id": "part-20",
+    "conversation_id": "conv-1007",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-dale",
+    "body": "Does the suite export invoices straight into QuickBooks? That's how we keep the books.",
+    "created_at": "2026-05-19T09:00:00.000Z"
+  },
+  {
+    "id": "part-21",
+    "conversation_id": "conv-1007",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Yes, there's a direct QuickBooks Online sync under Integrations. IIF export is available too for desktop.",
+    "created_at": "2026-05-19T13:00:00.000Z"
+  },
+  {
+    "id": "part-22",
+    "conversation_id": "conv-1007",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-20T16:00:00.000Z"
+  },
+  {
+    "id": "part-23",
+    "conversation_id": "conv-1008",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "I'm comparing you against FreightFlow. How does your rate lookup and load board integration stack up?",
+    "created_at": "2026-04-28T10:00:00.000Z"
+  },
+  {
+    "id": "part-24",
+    "conversation_id": "conv-1008",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "We integrate with DAT and Truckstop natively and our rate history goes back 24 months. I can send a side-by-side sheet if helpful.",
+    "created_at": "2026-04-28T14:00:00.000Z"
+  },
+  {
+    "id": "part-25",
+    "conversation_id": "conv-1008",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "Send it over. That rate history is the piece I care most about for the automotive lanes.",
+    "created_at": "2026-04-29T09:00:00.000Z"
+  },
+  {
+    "id": "part-26",
+    "conversation_id": "conv-1008",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-04-30T13:00:00.000Z"
+  },
+  {
+    "id": "part-27",
+    "conversation_id": "conv-1009",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-lorrie",
+    "body": "My carrier vetting report is missing the insurance expiration column. Can I add it back?",
+    "created_at": "2026-05-28T13:00:00.000Z"
+  },
+  {
+    "id": "part-28",
+    "conversation_id": "conv-1009",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "Yes - open the report, click Columns, and check Insurance Expiry. It'll save to your template.",
+    "created_at": "2026-05-28T15:00:00.000Z"
+  },
+  {
+    "id": "part-29",
+    "conversation_id": "conv-1009",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "",
+    "created_at": "2026-05-29T10:00:00.000Z"
+  },
+  {
+    "id": "part-30",
+    "conversation_id": "conv-1010",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "Before we sign, I'd like a short call to walk my office manager through setup. We're a six-person shop in Knoxville.",
+    "created_at": "2026-06-05T15:00:00.000Z"
+  },
+  {
+    "id": "part-31",
+    "conversation_id": "conv-1010",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Glad to. Does Tuesday or Wednesday next week work? I'll send a Zoom link once you pick.",
+    "created_at": "2026-06-09T09:00:00.000Z"
+  },
+  {
+    "id": "part-32",
+    "conversation_id": "conv-1011",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-bren",
+    "body": "I asked for a password reset twice and no email has come through.",
+    "created_at": "2026-05-12T08:00:00.000Z"
+  },
+  {
+    "id": "part-33",
+    "conversation_id": "conv-1011",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "Looks like they landed in spam on a couple accounts this morning. I've triggered a fresh one - should arrive within a minute.",
+    "created_at": "2026-05-12T10:00:00.000Z"
+  },
+  {
+    "id": "part-34",
+    "conversation_id": "conv-1011",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "",
+    "created_at": "2026-05-12T14:00:00.000Z"
+  },
+  {
+    "id": "part-35",
+    "conversation_id": "conv-1012",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "Your mobile app logs me out every time I switch apps on my iPhone. Makes it hard to check loads on the road.",
+    "created_at": "2026-03-25T09:00:00.000Z"
+  },
+  {
+    "id": "part-36",
+    "conversation_id": "conv-1012",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Sorry about that. There's a known session bug on iOS 17 - a fix is in the next release. Toggling Keep Me Signed In helps in the meantime.",
+    "created_at": "2026-03-25T13:00:00.000Z"
+  },
+  {
+    "id": "part-37",
+    "conversation_id": "conv-1012",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-03-27T12:00:00.000Z"
+  },
+  {
+    "id": "part-38",
+    "conversation_id": "conv-1013",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-travis",
+    "body": "Is there a way to bump all our lane rates up 4% at once instead of editing each one?",
+    "created_at": "2026-05-30T10:00:00.000Z"
+  },
+  {
+    "id": "part-39",
+    "conversation_id": "conv-1013",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "Yes - select the lanes, choose Bulk Edit, and apply a percentage adjustment. It previews before saving.",
+    "created_at": "2026-05-30T14:00:00.000Z"
+  },
+  {
+    "id": "part-40",
+    "conversation_id": "conv-1013",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "",
+    "created_at": "2026-05-31T11:00:00.000Z"
+  },
+  {
+    "id": "part-41",
+    "conversation_id": "conv-1014",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-brand",
+    "body": "I'm new to the brokerage side. Do you have any beginner training videos for the platform?",
+    "created_at": "2026-05-05T11:00:00.000Z"
+  },
+  {
+    "id": "part-42",
+    "conversation_id": "conv-1014",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "We do - I'll add you to the RoutePoint Academy. Start with the Building Your First Load track.",
+    "created_at": "2026-05-05T15:00:00.000Z"
+  },
+  {
+    "id": "part-43",
+    "conversation_id": "conv-1014",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-06T09:00:00.000Z"
+  },
+  {
+    "id": "part-44",
+    "conversation_id": "conv-1015",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "Does the Pro plan come with phone support, or is it all chat? When a load's on fire I need to talk to somebody.",
+    "created_at": "2026-05-08T13:00:00.000Z"
+  },
+  {
+    "id": "part-45",
+    "conversation_id": "conv-1015",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Pro includes priority phone support 7am to 9pm Eastern, plus chat anytime. You'll get a direct line after onboarding.",
+    "created_at": "2026-05-08T16:00:00.000Z"
+  },
+  {
+    "id": "part-46",
+    "conversation_id": "conv-1015",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-09T08:00:00.000Z"
+  },
+  {
+    "id": "part-47",
+    "conversation_id": "conv-1016",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-dale",
+    "body": "The monthly reconciliation report total is off by about $1,200 from what I have in the books.",
+    "created_at": "2026-05-21T14:00:00.000Z"
+  },
+  {
+    "id": "part-48",
+    "conversation_id": "conv-1016",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "That usually means a few invoices are still in Draft and not counted. Filter by status All and the totals should line up.",
+    "created_at": "2026-05-21T17:00:00.000Z"
+  },
+  {
+    "id": "part-49",
+    "conversation_id": "conv-1016",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-dale",
+    "body": "That was it - three drafts. Matches now. Appreciate it.",
+    "created_at": "2026-05-22T16:00:00.000Z"
+  },
+  {
+    "id": "part-50",
+    "conversation_id": "conv-1016",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "",
+    "created_at": "2026-05-22T16:00:00.000Z"
+  },
+  {
+    "id": "part-51",
+    "conversation_id": "conv-1017",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "We've kept clients in spreadsheets for years. What's the cleanest way to move 35 active clients over without losing the history?",
+    "created_at": "2026-06-06T10:00:00.000Z"
+  },
+  {
+    "id": "part-52",
+    "conversation_id": "conv-1017",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "I'd recommend our guided migration - you send the sheets and we map the fields with you on a call. History stays intact.",
+    "created_at": "2026-06-06T13:00:00.000Z"
+  },
+  {
+    "id": "part-53",
+    "conversation_id": "conv-1017",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "That sounds right. Bren handles our records so I'll loop her in on the call.",
+    "created_at": "2026-06-09T13:00:00.000Z"
+  },
+  {
+    "id": "part-54",
+    "conversation_id": "conv-1018",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-lorrie",
+    "body": "Can two of us work the same load at once, or does it lock when somebody opens it?",
+    "created_at": "2026-05-26T09:00:00.000Z"
+  },
+  {
+    "id": "part-55",
+    "conversation_id": "conv-1018",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "Both can be in it - you'll see a live indicator showing who else is editing so you don't step on each other.",
+    "created_at": "2026-05-26T12:00:00.000Z"
+  },
+  {
+    "id": "part-56",
+    "conversation_id": "conv-1018",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-priya",
+    "body": "",
+    "created_at": "2026-05-26T15:00:00.000Z"
+  },
+  {
+    "id": "part-57",
+    "conversation_id": "conv-1019",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-floyd",
+    "body": "We've decided to go with RoutePoint, so please cancel my FreightFlow trial. No hard feelings - it just wasn't the fit for us.",
+    "created_at": "2026-05-14T16:00:00.000Z"
+  },
+  {
+    "id": "part-58",
+    "conversation_id": "conv-1019",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Understood, Floyd - I've closed out the trial, nothing owed. Thanks for giving us a look and best of luck.",
+    "created_at": "2026-05-14T18:00:00.000Z"
+  },
+  {
+    "id": "part-59",
+    "conversation_id": "conv-1019",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-15T10:00:00.000Z"
+  },
+  {
+    "id": "part-60",
+    "conversation_id": "conv-1020",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-keith",
+    "body": "Floyd Whitaker over at Whitaker Freight told me to reach out - I run Burgess Logistics and we're looking at the same suite.",
+    "created_at": "2026-05-28T08:00:00.000Z"
+  },
+  {
+    "id": "part-61",
+    "conversation_id": "conv-1020",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "Great to hear it, Keith - Floyd's a good referral. I'll set you up with a trial and the same onboarding he had.",
+    "created_at": "2026-05-28T11:00:00.000Z"
+  },
+  {
+    "id": "part-62",
+    "conversation_id": "conv-1020",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-marcus",
+    "body": "",
+    "created_at": "2026-05-29T14:00:00.000Z"
+  }
+]

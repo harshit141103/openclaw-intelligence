@@ -1,0 +1,222 @@
+[
+  {
+    "message_id": "msg-aa01",
+    "to_email": "diane.cox.vt@gmail.com",
+    "from_email": "diane.cox.vt@gmail.com",
+    "subject": "Set up the dado stack for the bookshelf ",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2024-08-13T16:00:00Z"
+  },
+  {
+    "message_id": "msg-aa02",
+    "to_email": "keith.cox.bvt@gmail.com",
+    "from_email": "keith.cox.bvt@gmail.com",
+    "subject": "Project schedule update",
+    "template_id": "d-2b3c4d5e6f708192",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "1",
+    "sent_at": "2026-02-21T12:45:00Z"
+  },
+  {
+    "message_id": "msg-aa03",
+    "to_email": "marie.gagne.vt@gmail.com",
+    "from_email": "marie.gagne.vt@gmail.com",
+    "subject": "Material order - Hardwick Lumber",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "delivered",
+    "opens": "3",
+    "clicks": "0",
+    "sent_at": "2023-07-20T07:15:00Z"
+  },
+  {
+    "message_id": "msg-aa04",
+    "to_email": "tom.gagne.vt@gmail.com",
+    "from_email": "tom.gagne.vt@gmail.com",
+    "subject": "Material order - Hardwick Lumber",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "bounced",
+    "opens": "0",
+    "clicks": "0",
+    "sent_at": "2025-12-18T10:45:00Z"
+  },
+  {
+    "message_id": "msg-aa05",
+    "to_email": "pete.lafleur.vt@gmail.com",
+    "from_email": "pete.lafleur.vt@gmail.com",
+    "subject": "Cut dadoes for the adjustable shelf pins",
+    "template_id": "d-4d5e6f7081920314",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2026-01-11T09:30:00Z"
+  },
+  {
+    "message_id": "msg-aa06",
+    "to_email": "jwhitfield@copleyvt.org",
+    "from_email": "jwhitfield@copleyvt.org",
+    "subject": "Sharpen the jointer knives and reset the",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "opened",
+    "opens": "4",
+    "clicks": "2",
+    "sent_at": "2024-11-25T08:15:00Z"
+  },
+  {
+    "message_id": "msg-aa902",
+    "to_email": "frontdesk@hardwickdental.com",
+    "from_email": "frontdesk@hardwickdental.com",
+    "subject": "Re-saw the walnut for bookmatched panels",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2023-08-11T08:00:00Z"
+  },
+  {
+    "message_id": "msg-aa904",
+    "to_email": "shenderson@stowevt.net",
+    "from_email": "shenderson@stowevt.net",
+    "subject": "Delivery window for the Stowe cabinets",
+    "template_id": "d-2b3c4d5e6f708192",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "1",
+    "sent_at": "2023-08-21T07:15:00Z"
+  },
+  {
+    "message_id": "msg-aa906",
+    "to_email": "lhenderson@stowevt.net",
+    "from_email": "lhenderson@stowevt.net",
+    "subject": "Greensboro barn restoration",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "delivered",
+    "opens": "3",
+    "clicks": "0",
+    "sent_at": "2026-07-18T09:00:00Z"
+  },
+  {
+    "message_id": "msg-aa908",
+    "to_email": "awhitcomb@sterling.edu",
+    "from_email": "awhitcomb@sterling.edu",
+    "subject": "Lay out dovetails for the silverware dra",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "bounced",
+    "opens": "0",
+    "clicks": "0",
+    "sent_at": "2026-05-30T08:15:00Z"
+  },
+  {
+    "message_id": "msg-aa910",
+    "to_email": "paul.dufresne@myfairpoint.net",
+    "from_email": "paul.dufresne@myfairpoint.net",
+    "subject": "Set up the dado stack for the bookshelf ",
+    "template_id": "d-4d5e6f7081920314",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2025-07-30T10:45:00Z"
+  },
+  {
+    "message_id": "msg-aa912",
+    "to_email": "marc.belanger.mason@gmail.com",
+    "from_email": "marc.belanger.mason@gmail.com",
+    "subject": "Final fit of the Henderson island base c",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "opened",
+    "opens": "4",
+    "clicks": "2",
+    "sent_at": "2023-11-18T14:00:00Z"
+  },
+  {
+    "message_id": "msg-aa908",
+    "to_email": "stoddard.electric@gmail.com",
+    "from_email": "stoddard.electric@gmail.com",
+    "subject": "Greensboro barn restoration",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2024-08-06T09:00:00Z"
+  },
+  {
+    "message_id": "msg-aa910",
+    "to_email": "orders@hardwicklumber.com",
+    "from_email": "orders@hardwicklumber.com",
+    "subject": "Cherry pricing for the Henderson uppers",
+    "template_id": "d-2b3c4d5e6f708192",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "1",
+    "sent_at": "2026-04-23T12:45:00Z"
+  },
+  {
+    "message_id": "msg-aa912",
+    "to_email": "sales@greenmountainhardwoods.com",
+    "from_email": "sales@greenmountainhardwoods.com",
+    "subject": "Build the drawer boxes with half-blind d",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "delivered",
+    "opens": "3",
+    "clicks": "0",
+    "sent_at": "2026-05-04T09:45:00Z"
+  },
+  {
+    "message_id": "msg-aa914",
+    "to_email": "ray@hardwicklumber.com",
+    "from_email": "ray@hardwicklumber.com",
+    "subject": "Church pew repair",
+    "template_id": "d-3c4d5e6f70819203",
+    "status": "bounced",
+    "opens": "0",
+    "clicks": "0",
+    "sent_at": "2025-11-11T10:00:00Z"
+  },
+  {
+    "message_id": "msg-aa916",
+    "to_email": "nancy.beaulieu@gmavt.net",
+    "from_email": "nancy.beaulieu@gmavt.net",
+    "subject": "Set up the dado stack for the bookshelf ",
+    "template_id": "d-4d5e6f7081920314",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "0",
+    "sent_at": "2024-09-28T09:45:00Z"
+  },
+  {
+    "message_id": "msg-aa918",
+    "to_email": "office@craftsburychurch.org",
+    "from_email": "office@craftsburychurch.org",
+    "subject": "Plane the bookshelf shelves and ease the",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "opened",
+    "opens": "4",
+    "clicks": "2",
+    "sent_at": "2026-06-22T06:00:00Z"
+  },
+  {
+    "message_id": "msg-aa914",
+    "to_email": "walt.perreault@gmail.com",
+    "from_email": "walt.perreault@gmail.com",
+    "subject": "Sand to 220 and raise the grain before f",
+    "template_id": "d-1a2b3c4d5e6f7081",
+    "status": "delivered",
+    "opens": "2",
+    "clicks": "1",
+    "sent_at": "2024-06-25T15:00:00Z"
+  },
+  {
+    "message_id": "msg-aa916",
+    "to_email": "donna.sloan@comcast.net",
+    "from_email": "donna.sloan@comcast.net",
+    "subject": "Church pew repair",
+    "template_id": "d-2b3c4d5e6f708192",
+    "status": "delivered",
+    "opens": "1",
+    "clicks": "1",
+    "sent_at": "2024-03-13T18:30:00Z"
+  }
+]

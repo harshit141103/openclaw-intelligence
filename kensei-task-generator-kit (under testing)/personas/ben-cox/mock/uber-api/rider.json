@@ -1,0 +1,27 @@
+{
+  "rider_id": "rider-marco",
+  "first_name": "James",
+  "last_name": "Henderson",
+  "email": "keith.cox.bvt@gmail.com",
+  "phone_number": "+18025550810",
+  "rating": 4.91,
+  "member_since": "2025-06-24",
+  "promo_code": "RIDE5OFF",
+  "payment_methods": [
+    {
+      "payment_method_id": "pm-visa-9921",
+      "type": "card",
+      "brand": "Hardwick Lumber",
+      "last_four": "1787895000",
+      "default": true
+    },
+    {
+      "payment_method_id": "pm-ubercash",
+      "type": "uber_cash",
+      "balance": 18.99,
+      "default": false
+    }
+  ],
+  "home_address": "1842 Wylie Hill Road",
+  "work_address": "1842 Wylie Hill Road"
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1747900000001",
+    "channel_id": "19:chan-eng-gen01@thread.tacv100",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-001",
+    "from_display_name": "Diane Cox",
+    "content": "Mock up the crown profile for the Henderson uppers",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-10-09T16:45:00Z"
+  },
+  {
+    "id": "1747900000002",
+    "channel_id": "19:chan-eng-gen01@thread.tacv100",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-002",
+    "from_display_name": "Keith Cox",
+    "content": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2025-03-13T11:45:00Z"
+  },
+  {
+    "id": "1747900000003",
+    "channel_id": "19:chan-eng-gen01@thread.tacv100",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-003",
+    "from_display_name": "Marie Cox-Gagne",
+    "content": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2024-12-27T18:00:00Z"
+  },
+  {
+    "id": "1747900000004",
+    "channel_id": "19:chan-eng-gen01@thread.tacv100",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-004",
+    "from_display_name": "Tom Gagne",
+    "content": "Sharpened the chisels; the 1in was overdue.",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-05-21T10:45:00Z"
+  },
+  {
+    "id": "1747900000005",
+    "channel_id": "19:chan-eng-gen01@thread.tacv101",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-001",
+    "from_display_name": "Pete Lafleur",
+    "content": "Plane the bookshelf shelves and ease the front edges",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2025-11-02T18:00:00Z"
+  },
+  {
+    "id": "1747900000006",
+    "channel_id": "19:chan-eng-gen01@thread.tacv101",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "from_user_id": "user-005",
+    "from_display_name": "Dr. James Whitfield",
+    "content": "Bookshelf install Friday the 16th",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-09-27T16:30:00Z"
+  },
+  {
+    "id": "1747900000007",
+    "channel_id": "19:chan-eng-gen01@thread.tacv101",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "from_user_id": "user-006",
+    "from_display_name": "Dr. Paul LeBlanc",
+    "content": "Diane flagged the Sloan invoice for QuickBooks.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2024-01-16T12:15:00Z"
+  },
+  {
+    "id": "1747900000008",
+    "channel_id": "19:chan-eng-gen01@thread.tacv101",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "from_user_id": "user-007",
+    "from_display_name": "Scott Henderson",
+    "content": "Re: Stowe install date",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2024-04-19T10:30:00Z"
+  },
+  {
+    "id": "1747900000009",
+    "channel_id": "19:chan-eng-gen01@thread.tacv102",
+    "team_id": "19:team-sales004@thread.tacv2",
+    "from_user_id": "user-009",
+    "from_display_name": "Linda Henderson",
+    "content": "Build the drawer boxes with half-blind dovetails",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-01-24T09:45:00Z"
+  },
+  {
+    "id": "1747900000010",
+    "channel_id": "19:chan-eng-gen01@thread.tacv102",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "from_user_id": "user-001",
+    "from_display_name": "Alan Whitcomb",
+    "content": "Re-saw the walnut for bookmatched panels",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-03-17T06:45:00Z"
+  },
+  {
+    "id": "1747900000902",
+    "channel_id": "19:chan-eng-gen01@thread.tacv102",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-001",
+    "from_display_name": "Paul Dufresne",
+    "content": "Cut dadoes for the adjustable shelf pins",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2025-08-07T17:15:00Z"
+  },
+  {
+    "id": "1747900000904",
+    "channel_id": "19:chan-eng-gen01@thread.tacv102",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-002",
+    "from_display_name": "Marc Belanger",
+    "content": "Delivery window for the Stowe cabinets",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2025-11-14T07:30:00Z"
+  },
+  {
+    "id": "1747900000906",
+    "channel_id": "19:chan-eng-gen01@thread.tacv103",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-003",
+    "from_display_name": "Gary Stoddard",
+    "content": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2026-02-16T17:15:00Z"
+  },
+  {
+    "id": "1747900000908",
+    "channel_id": "19:chan-eng-gen01@thread.tacv103",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-004",
+    "from_display_name": "Hardwick Lumber",
+    "content": "Final fit of the Henderson island base cabinets",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2025-02-21T08:45:00Z"
+  },
+  {
+    "id": "1747900000910",
+    "channel_id": "19:chan-eng-gen01@thread.tacv103",
+    "team_id": "19:team-eng0001@thread.tacv2",
+    "from_user_id": "user-001",
+    "from_display_name": "Green Mountain Hardwoods",
+    "content": "Barn oak is summer 2027 - not pulling material yet.",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-07-04T15:45:00Z"
+  },
+  {
+    "id": "1747900000912",
+    "channel_id": "19:chan-eng-gen01@thread.tacv104",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "from_user_id": "user-005",
+    "from_display_name": "Ray Tetreault",
+    "content": "Hang the soft-close doors and adjust the hinges",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2024-05-25T06:30:00Z"
+  },
+  {
+    "id": "1747900000914",
+    "channel_id": "19:chan-eng-gen01@thread.tacv104",
+    "team_id": "19:team-prod0002@thread.tacv2",
+    "from_user_id": "user-006",
+    "from_display_name": "Nancy Beaulieu",
+    "content": "Built-ins - finish sample for your approval",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-04-04T13:15:00Z"
+  },
+  {
+    "id": "1747900000916",
+    "channel_id": "19:chan-eng-gen01@thread.tacv104",
+    "team_id": "19:team-mktg0003@thread.tacv2",
+    "from_user_id": "user-007",
+    "from_display_name": "Rev. Susan Mills",
+    "content": "Splitting and stacking the winter firewood",
+    "content_type": "html",
+    "importance": "normal",
+    "created_date": "2025-10-05T18:00:00Z"
+  },
+  {
+    "id": "1747900000918",
+    "channel_id": "19:chan-eng-gen01@thread.tacv105",
+    "team_id": "19:team-sales004@thread.tacv2",
+    "from_user_id": "user-009",
+    "from_display_name": "Walt Perreault",
+    "content": "Stage the bookshelf sections for the Craftsbury install",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2025-05-16T08:45:00Z"
+  },
+  {
+    "id": "1747900000920",
+    "channel_id": "19:chan-eng-gen01@thread.tacv105",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "from_user_id": "user-001",
+    "from_display_name": "Donna Sloan",
+    "content": "Mock up the crown profile for the Henderson uppers",
+    "content_type": "html",
+    "importance": "high",
+    "created_date": "2026-01-30T11:15:00Z"
+  }
+]

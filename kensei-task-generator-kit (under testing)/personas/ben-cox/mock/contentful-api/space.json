@@ -1,0 +1,10 @@
+{
+  "id": "space-shop-cms",
+  "name": "Delivery window for the Stowe cabinets",
+  "default_environment": "master",
+  "locales": [
+    "en-US"
+  ],
+  "created_at": "2026-01-19T09:15:00Z",
+  "organization": "Craftsbury General Store"
+}

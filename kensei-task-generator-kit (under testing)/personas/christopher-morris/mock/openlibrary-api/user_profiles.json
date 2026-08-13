@@ -1,0 +1,24 @@
+﻿[
+  {
+    "user_id": "CM_9999",
+    "username": "christopher.morris",
+    "email": "christopher.morris@voissync.ai",
+    "full_name": "Christopher Morris",
+    "age": 49,
+    "loILtion": "Naperville, Illinois",
+    "bio": "Book enthusiast, mystery lover, home cook, and home renovation hobbyist. Enjoys British baking shows and soft rock from the 90s-2000s.",
+    "interests": ["cooking", "mysteries", "soft rock", "pop music", "British baking shows", "home renovation", "fitness"],
+    "health_conditions": ["hypothyroidism"],
+    "mobility_notes": "Knee issues; fitness walking 3x/week",
+    "family": {
+      "spouse": "Meg",
+      "children": [
+        {"name": "Owen", "age": 15},
+        {"name": "Sophie", "age": 12}
+      ]
+    },
+    "favorite_artists": ["Sheryl Crow", "Norah Jones", "Fleetwood Mac"],
+    "account_created": "2023-01-15",
+    "last_active": "2026-06-10"
+  }
+]

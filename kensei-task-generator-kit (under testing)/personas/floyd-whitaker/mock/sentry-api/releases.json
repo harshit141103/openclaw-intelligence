@@ -1,0 +1,232 @@
+[
+  {
+    "version": "wfs-website@1.4.2",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-website",
+    "ref": "a1b2c3d",
+    "status": "open",
+    "new_groups": "2",
+    "date_created": "2026-05-20T10:00:00.000Z",
+    "date_released": "2026-05-21T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-website@1.4.3",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-website",
+    "ref": "b2c3d4e",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-30T10:00:00.000Z",
+    "date_released": ""
+  },
+  {
+    "version": "wfs-quote-form@2.1.0",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-quote-form",
+    "ref": "c3d4e5f",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-24T12:00:00.000Z",
+    "date_released": "2026-05-24T15:00:00.000Z"
+  },
+  {
+    "version": "wfs-quote-form@2.0.0",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-quote-form",
+    "ref": "d4e5f6a",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-04-01T10:00:00.000Z",
+    "date_released": "2026-04-02T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-contact-api@1.2.0",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-contact-api",
+    "ref": "e5f6a1b",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-22T10:00:00.000Z",
+    "date_released": "2026-05-23T10:00:00.000Z"
+  },
+  {
+    "version": "wfs-website@1.4.4",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-website",
+    "ref": "f6a1b2c",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-06-05T10:00:00.000Z",
+    "date_released": "2026-06-06T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-quote-form@2.1.1",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-quote-form",
+    "ref": "a1b2c3e",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-06-02T12:00:00.000Z",
+    "date_released": "2026-06-02T16:00:00.000Z"
+  },
+  {
+    "version": "wfs-contact-api@1.2.1",
+    "org_slug": "whitaker-freight",
+    "project_slug": "wfs-contact-api",
+    "ref": "b2c3d4f",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-06-03T10:00:00.000Z",
+    "date_released": "2026-06-04T10:00:00.000Z"
+  },
+  {
+    "version": "wfs-tracking-portal@1.0.0",
+    "org_slug": "wfs-tracking-portal",
+    "project_slug": "wfs-tracking-portal",
+    "ref": "c3d4e5a",
+    "status": "open",
+    "new_groups": "2",
+    "date_created": "2026-04-10T10:00:00.000Z",
+    "date_released": "2026-04-11T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-tracking-portal@1.0.1",
+    "org_slug": "wfs-tracking-portal",
+    "project_slug": "wfs-tracking-portal",
+    "ref": "d4e5f6b",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-08T10:00:00.000Z",
+    "date_released": "2026-05-09T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-carrier-portal@1.1.0",
+    "org_slug": "wfs-carrier-portal",
+    "project_slug": "wfs-carrier-portal",
+    "ref": "e5f6a1c",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-15T10:00:00.000Z",
+    "date_released": "2026-05-16T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-quotes-service@3.0.0",
+    "org_slug": "wfs-quotes",
+    "project_slug": "wfs-quotes-service",
+    "ref": "f6a1b2d",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-05-18T10:00:00.000Z",
+    "date_released": "2026-05-19T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-webhooks-service@1.3.0",
+    "org_slug": "wfs-webhooks",
+    "project_slug": "wfs-webhooks-service",
+    "ref": "a1b2c3f",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-25T10:00:00.000Z",
+    "date_released": "2026-05-26T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-marketing-site@2.4.0",
+    "org_slug": "wfs-marketing",
+    "project_slug": "wfs-marketing-site",
+    "ref": "b2c3d4a",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-05-12T10:00:00.000Z",
+    "date_released": "2026-05-13T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-blog@1.6.2",
+    "org_slug": "wfs-marketing",
+    "project_slug": "wfs-blog",
+    "ref": "c3d4e5b",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-28T10:00:00.000Z",
+    "date_released": ""
+  },
+  {
+    "version": "wfs-billing-integration@1.1.4",
+    "org_slug": "wfs-billing",
+    "project_slug": "wfs-billing-integration",
+    "ref": "d4e5f6c",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-05-20T10:00:00.000Z",
+    "date_released": "2026-05-21T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-newsletter-platform@1.2.0",
+    "org_slug": "wfs-newsletter",
+    "project_slug": "wfs-newsletter-platform",
+    "ref": "e5f6a1d",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-05-22T10:00:00.000Z",
+    "date_released": "2026-05-23T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-chat-widget@1.0.5",
+    "org_slug": "wfs-chat",
+    "project_slug": "wfs-chat-widget",
+    "ref": "f6a1b2e",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-30T10:00:00.000Z",
+    "date_released": "2026-05-31T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-mobile-app@0.9.0",
+    "org_slug": "wfs-mobile",
+    "project_slug": "wfs-mobile-app",
+    "ref": "a1b2c3a",
+    "status": "open",
+    "new_groups": "3",
+    "date_created": "2026-04-15T10:00:00.000Z",
+    "date_released": ""
+  },
+  {
+    "version": "wfs-status-page@1.0.0",
+    "org_slug": "wfs-status-page",
+    "project_slug": "wfs-status-page",
+    "ref": "b2c3d4b",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-03-19T10:00:00.000Z",
+    "date_released": "2026-03-20T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-dot-webinars@1.1.0",
+    "org_slug": "wfs-dot-webinars",
+    "project_slug": "wfs-dot-webinars",
+    "ref": "c3d4e5c",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-05-02T10:00:00.000Z",
+    "date_released": "2026-05-03T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-mentorship-signup@1.0.0",
+    "org_slug": "tn-freight-mentorship",
+    "project_slug": "wfs-mentorship-signup",
+    "ref": "d4e5f6d",
+    "status": "open",
+    "new_groups": "1",
+    "date_created": "2026-05-26T10:00:00.000Z",
+    "date_released": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "version": "wfs-internal-dashboard@2.2.1",
+    "org_slug": "wfs-internal-tools",
+    "project_slug": "wfs-internal-dashboard",
+    "ref": "e5f6a1e",
+    "status": "open",
+    "new_groups": "0",
+    "date_created": "2026-05-29T10:00:00.000Z",
+    "date_released": "2026-05-30T09:00:00.000Z"
+  }
+]

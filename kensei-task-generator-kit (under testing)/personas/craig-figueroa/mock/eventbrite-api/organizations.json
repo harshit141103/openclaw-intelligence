@@ -1,0 +1,16 @@
+[
+  {
+    "id": "org-bcva",
+    "name": "British Cattle Veterinary Association",
+    "description": "CPD and events for cattle vets across the UK",
+    "vertical": "Veterinary",
+    "image_url": "https://img.evbuc.co.uk/org-bcva.png"
+  },
+  {
+    "id": "org-lochcarron-show",
+    "name": "Lochcarron Agricultural Society",
+    "description": "Organisers of the Lochcarron Agricultural Show",
+    "vertical": "Agriculture",
+    "image_url": "https://img.evbuc.co.uk/org-lochcarron.png"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cls-sports-football",
+    "segment": "Sports",
+    "genre": "Football",
+    "subgenre": "NCAA Football"
+  },
+  {
+    "id": "cls-sports-basketball",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "subgenre": "NCAA Basketball"
+  },
+  {
+    "id": "cls-music-country",
+    "segment": "Music",
+    "genre": "Country",
+    "subgenre": "Country"
+  },
+  {
+    "id": "cls-music-rock",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Southern Rock"
+  },
+  {
+    "id": "cls-music-bluegrass",
+    "segment": "Music",
+    "genre": "Country",
+    "subgenre": "Bluegrass"
+  },
+  {
+    "id": "cls-sports-racing",
+    "segment": "Sports",
+    "genre": "Motorsports",
+    "subgenre": "NASCAR"
+  },
+  {
+    "id": "cls-arts-theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Musical"
+  },
+  {
+    "id": "cls-music-outlaw",
+    "segment": "Music",
+    "genre": "Country",
+    "subgenre": "Outlaw Country"
+  },
+  {
+    "id": "cls-music-classic-country",
+    "segment": "Music",
+    "genre": "Country",
+    "subgenre": "Classic Country"
+  },
+  {
+    "id": "cls-music-americana",
+    "segment": "Music",
+    "genre": "Country",
+    "subgenre": "Americana"
+  },
+  {
+    "id": "cls-music-classic-rock",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Classic Rock"
+  },
+  {
+    "id": "cls-music-gospel",
+    "segment": "Music",
+    "genre": "Religious",
+    "subgenre": "Gospel"
+  },
+  {
+    "id": "cls-sports-baseball",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "subgenre": "NCAA Baseball"
+  },
+  {
+    "id": "cls-sports-hockey",
+    "segment": "Sports",
+    "genre": "Hockey",
+    "subgenre": "Minor League Hockey"
+  },
+  {
+    "id": "cls-sports-football-pro",
+    "segment": "Sports",
+    "genre": "Football",
+    "subgenre": "NFL"
+  },
+  {
+    "id": "cls-arts-theatre-play",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Play"
+  },
+  {
+    "id": "cls-arts-comedy",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "subgenre": "Stand-Up"
+  },
+  {
+    "id": "cls-music-folk",
+    "segment": "Music",
+    "genre": "Folk",
+    "subgenre": "Folk"
+  },
+  {
+    "id": "cls-sports-racing-truck",
+    "segment": "Sports",
+    "genre": "Motorsports",
+    "subgenre": "Truck Series"
+  },
+  {
+    "id": "cls-sports-basketball-womens",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "subgenre": "NCAA Womens Basketball"
+  }
+]

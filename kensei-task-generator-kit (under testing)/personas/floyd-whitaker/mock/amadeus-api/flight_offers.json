@@ -1,0 +1,720 @@
+[
+  {
+    "id": "1",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "ATL",
+    "departureDate": "2026-06-18",
+    "oneWay": true,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT1H05M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-06-18T07:30:00"},
+            "arrival": {"iataCode": "ATL", "terminal": "S", "at": "2026-06-18T08:35:00"},
+            "carrierCode": "DL",
+            "number": "4821",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "168.40", "base": "132.00", "grandTotal": "168.40"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "168.40"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "2",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "ATL",
+    "destinationLocationCode": "TYS",
+    "departureDate": "2026-06-20",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT1H00M",
+        "segments": [
+          {
+            "departure": {"iataCode": "ATL", "terminal": "S", "at": "2026-06-20T17:10:00"},
+            "arrival": {"iataCode": "TYS", "terminal": "1", "at": "2026-06-20T18:10:00"},
+            "carrierCode": "DL",
+            "number": "4830",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H00M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "159.20", "base": "124.00", "grandTotal": "159.20"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "159.20"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "3",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "MEM",
+    "departureDate": "2026-07-09",
+    "oneWay": true,
+    "numberOfBookableSeats": 9,
+    "itineraries": [
+      {
+        "duration": "PT3H20M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-07-09T06:00:00"},
+            "arrival": {"iataCode": "ATL", "terminal": "S", "at": "2026-07-09T07:05:00"},
+            "carrierCode": "DL",
+            "number": "4815",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {"iataCode": "ATL", "terminal": "S", "at": "2026-07-09T08:10:00"},
+            "arrival": {"iataCode": "MEM", "terminal": "B", "at": "2026-07-09T08:20:00"},
+            "carrierCode": "DL",
+            "number": "1422",
+            "aircraft": {"code": "319"},
+            "duration": "PT1H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "247.60", "base": "198.00", "grandTotal": "247.60"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "247.60"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "4",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MEM",
+    "destinationLocationCode": "TYS",
+    "departureDate": "2026-07-11",
+    "oneWay": true,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT3H35M",
+        "segments": [
+          {
+            "departure": {"iataCode": "MEM", "terminal": "B", "at": "2026-07-11T15:30:00"},
+            "arrival": {"iataCode": "ATL", "terminal": "S", "at": "2026-07-11T18:45:00"},
+            "carrierCode": "DL",
+            "number": "1488",
+            "aircraft": {"code": "319"},
+            "duration": "PT1H15M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {"iataCode": "ATL", "terminal": "S", "at": "2026-07-11T19:55:00"},
+            "arrival": {"iataCode": "TYS", "terminal": "1", "at": "2026-07-11T21:05:00"},
+            "carrierCode": "DL",
+            "number": "4842",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "263.10", "base": "210.00", "grandTotal": "263.10"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "263.10"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "5",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "CLT",
+    "departureDate": "2026-08-12",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT0H55M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-08-12T08:15:00"},
+            "arrival": {"iataCode": "CLT", "terminal": "E", "at": "2026-08-12T09:10:00"},
+            "carrierCode": "AA",
+            "number": "5102",
+            "aircraft": {"code": "CR7"},
+            "duration": "PT0H55M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "184.50", "base": "146.00", "grandTotal": "184.50"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "184.50"}}
+    ],
+    "validatingAirlineCodes": ["AA"]
+  },
+  {
+    "id": "6",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "CLT",
+    "destinationLocationCode": "TYS",
+    "departureDate": "2026-08-14",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT0H58M",
+        "segments": [
+          {
+            "departure": {"iataCode": "CLT", "terminal": "E", "at": "2026-08-14T18:40:00"},
+            "arrival": {"iataCode": "TYS", "terminal": "1", "at": "2026-08-14T19:38:00"},
+            "carrierCode": "AA",
+            "number": "5118",
+            "aircraft": {"code": "CR7"},
+            "duration": "PT0H58M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "176.30", "base": "139.00", "grandTotal": "176.30"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "176.30"}}
+    ],
+    "validatingAirlineCodes": ["AA"]
+  },
+  {
+    "id": "7",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "BNA",
+    "departureDate": "2026-06-25",
+    "oneWay": true,
+    "numberOfBookableSeats": 12,
+    "itineraries": [
+      {
+        "duration": "PT1H00M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-06-25T09:00:00"},
+            "arrival": {"iataCode": "BNA", "terminal": "M", "at": "2026-06-25T09:00:00"},
+            "carrierCode": "WN",
+            "number": "2204",
+            "aircraft": {"code": "7M8"},
+            "duration": "PT1H00M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "142.10", "base": "112.00", "grandTotal": "142.10"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "142.10"}}
+    ],
+    "validatingAirlineCodes": ["WN"]
+  },
+  {
+    "id": "8",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "BNA",
+    "destinationLocationCode": "TYS",
+    "departureDate": "2026-06-27",
+    "oneWay": true,
+    "numberOfBookableSeats": 3,
+    "itineraries": [
+      {
+        "duration": "PT1H05M",
+        "segments": [
+          {
+            "departure": {"iataCode": "BNA", "terminal": "M", "at": "2026-06-27T16:20:00"},
+            "arrival": {"iataCode": "TYS", "terminal": "1", "at": "2026-06-27T18:25:00"},
+            "carrierCode": "WN",
+            "number": "2218",
+            "aircraft": {"code": "7M8"},
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "138.90", "base": "108.00", "grandTotal": "138.90"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "138.90"}}
+    ],
+    "validatingAirlineCodes": ["WN"]
+  },
+  {
+    "id": "9",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "DTW",
+    "departureDate": "2026-09-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT1H40M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-09-15T06:45:00"},
+            "arrival": {"iataCode": "DTW", "terminal": "M", "at": "2026-09-15T08:25:00"},
+            "carrierCode": "DL",
+            "number": "3905",
+            "aircraft": {"code": "E75"},
+            "duration": "PT1H40M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "221.70", "base": "176.00", "grandTotal": "221.70"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "221.70"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "10",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "ATL",
+    "departureDate": "2026-10-08",
+    "oneWay": true,
+    "numberOfBookableSeats": 9,
+    "itineraries": [
+      {
+        "duration": "PT1H05M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-10-08T07:30:00"},
+            "arrival": {"iataCode": "ATL", "terminal": "S", "at": "2026-10-08T08:35:00"},
+            "carrierCode": "DL",
+            "number": "4821",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "192.30", "base": "152.00", "grandTotal": "192.30"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "192.30"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "11",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "ORD",
+    "departureDate": "2026-09-22",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT1H50M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-09-22T12:10:00"},
+            "arrival": {"iataCode": "ORD", "terminal": "2", "at": "2026-09-22T13:00:00"},
+            "carrierCode": "UA",
+            "number": "4501",
+            "aircraft": {"code": "E75"},
+            "duration": "PT1H50M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "238.40", "base": "190.00", "grandTotal": "238.40"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "238.40"}}
+    ],
+    "validatingAirlineCodes": ["UA"]
+  },
+  {
+    "id": "12",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "ORD",
+    "destinationLocationCode": "TYS",
+    "departureDate": "2026-09-24",
+    "oneWay": true,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT1H45M",
+        "segments": [
+          {
+            "departure": {"iataCode": "ORD", "terminal": "2", "at": "2026-09-24T17:30:00"},
+            "arrival": {"iataCode": "TYS", "terminal": "1", "at": "2026-09-24T20:15:00"},
+            "carrierCode": "UA",
+            "number": "4520",
+            "aircraft": {"code": "E75"},
+            "duration": "PT1H45M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "244.90", "base": "195.00", "grandTotal": "244.90"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "244.90"}}
+    ],
+    "validatingAirlineCodes": ["UA"]
+  },
+  {
+    "id": "13",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "DFW",
+    "departureDate": "2026-11-18",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT2H35M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-11-18T10:00:00"},
+            "arrival": {"iataCode": "DFW", "terminal": "C", "at": "2026-11-18T11:35:00"},
+            "carrierCode": "AA",
+            "number": "2740",
+            "aircraft": {"code": "319"},
+            "duration": "PT2H35M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "289.10", "base": "232.00", "grandTotal": "289.10"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "289.10"}}
+    ],
+    "validatingAirlineCodes": ["AA"]
+  },
+  {
+    "id": "14",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "CLT",
+    "departureDate": "2026-06-30",
+    "oneWay": true,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT0H55M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-06-30T15:20:00"},
+            "arrival": {"iataCode": "CLT", "terminal": "E", "at": "2026-06-30T16:15:00"},
+            "carrierCode": "AA",
+            "number": "5106",
+            "aircraft": {"code": "CR7"},
+            "duration": "PT0H55M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "171.80", "base": "135.00", "grandTotal": "171.80"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "171.80"}}
+    ],
+    "validatingAirlineCodes": ["AA"]
+  },
+  {
+    "id": "15",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "MEM",
+    "departureDate": "2026-08-20",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT3H25M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-08-20T13:00:00"},
+            "arrival": {"iataCode": "ATL", "terminal": "S", "at": "2026-08-20T14:05:00"},
+            "carrierCode": "DL",
+            "number": "4818",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {"iataCode": "ATL", "terminal": "S", "at": "2026-08-20T15:10:00"},
+            "arrival": {"iataCode": "MEM", "terminal": "B", "at": "2026-08-20T15:25:00"},
+            "carrierCode": "DL",
+            "number": "1455",
+            "aircraft": {"code": "319"},
+            "duration": "PT1H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "256.40", "base": "205.00", "grandTotal": "256.40"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "256.40"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "16",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "BNA",
+    "departureDate": "2026-10-23",
+    "oneWay": true,
+    "numberOfBookableSeats": 10,
+    "itineraries": [
+      {
+        "duration": "PT1H00M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-10-23T08:30:00"},
+            "arrival": {"iataCode": "BNA", "terminal": "M", "at": "2026-10-23T08:30:00"},
+            "carrierCode": "WN",
+            "number": "2240",
+            "aircraft": {"code": "7M8"},
+            "duration": "PT1H00M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "146.20", "base": "115.00", "grandTotal": "146.20"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "146.20"}}
+    ],
+    "validatingAirlineCodes": ["WN"]
+  },
+  {
+    "id": "17",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "ATL",
+    "departureDate": "2026-07-22",
+    "oneWay": true,
+    "numberOfBookableSeats": 11,
+    "itineraries": [
+      {
+        "duration": "PT1H05M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-07-22T18:00:00"},
+            "arrival": {"iataCode": "ATL", "terminal": "S", "at": "2026-07-22T19:05:00"},
+            "carrierCode": "DL",
+            "number": "4825",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "163.50", "base": "128.00", "grandTotal": "163.50"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "163.50"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "18",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "ATL",
+    "destinationLocationCode": "TYS",
+    "departureDate": "2026-10-11",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT1H00M",
+        "segments": [
+          {
+            "departure": {"iataCode": "ATL", "terminal": "S", "at": "2026-10-11T16:30:00"},
+            "arrival": {"iataCode": "TYS", "terminal": "1", "at": "2026-10-11T17:30:00"},
+            "carrierCode": "DL",
+            "number": "4838",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H00M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "187.60", "base": "148.00", "grandTotal": "187.60"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "187.60"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "19",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "CVG",
+    "departureDate": "2026-09-09",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT1H10M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-09-09T07:00:00"},
+            "arrival": {"iataCode": "CVG", "terminal": "B", "at": "2026-09-09T08:10:00"},
+            "carrierCode": "DL",
+            "number": "3920",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "198.80", "base": "158.00", "grandTotal": "198.80"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "198.80"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  },
+  {
+    "id": "20",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "CLT",
+    "departureDate": "2026-11-05",
+    "oneWay": true,
+    "numberOfBookableSeats": 9,
+    "itineraries": [
+      {
+        "duration": "PT0H55M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-11-05T09:45:00"},
+            "arrival": {"iataCode": "CLT", "terminal": "E", "at": "2026-11-05T10:40:00"},
+            "carrierCode": "AA",
+            "number": "5110",
+            "aircraft": {"code": "CR7"},
+            "duration": "PT0H55M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "179.40", "base": "142.00", "grandTotal": "179.40"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "179.40"}}
+    ],
+    "validatingAirlineCodes": ["AA"]
+  },
+  {
+    "id": "21",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "BNA",
+    "departureDate": "2026-08-28",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT1H00M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-08-28T17:00:00"},
+            "arrival": {"iataCode": "BNA", "terminal": "M", "at": "2026-08-28T17:00:00"},
+            "carrierCode": "WN",
+            "number": "2230",
+            "aircraft": {"code": "7M8"},
+            "duration": "PT1H00M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "149.30", "base": "118.00", "grandTotal": "149.30"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "149.30"}}
+    ],
+    "validatingAirlineCodes": ["WN"]
+  },
+  {
+    "id": "22",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "TYS",
+    "destinationLocationCode": "MEM",
+    "departureDate": "2026-12-03",
+    "oneWay": true,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "departure": {"iataCode": "TYS", "terminal": "1", "at": "2026-12-03T06:30:00"},
+            "arrival": {"iataCode": "ATL", "terminal": "S", "at": "2026-12-03T07:35:00"},
+            "carrierCode": "DL",
+            "number": "4812",
+            "aircraft": {"code": "CR9"},
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {"iataCode": "ATL", "terminal": "S", "at": "2026-12-03T08:45:00"},
+            "arrival": {"iataCode": "MEM", "terminal": "B", "at": "2026-12-03T09:00:00"},
+            "carrierCode": "DL",
+            "number": "1410",
+            "aircraft": {"code": "319"},
+            "duration": "PT1H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {"currency": "USD", "total": "271.20", "base": "218.00", "grandTotal": "271.20"},
+    "travelerPricings": [
+      {"travelerId": "1", "fareOption": "STANDARD", "travelerType": "ADULT", "price": {"currency": "USD", "total": "271.20"}}
+    ],
+    "validatingAirlineCodes": ["DL"]
+  }
+]

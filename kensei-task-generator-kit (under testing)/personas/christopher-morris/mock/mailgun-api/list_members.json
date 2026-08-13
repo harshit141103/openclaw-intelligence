@@ -1,0 +1,144 @@
+﻿[
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "alice@voissync.ai",
+    "name": "Alice Adams",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "bob@voissync.ai",
+    "name": "Bob Brown",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "ILrol@voissync.ai",
+    "name": "ILrol Clark",
+    "subscribed": "false",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "dave@voissync.ai",
+    "name": "Dave Davis",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"enterprise\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "erin@voissync.ai",
+    "name": "Erin Evans",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "frank@voissync.ai",
+    "name": "Frank Foster",
+    "subscribed": "true",
+    "vars": "{\"team\":\"frontend\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "grace@voissync.ai",
+    "name": "Grace Green",
+    "subscribed": "false",
+    "vars": "{\"team\":\"qa\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "henry@voissync.ai",
+    "name": "Henry Harris",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "iris@voissync.ai",
+    "name": "Iris Ingram",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"enterprise\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "jack@voissync.ai",
+    "name": "Jack Johnson",
+    "subscribed": "true",
+    "vars": "{\"team\":\"devops\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "kate@voissync.ai",
+    "name": "Kate Kelly",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "liam@voissync.ai",
+    "name": "Liam Lee",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "mia@voissync.ai",
+    "name": "Mia Martinez",
+    "subscribed": "false",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "noah@voissync.ai",
+    "name": "Noah Nelson",
+    "subscribed": "true",
+    "vars": "{\"team\":\"qa\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "olivia@voissync.ai",
+    "name": "Olivia Owen",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"enterprise\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "paul@voissync.ai",
+    "name": "Paul Parker",
+    "subscribed": "true",
+    "vars": "{\"team\":\"frontend\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "quinn@voissync.ai",
+    "name": "Quinn Quinn",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "rachel@voissync.ai",
+    "name": "Rachel Robinson",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "sam@voissync.ai",
+    "name": "Sam Smith",
+    "subscribed": "false",
+    "vars": "{\"plan\":\"free\"}"
+  },
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "tina@voissync.ai",
+    "name": "Tina Taylor",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  }
+]
+
+

@@ -1,0 +1,122 @@
+[
+  {
+    "section_id": "section_2001",
+    "board_id": "board_1002",
+    "name": "Dry Rubs",
+    "pin_count": "7"
+  },
+  {
+    "section_id": "section_2002",
+    "board_id": "board_1002",
+    "name": "Mop Sauces",
+    "pin_count": "6"
+  },
+  {
+    "section_id": "section_2003",
+    "board_id": "board_1002",
+    "name": "Wood & Smoke",
+    "pin_count": "5"
+  },
+  {
+    "section_id": "section_2004",
+    "board_id": "board_1003",
+    "name": "Bass & Crappie",
+    "pin_count": "8"
+  },
+  {
+    "section_id": "section_2005",
+    "board_id": "board_1003",
+    "name": "Fly Fishing the Smokies",
+    "pin_count": "5"
+  },
+  {
+    "section_id": "section_2006",
+    "board_id": "board_1004",
+    "name": "Raised Beds",
+    "pin_count": "4"
+  },
+  {
+    "section_id": "section_2007",
+    "board_id": "board_1004",
+    "name": "Tomatoes & Peppers",
+    "pin_count": "3"
+  },
+  {
+    "section_id": "section_2008",
+    "board_id": "board_1005",
+    "name": "Weeknight Meals",
+    "pin_count": "5"
+  },
+  {
+    "section_id": "section_2009",
+    "board_id": "board_1005",
+    "name": "Sunday Dinners",
+    "pin_count": "4"
+  },
+  {
+    "section_id": "section_2010",
+    "board_id": "board_1006",
+    "name": "Cumberland Gap Maps",
+    "pin_count": "5"
+  },
+  {
+    "section_id": "section_2011",
+    "board_id": "board_1006",
+    "name": "Old Depot Photos",
+    "pin_count": "3"
+  },
+  {
+    "section_id": "section_2012",
+    "board_id": "board_1010",
+    "name": "Trim & Wrap",
+    "pin_count": "6"
+  },
+  {
+    "section_id": "section_2013",
+    "board_id": "board_1010",
+    "name": "Bark & Slicing",
+    "pin_count": "5"
+  },
+  {
+    "section_id": "section_2014",
+    "board_id": "board_1011",
+    "name": "Boston Butt Prep",
+    "pin_count": "5"
+  },
+  {
+    "section_id": "section_2015",
+    "board_id": "board_1011",
+    "name": "Sandwich Plating",
+    "pin_count": "4"
+  },
+  {
+    "section_id": "section_2016",
+    "board_id": "board_1013",
+    "name": "Baked Beans & Mac",
+    "pin_count": "5"
+  },
+  {
+    "section_id": "section_2017",
+    "board_id": "board_1012",
+    "name": "Fly Patterns",
+    "pin_count": "4"
+  },
+  {
+    "section_id": "section_2018",
+    "board_id": "board_1015",
+    "name": "TVA History",
+    "pin_count": "4"
+  },
+  {
+    "section_id": "section_2019",
+    "board_id": "board_1007",
+    "name": "Checkerboard Tailgates",
+    "pin_count": "3"
+  },
+  {
+    "section_id": "section_2020",
+    "board_id": "board_1017",
+    "name": "Canning Salsa",
+    "pin_count": "3"
+  }
+]

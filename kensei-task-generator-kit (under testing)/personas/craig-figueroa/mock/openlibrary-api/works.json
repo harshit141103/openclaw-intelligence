@@ -1,0 +1,74 @@
+[
+  {
+    "work_id": "OL1W",
+    "title": "All Creatures Great and Small",
+    "author_id": "OL1A",
+    "first_publish_year": "1972",
+    "subjects": "veterinary,memoir,yorkshire",
+    "description": "A country vet's memoir of practice in the Yorkshire Dales.",
+    "edition_count": "18"
+  },
+  {
+    "work_id": "OL2W",
+    "title": "If Only They Could Talk",
+    "author_id": "OL1A",
+    "first_publish_year": "1970",
+    "subjects": "veterinary,memoir",
+    "description": "The first of the Herriot veterinary memoirs.",
+    "edition_count": "9"
+  },
+  {
+    "work_id": "OL3W",
+    "title": "One Hundred Years of Solitude",
+    "author_id": "OL2A",
+    "first_publish_year": "1967",
+    "subjects": "magical realism,family saga",
+    "description": "The Buendia family across generations in Macondo.",
+    "edition_count": "40"
+  },
+  {
+    "work_id": "OL4W",
+    "title": "The House of the Spirits",
+    "author_id": "OL3A",
+    "first_publish_year": "1982",
+    "subjects": "magical realism,history",
+    "description": "A family chronicle through political upheaval.",
+    "edition_count": "22"
+  },
+  {
+    "work_id": "OL5W",
+    "title": "The Old Ways",
+    "author_id": "OL4A",
+    "first_publish_year": "2012",
+    "subjects": "nature writing,walking",
+    "description": "A journey along ancient paths on foot.",
+    "edition_count": "6"
+  },
+  {
+    "work_id": "OL6W",
+    "title": "The Living Mountain",
+    "author_id": "OL5A",
+    "first_publish_year": "1977",
+    "subjects": "nature writing,scotland",
+    "description": "A prose meditation on the Cairngorms.",
+    "edition_count": "5"
+  },
+  {
+    "work_id": "OL7W",
+    "title": "My First Summer in the Sierra",
+    "author_id": "OL6A",
+    "first_publish_year": "1911",
+    "subjects": "nature writing,wilderness",
+    "description": "Muir's season in the Sierra Nevada.",
+    "edition_count": "12"
+  },
+  {
+    "work_id": "OL8W",
+    "title": "The Wild Places",
+    "author_id": "OL4A",
+    "first_publish_year": "2007",
+    "subjects": "nature writing,landscape",
+    "description": "A search for wildness across Britain and Ireland.",
+    "edition_count": "7"
+  }
+]

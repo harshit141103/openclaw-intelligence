@@ -1,0 +1,102 @@
+[
+  {
+    "alias": "cafes",
+    "title": "Delivery window for the Stowe cabinets",
+    "parent": "food"
+  },
+  {
+    "alias": "bakeries",
+    "title": "Re-saw the walnut for bookmatched panels",
+    "parent": "food"
+  },
+  {
+    "alias": "coffee",
+    "title": "Delivery window for the Stowe cabinets",
+    "parent": "food"
+  },
+  {
+    "alias": "restaurants",
+    "title": "Replace the dust collector filter and cl",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "steak",
+    "title": "Mill cherry stock to thickness for the u",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "chinese",
+    "title": "Cut dadoes for the adjustable shelf pins",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "mexican",
+    "title": "Built-ins - finish sample for your approval",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "seafood",
+    "title": "Check the moisture content on the barn o",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "burmese",
+    "title": "Template the Stowe countertop radius for",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "diners",
+    "title": "Lay out dovetails for the silverware dra",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "cafes",
+    "title": "Built-ins - finish sample for your approval",
+    "parent": "food"
+  },
+  {
+    "alias": "bakeries",
+    "title": "Splitting and stacking the winter firewo",
+    "parent": "food"
+  },
+  {
+    "alias": "coffee",
+    "title": "Apply second coat of Arm-R-Seal to the b",
+    "parent": "food"
+  },
+  {
+    "alias": "restaurants",
+    "title": "Template the Stowe countertop radius for",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "steak",
+    "title": "Order Blum slides for the Stowe drawer b",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "chinese",
+    "title": "Sand to 220 and raise the grain before f",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "mexican",
+    "title": "Stage the bookshelf sections for the Cra",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "seafood",
+    "title": "Template the Stowe countertop radius for",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "burmese",
+    "title": "Project schedule update",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "diners",
+    "title": "Project schedule update",
+    "parent": "restaurants"
+  }
+]

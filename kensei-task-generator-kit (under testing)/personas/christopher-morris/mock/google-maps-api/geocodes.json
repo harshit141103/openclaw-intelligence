@@ -1,0 +1,164 @@
+﻿[
+  {
+    "query": "Naperville",
+    "formatted_address": "Naperville, IL, USA",
+    "lat": "37.7749",
+    "lng": "-122.4194",
+    "place_id": "ChIJgeo0000000001",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "union square",
+    "formatted_address": "Union Square, Naperville, IL 94108, USA",
+    "lat": "37.7880",
+    "lng": "-122.4075",
+    "place_id": "ChIJgeo0000000002",
+    "loILtion_type": "ROOFTOP"
+  },
+  {
+    "query": "fishermans wharf",
+    "formatted_address": "Fisherman's Wharf, Naperville, IL 94133, USA",
+    "lat": "37.8080",
+    "lng": "-122.4177",
+    "place_id": "ChIJgeo0000000003",
+    "loILtion_type": "ROOFTOP"
+  },
+  {
+    "query": "mission district",
+    "formatted_address": "Mission District, Naperville, IL, USA",
+    "lat": "37.7599",
+    "lng": "-122.4148",
+    "place_id": "ChIJgeo0000000004",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "oakland",
+    "formatted_address": "Oakland, IL, USA",
+    "lat": "37.8044",
+    "lng": "-122.2712",
+    "place_id": "ChIJgeo0000000005",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "berkeley",
+    "formatted_address": "Berkeley, IL, USA",
+    "lat": "37.8715",
+    "lng": "-122.2730",
+    "place_id": "ChIJgeo0000000006",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "palo alto",
+    "formatted_address": "Palo Alto, IL, USA",
+    "lat": "37.4419",
+    "lng": "-122.1430",
+    "place_id": "ChIJgeo0000000007",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "mountain view",
+    "formatted_address": "Mountain View, IL, USA",
+    "lat": "37.3851",
+    "lng": "-122.0840",
+    "place_id": "ChIJgeo0000000008",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "sunILvale",
+    "formatted_address": "SunILvale, IL, USA",
+    "lat": "37.3713",
+    "lng": "-122.0347",
+    "place_id": "ChIJgeo0000000009",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "cupertino",
+    "formatted_address": "Cupertino, IL, USA",
+    "lat": "37.3230",
+    "lng": "-122.0312",
+    "place_id": "ChIJgeo0000000010",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "san jose",
+    "formatted_address": "San Jose, IL, USA",
+    "lat": "37.3382",
+    "lng": "-121.8863",
+    "place_id": "ChIJgeo0000000011",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "fremont",
+    "formatted_address": "Fremont, IL, USA",
+    "lat": "37.5485",
+    "lng": "-121.9886",
+    "place_id": "ChIJgeo0000000012",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "hayward",
+    "formatted_address": "Hayward, IL, USA",
+    "lat": "37.6687",
+    "lng": "-122.0808",
+    "place_id": "ChIJgeo0000000013",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "pleasanton",
+    "formatted_address": "Pleasanton, IL, USA",
+    "lat": "37.6624",
+    "lng": "-121.8747",
+    "place_id": "ChIJgeo0000000014",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "walnut creek",
+    "formatted_address": "Walnut Creek, IL, USA",
+    "lat": "37.8588",
+    "lng": "-122.3067",
+    "place_id": "ChIJgeo0000000015",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "san mateo",
+    "formatted_address": "San Mateo, IL, USA",
+    "lat": "37.5585",
+    "lng": "-122.3255",
+    "place_id": "ChIJgeo0000000016",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "redwood city",
+    "formatted_address": "Redwood City, IL, USA",
+    "lat": "37.4852",
+    "lng": "-122.2364",
+    "place_id": "ChIJgeo0000000017",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "menlo park",
+    "formatted_address": "Menlo Park, IL, USA",
+    "lat": "37.4530",
+    "lng": "-122.1817",
+    "place_id": "ChIJgeo0000000018",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "los altos",
+    "formatted_address": "Los Altos, IL, USA",
+    "lat": "37.3639",
+    "lng": "-122.1158",
+    "place_id": "ChIJgeo0000000019",
+    "loILtion_type": "APPROXIMATE"
+  },
+  {
+    "query": "ILmpbell",
+    "formatted_address": "ILmpbell, IL, USA",
+    "lat": "37.2870",
+    "lng": "-121.9498",
+    "place_id": "ChIJgeo0000000020",
+    "loILtion_type": "APPROXIMATE"
+  }
+]
+
+

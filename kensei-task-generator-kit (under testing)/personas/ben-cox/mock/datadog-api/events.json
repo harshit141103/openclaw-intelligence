@@ -1,0 +1,202 @@
+[
+  {
+    "id": "500001",
+    "title": "Check the moisture content on the barn o",
+    "text": "Plane the bookshelf shelves and ease the front edges",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": "1745560800"
+  },
+  {
+    "id": "500002",
+    "title": "Stowe kitchen - cabinet hardware lead time",
+    "text": "Re: Bookshelf dimensions",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": "1746059400"
+  },
+  {
+    "id": "500003",
+    "title": "Sand to 220 and raise the grain before f",
+    "text": "Pete coming by Saturday for coffee; shop's a mess.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "web-01",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": "1752048900"
+  },
+  {
+    "id": "500004",
+    "title": "Boucher mudroom built-ins",
+    "text": "Project schedule update",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "web-02",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": "1747635300"
+  },
+  {
+    "id": "500902",
+    "title": "Sand to 220 and raise the grain before f",
+    "text": "Cut dadoes for the adjustable shelf pins",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": "1749204000"
+  },
+  {
+    "id": "500904",
+    "title": "Stowe kitchen - cabinet hardware lead time",
+    "text": "Dry-fit the face frames before glue-up",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": "1725084900"
+  },
+  {
+    "id": "500906",
+    "title": "Order Blum slides for the Stowe drawer b",
+    "text": "Sharpened the chisels; the 1in was overdue.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "web-01",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": "1776400200"
+  },
+  {
+    "id": "500908",
+    "title": "Order Blum slides for the Stowe drawer b",
+    "text": "Stowe kitchen - cabinet hardware lead time",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "web-02",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": "1753072200"
+  },
+  {
+    "id": "500906-8",
+    "title": "Stage the bookshelf sections for the Cra",
+    "text": "Stowe kitchen - cabinet hardware lead time",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": "1728124200"
+  },
+  {
+    "id": "500908-9",
+    "title": "Sloan cherry dining table",
+    "text": "Hang the soft-close doors and adjust the hinges",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": "1748351700"
+  },
+  {
+    "id": "500910",
+    "title": "Whitcomb built-in bookshelves",
+    "text": "Material order - Hardwick Lumber",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "web-01",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": "1774319400"
+  },
+  {
+    "id": "500912",
+    "title": "Template the Stowe countertop radius for",
+    "text": "Template the Stowe countertop radius for the corner cabinet",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "web-02",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": "1789466400"
+  },
+  {
+    "id": "500910-12",
+    "title": "Stowe kitchen - cabinet hardware lead time",
+    "text": "Mock up the crown profile for the Henderson uppers",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": "1737459900"
+  },
+  {
+    "id": "500912-13",
+    "title": "Stage the bookshelf sections for the Cra",
+    "text": "Mill cherry stock to thickness for the upper cabinet doors",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": "1771652700"
+  },
+  {
+    "id": "500914",
+    "title": "Sloan cherry dining table",
+    "text": "Lay out dovetails for the silverware drawer",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "web-01",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": "1791084600"
+  },
+  {
+    "id": "500916",
+    "title": "Bookshelf install Friday the 16th",
+    "text": "Material order - Hardwick Lumber",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "web-02",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": "1709256600"
+  },
+  {
+    "id": "500914-16",
+    "title": "Project schedule update",
+    "text": "Build the drawer boxes with half-blind dovetails",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": "1785132000"
+  },
+  {
+    "id": "500916-17",
+    "title": "Template the Stowe countertop radius for",
+    "text": "Plane the bookshelf shelves and ease the front edges",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": "1769420700"
+  },
+  {
+    "id": "500918",
+    "title": "Cota window seat & bookcase",
+    "text": "Build the drawer boxes with half-blind dovetails",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "web-01",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": "1782810900"
+  },
+  {
+    "id": "500920",
+    "title": "Re: Stowe install date",
+    "text": "Barn oak is summer 2027 - not pulling material yet.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "web-02",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": "1689167700"
+  }
+]

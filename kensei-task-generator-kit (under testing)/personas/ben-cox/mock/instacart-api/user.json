@@ -1,0 +1,15 @@
+{
+  "user_id": "user-emily",
+  "name": "Tom Gagne",
+  "email": "tom.gagne.vt@gmail.com",
+  "default_zip": "05841",
+  "membership": "instacart_plus",
+  "default_address": {
+    "line1": "1842 Wylie Hill Road",
+    "line2": "Apt 3",
+    "city": "Wolcott",
+    "state": "VT",
+    "zip": "05661"
+  },
+  "default_payment_method_id": "pm-visa-1234"
+}

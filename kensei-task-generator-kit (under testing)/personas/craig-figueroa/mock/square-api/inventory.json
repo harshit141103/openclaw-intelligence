@@ -1,0 +1,44 @@
+[
+  {
+    "catalog_object_id": "VAR_CONSULT",
+    "location_id": "LOC_STRATHCARRON",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_TBTEST",
+    "location_id": "LOC_STRATHCARRON",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_SCAN",
+    "location_id": "LOC_STRATHCARRON",
+    "quantity": "48",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_CALLOUT",
+    "location_id": "LOC_STRATHCARRON",
+    "quantity": "60",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_LAMB",
+    "location_id": "LOC_STRATHCARRON",
+    "quantity": "35",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_VACC",
+    "location_id": "LOC_STRATHCARRON",
+    "quantity": "82",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_DRUG",
+    "location_id": "LOC_STRATHCARRON",
+    "quantity": "12",
+    "state": "IN_STOCK"
+  }
+]

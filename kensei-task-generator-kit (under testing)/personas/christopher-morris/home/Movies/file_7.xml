@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar owner="Christopher Morris" account="christopher.morris@voissync.ai" exported="2026-12-14">
+  <event>
+    <title>Morning walk with Meg</title>
+    <start>2026-12-14T06:15:00</start>
+    <end>2026-12-14T06:45:00</end>
+    <recurrence>Weekly on Mon, Wed, Fri</recurrence>
+    <location>Ashbury Ridge neighborhood</location>
+  </event>
+  <event>
+    <title>Sophie swim practice</title>
+    <start>2026-12-14T17:00:00</start>
+    <end>2026-12-14T18:30:00</end>
+    <location>Naperville Community Pool</location>
+    <notes>Christopher drop-off</notes>
+  </event>
+  <event>
+    <title>Owen JV basketball vs Metea Valley</title>
+    <start>2026-12-18T18:00:00</start>
+    <end>2026-12-18T19:30:00</end>
+    <location>Ashbury Ridge High School</location>
+  </event>
+  <event>
+    <title>Orthopedist follow-up, right knee, Dr. Robert Chen</title>
+    <start>2026-12-22T15:00:00</start>
+    <end>2026-12-22T15:30:00</end>
+    <location>Midwest Orthopedic Associates</location>
+    <notes>Working remote that afternoon</notes>
+  </event>
+  <event>
+    <title>Janet here for Christmas</title>
+    <start>2026-12-24T12:00:00</start>
+    <end>2026-12-26T12:00:00</end>
+    <location>Home</location>
+    <notes>Greg helps with one leg of the drive</notes>
+  </event>
+  <event>
+    <title>Grace Lutheran Christmas Eve service</title>
+    <start>2026-12-24T17:00:00</start>
+    <end>2026-12-24T18:00:00</end>
+    <location>Grace Lutheran Church</location>
+  </event>
+  <event>
+    <title>Lake Geneva family trip</title>
+    <start>2026-12-28T10:00:00</start>
+    <end>2027-01-01T11:00:00</end>
+    <location>Lake Geneva, WI</location>
+    <notes>Cabin to be booked by December 18</notes>
+  </event>
+  <event>
+    <title>Monthly budget review</title>
+    <start>2027-01-01T20:00:00</start>
+    <end>2027-01-01T20:45:00</end>
+    <recurrence>Monthly on the 1st</recurrence>
+  </event>
+</calendar>

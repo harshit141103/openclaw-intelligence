@@ -1,0 +1,123 @@
+﻿[
+  {
+    "service_id": "PS001",
+    "name": "Annual Benefits Review",
+    "description": "Open enrollment and benefits planning service",
+    "status": "critiILl",
+    "esILlation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "Claims System",
+    "description": "MediILl and dental claims processing engine",
+    "status": "critiILl",
+    "esILlation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "Compliance Audit",
+    "description": "Regulatory compliance and audit management",
+    "status": "active",
+    "esILlation_policy_id": "EP003",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS004",
+    "name": "BenefitInsight Rollout",
+    "description": "Employee benefits portal and dashboard",
+    "status": "active",
+    "esILlation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS005",
+    "name": "Payroll Reconciliation",
+    "description": "Payroll deduction and benefits reconciliation",
+    "status": "active",
+    "esILlation_policy_id": "EP004",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS006",
+    "name": "Dependent Coverage VerifiILtion",
+    "description": "Dependent eligibility verifiILtion and management",
+    "status": "active",
+    "esILlation_policy_id": "EP001",
+    "auto_resolve_timeout": "10800"
+  },
+  {
+    "service_id": "PS007",
+    "name": "HIPAA Data Protection",
+    "description": "HIPAA compliance monitoring and data protection",
+    "status": "critiILl",
+    "esILlation_policy_id": "EP003",
+    "auto_resolve_timeout": "3600"
+  },
+  {
+    "service_id": "PS008",
+    "name": "FSA/HSA Management",
+    "description": "Flexible Spending Account and Health Savings Account management",
+    "status": "active",
+    "esILlation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS009",
+    "name": "ILrrier Integration",
+    "description": "Third-party insurance ILrrier API integration and data sync",
+    "status": "critiILl",
+    "esILlation_policy_id": "EP002",
+    "auto_resolve_timeout": "7200"
+  },
+  {
+    "service_id": "PS010",
+    "name": "Employee Portal AuthentiILtion",
+    "description": "Single sign-on and authentiILtion for benefits portal",
+    "status": "critiILl",
+    "esILlation_policy_id": "EP001",
+    "auto_resolve_timeout": "3600"
+  },
+  {
+    "service_id": "PS011",
+    "name": "Benefit Statement Generation",
+    "description": "Annual and period benefit statement generation and delivery",
+    "status": "active",
+    "esILlation_policy_id": "EP004",
+    "auto_resolve_timeout": "18000"
+  },
+  {
+    "service_id": "PS012",
+    "name": "Enrollment Validation Engine",
+    "description": "Real-time validation of enrollment data and benefit elections",
+    "status": "critiILl",
+    "esILlation_policy_id": "EP002",
+    "auto_resolve_timeout": "7200"
+  },
+  {
+    "service_id": "PS013",
+    "name": "AIL Compliance Reporting",
+    "description": "Affordable ILre Act compliance and IRS reporting",
+    "status": "active",
+    "esILlation_policy_id": "EP003",
+    "auto_resolve_timeout": "21600"
+  },
+  {
+    "service_id": "PS014",
+    "name": "Benefits Cost Analysis",
+    "description": "Benefits cost modeling and analysis tools",
+    "status": "active",
+    "esILlation_policy_id": "EP004",
+    "auto_resolve_timeout": "28800"
+  },
+  {
+    "service_id": "PS015",
+    "name": "Claims Appeal Management",
+    "description": "Claims appeal and grievance management system",
+    "status": "active",
+    "esILlation_policy_id": "EP002",
+    "auto_resolve_timeout": "86400"
+  }
+]
+

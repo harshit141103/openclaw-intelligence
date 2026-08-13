@@ -1,0 +1,202 @@
+[
+  {
+    "gid": "1203000000002001",
+    "name": "Bookshelf install Friday the 16th",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Lay out dovetails for the silverware drawer",
+    "created_at": "2026-03-30T14:15:00Z"
+  },
+  {
+    "gid": "1203000000002002",
+    "name": "Hang the soft-close doors and adjust the",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Mock up the crown profile for the Henderson uppers",
+    "created_at": "2026-09-09T16:30:00Z"
+  },
+  {
+    "gid": "1203000000002003",
+    "name": "Lay out dovetails for the silverware dra",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "created_at": "2025-11-28T08:15:00Z"
+  },
+  {
+    "gid": "1203000000002902",
+    "name": "Cota window seat & bookcase",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Mill cherry stock to thickness for the upper cabinet doors",
+    "created_at": "2024-04-30T11:45:00Z"
+  },
+  {
+    "gid": "1203000000002904",
+    "name": "Built-ins - finish sample for your approval",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "created_at": "2023-12-07T08:45:00Z"
+  },
+  {
+    "gid": "1203000000002906",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "created_at": "2025-08-18T13:30:00Z"
+  },
+  {
+    "gid": "1203000000002905",
+    "name": "Final fit of the Henderson island base c",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Pete coming by Saturday for coffee; shop's a mess.",
+    "created_at": "2025-07-06T15:30:00Z"
+  },
+  {
+    "gid": "1203000000002907",
+    "name": "Cota window seat & bookcase",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Hang the soft-close doors and adjust the hinges",
+    "created_at": "2026-04-22T18:00:00Z"
+  },
+  {
+    "gid": "1203000000002909",
+    "name": "Stage the bookshelf sections for the Cra",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Material order - Hardwick Lumber",
+    "created_at": "2026-09-19T18:00:00Z"
+  },
+  {
+    "gid": "1203000000002908",
+    "name": "Boucher mudroom built-ins",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Pete coming by Saturday for coffee; shop's a mess.",
+    "created_at": "2025-10-23T12:30:00Z"
+  },
+  {
+    "gid": "1203000000002910",
+    "name": "Re: Bookshelf dimensions",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Replace the dust collector filter and clean the cyclone",
+    "created_at": "2025-07-13T17:15:00Z"
+  },
+  {
+    "gid": "1203000000002912",
+    "name": "Plane the bookshelf shelves and ease the",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Project schedule update",
+    "created_at": "2024-12-25T08:30:00Z"
+  },
+  {
+    "gid": "1203000000002911",
+    "name": "Sloan cherry dining table",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Sharpened the chisels; the 1in was overdue.",
+    "created_at": "2025-03-05T12:15:00Z"
+  },
+  {
+    "gid": "1203000000002913",
+    "name": "Lafleur barn door (favor)",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Stowe kitchen - cabinet hardware lead time",
+    "created_at": "2025-03-24T16:15:00Z"
+  },
+  {
+    "gid": "1203000000002915",
+    "name": "Sand to 220 and raise the grain before f",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "created_at": "2024-03-01T14:30:00Z"
+  },
+  {
+    "gid": "1203000000002914",
+    "name": "Church pew repair",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Pete coming by Saturday for coffee; shop's a mess.",
+    "created_at": "2025-04-28T07:00:00Z"
+  },
+  {
+    "gid": "1203000000002916",
+    "name": "Boucher mudroom built-ins",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Dry-fit the face frames before glue-up",
+    "created_at": "2025-10-12T12:00:00Z"
+  },
+  {
+    "gid": "1203000000002918",
+    "name": "Delivery window for the Stowe cabinets",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001003",
+    "color": "light-orange",
+    "archived": "false",
+    "notes": "Sharpened the chisels; the 1in was overdue.",
+    "created_at": "2025-05-15T07:30:00Z"
+  },
+  {
+    "gid": "1203000000002917",
+    "name": "Re: Stowe install date",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001001",
+    "color": "dark-blue",
+    "archived": "false",
+    "notes": "Estimate for the Greensboro barn (2027)",
+    "created_at": "2026-01-15T14:15:00Z"
+  },
+  {
+    "gid": "1203000000002919",
+    "name": "Hang the soft-close doors and adjust the",
+    "workspace_gid": "1201990000000001",
+    "owner_gid": "1202000000001002",
+    "color": "dark-green",
+    "archived": "false",
+    "notes": "Bookshelf install Friday the 16th",
+    "created_at": "2025-12-18T16:30:00Z"
+  }
+]

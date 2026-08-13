@@ -1,0 +1,222 @@
+[
+  {
+    "item_id": "item-sak-001",
+    "store_id": "store-sakura",
+    "name": "Diane Cox",
+    "description": "Dry-fit the face frames before glue-up",
+    "category": "Ramen",
+    "price": "18.99",
+    "calories": "720",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-sak-002",
+    "store_id": "store-sakura",
+    "name": "Keith Cox",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "category": "Ramen",
+    "price": "24.00",
+    "calories": "810",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-sak-003",
+    "store_id": "store-sakura",
+    "name": "Marie Cox-Gagne",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "category": "Appetizers",
+    "price": "28.99",
+    "calories": "420",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-sak-004",
+    "store_id": "store-sakura",
+    "name": "Tom Gagne",
+    "description": "Check the moisture content on the barn oak before joinery",
+    "category": "Appetizers",
+    "price": "34.50",
+    "calories": "180",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-bel-001",
+    "store_id": "store-bellaroma",
+    "name": "Pete Lafleur",
+    "description": "Cherry pricing for the Henderson uppers",
+    "category": "Pizza",
+    "price": "41.00",
+    "calories": "980",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-bel-002",
+    "store_id": "store-bellaroma",
+    "name": "Dr. James Whitfield",
+    "description": "Material order - Hardwick Lumber",
+    "category": "Pasta",
+    "price": "47.95",
+    "calories": "1120",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-bel-003",
+    "store_id": "store-bellaroma",
+    "name": "Dr. Paul LeBlanc",
+    "description": "Re: Stowe install date",
+    "category": "Dessert",
+    "price": "62.00",
+    "calories": "560",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-tac-001",
+    "store_id": "store-tacolibre",
+    "name": "Scott Henderson",
+    "description": "Delivery window for the Stowe cabinets",
+    "category": "Tacos",
+    "price": "88.00",
+    "calories": "260",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-tac-002",
+    "store_id": "store-tacolibre",
+    "name": "Linda Henderson",
+    "description": "Sand to 220 and raise the grain before finish",
+    "category": "Burritos",
+    "price": "110.00",
+    "calories": "840",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-tac-003",
+    "store_id": "store-tacolibre",
+    "name": "Alan Whitcomb",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "category": "Sides",
+    "price": "6.80",
+    "calories": "520",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-grn-001",
+    "store_id": "store-greenfork",
+    "name": "Paul Dufresne",
+    "description": "Plane the bookshelf shelves and ease the front edges",
+    "category": "Salads",
+    "price": "9.25",
+    "calories": "430",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-grn-002",
+    "store_id": "store-greenfork",
+    "name": "Marc Belanger",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "category": "Bowls",
+    "price": "12.50",
+    "calories": "610",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-drg-001",
+    "store_id": "store-dragongate",
+    "name": "Gary Stoddard",
+    "description": "Bookshelf install Friday the 16th",
+    "category": "Dim Sum",
+    "price": "18.99",
+    "calories": "240",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-drg-002",
+    "store_id": "store-dragongate",
+    "name": "Hardwick Lumber",
+    "description": "Re: Bookshelf dimensions",
+    "category": "Dim Sum",
+    "price": "24.00",
+    "calories": "510",
+    "popular": "true",
+    "available": "false"
+  },
+  {
+    "item_id": "item-sak-902",
+    "store_id": "store-sakura",
+    "name": "Green Mountain Hardwoods",
+    "description": "Re: Stowe install date",
+    "category": "Ramen",
+    "price": "28.99",
+    "calories": "720",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-sak-904",
+    "store_id": "store-sakura",
+    "name": "Ray Tetreault",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "category": "Ramen",
+    "price": "34.50",
+    "calories": "810",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-sak-906",
+    "store_id": "store-sakura",
+    "name": "Nancy Beaulieu",
+    "description": "Bookshelf install Friday the 16th",
+    "category": "Appetizers",
+    "price": "41.00",
+    "calories": "420",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-sak-908",
+    "store_id": "store-sakura",
+    "name": "Rev. Susan Mills",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "category": "Appetizers",
+    "price": "47.95",
+    "calories": "180",
+    "popular": "false",
+    "available": "true"
+  },
+  {
+    "item_id": "item-bel-906",
+    "store_id": "store-bellaroma",
+    "name": "Walt Perreault",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "category": "Pizza",
+    "price": "62.00",
+    "calories": "980",
+    "popular": "true",
+    "available": "true"
+  },
+  {
+    "item_id": "item-bel-908",
+    "store_id": "store-bellaroma",
+    "name": "Donna Sloan",
+    "description": "Project schedule update",
+    "category": "Pasta",
+    "price": "88.00",
+    "calories": "1120",
+    "popular": "true",
+    "available": "true"
+  }
+]

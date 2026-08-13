@@ -1,0 +1,178 @@
+[
+  {
+    "symbol": "AAPL",
+    "bid_price": "212.40",
+    "bid_size": "3",
+    "ask_price": "212.45",
+    "ask_size": "2",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "MSFT",
+    "bid_price": "441.10",
+    "bid_size": "1",
+    "ask_price": "441.20",
+    "ask_size": "4",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "F",
+    "bid_price": "12.04",
+    "bid_size": "12",
+    "ask_price": "12.05",
+    "ask_size": "9",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "KO",
+    "bid_price": "63.43",
+    "bid_size": "5",
+    "ask_price": "63.45",
+    "ask_size": "6",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "AMZN",
+    "bid_price": "201.30",
+    "bid_size": "6",
+    "ask_price": "201.35",
+    "ask_size": "1",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "GOOGL",
+    "bid_price": "178.20",
+    "bid_size": "2",
+    "ask_price": "178.25",
+    "ask_size": "3",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "SPY",
+    "bid_price": "548.60",
+    "bid_size": "8",
+    "ask_price": "548.65",
+    "ask_size": "7",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "JNJ",
+    "bid_price": "158.70",
+    "bid_size": "4",
+    "ask_price": "158.75",
+    "ask_size": "3",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "T",
+    "bid_price": "21.88",
+    "bid_size": "15",
+    "ask_price": "21.90",
+    "ask_size": "11",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "VZ",
+    "bid_price": "42.15",
+    "bid_size": "9",
+    "ask_price": "42.17",
+    "ask_size": "7",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "WMT",
+    "bid_price": "71.40",
+    "bid_size": "5",
+    "ask_price": "71.43",
+    "ask_size": "6",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "XOM",
+    "bid_price": "112.30",
+    "bid_size": "4",
+    "ask_price": "112.34",
+    "ask_size": "3",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "CVX",
+    "bid_price": "156.80",
+    "bid_size": "3",
+    "ask_price": "156.85",
+    "ask_size": "2",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "JPM",
+    "bid_price": "204.50",
+    "bid_size": "2",
+    "ask_price": "204.55",
+    "ask_size": "4",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "HD",
+    "bid_price": "352.10",
+    "bid_size": "2",
+    "ask_price": "352.20",
+    "ask_size": "1",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "PG",
+    "bid_price": "168.40",
+    "bid_size": "3",
+    "ask_price": "168.45",
+    "ask_size": "3",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "DIS",
+    "bid_price": "104.20",
+    "bid_size": "5",
+    "ask_price": "104.24",
+    "ask_size": "4",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "PEP",
+    "bid_price": "139.60",
+    "bid_size": "4",
+    "ask_price": "139.65",
+    "ask_size": "3",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "VTI",
+    "bid_price": "285.18",
+    "bid_size": "6",
+    "ask_price": "285.22",
+    "ask_size": "5",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "SCHD",
+    "bid_price": "28.09",
+    "bid_size": "10",
+    "ask_price": "28.11",
+    "ask_size": "8",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "O",
+    "bid_price": "57.20",
+    "bid_size": "7",
+    "ask_price": "57.23",
+    "ask_size": "6",
+    "timestamp": "2026-06-09T20:00:00Z"
+  },
+  {
+    "symbol": "JNK",
+    "bid_price": "97.30",
+    "bid_size": "9",
+    "ask_price": "97.34",
+    "ask_size": "8",
+    "timestamp": "2026-06-09T20:00:00Z"
+  }
+]

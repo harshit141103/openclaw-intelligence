@@ -1,0 +1,202 @@
+[
+  {
+    "id": "urn:li:person:keith-cox",
+    "firstName": "Diane",
+    "lastName": "Cox",
+    "headline": "Whitcomb built-in bookshelves",
+    "location": "Greensboro, VT",
+    "industry": "Bookshelf install Friday the 16th",
+    "connectedAt": "2026-09-12T10:00:00Z",
+    "organizationId": "Green Mountain Hardwoods"
+  },
+  {
+    "id": "urn:li:person:diane-cox",
+    "firstName": "Keith",
+    "lastName": "Cox",
+    "headline": "Mill cherry stock to thickness for the u",
+    "location": "Burlington, VT",
+    "industry": "Dry-fit the face frames before glue-up",
+    "connectedAt": "2026-05-01T16:45:00Z",
+    "organizationId": "Aubuchon Hardware Hardwick"
+  },
+  {
+    "id": "urn:li:person:pete-lafleur",
+    "firstName": "Marie",
+    "lastName": "Cox-Gagne",
+    "headline": "Sharpen the jointer knives and reset the",
+    "location": "Wolcott, VT",
+    "industry": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "connectedAt": "2026-03-27T14:00:00Z",
+    "organizationId": "Tractor Supply Morrisville"
+  },
+  {
+    "id": "urn:li:person:walt-perreault",
+    "firstName": "Tom",
+    "lastName": "Gagne",
+    "headline": "Order Blum slides for the Stowe drawer b",
+    "location": "Morrisville, VT",
+    "industry": "Splitting and stacking the winter firewood",
+    "connectedAt": "2026-03-20T06:30:00Z",
+    "organizationId": "Parker Pie Co."
+  },
+  {
+    "id": "urn:li:person:dana-li",
+    "firstName": "Pete",
+    "lastName": "Lafleur",
+    "headline": "Bookshelf install Friday the 16th",
+    "location": "Burlington, VT",
+    "industry": "Dry-fit the face frames before glue-up",
+    "connectedAt": "2026-04-02T07:00:00Z",
+    "organizationId": "Aubuchon Hardware Hardwick"
+  },
+  {
+    "id": "urn:li:person:marco-ferri",
+    "firstName": "James",
+    "lastName": "Whitfield",
+    "headline": "Material order - Hardwick Lumber",
+    "location": "West Glover, VT",
+    "industry": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "connectedAt": "2026-05-01T11:00:00Z",
+    "organizationId": "Positive Pie"
+  },
+  {
+    "id": "urn:li:person:sara-koenig",
+    "firstName": "Paul",
+    "lastName": "LeBlanc",
+    "headline": "Replace the dust collector filter and cl",
+    "location": "Hardwick, VT",
+    "industry": "Dry-fit the face frames before glue-up",
+    "connectedAt": "2026-03-07T18:45:00Z",
+    "organizationId": "Cox Custom Woodwork"
+  },
+  {
+    "id": "urn:li:person:tom-becker",
+    "firstName": "Scott",
+    "lastName": "Henderson",
+    "headline": "Cota window seat & bookcase",
+    "location": "Burlington, VT",
+    "industry": "Bookshelf install Friday the 16th",
+    "connectedAt": "2026-09-06T08:30:00Z",
+    "organizationId": "Cox Custom Woodwork"
+  },
+  {
+    "id": "urn:li:person:keith-cox-b1",
+    "firstName": "Linda",
+    "lastName": "Henderson",
+    "headline": "Estimate for the Greensboro barn (2027)",
+    "location": "St. Albans, VT",
+    "industry": "Delivery window for the Stowe cabinets",
+    "connectedAt": "2025-07-25T17:00:00Z",
+    "organizationId": "Hardwick Lumber"
+  },
+  {
+    "id": "urn:li:person:diane-cox-b2",
+    "firstName": "Alan",
+    "lastName": "Whitcomb",
+    "headline": "Re: Stowe install date",
+    "location": "St. Albans, VT",
+    "industry": "Cherry pricing for the Henderson uppers",
+    "connectedAt": "2024-03-17T13:45:00Z",
+    "organizationId": "Craftsbury General Store"
+  },
+  {
+    "id": "urn:li:person:pete-lafleur-b3",
+    "firstName": "Paul",
+    "lastName": "Dufresne",
+    "headline": "Built-ins - finish sample for your approval",
+    "location": "Montpelier, VT",
+    "industry": "Hang the soft-close doors and adjust the hinges",
+    "connectedAt": "2026-05-10T07:00:00Z",
+    "organizationId": "Craftsbury General Store"
+  },
+  {
+    "id": "urn:li:person:walt-perreault-b4",
+    "firstName": "Marc",
+    "lastName": "Belanger",
+    "headline": "Sharpen the jointer knives and reset the",
+    "location": "Hardwick, VT",
+    "industry": "Stage the bookshelf sections for the Craftsbury install",
+    "connectedAt": "2026-02-21T17:30:00Z",
+    "organizationId": "Green Mountain Hardwoods"
+  },
+  {
+    "id": "urn:li:person:dana-li-b5",
+    "firstName": "Gary",
+    "lastName": "Stoddard",
+    "headline": "Cut dadoes for the adjustable shelf pins",
+    "location": "Morrisville, VT",
+    "industry": "Barn oak is summer 2027 - not pulling material yet.",
+    "connectedAt": "2026-03-08T07:30:00Z",
+    "organizationId": "Hardwick Lumber"
+  },
+  {
+    "id": "urn:li:person:marco-ferri-b6",
+    "firstName": "Hardwick",
+    "lastName": "Lumber",
+    "headline": "Henderson kitchen cabinets",
+    "location": "Greensboro, VT",
+    "industry": "Lay out dovetails for the silverware drawer",
+    "connectedAt": "2026-02-26T17:30:00Z",
+    "organizationId": "Hardwick Lumber"
+  },
+  {
+    "id": "urn:li:person:sara-koenig-b7",
+    "firstName": "Green",
+    "lastName": "Mountain Hardwoods",
+    "headline": "Delivery window for the Stowe cabinets",
+    "location": "Greensboro, VT",
+    "industry": "Build the drawer boxes with half-blind dovetails",
+    "connectedAt": "2023-09-01T10:45:00Z",
+    "organizationId": "Positive Pie"
+  },
+  {
+    "id": "urn:li:person:tom-becker-b8",
+    "firstName": "Ray",
+    "lastName": "Tetreault",
+    "headline": "Replace the dust collector filter and cl",
+    "location": "Stowe, VT",
+    "industry": "Lay out dovetails for the silverware drawer",
+    "connectedAt": "2025-12-14T18:30:00Z",
+    "organizationId": "Hardwick Lumber"
+  },
+  {
+    "id": "urn:li:person:keith-cox-b9",
+    "firstName": "Nancy",
+    "lastName": "Beaulieu",
+    "headline": "Material order - Hardwick Lumber",
+    "location": "Stowe, VT",
+    "industry": "Splitting and stacking the winter firewood",
+    "connectedAt": "2025-09-05T08:00:00Z",
+    "organizationId": "Parker Pie Co."
+  },
+  {
+    "id": "urn:li:person:diane-cox-b10",
+    "firstName": "Susan",
+    "lastName": "Mills",
+    "headline": "Replace the dust collector filter and cl",
+    "location": "Stowe, VT",
+    "industry": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "connectedAt": "2026-08-12T10:15:00Z",
+    "organizationId": "Vermont Tool & Die"
+  },
+  {
+    "id": "urn:li:person:pete-lafleur-b11",
+    "firstName": "Walt",
+    "lastName": "Perreault",
+    "headline": "Bookshelf install Friday the 16th",
+    "location": "West Glover, VT",
+    "industry": "Check the moisture content on the barn oak before joinery",
+    "connectedAt": "2024-12-21T16:30:00Z",
+    "organizationId": "Cox Custom Woodwork"
+  },
+  {
+    "id": "urn:li:person:walt-perreault-b12",
+    "firstName": "Donna",
+    "lastName": "Sloan",
+    "headline": "Replace the dust collector filter and cl",
+    "location": "Morrisville, VT",
+    "industry": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "connectedAt": "2026-04-20T12:45:00Z",
+    "organizationId": "Green Mountain Hardwoods"
+  }
+]

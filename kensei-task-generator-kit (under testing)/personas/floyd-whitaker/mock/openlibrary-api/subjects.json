@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "appalachia",
+    "name": "Appalachia",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "tennessee_history",
+    "name": "Tennessee History",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "tva",
+    "name": "Tennessee Valley Authority",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "railroads",
+    "name": "Railroads",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "transportation_history",
+    "name": "Transportation History",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "cumberland_gap",
+    "name": "Cumberland Gap",
+    "subject_type": "place"
+  },
+  {
+    "subject": "smoky_mountains",
+    "name": "Great Smoky Mountains",
+    "subject_type": "place"
+  },
+  {
+    "subject": "barbecue",
+    "name": "Barbecue",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "southern_cooking",
+    "name": "Southern Cooking",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "smoking_meat",
+    "name": "Smoking Meat",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "food_history",
+    "name": "Food History",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "historical_fiction",
+    "name": "Historical Fiction",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "civil_war",
+    "name": "American Civil War",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "coal",
+    "name": "Coal Industry",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "labor_history",
+    "name": "Labor History",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "knoxville",
+    "name": "Knoxville",
+    "subject_type": "place"
+  },
+  {
+    "subject": "harlan_county",
+    "name": "Harlan County",
+    "subject_type": "place"
+  },
+  {
+    "subject": "logistics",
+    "name": "Logistics",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "freight_transportation",
+    "name": "Freight Transportation",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "biography",
+    "name": "Biography",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "national_parks",
+    "name": "National Parks",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "folklife",
+    "name": "Folklife",
+    "subject_type": "subject"
+  },
+  {
+    "subject": "the_south",
+    "name": "The American South",
+    "subject_type": "subject"
+  }
+]

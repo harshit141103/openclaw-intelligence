@@ -1,0 +1,182 @@
+[
+  {
+    "id": "19:team-eng0001@thread.tacv2",
+    "display_name": "WFS Dispatch",
+    "description": "Daily dispatch coordination for loads and carriers",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-eng0001",
+    "member_ids": "user-001;user-002;user-004;user-005"
+  },
+  {
+    "id": "19:team-prod0002@thread.tacv2",
+    "display_name": "WFS Client Loads",
+    "description": "Client account management and load updates",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-prod0002",
+    "member_ids": "user-001;user-002;user-003"
+  },
+  {
+    "id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "WFS Carrier Vetting",
+    "description": "Carrier vetting refresh and compliance checks",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-mktg0003",
+    "member_ids": "user-001;user-004;user-006"
+  },
+  {
+    "id": "19:team-sales004@thread.tacv2",
+    "display_name": "TN Freight Mentorship",
+    "description": "Mentorship program coordination with Keith Burgess",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-sales004",
+    "member_ids": "user-001;user-008;user-003"
+  },
+  {
+    "id": "19:team-allco005@thread.tacv2",
+    "display_name": "WFS All Staff",
+    "description": "Company-wide announcements for Whitaker Freight Services",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-allco005",
+    "member_ids": "user-001;user-002;user-003;user-004;user-005;user-006;user-007"
+  },
+  {
+    "id": "19:team-arch0006@thread.tacv2",
+    "display_name": "WFS Software Evaluation",
+    "description": "Archived: 2024 TMS software evaluation",
+    "visibility": "private",
+    "is_archived": "true",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-arch0006",
+    "member_ids": "user-001;user-002"
+  },
+  {
+    "id": "19:team-vett0007@thread.tacv2",
+    "display_name": "WFS Compliance and DOT",
+    "description": "DOT compliance webinars and authority monitoring",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-vett0007",
+    "member_ids": "user-001;user-004;user-006"
+  },
+  {
+    "id": "19:team-book0008@thread.tacv2",
+    "display_name": "WFS Billing and Accounting",
+    "description": "Invoicing, settlements, and accountant coordination",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-book0008",
+    "member_ids": "user-001;user-006;user-009"
+  },
+  {
+    "id": "19:team-cumb0009@thread.tacv2",
+    "display_name": "Cumberland Auto Parts Account",
+    "description": "Dedicated channel for Cumberland Auto Parts loads",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-cumb0009",
+    "member_ids": "user-001;user-002;user-004"
+  },
+  {
+    "id": "19:team-vall0010@thread.tacv2",
+    "display_name": "Valley Grain Cooperative Account",
+    "description": "Agricultural product loads for Valley Grain Cooperative",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-vall0010",
+    "member_ids": "user-001;user-002;user-005"
+  },
+  {
+    "id": "19:team-smky0011@thread.tacv2",
+    "display_name": "Smoky Mountain Building Supply Account",
+    "description": "Building materials loads for Smoky Mountain Building Supply",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-smky0011",
+    "member_ids": "user-001;user-003;user-005"
+  },
+  {
+    "id": "19:team-tris0012@thread.tacv2",
+    "display_name": "Tri-State Manufacturing Account",
+    "description": "Automotive freight for Tri-State Manufacturing",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-tris0012",
+    "member_ids": "user-001;user-002;user-004"
+  },
+  {
+    "id": "19:team-appa0013@thread.tacv2",
+    "display_name": "Appalachian Ag Producers Account",
+    "description": "Agricultural distribution loads for Appalachian Ag Producers",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-appa0013",
+    "member_ids": "user-001;user-005;user-007"
+  },
+  {
+    "id": "19:team-carr0014@thread.tacv2",
+    "display_name": "WFS Carrier Relations",
+    "description": "Approved carrier coordination and capacity sourcing",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-carr0014",
+    "member_ids": "user-001;user-004;user-005;user-007"
+  },
+  {
+    "id": "19:team-tnfa0015@thread.tacv2",
+    "display_name": "TN Freight Association Board",
+    "description": "TN Freight Association board member coordination",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-tnfa0015",
+    "member_ids": "user-001;user-008"
+  },
+  {
+    "id": "19:team-onbd0016@thread.tacv2",
+    "display_name": "Brand Onboarding",
+    "description": "Junior associate onboarding and training for Brandon",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-onbd0016",
+    "member_ids": "user-001;user-002;user-003"
+  },
+  {
+    "id": "19:team-soft0017@thread.tacv2",
+    "display_name": "WFS TMS Software Eval 2026",
+    "description": "FreightFlow Pro vs RoutePoint Logistics Suite evaluation",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-soft0017",
+    "member_ids": "user-001;user-002;user-006"
+  },
+  {
+    "id": "19:team-safe0018@thread.tacv2",
+    "display_name": "WFS Safety and Insurance",
+    "description": "Carrier insurance certificates and cargo claims",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-safe0018",
+    "member_ids": "user-001;user-004;user-006"
+  },
+  {
+    "id": "19:team-mid0019@thread.tacv2",
+    "display_name": "WFS Midwest Corridor",
+    "description": "Midwest lane planning and Ohio Valley accounts",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-mid0019",
+    "member_ids": "user-001;user-005;user-007"
+  },
+  {
+    "id": "19:team-leg0020@thread.tacv2",
+    "display_name": "WFS Legacy Accounts Archive",
+    "description": "Archived: pre-2024 legacy client load history",
+    "visibility": "private",
+    "is_archived": "true",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-leg0020",
+    "member_ids": "user-001;user-002"
+  }
+]

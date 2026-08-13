@@ -1,0 +1,113 @@
+﻿[
+  {
+    "contact_id": "c0000001-0000-0000-0000-000000000001",
+    "name": "Meridian Benefits",
+    "first_name": "Sarah",
+    "last_name": "Chen",
+    "email": "s.chen@meridianbenefits.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "MB-CLIENT-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-000000000002",
+    "name": "HealthFirst Insurance",
+    "first_name": "Michael",
+    "last_name": "Rodriguez",
+    "email": "corporate@healthfirst.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "HF-CLIENT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-000000000003",
+    "name": "VoiceSync AI",
+    "first_name": "christopher",
+    "last_name": "Patterson",
+    "email": "operations@voissync.ai",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "VS-CLIENT-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-000000000004",
+    "name": "TechCorp Solutions",
+    "first_name": "David",
+    "last_name": "Thompson",
+    "email": "finance@techcorp.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "TC-CLIENT-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-000000000005",
+    "name": "ComplianceWorks Inc",
+    "first_name": "Jennifer",
+    "last_name": "Walsh",
+    "email": "info@complianceworks.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "CW-CLIENT-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-000000000006",
+    "name": "Office Depot",
+    "first_name": "Corporate",
+    "last_name": "Accounts",
+    "email": "business@officedepot.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "OD-SUPP-006"
+  },
+  {
+    "contact_id": "c0000007-0000-0000-0000-000000000007",
+    "name": "Amazon Business",
+    "first_name": "Business",
+    "last_name": "Account",
+    "email": "business@amazon.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "AMZ-SUPP-007"
+  },
+  {
+    "contact_id": "c0000008-0000-0000-0000-000000000008",
+    "name": "Verizon Business",
+    "first_name": "Account",
+    "last_name": "Management",
+    "email": "business@verizon.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "VZ-SUPP-008"
+  },
+  {
+    "contact_id": "c0000009-0000-0000-0000-000000000009",
+    "name": "Greg Morris",
+    "first_name": "Greg",
+    "last_name": "Morris",
+    "email": "greg.morris77@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "GM-HOUSEHOLD-009"
+  },
+  {
+    "contact_id": "c0000010-0000-0000-0000-000000000010",
+    "name": "Christopher Morris",
+    "first_name": "Christopher",
+    "last_name": "Morris",
+    "email": "christopher.morris@voissync.ai",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "CM-PERSONAL-010"
+  }
+]
+

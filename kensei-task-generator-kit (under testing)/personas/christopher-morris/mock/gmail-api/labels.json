@@ -1,0 +1,137 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": "6",
+    "messages_unread": "2",
+    "threads_total": "5",
+    "threads_unread": "2"
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "DRAFTS",
+    "name": "DRAFT",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "TRASH",
+    "name": "TRASH",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "SPAM",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_meridian",
+    "name": "Meridian Benefits",
+    "type": "user",
+    "messages_total": "42",
+    "messages_unread": "3",
+    "threads_total": "18",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_family",
+    "name": "Family",
+    "type": "user",
+    "messages_total": "58",
+    "messages_unread": "2",
+    "threads_total": "24",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_friends",
+    "name": "Friends",
+    "type": "user",
+    "messages_total": "32",
+    "messages_unread": "0",
+    "threads_total": "14",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_health",
+    "name": "Health",
+    "type": "user",
+    "messages_total": "18",
+    "messages_unread": "1",
+    "threads_total": "8",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_finance",
+    "name": "Finance",
+    "type": "user",
+    "messages_total": "45",
+    "messages_unread": "0",
+    "threads_total": "22",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_shopping",
+    "name": "Shopping",
+    "type": "user",
+    "messages_total": "28",
+    "messages_unread": "2",
+    "threads_total": "12",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_media",
+    "name": "Media & Entertainment",
+    "type": "user",
+    "messages_total": "15",
+    "messages_unread": "0",
+    "threads_total": "7",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_sophie",
+    "name": "Sophie",
+    "type": "user",
+    "messages_total": "24",
+    "messages_unread": "1",
+    "threads_total": "10",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_owen",
+    "name": "Owen",
+    "type": "user",
+    "messages_total": "18",
+    "messages_unread": "1",
+    "threads_total": "8",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_urgent",
+    "name": "Urgent",
+    "type": "user",
+    "messages_total": "1",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  }
+]

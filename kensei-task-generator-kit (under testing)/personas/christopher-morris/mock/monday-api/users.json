@@ -1,0 +1,93 @@
+[
+  {
+    "user_id": "usr-1",
+    "name": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "title": "Benefits Operations Lead",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-2",
+    "name": "Sandra Chen",
+    "email": "schen@meridianbenefits.com",
+    "title": "Compliance Manager",
+    "is_admin": "true"
+  },
+  {
+    "user_id": "usr-3",
+    "name": "Priya Desai",
+    "email": "pdesai@meridianbenefits.com",
+    "title": "Enrollment Specialist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-4",
+    "name": "Mike Poletti",
+    "email": "mpoletti@meridianbenefits.com",
+    "title": "Claims Processor",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-5",
+    "name": "Trisha Gunderson",
+    "email": "tgunderson@meridianbenefits.com",
+    "title": "Payroll Reconciliation Specialist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-6",
+    "name": "David Rodriguez",
+    "email": "drodriguez@meridianbenefits.com",
+    "title": "Systems Administrator",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-7",
+    "name": "Lisa Thompson",
+    "email": "lthompson@meridianbenefits.com",
+    "title": "Benefits Counselor",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-8",
+    "name": "James Wilson",
+    "email": "jwilson@meridianbenefits.com",
+    "title": "Data Analyst",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-9",
+    "name": "Maria Garcia",
+    "email": "mgarcia@meridianbenefits.com",
+    "title": "Compliance Auditor",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-10",
+    "name": "Robert Chen",
+    "email": "rchen@meridianbenefits.com",
+    "title": "Claims Director",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-11",
+    "name": "Patricia Sullivan",
+    "email": "psullivan@meridianbenefits.com",
+    "title": "Enrollment Manager",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-12",
+    "name": "Kevin Park",
+    "email": "kpark@meridianbenefits.com",
+    "title": "Quality Assurance Specialist",
+    "is_admin": "false"
+  },
+  {
+    "user_id": "usr-13",
+    "name": "Susan Martinez",
+    "email": "smartinez@meridianbenefits.com",
+    "title": "Regulatory Affairs Coordinator",
+    "is_admin": "false"
+  }
+]

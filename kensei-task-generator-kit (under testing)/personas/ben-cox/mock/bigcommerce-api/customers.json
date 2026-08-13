@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1001",
+    "first_name": "Diane",
+    "last_name": "Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "company": "Vermont Tool & Die",
+    "phone": "+18025550112",
+    "customer_group_id": "2",
+    "date_created": "2026-07-09T17:15:00Z"
+  },
+  {
+    "id": "1002",
+    "first_name": "Keith",
+    "last_name": "Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "company": "Tractor Supply Morrisville",
+    "phone": "+18025550145",
+    "customer_group_id": "0",
+    "date_created": "2026-08-04T13:00:00Z"
+  },
+  {
+    "id": "1003",
+    "first_name": "Marie",
+    "last_name": "Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "company": "Positive Pie",
+    "phone": "+18025550155",
+    "customer_group_id": "2",
+    "date_created": "2026-03-30T10:45:00Z"
+  },
+  {
+    "id": "1004",
+    "first_name": "Tom",
+    "last_name": "Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "company": "Willey's Store",
+    "phone": "+18025550156",
+    "customer_group_id": "0",
+    "date_created": "2024-11-29T11:00:00Z"
+  },
+  {
+    "id": "1005",
+    "first_name": "Pete",
+    "last_name": "Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "company": "Cox Custom Woodwork",
+    "phone": "+18025550178",
+    "customer_group_id": "3",
+    "date_created": "2026-06-21T08:30:00Z"
+  },
+  {
+    "id": "1902",
+    "first_name": "James",
+    "last_name": "Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "company": "Craftsbury General Store",
+    "phone": "+18025550410",
+    "customer_group_id": "2",
+    "date_created": "2026-02-21T06:30:00Z"
+  },
+  {
+    "id": "1904",
+    "first_name": "Paul",
+    "last_name": "LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "company": "Hardwick Lumber",
+    "phone": "+18025550425",
+    "customer_group_id": "0",
+    "date_created": "2024-06-06T10:00:00Z"
+  },
+  {
+    "id": "1906",
+    "first_name": "Scott",
+    "last_name": "Henderson",
+    "email": "shenderson@stowevt.net",
+    "company": "Tractor Supply Morrisville",
+    "phone": "+18025550500",
+    "customer_group_id": "2",
+    "date_created": "2025-07-21T15:00:00Z"
+  },
+  {
+    "id": "1908",
+    "first_name": "Linda",
+    "last_name": "Henderson",
+    "email": "lhenderson@stowevt.net",
+    "company": "Aubuchon Hardware Hardwick",
+    "phone": "+18025550501",
+    "customer_group_id": "0",
+    "date_created": "2024-07-16T14:15:00Z"
+  },
+  {
+    "id": "1910",
+    "first_name": "Alan",
+    "last_name": "Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "company": "Green Mountain Hardwoods",
+    "phone": "+18025550512",
+    "customer_group_id": "3",
+    "date_created": "2025-01-29T07:00:00Z"
+  },
+  {
+    "id": "1907",
+    "first_name": "Paul",
+    "last_name": "Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "company": "Aubuchon Hardware Hardwick",
+    "phone": "+18025550720",
+    "customer_group_id": "2",
+    "date_created": "2026-05-23T08:00:00Z"
+  },
+  {
+    "id": "1909",
+    "first_name": "Marc",
+    "last_name": "Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "company": "Cox Custom Woodwork",
+    "phone": "+18025550733",
+    "customer_group_id": "0",
+    "date_created": "2025-07-29T07:15:00Z"
+  },
+  {
+    "id": "1911",
+    "first_name": "Gary",
+    "last_name": "Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "company": "Craftsbury General Store",
+    "phone": "+18025550741",
+    "customer_group_id": "2",
+    "date_created": "2024-10-27T17:45:00Z"
+  },
+  {
+    "id": "1913",
+    "first_name": "Hardwick",
+    "last_name": "Lumber",
+    "email": "orders@hardwicklumber.com",
+    "company": "Tractor Supply Morrisville",
+    "phone": "+18025550700",
+    "customer_group_id": "0",
+    "date_created": "2026-06-10T13:45:00Z"
+  },
+  {
+    "id": "1915",
+    "first_name": "Green",
+    "last_name": "Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "company": "Green Mountain Hardwoods",
+    "phone": "+18025550810",
+    "customer_group_id": "3",
+    "date_created": "2024-11-27T17:30:00Z"
+  },
+  {
+    "id": "1912",
+    "first_name": "Ray",
+    "last_name": "Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "company": "Aubuchon Hardware Hardwick",
+    "phone": "+18025550715",
+    "customer_group_id": "2",
+    "date_created": "2025-06-20T10:00:00Z"
+  },
+  {
+    "id": "1914",
+    "first_name": "Nancy",
+    "last_name": "Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "company": "Craftsbury General Store",
+    "phone": "+18025550523",
+    "customer_group_id": "0",
+    "date_created": "2025-05-03T17:00:00Z"
+  },
+  {
+    "id": "1916",
+    "first_name": "Susan",
+    "last_name": "Mills",
+    "email": "office@craftsburychurch.org",
+    "company": "Hardwick Lumber",
+    "phone": "+18025550630",
+    "customer_group_id": "2",
+    "date_created": "2025-05-16T15:45:00Z"
+  },
+  {
+    "id": "1918",
+    "first_name": "Walt",
+    "last_name": "Perreault",
+    "email": "walt.perreault@gmail.com",
+    "company": "Green Mountain Hardwoods",
+    "phone": "+18025550766",
+    "customer_group_id": "0",
+    "date_created": "2025-03-15T16:00:00Z"
+  },
+  {
+    "id": "1920",
+    "first_name": "Donna",
+    "last_name": "Sloan",
+    "email": "donna.sloan@comcast.net",
+    "company": "Craftsbury General Store",
+    "phone": "+18025550544",
+    "customer_group_id": "3",
+    "date_created": "2025-12-08T17:15:00Z"
+  }
+]

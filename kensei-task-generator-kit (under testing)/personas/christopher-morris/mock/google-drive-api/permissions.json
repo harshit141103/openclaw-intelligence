@@ -1,0 +1,250 @@
+[
+  {
+    "id": "perm-001",
+    "file_id": "folder-work",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-002",
+    "file_id": "folder-work",
+    "type": "user",
+    "role": "writer",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris"
+  },
+  {
+    "id": "perm-003",
+    "file_id": "folder-work",
+    "type": "user",
+    "role": "writer",
+    "email": "schen@meridianbenefits.com",
+    "display_name": "Sandra Chen"
+  },
+  {
+    "id": "perm-004",
+    "file_id": "folder-benefits-implementation",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-005",
+    "file_id": "folder-benefits-implementation",
+    "type": "user",
+    "role": "writer",
+    "email": "pdesai@meridianbenefits.com",
+    "display_name": "Priya Desai"
+  },
+  {
+    "id": "perm-006",
+    "file_id": "folder-benefits-implementation",
+    "type": "user",
+    "role": "writer",
+    "email": "mpoletti@meridianbenefits.com",
+    "display_name": "Mike Poletti"
+  },
+  {
+    "id": "perm-007",
+    "file_id": "folder-benefits-implementation",
+    "type": "user",
+    "role": "commenter",
+    "email": "jbrennan@meridianbenefits.com",
+    "display_name": "Janet Brennan"
+  },
+  {
+    "id": "perm-008",
+    "file_id": "file-implementation-plan",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-009",
+    "file_id": "file-implementation-plan",
+    "type": "user",
+    "role": "writer",
+    "email": "pdesai@meridianbenefits.com",
+    "display_name": "Priya Desai"
+  },
+  {
+    "id": "perm-010",
+    "file_id": "file-implementation-plan",
+    "type": "user",
+    "role": "commenter",
+    "email": "schen@meridianbenefits.com",
+    "display_name": "Sandra Chen"
+  },
+  {
+    "id": "perm-011",
+    "file_id": "file-timeline",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-012",
+    "file_id": "file-timeline",
+    "type": "user",
+    "role": "writer",
+    "email": "mpoletti@meridianbenefits.com",
+    "display_name": "Mike Poletti"
+  },
+  {
+    "id": "perm-013",
+    "file_id": "file-timeline",
+    "type": "user",
+    "role": "reader",
+    "email": "jbrennan@meridianbenefits.com",
+    "display_name": "Janet Brennan"
+  },
+  {
+    "id": "perm-014",
+    "file_id": "file-budget-proposal",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-015",
+    "file_id": "file-budget-proposal",
+    "type": "user",
+    "role": "writer",
+    "email": "schen@meridianbenefits.com",
+    "display_name": "Sandra Chen"
+  },
+  {
+    "id": "perm-016",
+    "file_id": "file-roi-analysis",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-017",
+    "file_id": "file-roi-analysis",
+    "type": "user",
+    "role": "commenter",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris"
+  },
+  {
+    "id": "perm-018",
+    "file_id": "file-executive-mtg-060826",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-019",
+    "file_id": "file-executive-mtg-060826",
+    "type": "user",
+    "role": "writer",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris"
+  },
+  {
+    "id": "perm-020",
+    "file_id": "file-stakeholder-mtg-053126",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-021",
+    "file_id": "file-stakeholder-mtg-053126",
+    "type": "user",
+    "role": "writer",
+    "email": "pdesai@meridianbenefits.com",
+    "display_name": "Priya Desai"
+  },
+  {
+    "id": "perm-022",
+    "file_id": "file-stakeholder-mtg-053126",
+    "type": "user",
+    "role": "writer",
+    "email": "jbrennan@meridianbenefits.com",
+    "display_name": "Janet Brennan"
+  },
+  {
+    "id": "perm-023",
+    "file_id": "file-pmp-prep",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-024",
+    "file_id": "file-shared-presentation",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-025",
+    "file_id": "file-shared-presentation",
+    "type": "domain",
+    "role": "reader",
+    "email": "meridianbenefits.com",
+    "display_name": "Meridian Benefits Group"
+  },
+  {
+    "id": "perm-026",
+    "file_id": "file-compliance-checklist",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-027",
+    "file_id": "file-compliance-checklist",
+    "type": "user",
+    "role": "writer",
+    "email": "schen@meridianbenefits.com",
+    "display_name": "Sandra Chen"
+  },
+  {
+    "id": "perm-028",
+    "file_id": "file-vendor-contracts",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-029",
+    "file_id": "file-vendor-evaluation",
+    "type": "user",
+    "role": "owner",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris"
+  },
+  {
+    "id": "perm-030",
+    "file_id": "file-vendor-evaluation",
+    "type": "user",
+    "role": "writer",
+    "email": "pdesai@meridianbenefits.com",
+    "display_name": "Priya Desai"
+  },
+  {
+    "id": "perm-031",
+    "file_id": "file-vendor-evaluation",
+    "type": "user",
+    "role": "writer",
+    "email": "mpoletti@meridianbenefits.com",
+    "display_name": "Mike Poletti"
+  }
+]

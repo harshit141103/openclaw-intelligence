@@ -1,0 +1,38 @@
+[
+  {
+    "id": "60b1000000000000000000b1",
+    "name": "Annual Benefits Review",
+    "desc": "Q2 2026 Benefits Enrollment and Annual Review Board",
+    "closed": "false",
+    "id_organization": "org-meridian-benefits",
+    "url": "https://trello.com/b/abc12345/annual-benefits-review",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a2;5f1a000000000000000000a3;5f1a000000000000000000a4;5f1a000000000000000000a5"
+  },
+  {
+    "id": "60b1000000000000000000b2",
+    "name": "Compliance Audit",
+    "desc": "2026 Annual Compliance and Regulatory Review",
+    "closed": "false",
+    "id_organization": "org-meridian-benefits",
+    "url": "https://trello.com/b/def67890/compliance-audit",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a2;5f1a000000000000000000a6;5f1a000000000000000000a7"
+  },
+  {
+    "id": "60b1000000000000000000b3",
+    "name": "Claims System",
+    "desc": "Claims Processing and Administration Workflow",
+    "closed": "false",
+    "id_organization": "org-meridian-benefits",
+    "url": "https://trello.com/b/ghi34567/claims-system",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a3;5f1a000000000000000000a8;5f1a000000000000000000a9"
+  },
+  {
+    "id": "60b1000000000000000000b4",
+    "name": "BenefitInsight Rollout",
+    "desc": "New Benefits Platform Implementation",
+    "closed": "false",
+    "id_organization": "org-meridian-benefits",
+    "url": "https://trello.com/b/jkl78901/benefitinsight-rollout",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a2;5f1a000000000000000000a4;5f1a000000000000000000aa;5f1a000000000000000000ab"
+  }
+]

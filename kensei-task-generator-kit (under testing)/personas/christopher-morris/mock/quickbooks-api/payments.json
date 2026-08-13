@@ -1,0 +1,486 @@
+﻿[
+  {
+    "Id": "4101",
+    "TxnDate": "2026-05-05",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 1800.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3201",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 1800.0
+      }
+    ],
+    "PrivateNote": "Bank transfer - monthly rent payment"
+  },
+  {
+    "Id": "4102",
+    "TxnDate": "2026-05-03",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 285.75,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3202",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 285.75
+      }
+    ],
+    "PrivateNote": "Automatic payment - electric bill"
+  },
+  {
+    "Id": "4103",
+    "TxnDate": "2026-05-08",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 62.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3203",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 62.0
+      }
+    ],
+    "PrivateNote": "Water bill payment"
+  },
+  {
+    "Id": "4104",
+    "TxnDate": "2026-05-06",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 79.99,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3204",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 79.99
+      }
+    ],
+    "PrivateNote": "Internet and phone service"
+  },
+  {
+    "Id": "4105",
+    "TxnDate": "2026-05-02",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 250.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3205",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 250.0
+      }
+    ],
+    "PrivateNote": "ILble and broadband service"
+  },
+  {
+    "Id": "4106",
+    "TxnDate": "2026-05-14",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 320.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3206",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 320.0
+      }
+    ],
+    "PrivateNote": "Credit ILrd - tire services"
+  },
+  {
+    "Id": "4107",
+    "TxnDate": "2026-05-04",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 125.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3207",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 125.5
+      }
+    ],
+    "PrivateNote": "Auto repair shop payment"
+  },
+  {
+    "Id": "4108",
+    "TxnDate": "2026-05-09",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 89.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3208",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 89.5
+      }
+    ],
+    "PrivateNote": "Amazon Business purchase"
+  },
+  {
+    "Id": "4109",
+    "TxnDate": "2026-05-10",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 187.45,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3209",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 187.45
+      }
+    ],
+    "PrivateNote": "Grocery store debit ILrd"
+  },
+  {
+    "Id": "4110",
+    "TxnDate": "2026-05-12",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 145.75,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3210",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 145.75
+      }
+    ],
+    "PrivateNote": "Weekly grocery shopping"
+  },
+  {
+    "Id": "4111",
+    "TxnDate": "2026-05-16",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 195.85,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3211",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 195.85
+      }
+    ],
+    "PrivateNote": "Weekly grocery shopping"
+  },
+  {
+    "Id": "4112",
+    "TxnDate": "2026-05-20",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 175.45,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3212",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 175.45
+      }
+    ],
+    "PrivateNote": "Weekly grocery shopping"
+  },
+  {
+    "Id": "4113",
+    "TxnDate": "2026-05-12",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 125.3,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3213",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 125.3
+      }
+    ],
+    "PrivateNote": "Household supplies purchase"
+  },
+  {
+    "Id": "4114",
+    "TxnDate": "2026-05-18",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 250.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3214",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 250.0
+      }
+    ],
+    "PrivateNote": "Personal ILre and household items"
+  },
+  {
+    "Id": "4115",
+    "TxnDate": "2026-05-07",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 52.85,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3215",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 52.85
+      }
+    ],
+    "PrivateNote": "Fuel purchase"
+  },
+  {
+    "Id": "4116",
+    "TxnDate": "2026-05-13",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 68.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3216",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 68.5
+      }
+    ],
+    "PrivateNote": "Fuel and oil purchase"
+  },
+  {
+    "Id": "4117",
+    "TxnDate": "2026-05-17",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 72.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3217",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 72.0
+      }
+    ],
+    "PrivateNote": "Fuel purchase"
+  },
+  {
+    "Id": "4118",
+    "TxnDate": "2026-05-21",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 55.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3218",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 55.0
+      }
+    ],
+    "PrivateNote": "Fuel purchase"
+  },
+  {
+    "Id": "4119",
+    "TxnDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Christopher Morris"
+    },
+    "TotalAmt": 850.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "3219",
+            "TxnType": "Bill"
+          }
+        ],
+        "Amount": 850.0
+      }
+    ],
+    "PrivateNote": "Professional development subscriptions - monthly recurring"
+  },
+  {
+    "Id": "4120",
+    "TxnDate": "2026-05-15",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Meridian Benefits HR"
+    },
+    "TotalAmt": 3615.38,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3615.38
+      }
+    ],
+    "PrivateNote": "Biweekly salary deposit - direct deposit"
+  },
+  {
+    "Id": "4121",
+    "TxnDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Meridian Benefits HR"
+    },
+    "TotalAmt": 3615.38,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3615.38
+      }
+    ],
+    "PrivateNote": "Biweekly salary deposit - direct deposit"
+  },
+  {
+    "Id": "4122",
+    "TxnDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "4",
+      "name": "VoiceSync Consulting"
+    },
+    "TotalAmt": 3450.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3450.0
+      }
+    ],
+    "PrivateNote": "Freelance project payment received"
+  },
+  {
+    "Id": "4123",
+    "TxnDate": "2026-05-10",
+    "CustomerRef": {
+      "value": "4",
+      "name": "VoiceSync Consulting"
+    },
+    "TotalAmt": 1950.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6010",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 1950.0
+      }
+    ],
+    "PrivateNote": "April project payment - security review work"
+  }
+]
+

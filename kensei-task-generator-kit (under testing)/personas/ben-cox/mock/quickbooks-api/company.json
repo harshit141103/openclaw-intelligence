@@ -1,0 +1,39 @@
+{
+  "CompanyInfo": {
+    "CompanyName": "Aubuchon Hardware Hardwick",
+    "LegalName": "Dry-fit the face frames before glue-up",
+    "CompanyAddr": {
+      "Line1": "1842 Wylie Hill Road",
+      "City": "West Glover",
+      "CountrySubDivisionCode": "US",
+      "PostalCode": "05672"
+    },
+    "Email": {
+      "Address": "frontdesk@hardwickdental.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(503) 555-0147"
+    },
+    "FiscalYearStartMonth": "2024-11-23T07:30:00Z",
+    "Country": "US",
+    "IndustryType": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "NameValue": [
+      {
+        "Name": "Mock up the crown profile for the Hender",
+        "Value": "Gary Stoddard"
+      },
+      {
+        "Name": "Splitting and stacking the winter firewo",
+        "Value": "Pete Lafleur"
+      },
+      {
+        "Name": "Hang the soft-close doors and adjust the",
+        "Value": "Diane flagged the Sloan invoice for QuickBooks."
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-14T17:45:00Z",
+      "LastUpdatedTime": "2025-11-21T16:30:00Z"
+    }
+  }
+}

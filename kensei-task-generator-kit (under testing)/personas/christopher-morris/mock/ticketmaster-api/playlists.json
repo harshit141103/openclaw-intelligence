@@ -1,0 +1,57 @@
+﻿[
+  {
+    "playlist_id": "play-001",
+    "user_id": "christopher.morris@voissync.ai",
+    "name": "90s-2000s Soft Rock Classics",
+    "description": "Favorite era - Sheryl Crow, Norah Jones, Fleetwood Mac and similar artists",
+    "attraction_ids": ["att-008", "att-009", "att-010"],
+    "created_date": "2026-05-15T10:00:00Z",
+    "event_count": 3
+  },
+  {
+    "playlist_id": "play-002",
+    "user_id": "christopher.morris@voissync.ai",
+    "name": "Concert & Live Music Summer 2026",
+    "description": "Upcoming concert events in Naperville and nearby ChiILgo",
+    "attraction_ids": ["att-001", "att-002", "att-008", "att-009", "att-010", "att-013"],
+    "created_date": "2026-05-20T14:30:00Z",
+    "event_count": 6
+  },
+  {
+    "playlist_id": "play-003",
+    "user_id": "christopher.morris@voissync.ai",
+    "name": "Family Entertainment - Owen & Sophie",
+    "description": "Age-appropriate events for teenagers Owen (15) and Sophie (12)",
+    "attraction_ids": ["att-011", "att-015"],
+    "created_date": "2026-05-22T11:15:00Z",
+    "event_count": 2
+  },
+  {
+    "playlist_id": "play-004",
+    "user_id": "christopher.morris@voissync.ai",
+    "name": "Mystery Theatre & Interactive Experiences",
+    "description": "Interactive murder mysteries and dinner theatre - love the engaged experience",
+    "attraction_ids": ["att-012", "att-018"],
+    "created_date": "2026-05-25T09:45:00Z",
+    "event_count": 2
+  },
+  {
+    "playlist_id": "play-005",
+    "user_id": "christopher.morris@voissync.ai",
+    "name": "Home & Culinary Interests",
+    "description": "Home renovation, gardening, and cooking demonstrations",
+    "attraction_ids": ["att-014", "att-017"],
+    "created_date": "2026-05-28T15:20:00Z",
+    "event_count": 2
+  },
+  {
+    "playlist_id": "play-006",
+    "user_id": "christopher.morris@voissync.ai",
+    "name": "Wellness & Fitness - Walking Group",
+    "description": "Regular fitness walking activities - 3x weekly commitment with Meg",
+    "attraction_ids": ["att-016"],
+    "created_date": "2026-05-30T08:00:00Z",
+    "event_count": 1
+  }
+]
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts source="christopher.morris@voissync.ai" exported="2026-12-14">
+  <contact>
+    <name>Gregory A. Morris</name>
+    <relation>Husband</relation>
+    <phone>(630) 555-0142</phone>
+    <email>greg.morris77@gmail.com</email>
+  </contact>
+  <contact>
+    <name>Owen Morris</name>
+    <relation>Son</relation>
+    <phone>(630) 555-0144</phone>
+    <notes>Texts only on the family plan</notes>
+  </contact>
+  <contact>
+    <name>Sophie Morris</name>
+    <relation>Daughter</relation>
+    <notes>Uses iPad, no phone yet</notes>
+  </contact>
+  <contact>
+    <name>Janet Brennan</name>
+    <relation>Mother</relation>
+    <phone>(563) 555-0218</phone>
+    <notes>Calls only, Davenport IA</notes>
+  </contact>
+  <contact>
+    <name>Rita Brennan-Cole</name>
+    <relation>Sister</relation>
+    <phone>(309) 555-0167</phone>
+    <email>rita.brennancole@gmail.com</email>
+  </contact>
+  <contact>
+    <name>Meg Patterson</name>
+    <relation>Best friend</relation>
+    <phone>(630) 555-0305</phone>
+    <email>meg.patterson.naper@gmail.com</email>
+  </contact>
+  <contact>
+    <name>Sandra Chen</name>
+    <relation>Supervisor, Meridian Benefits Group</relation>
+    <phone>(630) 555-0610</phone>
+    <email>schen@meridianbenefits.com</email>
+  </contact>
+  <contact>
+    <name>Priya Desai</name>
+    <relation>Mentee, Meridian Benefits Group</relation>
+    <phone>(630) 555-0618</phone>
+    <email>pdesai@meridianbenefits.com</email>
+  </contact>
+  <contact>
+    <name>Dr. Patricia Strand</name>
+    <relation>Primary care physician</relation>
+    <phone>(630) 555-0700</phone>
+  </contact>
+  <contact>
+    <name>Dr. Robert Chen</name>
+    <relation>Orthopedist</relation>
+    <phone>(630) 555-0715</phone>
+  </contact>
+  <contact>
+    <name>Dr. Linda Ramos</name>
+    <relation>Pediatrician (Owen and Sophie)</relation>
+    <phone>(630) 555-0750</phone>
+  </contact>
+</contacts>

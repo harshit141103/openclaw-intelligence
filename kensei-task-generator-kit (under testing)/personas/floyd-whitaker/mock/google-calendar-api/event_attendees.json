@@ -1,0 +1,202 @@
+[
+  {
+    "event_id": "evt-002",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-002",
+    "email": "travis.hollis@finthesiss.ai",
+    "display_name": "Travis Hollis",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-002",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "display_name": "Lorrie Sexton",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-002",
+    "email": "brand.whitaker@gmail.com",
+    "display_name": "Brandon Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-003",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-003",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "display_name": "Glen Mabry",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-004",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-004",
+    "email": "ruth.lyle@valleygrainco.com",
+    "display_name": "Ruth Lyle",
+    "response_status": "tentative",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-005",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-005",
+    "email": "brand.whitaker@gmail.com",
+    "display_name": "Brandon Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-006",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-006",
+    "email": "keith.burgess@gmail.com",
+    "display_name": "Keith Burgess",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-007",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-007",
+    "email": "bren.sizemore@gmail.com",
+    "display_name": "Brenda Sizemore",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-007",
+    "email": "wayne.prater@gmail.com",
+    "display_name": "Wayne Prater",
+    "response_status": "accepted",
+    "optional": "true",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-008",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-008",
+    "email": "keith.burgess@gmail.com",
+    "display_name": "Keith Burgess",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "bren.sizemore@gmail.com",
+    "display_name": "Brenda Sizemore",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "travis.hollis@finthesiss.ai",
+    "display_name": "Travis Hollis",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-017",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-017",
+    "email": "wayne.prater@gmail.com",
+    "display_name": "Wayne Prater",
+    "response_status": "needsAction",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-026",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "display_name": "Floyd Whitaker",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-026",
+    "email": "keith.burgess@gmail.com",
+    "display_name": "Keith Burgess",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-026",
+    "email": "brand.whitaker@gmail.com",
+    "display_name": "Brandon Whitaker",
+    "response_status": "accepted",
+    "optional": "true",
+    "organizer": "false"
+  }
+]

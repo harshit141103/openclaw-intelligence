@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cus_Nb1cox",
+    "name": "Diane Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "18",
+    "created": "1727054100",
+    "phone": "+18025550112"
+  },
+  {
+    "id": "cus_Nb2Helix",
+    "name": "Keith Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "24",
+    "created": "1746341100",
+    "phone": "+18025550145"
+  },
+  {
+    "id": "cus_Nb3Lumen",
+    "name": "Marie Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "description": "Project schedule update",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "28",
+    "created": "1739762100",
+    "phone": "+18025550155"
+  },
+  {
+    "id": "cus_Nb4Pelagic",
+    "name": "Tom Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "description": "Build the drawer boxes with half-blind dovetails",
+    "currency": "usd",
+    "delinquent": "true",
+    "balance": "620",
+    "created": "1739621700",
+    "phone": "+18025550156"
+  },
+  {
+    "id": "cus_Nb5Verdant",
+    "name": "Pete Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "34",
+    "created": "1732244400",
+    "phone": "+18025550178"
+  },
+  {
+    "id": "cus_Nb6Quanta",
+    "name": "Dr. James Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "41",
+    "created": "1727583300",
+    "phone": "+18025550410"
+  },
+  {
+    "id": "cus_Nb1cox-b1",
+    "name": "Dr. Paul LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "47",
+    "created": "1711435500",
+    "phone": "+18025550425"
+  },
+  {
+    "id": "cus_Nb2Helix-b2",
+    "name": "Scott Henderson",
+    "email": "shenderson@stowevt.net",
+    "description": "Sand to 220 and raise the grain before finish",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "62",
+    "created": "1740104100",
+    "phone": "+18025550500"
+  },
+  {
+    "id": "cus_Nb3Lumen-b3",
+    "name": "Linda Henderson",
+    "email": "lhenderson@stowevt.net",
+    "description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "88",
+    "created": "1714106700",
+    "phone": "+18025550501"
+  },
+  {
+    "id": "cus_Nb4Pelagic-b4",
+    "name": "Alan Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "description": "Delivery window for the Stowe cabinets",
+    "currency": "usd",
+    "delinquent": "true",
+    "balance": "1200",
+    "created": "1765778400",
+    "phone": "+18025550512"
+  },
+  {
+    "id": "cus_Nb5Verdant-b5",
+    "name": "Paul Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "description": "Project schedule update",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "110",
+    "created": "1736490600",
+    "phone": "+18025550720"
+  },
+  {
+    "id": "cus_Nb6Quanta-b6",
+    "name": "Marc Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "description": "Re: Stowe install date",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "6",
+    "created": "1755434700",
+    "phone": "+18025550733"
+  },
+  {
+    "id": "cus_Nb1cox-b7",
+    "name": "Gary Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "description": "Cherry pricing for the Henderson uppers",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "9",
+    "created": "1738369800",
+    "phone": "+18025550741"
+  },
+  {
+    "id": "cus_Nb2Helix-b8",
+    "name": "Hardwick Lumber",
+    "email": "orders@hardwicklumber.com",
+    "description": "Re-saw the walnut for bookmatched panels",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "12",
+    "created": "1766994300",
+    "phone": "+18025550700"
+  },
+  {
+    "id": "cus_Nb3Lumen-b9",
+    "name": "Green Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "18",
+    "created": "1712049300",
+    "phone": "+18025550810"
+  },
+  {
+    "id": "cus_Nb4Pelagic-b10",
+    "name": "Ray Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "currency": "usd",
+    "delinquent": "true",
+    "balance": "1850",
+    "created": "1766061900",
+    "phone": "+18025550715"
+  },
+  {
+    "id": "cus_Nb5Verdant-b11",
+    "name": "Nancy Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "description": "Project schedule update",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "24",
+    "created": "1725449400",
+    "phone": "+18025550523"
+  },
+  {
+    "id": "cus_Nb6Quanta-b12",
+    "name": "Rev. Susan Mills",
+    "email": "office@craftsburychurch.org",
+    "description": "Replace the dust collector filter and clean the cyclone",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "28",
+    "created": "1774330200",
+    "phone": "+18025550630"
+  },
+  {
+    "id": "cus_Nb1cox-b13",
+    "name": "Walt Perreault",
+    "email": "walt.perreault@gmail.com",
+    "description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "34",
+    "created": "1701145800",
+    "phone": "+18025550766"
+  },
+  {
+    "id": "cus_Nb2Helix-b14",
+    "name": "Donna Sloan",
+    "email": "donna.sloan@comcast.net",
+    "description": "Final fit of the Henderson island base cabinets",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "41",
+    "created": "1776854700",
+    "phone": "+18025550544"
+  }
+]

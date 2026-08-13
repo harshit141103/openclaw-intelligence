@@ -1,0 +1,162 @@
+[
+  {
+    "id": "who-9001",
+    "employeeId": "emp-102",
+    "name": "Replace the dust collector filter and cl",
+    "type": "Vacation",
+    "start": "2023-11-02",
+    "end": "2025-05-22"
+  },
+  {
+    "id": "who-9002",
+    "employeeId": "emp-107",
+    "name": "Mock up the crown profile for the Hender",
+    "type": "Vacation",
+    "start": "2026-02-20",
+    "end": "2026-05-26"
+  },
+  {
+    "id": "who-9003",
+    "employeeId": "emp-105",
+    "name": "Sloan cherry dining table",
+    "type": "Sick",
+    "start": "2024-09-06",
+    "end": "2023-11-05"
+  },
+  {
+    "id": "who-9004",
+    "employeeId": "emp-103",
+    "name": "Splitting and stacking the winter firewo",
+    "type": "Vacation",
+    "start": "2023-09-15",
+    "end": "2024-08-26"
+  },
+  {
+    "id": "who-9005",
+    "employeeId": "emp-110",
+    "name": "Final fit of the Henderson island base c",
+    "type": "Holiday",
+    "start": "2024-11-12",
+    "end": "2026-04-12"
+  },
+  {
+    "id": "who-9902",
+    "employeeId": "emp-102",
+    "name": "Sloan cherry dining table",
+    "type": "Vacation",
+    "start": "2024-11-23",
+    "end": "2026-09-13"
+  },
+  {
+    "id": "who-9904",
+    "employeeId": "emp-107",
+    "name": "Final fit of the Henderson island base c",
+    "type": "Vacation",
+    "start": "2026-07-09",
+    "end": "2025-07-10"
+  },
+  {
+    "id": "who-9906",
+    "employeeId": "emp-105",
+    "name": "Church pew repair",
+    "type": "Sick",
+    "start": "2025-01-28",
+    "end": "2025-05-10"
+  },
+  {
+    "id": "who-9908",
+    "employeeId": "emp-103",
+    "name": "Check the moisture content on the barn o",
+    "type": "Vacation",
+    "start": "2026-07-14",
+    "end": "2026-09-02"
+  },
+  {
+    "id": "who-9910",
+    "employeeId": "emp-110",
+    "name": "Plane the bookshelf shelves and ease the",
+    "type": "Holiday",
+    "start": "2025-07-04",
+    "end": "2024-06-11"
+  },
+  {
+    "id": "who-9907",
+    "employeeId": "emp-102",
+    "name": "Final fit of the Henderson island base c",
+    "type": "Vacation",
+    "start": "2026-03-26",
+    "end": "2026-05-09"
+  },
+  {
+    "id": "who-9909",
+    "employeeId": "emp-107",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "type": "Vacation",
+    "start": "2026-03-20",
+    "end": "2024-10-22"
+  },
+  {
+    "id": "who-9911",
+    "employeeId": "emp-105",
+    "name": "Splitting and stacking the winter firewo",
+    "type": "Sick",
+    "start": "2024-10-14",
+    "end": "2026-06-22"
+  },
+  {
+    "id": "who-9913",
+    "employeeId": "emp-103",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "type": "Vacation",
+    "start": "2024-10-04",
+    "end": "2026-06-30"
+  },
+  {
+    "id": "who-9915",
+    "employeeId": "emp-110",
+    "name": "Set up the dado stack for the bookshelf ",
+    "type": "Holiday",
+    "start": "2026-02-01",
+    "end": "2023-10-12"
+  },
+  {
+    "id": "who-9912",
+    "employeeId": "emp-102",
+    "name": "Sloan cherry dining table",
+    "type": "Vacation",
+    "start": "2024-01-23",
+    "end": "2026-03-28"
+  },
+  {
+    "id": "who-9914",
+    "employeeId": "emp-107",
+    "name": "Dry-fit the face frames before glue-up",
+    "type": "Vacation",
+    "start": "2025-03-10",
+    "end": "2025-10-03"
+  },
+  {
+    "id": "who-9916",
+    "employeeId": "emp-105",
+    "name": "Check the moisture content on the barn o",
+    "type": "Sick",
+    "start": "2026-09-05",
+    "end": "2026-04-01"
+  },
+  {
+    "id": "who-9918",
+    "employeeId": "emp-103",
+    "name": "Sharpen the jointer knives and reset the",
+    "type": "Vacation",
+    "start": "2026-07-16",
+    "end": "2025-11-21"
+  },
+  {
+    "id": "who-9920",
+    "employeeId": "emp-110",
+    "name": "Sloan cherry dining table",
+    "type": "Holiday",
+    "start": "2025-09-16",
+    "end": "2025-07-23"
+  }
+]

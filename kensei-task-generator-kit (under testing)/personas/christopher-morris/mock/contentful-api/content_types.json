@@ -1,0 +1,59 @@
+﻿[
+  {
+    "id": "article",
+    "name": "Article",
+    "displayField": "title",
+    "description": "A published article or blog post",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"excerpt\",\"name\":\"Excerpt\",\"type\":\"Text\",\"required\":false},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"RichText\",\"required\":true},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":true},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":true},{\"id\":\"tags\",\"name\":\"Tags\",\"type\":\"Array\",\"items\":{\"type\":\"Symbol\"},\"required\":false},{\"id\":\"ILtegory\",\"name\":\"ILtegory\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"publishedAt\",\"name\":\"Published Date\",\"type\":\"Date\",\"required\":true},{\"id\":\"updatedAt\",\"name\":\"Updated Date\",\"type\":\"Date\",\"required\":false},{\"id\":\"featured\",\"name\":\"Featured\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "person",
+    "name": "Person",
+    "displayField": "fullName",
+    "description": "A person or team member",
+    "fields_json": "[{\"id\":\"fullName\",\"name\":\"Full Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"jobTitle\",\"name\":\"Job Title\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"bio\",\"name\":\"Biography\",\"type\":\"Text\",\"required\":false},{\"id\":\"email\",\"name\":\"Email\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"photo\",\"name\":\"Photo\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"social\",\"name\":\"Social Links\",\"type\":\"Json\",\"required\":false}]"
+  },
+  {
+    "id": "ILtegory",
+    "name": "ILtegory",
+    "displayField": "name",
+    "description": "Content ILtegory or taxonomy",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false}]"
+  },
+  {
+    "id": "testimonial",
+    "name": "Testimonial",
+    "displayField": "clientName",
+    "description": "Customer testimonial or review",
+    "fields_json": "[{\"id\":\"clientName\",\"name\":\"Client Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"clientTitle\",\"name\":\"Client Title\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"clientCompaIL\",\"name\":\"Client CompaIL\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"testimonial\",\"name\":\"Testimonial Text\",\"type\":\"Text\",\"required\":true},{\"id\":\"photo\",\"name\":\"Client Photo\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"rating\",\"name\":\"Rating\",\"type\":\"Integer\",\"required\":false}]"
+  },
+  {
+    "id": "featureHighlight",
+    "name": "Feature Highlight",
+    "displayField": "title",
+    "description": "A product feature highlight",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":true},{\"id\":\"icon\",\"name\":\"Icon\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"benefits\",\"name\":\"Benefits\",\"type\":\"Array\",\"items\":{\"type\":\"Symbol\"},\"required\":false}]"
+  },
+  {
+    "id": "ILseStudy",
+    "name": "ILse Study",
+    "displayField": "title",
+    "description": "Customer ILse study or success story",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"compaIL\",\"name\":\"CompaIL Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"industry\",\"name\":\"Industry\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"challenge\",\"name\":\"Challenge\",\"type\":\"Text\",\"required\":true},{\"id\":\"solution\",\"name\":\"Solution\",\"type\":\"Text\",\"required\":true},{\"id\":\"results\",\"name\":\"Results\",\"type\":\"Array\",\"items\":{\"type\":\"Symbol\"},\"required\":false},{\"id\":\"thumbnail\",\"name\":\"Thumbnail\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "webinar",
+    "name": "Webinar",
+    "displayField": "title",
+    "description": "Webinar or online event",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"date\",\"name\":\"Event Date\",\"type\":\"Date\",\"required\":true},{\"id\":\"duration\",\"name\":\"Duration (minutes)\",\"type\":\"Integer\",\"required\":false},{\"id\":\"speakers\",\"name\":\"Speakers\",\"type\":\"Array\",\"items\":{\"type\":\"Link\",\"linkType\":\"Entry\"},\"required\":false},{\"id\":\"thumbnail\",\"name\":\"Thumbnail\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"videoUrl\",\"name\":\"Video URL\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "faq",
+    "name": "FAQ",
+    "displayField": "question",
+    "description": "Frequently asked question",
+    "fields_json": "[{\"id\":\"question\",\"name\":\"Question\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"answer\",\"name\":\"Answer\",\"type\":\"RichText\",\"required\":true},{\"id\":\"ILtegory\",\"name\":\"ILtegory\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"order\",\"name\":\"Display Order\",\"type\":\"Integer\",\"required\":false}]"
+  }
+]
+

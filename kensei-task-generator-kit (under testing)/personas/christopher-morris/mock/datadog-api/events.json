@@ -1,0 +1,203 @@
+﻿[
+  {
+    "id": "500001",
+    "title": "Deployment auth-service 2.0.3",
+    "text": "Deployed auth-service version 2.0.3 to production.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": "1748250000"
+  },
+  {
+    "id": "500002",
+    "title": "Monitor alert: High API p95 latency",
+    "text": "Monitor triggered: avg latency exceeded 0.6s.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "web-01",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": "1748250600"
+  },
+  {
+    "id": "500003",
+    "title": "Monitor recovered: Host CPU saturation",
+    "text": "Monitor recovered: CPU back under threshold on web-01.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "web-01",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": "1748190000"
+  },
+  {
+    "id": "500004",
+    "title": "SILling event web-frontend",
+    "text": "AutosILler added 2 pods to web-frontend.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "web-02",
+    "tags": "service:web-frontend;event:autosILle",
+    "date_happened": "1748232000"
+  },
+  {
+    "id": "500005",
+    "title": "Database migration completed",
+    "text": "Schema migration for orders table completed successfully.",
+    "alert_type": "success",
+    "priority": "normal",
+    "host": "db-01",
+    "tags": "service:database;event:migration;user:christopher-morris",
+    "date_happened": "1748260000"
+  },
+  {
+    "id": "500006",
+    "title": "Configuration change deployed",
+    "text": "Updated rate limiting policy for API gateway.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "api-gateway",
+    "tags": "service:api-gateway;event:config-change;user:christopher-morris",
+    "date_happened": "1748270000"
+  },
+  {
+    "id": "500007",
+    "title": "Backup completed",
+    "text": "Nightly backup of production database completed in 45 minutes.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "db-01",
+    "tags": "service:database;event:backup",
+    "date_happened": "1748200000"
+  },
+  {
+    "id": "500008",
+    "title": "Memory leak detected in billing-service",
+    "text": "Memory usage trending up, possible memory leak identified.",
+    "alert_type": "warning",
+    "priority": "high",
+    "host": "worker-02",
+    "tags": "service:billing-service;monitor:2001;event:anomaly",
+    "date_happened": "1748280000"
+  },
+  {
+    "id": "500009",
+    "title": "SSL certifiILte renewal",
+    "text": "SSL certifiILte for api.example.com renewed successfully.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "api-gateway",
+    "tags": "security:certifiILte;event:renewal",
+    "date_happened": "1748290000"
+  },
+  {
+    "id": "500010",
+    "title": "Performance optimization deployed",
+    "text": "Query optimization for user service reduced p95 latency by 15%.",
+    "alert_type": "success",
+    "priority": "normal",
+    "host": "api-01",
+    "tags": "service:user-service;event:optimization;user:christopher-morris",
+    "date_happened": "1748300000"
+  },
+  {
+    "id": "500011",
+    "title": "Network packet loss detected",
+    "text": "Packet loss detected on eth0: 0.5% over last hour.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "web-03",
+    "tags": "infrastructure:network;monitor:3001",
+    "date_happened": "1748310000"
+  },
+  {
+    "id": "500012",
+    "title": "Scheduled maintenance window",
+    "text": "Scheduled maintenance on worker-01, expected downtime 30 minutes.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "worker-01",
+    "tags": "infrastructure:maintenance;event:scheduled",
+    "date_happened": "1748320000"
+  },
+  {
+    "id": "500013",
+    "title": "ILche invalidation triggered",
+    "text": "Proactive ILche invalidation on all CDN nodes completed.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "cdn-master",
+    "tags": "service:cdn;event:ILche-clear;user:christopher-morris",
+    "date_happened": "1748330000"
+  },
+  {
+    "id": "500014",
+    "title": "Disk space critiILl alert",
+    "text": "Disk usage on db-02 reached 92%, automatic cleanup initiated.",
+    "alert_type": "error",
+    "priority": "high",
+    "host": "db-02",
+    "tags": "host:db-02;monitor:4001;event:storage",
+    "date_happened": "1748340000"
+  },
+  {
+    "id": "500015",
+    "title": "Load balancer rebalancing",
+    "text": "Traffic rebalanced after detection of slow backend instance.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "lb-01",
+    "tags": "infrastructure:loadbalancer;event:rebalance",
+    "date_happened": "1748350000"
+  },
+  {
+    "id": "500016",
+    "title": "Feature flag deployment",
+    "text": "New experimental feature enabled for 10% of users.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "feature-flags",
+    "tags": "service:platform;event:feature-rollout;user:christopher-morris",
+    "date_happened": "1748360000"
+  },
+  {
+    "id": "500017",
+    "title": "Service restart completed",
+    "text": "web-frontend gracefully restarted and rejoined cluster.",
+    "alert_type": "success",
+    "priority": "normal",
+    "host": "web-04",
+    "tags": "service:web-frontend;event:restart",
+    "date_happened": "1748370000"
+  },
+  {
+    "id": "500018",
+    "title": "DDoS mitigation activated",
+    "text": "Automatic DDoS protection rules activated due to traffic spike.",
+    "alert_type": "warning",
+    "priority": "high",
+    "host": "firewall-01",
+    "tags": "security:ddos;event:mitigation;user:christopher-morris",
+    "date_happened": "1748380000"
+  },
+  {
+    "id": "500019",
+    "title": "Database failover completed",
+    "text": "Automatic failover to repliIL completed, repliILtion lag < 1s.",
+    "alert_type": "success",
+    "priority": "high",
+    "host": "db-repliIL-01",
+    "tags": "service:database;event:failover",
+    "date_happened": "1748390000"
+  },
+  {
+    "id": "500020",
+    "title": "Dependency update released",
+    "text": "Security patch released for openssl library, rollout started.",
+    "alert_type": "warning",
+    "priority": "high",
+    "host": "package-manager",
+    "tags": "security:patch;event:update;user:christopher-morris",
+    "date_happened": "1748400000"
+  }
+]
+

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "4634946",
+    "name": "Knoxville",
+    "country": "US",
+    "state": "TN",
+    "lat": "35.9606",
+    "lon": "-83.9207",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4612862",
+    "name": "Farragut",
+    "country": "US",
+    "state": "TN",
+    "lat": "35.8842",
+    "lon": "-84.1557",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4619800",
+    "name": "Maryville",
+    "country": "US",
+    "state": "TN",
+    "lat": "35.7565",
+    "lon": "-83.9705",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4628905",
+    "name": "Sevierville",
+    "country": "US",
+    "state": "TN",
+    "lat": "35.8681",
+    "lon": "-83.5618",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4612999",
+    "name": "Gatlinburg",
+    "country": "US",
+    "state": "TN",
+    "lat": "35.7143",
+    "lon": "-83.5102",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4644585",
+    "name": "Nashville",
+    "country": "US",
+    "state": "TN",
+    "lat": "36.1659",
+    "lon": "-86.7844",
+    "timezone": "-18000"
+  },
+  {
+    "id": "4612697",
+    "name": "Chattanooga",
+    "country": "US",
+    "state": "TN",
+    "lat": "35.0456",
+    "lon": "-85.3097",
+    "timezone": "-18000"
+  },
+  {
+    "id": "4619894",
+    "name": "Memphis",
+    "country": "US",
+    "state": "TN",
+    "lat": "35.1495",
+    "lon": "-90.0490",
+    "timezone": "-18000"
+  },
+  {
+    "id": "4607237",
+    "name": "Harlan",
+    "country": "US",
+    "state": "KY",
+    "lat": "36.8431",
+    "lon": "-83.3216",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4302561",
+    "name": "Hazard",
+    "country": "US",
+    "state": "KY",
+    "lat": "37.2492",
+    "lon": "-83.1932",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4297983",
+    "name": "Lexington",
+    "country": "US",
+    "state": "KY",
+    "lat": "38.0406",
+    "lon": "-84.5037",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4180439",
+    "name": "Atlanta",
+    "country": "US",
+    "state": "GA",
+    "lat": "33.7490",
+    "lon": "-84.3880",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4460243",
+    "name": "Charlotte",
+    "country": "US",
+    "state": "NC",
+    "lat": "35.2271",
+    "lon": "-80.8431",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4574324",
+    "name": "Asheville",
+    "country": "US",
+    "state": "NC",
+    "lat": "35.5951",
+    "lon": "-82.5515",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4259418",
+    "name": "Indianapolis",
+    "country": "US",
+    "state": "IN",
+    "lat": "39.7684",
+    "lon": "-86.1581",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4509177",
+    "name": "Columbus",
+    "country": "US",
+    "state": "OH",
+    "lat": "39.9612",
+    "lon": "-82.9988",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4641239",
+    "name": "Dandridge",
+    "country": "US",
+    "state": "TN",
+    "lat": "36.0151",
+    "lon": "-83.4149",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4631997",
+    "name": "Talbott",
+    "country": "US",
+    "state": "TN",
+    "lat": "36.1631",
+    "lon": "-83.3735",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4646740",
+    "name": "Oak Ridge",
+    "country": "US",
+    "state": "TN",
+    "lat": "36.0104",
+    "lon": "-84.2696",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4621846",
+    "name": "Morristown",
+    "country": "US",
+    "state": "TN",
+    "lat": "36.2140",
+    "lon": "-83.2949",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4634662",
+    "name": "Kingsport",
+    "country": "US",
+    "state": "TN",
+    "lat": "36.5484",
+    "lon": "-82.5618",
+    "timezone": "-14400"
+  },
+  {
+    "id": "4612501",
+    "name": "Cookeville",
+    "country": "US",
+    "state": "TN",
+    "lat": "36.1628",
+    "lon": "-85.5016",
+    "timezone": "-18000"
+  }
+]

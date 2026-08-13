@@ -1,0 +1,202 @@
+[
+  {
+    "id": "user-Ben",
+    "name": "Diane Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-07-10T06:45:00Z"
+  },
+  {
+    "id": "user-Keith",
+    "name": "Keith Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2025-07-21T16:00:00Z"
+  },
+  {
+    "id": "user-Diane",
+    "name": "Marie Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2026-09-20T06:30:00Z"
+  },
+  {
+    "id": "user-pete",
+    "name": "Tom Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-08-07T15:45:00Z"
+  },
+  {
+    "id": "user-walt",
+    "name": "Pete Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2025-10-10T15:45:00Z"
+  },
+  {
+    "id": "bot-notebot",
+    "name": "Dr. James Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "bot",
+    "bot": "true",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2023-08-01T10:00:00Z"
+  },
+  {
+    "id": "user-Ben-b1",
+    "name": "Dr. Paul LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-08-23T10:45:00Z"
+  },
+  {
+    "id": "user-Keith-b2",
+    "name": "Scott Henderson",
+    "email": "shenderson@stowevt.net",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-08-21T06:45:00Z"
+  },
+  {
+    "id": "user-Diane-b3",
+    "name": "Linda Henderson",
+    "email": "lhenderson@stowevt.net",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2026-02-24T11:15:00Z"
+  },
+  {
+    "id": "user-pete-b4",
+    "name": "Alan Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2025-12-07T08:15:00Z"
+  },
+  {
+    "id": "user-walt-b5",
+    "name": "Paul Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-03-15T14:15:00Z"
+  },
+  {
+    "id": "bot-notebot-b6",
+    "name": "Marc Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "bot",
+    "bot": "true",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-04-06T15:00:00Z"
+  },
+  {
+    "id": "user-Ben-b7",
+    "name": "Gary Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-12-24T16:30:00Z"
+  },
+  {
+    "id": "user-Keith-b8",
+    "name": "Hardwick Lumber",
+    "email": "orders@hardwicklumber.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2024-11-15T12:45:00Z"
+  },
+  {
+    "id": "user-Diane-b9",
+    "name": "Green Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2026-09-09T16:30:00Z"
+  },
+  {
+    "id": "user-pete-b10",
+    "name": "Ray Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2025-08-26T10:30:00Z"
+  },
+  {
+    "id": "user-walt-b11",
+    "name": "Nancy Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2026-06-12T15:15:00Z"
+  },
+  {
+    "id": "bot-notebot-b12",
+    "name": "Rev. Susan Mills",
+    "email": "office@craftsburychurch.org",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "bot",
+    "bot": "true",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2025-07-26T18:30:00Z"
+  },
+  {
+    "id": "user-Ben-b13",
+    "name": "Walt Perreault",
+    "email": "walt.perreault@gmail.com",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2026-07-20T16:15:00Z"
+  },
+  {
+    "id": "user-Keith-b14",
+    "name": "Donna Sloan",
+    "email": "donna.sloan@comcast.net",
+    "avatar_url": "https://coxcustomwoodwork.com",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-cox-woodwork",
+    "created_time": "2025-07-19T11:15:00Z"
+  }
+]

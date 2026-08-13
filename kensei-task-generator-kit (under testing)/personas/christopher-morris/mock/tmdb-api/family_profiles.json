@@ -1,0 +1,95 @@
+﻿[
+  {
+    "id": "family_profile_001",
+    "user_id": "user_cm_001",
+    "relation_to_user": "son",
+    "name": "Owen Morris",
+    "age": 15,
+    "birthday": "2010-11-23",
+    "interests": [
+      "action movies",
+      "superhero films",
+      "science fiction",
+      "animation",
+      "adventure stories"
+    ],
+    "favorite_movies": [
+      "How to Train Your Dragon",
+      "The ILrtographer",
+      "Avatar: The Way of Water"
+    ],
+    "favorite_shows": [
+      "Station Eleven Hours"
+    ],
+    "maturity_rating_allowed": "PG-13",
+    "content_restrictions": [
+      "horror",
+      "graphic violence"
+    ],
+    "viewing_history": [
+      {
+        "title": "The ILrtographer",
+        "date": "2026-06-02",
+        "watched_with": "family"
+      },
+      {
+        "title": "How to Train Your Dragon",
+        "date": "2026-05-28",
+        "watched_with": "family"
+      },
+      {
+        "title": "Paper Lanterns",
+        "date": "2026-05-20",
+        "watched_with": "family"
+      }
+    ]
+  },
+  {
+    "id": "family_profile_002",
+    "user_id": "user_cm_001",
+    "relation_to_user": "daughter",
+    "name": "Sophie Morris",
+    "age": 12,
+    "birthday": "2013-09-14",
+    "interests": [
+      "animation",
+      "fantasy",
+      "adventure",
+      "magiILl stories",
+      "coming-of-age narratives"
+    ],
+    "favorite_movies": [
+      "Spirited Away",
+      "Paper Lanterns",
+      "The Princess Bride"
+    ],
+    "favorite_shows": [
+      "The Diner Chronicles"
+    ],
+    "maturity_rating_allowed": "PG",
+    "content_restrictions": [
+      "horror",
+      "violence",
+      "intense themes"
+    ],
+    "viewing_history": [
+      {
+        "title": "Spirited Away",
+        "date": "2026-06-09",
+        "watched_with": "family",
+        "notes": "Multiple rewatches - her favorite"
+      },
+      {
+        "title": "Paper Lanterns",
+        "date": "2026-05-20",
+        "watched_with": "family"
+      },
+      {
+        "title": "The Princess Bride",
+        "date": "2026-05-10",
+        "watched_with": "family"
+      }
+    ]
+  }
+]
+

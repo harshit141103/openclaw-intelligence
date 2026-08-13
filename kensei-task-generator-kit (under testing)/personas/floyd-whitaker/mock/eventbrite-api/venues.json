@@ -1,0 +1,222 @@
+[
+  {
+    "id": "venue-volconf",
+    "name": "Volunteer Conference Center",
+    "address1": "525 Henley St",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37902",
+    "country": "US",
+    "latitude": "35.9620",
+    "longitude": "-83.9210"
+  },
+  {
+    "id": "venue-knoxconv",
+    "name": "Knoxville Convention Center",
+    "address1": "701 Henley St",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37902",
+    "country": "US",
+    "latitude": "35.9595",
+    "longitude": "-83.9215"
+  },
+  {
+    "id": "venue-smokybrew",
+    "name": "Smoky Mountain Brewery",
+    "address1": "424 S Gay St",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37902",
+    "country": "US",
+    "latitude": "35.9645",
+    "longitude": "-83.9192"
+  },
+  {
+    "id": "venue-neyland",
+    "name": "Neyland Stadium",
+    "address1": "1235 Phillip Fulmer Way",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37916",
+    "country": "US",
+    "latitude": "35.9550",
+    "longitude": "-83.9252"
+  },
+  {
+    "id": "venue-atlmarriott",
+    "name": "Atlanta Marriott Marquis",
+    "address1": "265 Peachtree Center Ave NE",
+    "city": "Atlanta",
+    "region": "GA",
+    "postal_code": "30303",
+    "country": "US",
+    "latitude": "33.7621",
+    "longitude": "-84.3858"
+  },
+  {
+    "id": "venue-online",
+    "name": "Online Webinar",
+    "address1": "",
+    "city": "",
+    "region": "",
+    "postal_code": "",
+    "country": "US",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "id": "venue-pretentious",
+    "name": "Pretentious Beer Co.",
+    "address1": "131 S Central St",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37902",
+    "country": "US",
+    "latitude": "35.9690",
+    "longitude": "-83.9175"
+  },
+  {
+    "id": "venue-calhouns",
+    "name": "Calhoun's on the River",
+    "address1": "400 Neyland Dr",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37902",
+    "country": "US",
+    "latitude": "35.9618",
+    "longitude": "-83.9270"
+  },
+  {
+    "id": "venue-aubreys",
+    "name": "Aubrey's Restaurant",
+    "address1": "102 S Northshore Dr",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37919",
+    "country": "US",
+    "latitude": "35.9000",
+    "longitude": "-84.0060"
+  },
+  {
+    "id": "venue-northshore",
+    "name": "Northshore Brasserie",
+    "address1": "9430 S Northshore Dr",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37922",
+    "country": "US",
+    "latitude": "35.8660",
+    "longitude": "-84.0790"
+  },
+  {
+    "id": "venue-lakeshore",
+    "name": "Lakeshore Park",
+    "address1": "6410 S Northshore Dr",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37919",
+    "country": "US",
+    "latitude": "35.8930",
+    "longitude": "-84.0210"
+  },
+  {
+    "id": "venue-backporch",
+    "name": "The Back Porch",
+    "address1": "3815 Sutherland Ave",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37919",
+    "country": "US",
+    "latitude": "35.9430",
+    "longitude": "-83.9710"
+  },
+  {
+    "id": "venue-ridgeview",
+    "name": "Ridgeview Baptist Church",
+    "address1": "7720 Middlebrook Pike",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37909",
+    "country": "US",
+    "latitude": "35.9320",
+    "longitude": "-84.0150"
+  },
+  {
+    "id": "venue-thompsonboling",
+    "name": "Thompson-Boling Arena",
+    "address1": "1600 Phillip Fulmer Way",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37916",
+    "country": "US",
+    "latitude": "35.9530",
+    "longitude": "-83.9248"
+  },
+  {
+    "id": "venue-oakwood",
+    "name": "Oakwood Diner",
+    "address1": "2300 N Broadway",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37917",
+    "country": "US",
+    "latitude": "35.9990",
+    "longitude": "-83.9230"
+  },
+  {
+    "id": "venue-worldsfair",
+    "name": "World's Fair Park Exhibition Hall",
+    "address1": "963 World's Fair Park Dr",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37916",
+    "country": "US",
+    "latitude": "35.9610",
+    "longitude": "-83.9245"
+  },
+  {
+    "id": "venue-nashmusic",
+    "name": "Nashville Music City Center",
+    "address1": "201 Rep John Lewis Way S",
+    "city": "Nashville",
+    "region": "TN",
+    "postal_code": "37203",
+    "country": "US",
+    "latitude": "36.1565",
+    "longitude": "-86.7765"
+  },
+  {
+    "id": "venue-chatchoo",
+    "name": "Chattanooga Convention Center",
+    "address1": "1150 Carter St",
+    "city": "Chattanooga",
+    "region": "TN",
+    "postal_code": "37402",
+    "country": "US",
+    "latitude": "35.0440",
+    "longitude": "-85.3110"
+  },
+  {
+    "id": "venue-douglasmarina",
+    "name": "Douglas Lake Marina",
+    "address1": "2845 Swann's Marina Rd",
+    "city": "Dandridge",
+    "region": "TN",
+    "postal_code": "37725",
+    "country": "US",
+    "latitude": "36.0140",
+    "longitude": "-83.4150"
+  },
+  {
+    "id": "venue-volconfctr",
+    "name": "Knoxville Marriott",
+    "address1": "501 E Hill Ave",
+    "city": "Knoxville",
+    "region": "TN",
+    "postal_code": "37915",
+    "country": "US",
+    "latitude": "35.9625",
+    "longitude": "-83.9095"
+  }
+]

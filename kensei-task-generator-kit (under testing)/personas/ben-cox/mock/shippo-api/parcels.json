@@ -1,0 +1,202 @@
+[
+  {
+    "object_id": "parcel-01",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-02",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-03",
+    "length": "5",
+    "width": "5",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "0.75",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-902",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-904",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-906",
+    "length": "5",
+    "width": "5",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "0.75",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-905",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-907",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-909",
+    "length": "5",
+    "width": "5",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "0.75",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-908",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-910",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-912",
+    "length": "5",
+    "width": "5",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "0.75",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-911",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-913",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-915",
+    "length": "5",
+    "width": "5",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "0.75",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-914",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-916",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-918",
+    "length": "5",
+    "width": "5",
+    "height": "5",
+    "distance_unit": "in",
+    "weight": "0.75",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-917",
+    "length": "10",
+    "width": "8",
+    "height": "4",
+    "distance_unit": "in",
+    "weight": "2.5",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-919",
+    "length": "16",
+    "width": "12",
+    "height": "8",
+    "distance_unit": "in",
+    "weight": "7.0",
+    "mass_unit": "lb",
+    "template": ""
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "blogPost",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "A single article for the Whitaker Freight website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author",
+    "name": "Author",
+    "displayField": "name",
+    "description": "A WFS staff author or contributor",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category",
+    "name": "Category",
+    "displayField": "title",
+    "description": "A taxonomy category for freight articles",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "service",
+    "name": "Service",
+    "displayField": "name",
+    "description": "A freight brokerage service offered by Whitaker Freight",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"summary\",\"name\":\"Summary\",\"type\":\"Text\",\"required\":false},{\"id\":\"icon\",\"name\":\"Icon\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "testimonial",
+    "name": "Testimonial",
+    "displayField": "client",
+    "description": "A client testimonial for the Whitaker Freight website",
+    "fields_json": "[{\"id\":\"client\",\"name\":\"Client\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"company\",\"name\":\"Company\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"quote\",\"name\":\"Quote\",\"type\":\"Text\",\"required\":true},{\"id\":\"rating\",\"name\":\"Rating\",\"type\":\"Integer\",\"required\":false}]"
+  },
+  {
+    "id": "lane",
+    "name": "Lane",
+    "displayField": "title",
+    "description": "A freight lane served by Whitaker Freight",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"origin\",\"name\":\"Origin\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"destination\",\"name\":\"Destination\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"equipment\",\"name\":\"Equipment\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "teamMember",
+    "name": "Team Member",
+    "displayField": "name",
+    "description": "A WFS staff member profile for the about page",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"role\",\"name\":\"Role\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"photo\",\"name\":\"Photo\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "faq",
+    "name": "FAQ",
+    "displayField": "question",
+    "description": "A frequently asked question about freight brokerage",
+    "fields_json": "[{\"id\":\"question\",\"name\":\"Question\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"answer\",\"name\":\"Answer\",\"type\":\"Text\",\"required\":true},{\"id\":\"order\",\"name\":\"Order\",\"type\":\"Integer\",\"required\":false}]"
+  },
+  {
+    "id": "caseStudy",
+    "name": "Case Study",
+    "displayField": "title",
+    "description": "A client case study highlighting a freight solution",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"summary\",\"name\":\"Summary\",\"type\":\"Text\",\"required\":false},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false}]"
+  },
+  {
+    "id": "page",
+    "name": "Page",
+    "displayField": "title",
+    "description": "A standalone page on the Whitaker Freight website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false}]"
+  },
+  {
+    "id": "tag",
+    "name": "Tag",
+    "displayField": "label",
+    "description": "A tag for grouping freight articles",
+    "fields_json": "[{\"id\":\"label\",\"name\":\"Label\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "asset",
+    "name": "Asset Group",
+    "displayField": "name",
+    "description": "A named collection of downloadable shipper resources",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"file\",\"name\":\"File\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "navItem",
+    "name": "Navigation Item",
+    "displayField": "label",
+    "description": "A navigation menu item for the site header",
+    "fields_json": "[{\"id\":\"label\",\"name\":\"Label\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"url\",\"name\":\"URL\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"order\",\"name\":\"Order\",\"type\":\"Integer\",\"required\":false}]"
+  },
+  {
+    "id": "ctaBanner",
+    "name": "CTA Banner",
+    "displayField": "heading",
+    "description": "A call to action banner for landing pages",
+    "fields_json": "[{\"id\":\"heading\",\"name\":\"Heading\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"buttonLabel\",\"name\":\"Button Label\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"buttonUrl\",\"name\":\"Button URL\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "industry",
+    "name": "Industry",
+    "displayField": "name",
+    "description": "An industry vertical Whitaker Freight serves",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false}]"
+  },
+  {
+    "id": "event",
+    "name": "Event",
+    "displayField": "title",
+    "description": "An industry event such as a DOT webinar or association conference",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Date\",\"required\":true},{\"id\":\"location\",\"name\":\"Location\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "resource",
+    "name": "Resource",
+    "displayField": "title",
+    "description": "A downloadable guide or whitepaper for shippers",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"file\",\"name\":\"File\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "quote",
+    "name": "Quote Request",
+    "displayField": "label",
+    "description": "A configured quote request form for a service page",
+    "fields_json": "[{\"id\":\"label\",\"name\":\"Label\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"service\",\"name\":\"Service\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false}]"
+  },
+  {
+    "id": "location",
+    "name": "Location",
+    "displayField": "name",
+    "description": "An office or service location for Whitaker Freight",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"address\",\"name\":\"Address\",\"type\":\"Text\",\"required\":false},{\"id\":\"phone\",\"name\":\"Phone\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "seoMeta",
+    "name": "SEO Meta",
+    "displayField": "title",
+    "description": "SEO metadata fields attached to a page",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"ogImage\",\"name\":\"OG Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "footerLink",
+    "name": "Footer Link",
+    "displayField": "label",
+    "description": "A link displayed in the website footer",
+    "fields_json": "[{\"id\":\"label\",\"name\":\"Label\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"url\",\"name\":\"URL\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"group\",\"name\":\"Group\",\"type\":\"Symbol\",\"required\":false}]"
+  }
+]

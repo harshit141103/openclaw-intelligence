@@ -1,0 +1,15 @@
+{
+  "id": "user-craig",
+  "display_name": "Craig Figueroa",
+  "email": "craig.figueroa@gmail.com",
+  "country": "GB",
+  "product": "premium",
+  "followers": 38,
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/craig.png",
+      "height": 300,
+      "width": 300
+    }
+  ]
+}

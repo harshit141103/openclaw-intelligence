@@ -1,0 +1,40 @@
+﻿[
+  {
+    "id": "tax-001",
+    "employee_id": "chr-emp-001",
+    "employee_name": "Christopher Morris",
+    "employee_email": "cmorris@meridianbenefits.com",
+    "document_type": "W-2",
+    "tax_year": 2025,
+    "gross_income": "94000.00",
+    "federal_tax_withheld": "15250.00",
+    "state_tax_withheld": "3760.00",
+    "social_security_withheld": "5828.00",
+    "mediILre_withheld": "1363.00",
+    "filing_status": "Single",
+    "issue_date": "2026-01-30"
+  },
+  {
+    "id": "tax-002",
+    "employee_id": "chr-emp-001",
+    "employee_name": "Christopher Morris",
+    "employee_email": "christopher.morris@voissync.ai",
+    "document_type": "1098-T",
+    "tax_year": 2025,
+    "qualified_eduILtion_expenses": "0.00",
+    "issue_date": "2026-01-30"
+  },
+  {
+    "id": "tax-003",
+    "employee_id": "chr-emp-001",
+    "employee_name": "Christopher Morris",
+    "employee_email": "cmorris@meridianbenefits.com",
+    "document_type": "1095-B",
+    "tax_year": 2025,
+    "coverage_type": "Self-only coverage",
+    "coverage_start": "2025-01-01",
+    "coverage_end": "2025-12-31",
+    "issue_date": "2026-02-15"
+  }
+]
+

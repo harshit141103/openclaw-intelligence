@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cls-music-rock",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Set up the dado stack for the bookshelf rabbets"
+  },
+  {
+    "id": "cls-music-pop",
+    "segment": "Music",
+    "genre": "Pop",
+    "subgenre": "Pop"
+  },
+  {
+    "id": "cls-music-jazz",
+    "segment": "Music",
+    "genre": "Jazz",
+    "subgenre": "Jazz"
+  },
+  {
+    "id": "cls-sports-basketball",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "subgenre": "NBA"
+  },
+  {
+    "id": "cls-sports-soccer",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "subgenre": "MLS"
+  },
+  {
+    "id": "cls-arts-theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Musical"
+  },
+  {
+    "id": "cls-arts-comedy",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "subgenre": "Comedy"
+  },
+  {
+    "id": "cls-music-rock-b1",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Sharpen the jointer knives and reset the infeed table"
+  },
+  {
+    "id": "cls-music-pop-b2",
+    "segment": "Music",
+    "genre": "Pop",
+    "subgenre": "Pop"
+  },
+  {
+    "id": "cls-music-jazz-b3",
+    "segment": "Music",
+    "genre": "Jazz",
+    "subgenre": "Jazz"
+  },
+  {
+    "id": "cls-sports-basketball-b4",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "subgenre": "NBA"
+  },
+  {
+    "id": "cls-sports-soccer-b5",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "subgenre": "MLS"
+  },
+  {
+    "id": "cls-arts-theatre-b6",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Musical"
+  },
+  {
+    "id": "cls-arts-comedy-b7",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "subgenre": "Comedy"
+  },
+  {
+    "id": "cls-music-rock-b8",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Splitting and stacking the winter firewood"
+  },
+  {
+    "id": "cls-music-pop-b9",
+    "segment": "Music",
+    "genre": "Pop",
+    "subgenre": "Pop"
+  },
+  {
+    "id": "cls-music-jazz-b10",
+    "segment": "Music",
+    "genre": "Jazz",
+    "subgenre": "Jazz"
+  },
+  {
+    "id": "cls-sports-basketball-b11",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "subgenre": "NBA"
+  },
+  {
+    "id": "cls-sports-soccer-b12",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "subgenre": "MLS"
+  },
+  {
+    "id": "cls-arts-theatre-b13",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Musical"
+  }
+]

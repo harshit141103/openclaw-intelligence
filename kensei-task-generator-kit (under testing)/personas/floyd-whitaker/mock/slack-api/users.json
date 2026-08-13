@@ -1,0 +1,222 @@
+[
+  {
+    "id": "U01FLOYD",
+    "name": "floyd",
+    "real_name": "Floyd Whitaker",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "on the phones with carriers",
+    "presence": "active"
+  },
+  {
+    "id": "U01BREN",
+    "name": "bren",
+    "real_name": "Brenda Sizemore",
+    "email": "bren.sizemore@finthesiss.ai",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "running the front office",
+    "presence": "active"
+  },
+  {
+    "id": "U01BRAND",
+    "name": "brand",
+    "real_name": "Brandon Whitaker",
+    "email": "brand.whitaker@finthesiss.ai",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "learning the ropes",
+    "presence": "active"
+  },
+  {
+    "id": "U01TRAVIS",
+    "name": "travis",
+    "real_name": "Travis Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "dispatching",
+    "presence": "active"
+  },
+  {
+    "id": "U01LORRIE",
+    "name": "lorrie",
+    "real_name": "Lorrie Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01DALE",
+    "name": "dale",
+    "real_name": "Dale Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "closing out the books",
+    "presence": "away"
+  },
+  {
+    "id": "U01CARLA",
+    "name": "carla",
+    "real_name": "Carla Whitfield",
+    "email": "carla.whitfield@finthesiss.ai",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01KEITH",
+    "name": "keith",
+    "real_name": "Keith Burgess",
+    "email": "keith.burgess@gmail.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "mentorship program",
+    "presence": "away"
+  },
+  {
+    "id": "U01WAYNE",
+    "name": "wayne",
+    "real_name": "Wayne Prater",
+    "email": "wayne.prater@gmail.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "quarterly review prep",
+    "presence": "away"
+  },
+  {
+    "id": "U01EARL",
+    "name": "earl",
+    "real_name": "Earl Napier",
+    "email": "earl.napier@napierhauling.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "mentorship cohort",
+    "presence": "away"
+  },
+  {
+    "id": "U01ROYM",
+    "name": "roymullins",
+    "real_name": "Roy Mullins",
+    "email": "roy.mullins@mullinstrucking.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "mentorship cohort",
+    "presence": "away"
+  },
+  {
+    "id": "U01GLEN",
+    "name": "glenmabry",
+    "real_name": "Glen Mabry",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "auto parts shipping",
+    "presence": "away"
+  },
+  {
+    "id": "U01RUTH",
+    "name": "ruthlyle",
+    "real_name": "Ruth Lyle",
+    "email": "ruth.lyle@valleygrainco.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "grain co-op",
+    "presence": "away"
+  },
+  {
+    "id": "U01PETE",
+    "name": "petearnett",
+    "real_name": "Pete Arnett",
+    "email": "pete.arnett@smokymtnsupply.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "building supply",
+    "presence": "away"
+  },
+  {
+    "id": "U01HAL",
+    "name": "haleubanks",
+    "real_name": "Hal Eubanks",
+    "email": "hal.eubanks@tristatemfg.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "away"
+  },
+  {
+    "id": "U01NAN",
+    "name": "nancoley",
+    "real_name": "Nan Coley",
+    "email": "nan.coley@appalachianag.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "ag producers",
+    "presence": "away"
+  },
+  {
+    "id": "U01MARCO",
+    "name": "marco",
+    "real_name": "Marco Reyes",
+    "email": "marco.reyes@ridgelinetrucking.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "Ridgeline dispatch",
+    "presence": "away"
+  },
+  {
+    "id": "U01DWAYNE",
+    "name": "dwayne",
+    "real_name": "Dwayne Stiles",
+    "email": "dwayne.stiles@cumberlandgapcarriers.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "Cumberland Gap Carriers",
+    "presence": "away"
+  },
+  {
+    "id": "U01WANDA",
+    "name": "wanda",
+    "real_name": "Wanda Profitt",
+    "email": "wanda.profitt@finthesiss.ai",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "summer help",
+    "presence": "active"
+  },
+  {
+    "id": "U01SLACKBOT",
+    "name": "slackbot",
+    "real_name": "Slackbot",
+    "email": "",
+    "is_admin": "false",
+    "is_bot": "true",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  }
+]

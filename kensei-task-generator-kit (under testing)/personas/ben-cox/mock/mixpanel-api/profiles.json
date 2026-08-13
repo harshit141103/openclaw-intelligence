@@ -1,0 +1,182 @@
+[
+  {
+    "distinct_id": "user-aria",
+    "name": "Diane Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "6",
+    "last_seen": "2025-02-07T10:15:00Z"
+  },
+  {
+    "distinct_id": "user-bode",
+    "name": "Keith Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "5",
+    "last_seen": "2023-12-25T06:45:00Z"
+  },
+  {
+    "distinct_id": "user-cleo",
+    "name": "Marie Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "country": "US",
+    "plan": "free",
+    "total_events": "5",
+    "last_seen": "2024-01-22T12:45:00Z"
+  },
+  {
+    "distinct_id": "user-dane",
+    "name": "Tom Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "country": "US",
+    "plan": "free",
+    "total_events": "2",
+    "last_seen": "2026-09-03T09:45:00Z"
+  },
+  {
+    "distinct_id": "user-esme",
+    "name": "Pete Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "country": "US",
+    "plan": "free",
+    "total_events": "0",
+    "last_seen": "2026-07-28T08:00:00Z"
+  },
+  {
+    "distinct_id": "user-aria",
+    "name": "Dr. James Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "6",
+    "last_seen": "2024-03-20T16:15:00Z"
+  },
+  {
+    "distinct_id": "user-bode",
+    "name": "Dr. Paul LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "5",
+    "last_seen": "2024-02-08T11:30:00Z"
+  },
+  {
+    "distinct_id": "user-cleo",
+    "name": "Scott Henderson",
+    "email": "shenderson@stowevt.net",
+    "country": "US",
+    "plan": "free",
+    "total_events": "5",
+    "last_seen": "2024-06-01T16:15:00Z"
+  },
+  {
+    "distinct_id": "user-dane",
+    "name": "Linda Henderson",
+    "email": "lhenderson@stowevt.net",
+    "country": "US",
+    "plan": "free",
+    "total_events": "2",
+    "last_seen": "2026-04-01T17:45:00Z"
+  },
+  {
+    "distinct_id": "user-esme",
+    "name": "Alan Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "country": "US",
+    "plan": "free",
+    "total_events": "0",
+    "last_seen": "2024-12-22T07:30:00Z"
+  },
+  {
+    "distinct_id": "user-aria",
+    "name": "Paul Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "6",
+    "last_seen": "2026-05-11T18:15:00Z"
+  },
+  {
+    "distinct_id": "user-bode",
+    "name": "Marc Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "5",
+    "last_seen": "2026-04-18T18:15:00Z"
+  },
+  {
+    "distinct_id": "user-cleo",
+    "name": "Gary Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "country": "US",
+    "plan": "free",
+    "total_events": "5",
+    "last_seen": "2026-10-07T07:15:00Z"
+  },
+  {
+    "distinct_id": "user-dane",
+    "name": "Hardwick Lumber",
+    "email": "orders@hardwicklumber.com",
+    "country": "US",
+    "plan": "free",
+    "total_events": "2",
+    "last_seen": "2026-01-18T17:45:00Z"
+  },
+  {
+    "distinct_id": "user-esme",
+    "name": "Green Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "country": "US",
+    "plan": "free",
+    "total_events": "0",
+    "last_seen": "2026-07-03T13:15:00Z"
+  },
+  {
+    "distinct_id": "user-aria",
+    "name": "Ray Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "6",
+    "last_seen": "2026-03-02T14:30:00Z"
+  },
+  {
+    "distinct_id": "user-bode",
+    "name": "Nancy Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "country": "US",
+    "plan": "paid",
+    "total_events": "5",
+    "last_seen": "2025-05-20T17:15:00Z"
+  },
+  {
+    "distinct_id": "user-cleo",
+    "name": "Rev. Susan Mills",
+    "email": "office@craftsburychurch.org",
+    "country": "US",
+    "plan": "free",
+    "total_events": "5",
+    "last_seen": "2025-10-09T13:15:00Z"
+  },
+  {
+    "distinct_id": "user-dane",
+    "name": "Walt Perreault",
+    "email": "walt.perreault@gmail.com",
+    "country": "US",
+    "plan": "free",
+    "total_events": "2",
+    "last_seen": "2026-09-17T07:00:00Z"
+  },
+  {
+    "distinct_id": "user-esme",
+    "name": "Donna Sloan",
+    "email": "donna.sloan@comcast.net",
+    "country": "US",
+    "plan": "free",
+    "total_events": "0",
+    "last_seen": "2026-08-21T17:45:00Z"
+  }
+]

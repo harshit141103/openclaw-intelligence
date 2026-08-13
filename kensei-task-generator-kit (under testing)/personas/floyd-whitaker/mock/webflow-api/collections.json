@@ -1,0 +1,182 @@
+[
+  {
+    "id": "660b2a0000000000000002b1",
+    "site_id": "650a1f0000000000000001a1",
+    "display_name": "Blog Posts",
+    "singular_name": "Blog Post",
+    "slug": "blog-posts",
+    "created_on": "2026-01-16T10:30:00.000Z",
+    "last_updated": "2026-05-19T12:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b2",
+    "site_id": "650a1f0000000000000001a1",
+    "display_name": "Authors",
+    "singular_name": "Author",
+    "slug": "authors",
+    "created_on": "2026-01-16T10:35:00.000Z",
+    "last_updated": "2026-05-10T09:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b3",
+    "site_id": "650a1f0000000000000001a2",
+    "display_name": "Carrier Help Articles",
+    "singular_name": "Help Article",
+    "slug": "help-articles",
+    "created_on": "2026-02-03T09:50:00.000Z",
+    "last_updated": "2026-05-21T15:20:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b4",
+    "site_id": "650a1f0000000000000001a3",
+    "display_name": "Mentorship Sessions",
+    "singular_name": "Mentorship Session",
+    "slug": "mentorship-sessions",
+    "created_on": "2026-03-12T14:10:00.000Z",
+    "last_updated": "2026-05-17T10:10:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b5",
+    "site_id": "650a1f0000000000000001a4",
+    "display_name": "BBQ Gear",
+    "singular_name": "BBQ Product",
+    "slug": "bbq-gear",
+    "created_on": "2026-04-02T16:30:00.000Z",
+    "last_updated": "2026-05-24T18:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b6",
+    "site_id": "650a1f0000000000000001a5",
+    "display_name": "Freight Articles",
+    "singular_name": "Freight Article",
+    "slug": "freight-articles",
+    "created_on": "2026-01-21T09:00:00.000Z",
+    "last_updated": "2026-05-28T13:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b7",
+    "site_id": "650a1f0000000000000001a6",
+    "display_name": "Webinar Sessions",
+    "singular_name": "Webinar Session",
+    "slug": "webinar-sessions",
+    "created_on": "2026-02-11T10:00:00.000Z",
+    "last_updated": "2026-05-29T08:30:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b8",
+    "site_id": "650a1f0000000000000001a7",
+    "display_name": "Vetting Checklists",
+    "singular_name": "Vetting Checklist",
+    "slug": "vetting-checklists",
+    "created_on": "2026-02-19T11:30:00.000Z",
+    "last_updated": "2026-05-26T15:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002b9",
+    "site_id": "650a1f0000000000000001a8",
+    "display_name": "Board Members",
+    "singular_name": "Board Member",
+    "slug": "board-members",
+    "created_on": "2026-03-02T08:30:00.000Z",
+    "last_updated": "2026-05-15T11:45:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c1",
+    "site_id": "650a1f0000000000000001a9",
+    "display_name": "Recipes",
+    "singular_name": "Recipe",
+    "slug": "recipes",
+    "created_on": "2026-04-06T17:00:00.000Z",
+    "last_updated": "2026-05-30T18:30:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c2",
+    "site_id": "650a1f0000000000000001b1",
+    "display_name": "Client Accounts",
+    "singular_name": "Client Account",
+    "slug": "client-accounts",
+    "created_on": "2026-01-26T13:00:00.000Z",
+    "last_updated": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c3",
+    "site_id": "650a1f0000000000000001b2",
+    "display_name": "Rate Quotes",
+    "singular_name": "Rate Quote",
+    "slug": "rate-quotes",
+    "created_on": "2026-02-15T11:00:00.000Z",
+    "last_updated": "2026-05-24T15:30:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c4",
+    "site_id": "650a1f0000000000000001b3",
+    "display_name": "Job Openings",
+    "singular_name": "Job Opening",
+    "slug": "job-openings",
+    "created_on": "2026-03-09T09:30:00.000Z",
+    "last_updated": "2026-05-12T11:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c5",
+    "site_id": "650a1f0000000000000001b4",
+    "display_name": "Fishing Reports",
+    "singular_name": "Fishing Report",
+    "slug": "fishing-reports",
+    "created_on": "2026-04-13T18:30:00.000Z",
+    "last_updated": "2026-05-31T18:45:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c6",
+    "site_id": "650a1f0000000000000001b5",
+    "display_name": "Railroad Maps",
+    "singular_name": "Railroad Map",
+    "slug": "railroad-maps",
+    "created_on": "2026-04-19T15:00:00.000Z",
+    "last_updated": "2026-05-20T09:30:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c7",
+    "site_id": "650a1f0000000000000001b6",
+    "display_name": "Lane Rates",
+    "singular_name": "Lane Rate",
+    "slug": "lane-rates",
+    "created_on": "2026-02-27T09:00:00.000Z",
+    "last_updated": "2026-05-23T14:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c8",
+    "site_id": "650a1f0000000000000001b7",
+    "display_name": "Border Crossing Guides",
+    "singular_name": "Crossing Guide",
+    "slug": "border-crossing-guides",
+    "created_on": "2026-03-16T12:00:00.000Z",
+    "last_updated": "2026-05-19T09:20:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002c9",
+    "site_id": "650a1f0000000000000001b8",
+    "display_name": "Shop Events",
+    "singular_name": "Shop Event",
+    "slug": "shop-events",
+    "created_on": "2026-04-21T16:30:00.000Z",
+    "last_updated": "2026-05-28T17:00:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002d1",
+    "site_id": "650a1f0000000000000001b9",
+    "display_name": "Testimonials",
+    "singular_name": "Testimonial",
+    "slug": "testimonials",
+    "created_on": "2026-01-31T10:30:00.000Z",
+    "last_updated": "2026-05-21T12:30:00.000Z"
+  },
+  {
+    "id": "660b2a0000000000000002d2",
+    "site_id": "650a1f0000000000000001c1",
+    "display_name": "Mentorship Applications",
+    "singular_name": "Application",
+    "slug": "mentorship-applications",
+    "created_on": "2026-03-21T09:30:00.000Z",
+    "last_updated": "2026-05-18T10:30:00.000Z"
+  }
+]

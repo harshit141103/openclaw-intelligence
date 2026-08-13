@@ -1,0 +1,162 @@
+[
+  {
+    "query": "Craftsbury, VT",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7749",
+    "lng": "-122.4194",
+    "place_id": "Stowe, VT",
+    "location_type": "Montpelier, VT"
+  },
+  {
+    "query": "union square",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7880",
+    "lng": "-122.4075",
+    "place_id": "Montpelier, VT",
+    "location_type": "Greensboro, VT"
+  },
+  {
+    "query": "Bookshelf install Friday the 16th",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8080",
+    "lng": "-122.4177",
+    "place_id": "Wolcott, VT",
+    "location_type": "St. Albans, VT"
+  },
+  {
+    "query": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7599",
+    "lng": "-122.4148",
+    "place_id": "Morrisville, VT",
+    "location_type": "Greensboro, VT"
+  },
+  {
+    "query": "oakland",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8044",
+    "lng": "-122.2712",
+    "place_id": "Morrisville, VT",
+    "location_type": "Wolcott, VT"
+  },
+  {
+    "query": "berkeley",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8715",
+    "lng": "-122.2730",
+    "place_id": "Craftsbury, VT",
+    "location_type": "Hardwick, VT"
+  },
+  {
+    "query": "palo alto",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.4419",
+    "lng": "-122.1430",
+    "place_id": "Wolcott, VT",
+    "location_type": "Greensboro, VT"
+  },
+  {
+    "query": "Craftsbury, VT",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7749",
+    "lng": "-122.4194",
+    "place_id": "Morrisville, VT",
+    "location_type": "St. Albans, VT"
+  },
+  {
+    "query": "union square",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7880",
+    "lng": "-122.4075",
+    "place_id": "Hardwick, VT",
+    "location_type": "West Glover, VT"
+  },
+  {
+    "query": "Stowe kitchen - cabinet hardware lead time",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8080",
+    "lng": "-122.4177",
+    "place_id": "Burlington, VT",
+    "location_type": "Montpelier, VT"
+  },
+  {
+    "query": "Build the drawer boxes with half-blind dovetails",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7599",
+    "lng": "-122.4148",
+    "place_id": "Greensboro, VT",
+    "location_type": "Morrisville, VT"
+  },
+  {
+    "query": "oakland",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8044",
+    "lng": "-122.2712",
+    "place_id": "Montpelier, VT",
+    "location_type": "Burlington, VT"
+  },
+  {
+    "query": "berkeley",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8715",
+    "lng": "-122.2730",
+    "place_id": "St. Albans, VT",
+    "location_type": "West Glover, VT"
+  },
+  {
+    "query": "palo alto",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.4419",
+    "lng": "-122.1430",
+    "place_id": "Montpelier, VT",
+    "location_type": "St. Albans, VT"
+  },
+  {
+    "query": "Craftsbury, VT",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7749",
+    "lng": "-122.4194",
+    "place_id": "Montpelier, VT",
+    "location_type": "West Glover, VT"
+  },
+  {
+    "query": "union square",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7880",
+    "lng": "-122.4075",
+    "place_id": "Hardwick, VT",
+    "location_type": "Craftsbury, VT"
+  },
+  {
+    "query": "Lay out dovetails for the silverware drawer",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8080",
+    "lng": "-122.4177",
+    "place_id": "Burlington, VT",
+    "location_type": "Craftsbury, VT"
+  },
+  {
+    "query": "Build the drawer boxes with half-blind dovetails",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.7599",
+    "lng": "-122.4148",
+    "place_id": "Morrisville, VT",
+    "location_type": "St. Albans, VT"
+  },
+  {
+    "query": "oakland",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8044",
+    "lng": "-122.2712",
+    "place_id": "Hardwick, VT",
+    "location_type": "St. Albans, VT"
+  },
+  {
+    "query": "berkeley",
+    "formatted_address": "1842 Wylie Hill Road",
+    "lat": "37.8715",
+    "lng": "-122.2730",
+    "place_id": "St. Albans, VT",
+    "location_type": "St. Albans, VT"
+  }
+]

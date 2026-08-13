@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Contacts owner="Ben Cox" updated="2026-02-28">
+  <Contact category="family">
+    <Name>Diane Cox</Name>
+    <Relationship>Wife</Relationship>
+    <Phone>802-555-0112</Phone>
+    <Email>diane.cox.vt@gmail.com</Email>
+  </Contact>
+  <Contact category="family">
+    <Name>Keith Cox</Name>
+    <Relationship>Son</Relationship>
+    <Phone>802-555-0145</Phone>
+    <Email>keith.cox.bvt@gmail.com</Email>
+    <Location>Burlington, VT</Location>
+  </Contact>
+  <Contact category="family">
+    <Name>Marie Cox-Gagne</Name>
+    <Relationship>Daughter</Relationship>
+    <Phone>802-555-0155</Phone>
+    <Email>marie.gagne.vt@gmail.com</Email>
+    <Location>Montpelier, VT</Location>
+  </Contact>
+  <Contact category="friend">
+    <Name>Pete Lafleur</Name>
+    <Relationship>Friend</Relationship>
+    <Phone>802-555-0178</Phone>
+    <Note>Calls only. Saturday coffee.</Note>
+  </Contact>
+  <Contact category="medical">
+    <Name>Dr. James Whitfield</Name>
+    <Relationship>Primary care</Relationship>
+    <Phone>802-555-0410</Phone>
+    <Org>Copley Hospital, Morrisville</Org>
+  </Contact>
+  <Contact category="medical">
+    <Name>Dr. Stephen LeBlanc</Name>
+    <Relationship>Dentist</Relationship>
+    <Phone>802-555-0425</Phone>
+    <Org>Hardwick Dental</Org>
+  </Contact>
+  <Contact category="client">
+    <Name>Steven Henderson</Name>
+    <Relationship>Client, Stowe kitchen</Relationship>
+    <Phone>802-555-0500</Phone>
+    <Email>shenderson@stowevt.net</Email>
+    <Job>CCW-2026-03</Job>
+  </Contact>
+  <Contact category="supplier">
+    <Name>Hardwick Lumber</Name>
+    <Relationship>Supplier</Relationship>
+    <Phone>802-555-0700</Phone>
+  </Contact>
+  <Contact category="bank">
+    <Name>Community National Bank</Name>
+    <Relationship>Banking, in person</Relationship>
+    <Phone>802-555-0600</Phone>
+  </Contact>
+</Contacts>

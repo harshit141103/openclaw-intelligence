@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ven-001",
+    "name": "Neyland Stadium",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37996",
+    "address": "1235 Phillip Fulmer Way",
+    "latitude": "35.9550",
+    "longitude": "-83.9250"
+  },
+  {
+    "id": "ven-002",
+    "name": "Thompson-Boling Arena at Food City Center",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37996",
+    "address": "1600 Phillip Fulmer Way",
+    "latitude": "35.9536",
+    "longitude": "-83.9244"
+  },
+  {
+    "id": "ven-003",
+    "name": "Tennessee Theatre",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37902",
+    "address": "604 S Gay St",
+    "latitude": "35.9627",
+    "longitude": "-83.9190"
+  },
+  {
+    "id": "ven-004",
+    "name": "Bridgestone Arena",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37203",
+    "address": "501 Broadway",
+    "latitude": "36.1592",
+    "longitude": "-86.7785"
+  },
+  {
+    "id": "ven-005",
+    "name": "Knoxville Civic Coliseum",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37915",
+    "address": "500 Howard Baker Jr Ave",
+    "latitude": "35.9620",
+    "longitude": "-83.9080"
+  },
+  {
+    "id": "ven-006",
+    "name": "Bristol Motor Speedway",
+    "city": "Bristol",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37620",
+    "address": "151 Speedway Blvd",
+    "latitude": "36.5159",
+    "longitude": "-82.2570"
+  },
+  {
+    "id": "ven-007",
+    "name": "Williams-Brice Stadium",
+    "city": "Columbia",
+    "state": "SC",
+    "country": "US",
+    "postal_code": "29201",
+    "address": "1125 George Rogers Blvd",
+    "latitude": "33.9731",
+    "longitude": "-81.0186"
+  },
+  {
+    "id": "ven-008",
+    "name": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37201",
+    "address": "310 1st Ave S",
+    "latitude": "36.1576",
+    "longitude": "-86.7727"
+  },
+  {
+    "id": "ven-009",
+    "name": "Knoxville Civic Auditorium",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37915",
+    "address": "500 Howard Baker Jr Ave",
+    "latitude": "35.9622",
+    "longitude": "-83.9078"
+  },
+  {
+    "id": "ven-010",
+    "name": "The Bijou Theatre",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37902",
+    "address": "803 S Gay St",
+    "latitude": "35.9613",
+    "longitude": "-83.9187"
+  },
+  {
+    "id": "ven-011",
+    "name": "Lindsey Nelson Stadium",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37916",
+    "address": "1525 Pat Head Summitt St",
+    "latitude": "35.9492",
+    "longitude": "-83.9261"
+  },
+  {
+    "id": "ven-012",
+    "name": "World's Fair Park",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37902",
+    "address": "525 Henley St",
+    "latitude": "35.9610",
+    "longitude": "-83.9243"
+  },
+  {
+    "id": "ven-013",
+    "name": "Smokies Stadium",
+    "city": "Kodak",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37764",
+    "address": "3540 Line Dr",
+    "latitude": "35.9897",
+    "longitude": "-83.6172"
+  },
+  {
+    "id": "ven-014",
+    "name": "Cotton Eyed Joe",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37932",
+    "address": "11220 Outlet Dr",
+    "latitude": "35.9047",
+    "longitude": "-84.1284"
+  },
+  {
+    "id": "ven-015",
+    "name": "Thompson-Boling Arena",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37996",
+    "address": "1600 Phillip Fulmer Way",
+    "latitude": "35.9536",
+    "longitude": "-83.9244"
+  },
+  {
+    "id": "ven-016",
+    "name": "Ryman Auditorium",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37219",
+    "address": "116 5th Ave N",
+    "latitude": "36.1612",
+    "longitude": "-86.7785"
+  },
+  {
+    "id": "ven-017",
+    "name": "Grand Ole Opry House",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37214",
+    "address": "2804 Opryland Dr",
+    "latitude": "36.2068",
+    "longitude": "-86.6920"
+  },
+  {
+    "id": "ven-018",
+    "name": "Pinnacle Bank Arena",
+    "city": "Chattanooga",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37402",
+    "address": "1826 Carter St",
+    "latitude": "35.0481",
+    "longitude": "-85.3132"
+  },
+  {
+    "id": "ven-019",
+    "name": "Soldiers and Sailors Memorial Auditorium",
+    "city": "Chattanooga",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37402",
+    "address": "399 McCallie Ave",
+    "latitude": "35.0457",
+    "longitude": "-85.3050"
+  },
+  {
+    "id": "ven-020",
+    "name": "Brushy Mountain Stadium",
+    "city": "Sevierville",
+    "state": "TN",
+    "country": "US",
+    "postal_code": "37862",
+    "address": "1620 Old Knoxville Hwy",
+    "latitude": "35.8682",
+    "longitude": "-83.5710"
+  }
+]

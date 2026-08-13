@@ -1,0 +1,183 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Newsletter Subscribers",
+    "stringid": "newsletter-subscribers",
+    "subscriber_count": "5210",
+    "sender_url": "https://acme.example.com",
+    "sender_reminder": "You signed up on our website.",
+    "created_timestamp": "2026-01-10T09:00:00-05:00"
+  },
+  {
+    "id": "2",
+    "name": "Product Updates",
+    "stringid": "product-updates",
+    "subscriber_count": "3140",
+    "sender_url": "https://acme.example.com/product",
+    "sender_reminder": "You opted in for product news.",
+    "created_timestamp": "2026-02-01T09:00:00-05:00"
+  },
+  {
+    "id": "3",
+    "name": "Webinar Leads",
+    "stringid": "webinar-leads",
+    "subscriber_count": "880",
+    "sender_url": "https://acme.example.com/webinars",
+    "sender_reminder": "You registered for a webinar.",
+    "created_timestamp": "2026-03-12T09:00:00-05:00"
+  },
+  {
+    "id": "4",
+    "name": "Trial Users",
+    "stringid": "trial-users",
+    "subscriber_count": "1420",
+    "sender_url": "https://acme.example.com/trial",
+    "sender_reminder": "You started a free trial.",
+    "created_timestamp": "2026-04-02T09:00:00-05:00"
+  },
+  {
+    "id": "5",
+    "name": "Churned Customers",
+    "stringid": "churned-customers",
+    "subscriber_count": "640",
+    "sender_url": "https://acme.example.com/winback",
+    "sender_reminder": "We miss you - here are updates.",
+    "created_timestamp": "2026-04-22T09:00:00-05:00"
+  },
+  {
+    "id": "6",
+    "name": "Premium Members",
+    "stringid": "premium-members",
+    "subscriber_count": "2340",
+    "sender_url": "https://acme.example.com/premium",
+    "sender_reminder": "Thank you for your premium subscription.",
+    "created_timestamp": "2026-03-05T09:00:00-05:00"
+  },
+  {
+    "id": "7",
+    "name": "Enterprise Accounts",
+    "stringid": "enterprise-accounts",
+    "subscriber_count": "156",
+    "sender_url": "https://acme.example.com/enterprise",
+    "sender_reminder": "You are part of our enterprise program.",
+    "created_timestamp": "2026-02-15T09:00:00-05:00"
+  },
+  {
+    "id": "8",
+    "name": "Event Attendees",
+    "stringid": "event-attendees",
+    "subscriber_count": "540",
+    "sender_url": "https://acme.example.com/events",
+    "sender_reminder": "You registered for our event.",
+    "created_timestamp": "2026-04-10T09:00:00-05:00"
+  },
+  {
+    "id": "9",
+    "name": "Partner Network",
+    "stringid": "partner-network",
+    "subscriber_count": "285",
+    "sender_url": "https://acme.example.com/partners",
+    "sender_reminder": "You are a valued partner.",
+    "created_timestamp": "2026-03-20T09:00:00-05:00"
+  },
+  {
+    "id": "10",
+    "name": "Customer Support Subscribers",
+    "stringid": "customer-support",
+    "subscriber_count": "1850",
+    "sender_url": "https://acme.example.com/support",
+    "sender_reminder": "Opt-in for support updates.",
+    "created_timestamp": "2026-01-25T09:00:00-05:00"
+  },
+  {
+    "id": "11",
+    "name": "Beta Testers",
+    "stringid": "beta-testers",
+    "subscriber_count": "320",
+    "sender_url": "https://acme.example.com/beta",
+    "sender_reminder": "You have been invited to beta test.",
+    "created_timestamp": "2026-05-01T09:00:00-05:00"
+  },
+  {
+    "id": "12",
+    "name": "Inactive Users",
+    "stringid": "inactive-users",
+    "subscriber_count": "4210",
+    "sender_url": "https://acme.example.com/inactive",
+    "sender_reminder": "We haven't seen you in a while.",
+    "created_timestamp": "2026-02-28T09:00:00-05:00"
+  },
+  {
+    "id": "13",
+    "name": "Sales Team",
+    "stringid": "sales-team",
+    "subscriber_count": "45",
+    "sender_url": "https://acme.example.com/sales",
+    "sender_reminder": "You are part of the sales organization.",
+    "created_timestamp": "2026-01-15T09:00:00-05:00"
+  },
+  {
+    "id": "14",
+    "name": "Marketing Team",
+    "stringid": "marketing-team",
+    "subscriber_count": "38",
+    "sender_url": "https://acme.example.com/marketing",
+    "sender_reminder": "Marketing team collaboration list.",
+    "created_timestamp": "2026-01-20T09:00:00-05:00"
+  },
+  {
+    "id": "15",
+    "name": "Mobile App Users",
+    "stringid": "mobile-app-users",
+    "subscriber_count": "2890",
+    "sender_url": "https://acme.example.com/mobile",
+    "sender_reminder": "You have installed our mobile app.",
+    "created_timestamp": "2026-03-10T09:00:00-05:00"
+  },
+  {
+    "id": "16",
+    "name": "API Developers",
+    "stringid": "api-developers",
+    "subscriber_count": "420",
+    "sender_url": "https://acme.example.com/developers",
+    "sender_reminder": "You are building with our API.",
+    "created_timestamp": "2026-04-05T09:00:00-05:00"
+  },
+  {
+    "id": "17",
+    "name": "Customer Success Stories",
+    "stringid": "customer-stories",
+    "subscriber_count": "1120",
+    "sender_url": "https://acme.example.com/stories",
+    "sender_reminder": "Success stories from our community.",
+    "created_timestamp": "2026-03-28T09:00:00-05:00"
+  },
+  {
+    "id": "18",
+    "name": "CertifiILtion Alumni",
+    "stringid": "certifiILtion-alumni",
+    "subscriber_count": "890",
+    "sender_url": "https://acme.example.com/certified",
+    "sender_reminder": "You have completed our certifiILtion.",
+    "created_timestamp": "2026-04-12T09:00:00-05:00"
+  },
+  {
+    "id": "19",
+    "name": "Referral Partners",
+    "stringid": "referral-partners",
+    "subscriber_count": "310",
+    "sender_url": "https://acme.example.com/referrals",
+    "sender_reminder": "Join our referral program.",
+    "created_timestamp": "2026-05-08T09:00:00-05:00"
+  },
+  {
+    "id": "20",
+    "name": "VIP Customers",
+    "stringid": "vip-customers",
+    "subscriber_count": "125",
+    "sender_url": "https://acme.example.com/vip",
+    "sender_reminder": "You are a VIP customer.",
+    "created_timestamp": "2026-02-10T09:00:00-05:00"
+  }
+]
+

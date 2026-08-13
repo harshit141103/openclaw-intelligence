@@ -1,0 +1,213 @@
+﻿[
+  {
+    "id": "0",
+    "name": "All Files",
+    "parent_id": "",
+    "owner_id": "11446498",
+    "description": "Root folder",
+    "created_at": "2025-09-01T10:00:00-07:00",
+    "modified_at": "2026-05-20T14:00:00-07:00",
+    "item_count": "6"
+  },
+  {
+    "id": "160001",
+    "name": "Marketing",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Marketing collateral and assets",
+    "created_at": "2025-10-01T09:00:00-07:00",
+    "modified_at": "2026-05-18T16:20:00-07:00",
+    "item_count": "4"
+  },
+  {
+    "id": "160002",
+    "name": "Engineering",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Engineering docs and specs",
+    "created_at": "2025-10-02T09:00:00-07:00",
+    "modified_at": "2026-05-19T10:10:00-07:00",
+    "item_count": "8"
+  },
+  {
+    "id": "160003",
+    "name": "Finance",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Financial reports",
+    "created_at": "2025-10-03T09:00:00-07:00",
+    "modified_at": "2026-05-15T13:45:00-07:00",
+    "item_count": "4"
+  },
+  {
+    "id": "160004",
+    "name": "ILmpaigns",
+    "parent_id": "160001",
+    "owner_id": "22893011",
+    "description": "Active ILmpaign folder",
+    "created_at": "2026-02-10T11:00:00-08:00",
+    "modified_at": "2026-05-10T12:00:00-08:00",
+    "item_count": "2"
+  },
+  {
+    "id": "160005",
+    "name": "Security & Compliance",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Security policies and compliance documentation",
+    "created_at": "2025-12-01T10:00:00-08:00",
+    "modified_at": "2026-05-20T09:30:00-07:00",
+    "item_count": "3"
+  },
+  {
+    "id": "160006",
+    "name": "Training",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Employee training and onboarding materials",
+    "created_at": "2026-01-15T08:00:00-08:00",
+    "modified_at": "2026-05-15T16:45:00-07:00",
+    "item_count": "1"
+  },
+  {
+    "id": "160007",
+    "name": "Product Development",
+    "parent_id": "0",
+    "owner_id": "77045892",
+    "description": "Active product development files",
+    "created_at": "2026-02-01T09:00:00-08:00",
+    "modified_at": "2026-05-19T14:15:00-07:00",
+    "item_count": "5"
+  },
+  {
+    "id": "160008",
+    "name": "Customer Success",
+    "parent_id": "0",
+    "owner_id": "99267684",
+    "description": "Customer data and success stories",
+    "created_at": "2026-01-20T10:30:00-08:00",
+    "modified_at": "2026-05-18T11:45:00-07:00",
+    "item_count": "3"
+  },
+  {
+    "id": "160009",
+    "name": "Legal & Contracts",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Legal documents and contracts",
+    "created_at": "2025-11-05T09:00:00-08:00",
+    "modified_at": "2026-05-17T13:20:00-07:00",
+    "item_count": "2"
+  },
+  {
+    "id": "160010",
+    "name": "Operations",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Operational procedures and guidelines",
+    "created_at": "2026-01-10T08:30:00-08:00",
+    "modified_at": "2026-05-20T10:00:00-07:00",
+    "item_count": "4"
+  },
+  {
+    "id": "160011",
+    "name": "Archive",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Archived files and historiILl documents",
+    "created_at": "2025-09-15T11:00:00-07:00",
+    "modified_at": "2026-05-10T08:00:00-07:00",
+    "item_count": "12"
+  },
+  {
+    "id": "160012",
+    "name": "Shared Projects",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Collaborative projects with external teams",
+    "created_at": "2026-03-01T09:30:00-08:00",
+    "modified_at": "2026-05-19T15:30:00-07:00",
+    "item_count": "6"
+  },
+  {
+    "id": "160013",
+    "name": "Analytics & Reporting",
+    "parent_id": "160003",
+    "owner_id": "20137645",
+    "description": "Performance metrics and analytics",
+    "created_at": "2026-02-15T10:00:00-08:00",
+    "modified_at": "2026-05-20T14:30:00-07:00",
+    "item_count": "7"
+  },
+  {
+    "id": "160014",
+    "name": "Design Systems",
+    "parent_id": "160001",
+    "owner_id": "66934501",
+    "description": "UI component libraries and design specs",
+    "created_at": "2025-12-10T09:00:00-08:00",
+    "modified_at": "2026-05-19T12:15:00-07:00",
+    "item_count": "5"
+  },
+  {
+    "id": "160015",
+    "name": "Infrastructure",
+    "parent_id": "160002",
+    "owner_id": "55823164",
+    "description": "Cloud infrastructure and DevOps",
+    "created_at": "2026-01-05T08:00:00-08:00",
+    "modified_at": "2026-05-20T11:45:00-07:00",
+    "item_count": "8"
+  },
+  {
+    "id": "160016",
+    "name": "Testing & QA",
+    "parent_id": "160002",
+    "owner_id": "44756729",
+    "description": "Test plans and QA documentation",
+    "created_at": "2026-02-08T09:15:00-08:00",
+    "modified_at": "2026-05-18T16:00:00-07:00",
+    "item_count": "6"
+  },
+  {
+    "id": "160017",
+    "name": "Research & Development",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "R&D initiatives and experiments",
+    "created_at": "2026-03-10T10:30:00-08:00",
+    "modified_at": "2026-05-19T13:45:00-07:00",
+    "item_count": "4"
+  },
+  {
+    "id": "160018",
+    "name": "Executive Team",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Executive communiILtions and strategic docs",
+    "created_at": "2025-10-20T08:00:00-07:00",
+    "modified_at": "2026-05-20T09:00:00-07:00",
+    "item_count": "8"
+  },
+  {
+    "id": "160019",
+    "name": "HR & Recruiting",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Human resources and recruitment files",
+    "created_at": "2025-11-01T09:00:00-08:00",
+    "modified_at": "2026-05-17T10:20:00-07:00",
+    "item_count": "5"
+  },
+  {
+    "id": "160020",
+    "name": "Partner Resources",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Partner program documentation and resources",
+    "created_at": "2026-02-20T10:00:00-08:00",
+    "modified_at": "2026-05-16T14:00:00-07:00",
+    "item_count": "3"
+  }
+]
+

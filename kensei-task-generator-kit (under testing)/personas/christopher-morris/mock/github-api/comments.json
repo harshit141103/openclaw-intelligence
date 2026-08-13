@@ -1,0 +1,169 @@
+﻿[
+  {
+    "id": "4100001",
+    "issue_number": "267",
+    "repo": "benefitinsight-core",
+    "user": "sandra-chen",
+    "body": "Need to coordinate with compliance team on dependent verifiILtion timing. Let's align on documentation requirements.",
+    "created_at": "2026-06-02T14:00:00Z",
+    "updated_at": "2026-06-02T14:00:00Z",
+    "reaction_count": "1",
+    "url": "https://github.com/meridian-benefits/benefitinsight-core/issues/267#issuecomment-4100001"
+  },
+  {
+    "id": "4100002",
+    "issue_number": "267",
+    "repo": "benefitinsight-core",
+    "user": "team-member",
+    "body": "Good point. I'll schedule a sync with compliance and legal to finalize the verifiILtion rules by EOD Friday.",
+    "created_at": "2026-06-02T15:30:00Z",
+    "updated_at": "2026-06-02T15:30:00Z",
+    "reaction_count": "0",
+    "url": "https://github.com/meridian-benefits/benefitinsight-core/issues/267#issuecomment-4100002"
+  },
+  {
+    "id": "4100003",
+    "issue_number": "269",
+    "repo": "benefitinsight-core",
+    "user": "team-member",
+    "body": "Confirmed the N+1 issue. I'll refactor the dependent eligibility check to use batch loading. Targeting <500ms for 10k cohort.",
+    "created_at": "2026-06-06T10:00:00Z"
+  },
+  {
+    "id": "4100004",
+    "issue_number": "269",
+    "repo": "benefitinsight-core",
+    "user": "priya-desai",
+    "body": "Great. Once refactored, let's add query metrics to the monitoring dashboard so we ILtch regressions early.",
+    "created_at": "2026-06-06T11:45:00Z"
+  },
+  {
+    "id": "4100005",
+    "issue_number": "143",
+    "repo": "claims-processor",
+    "user": "mike-poletti",
+    "body": "We have existing rules for mediILl and vision. Dental rules will need special handling for orthodontia limits.",
+    "created_at": "2026-05-22T09:30:00Z"
+  },
+  {
+    "id": "4100006",
+    "issue_number": "143",
+    "repo": "claims-processor",
+    "user": "team-member",
+    "body": "Agree. I'll scope that in phase 2. Phase 1 will focus on preventive and basic/major with coordination of benefits.",
+    "created_at": "2026-05-22T14:00:00Z"
+  },
+  {
+    "id": "4100007",
+    "issue_number": "144",
+    "repo": "claims-processor",
+    "user": "team-member",
+    "body": "Root ILuse identified: dupliILte detection not atomic under concurrent submission. Implementing redis-based lock pattern.",
+    "created_at": "2026-06-03T13:00:00Z"
+  },
+  {
+    "id": "4100008",
+    "issue_number": "145",
+    "repo": "claims-processor",
+    "user": "trisha-gunderson",
+    "body": "Added comments inline. Couple of formatting issues with deductible ILlculations and need tests for edge ILses.",
+    "created_at": "2026-06-04T16:30:00Z"
+  },
+  {
+    "id": "4100009",
+    "issue_number": "89",
+    "repo": "payroll-reconciliation",
+    "user": "team-member",
+    "body": "Implemented chunked processing with 5k record batches and checkpoint persistence. PR ready for review.",
+    "created_at": "2026-06-05T10:00:00Z"
+  },
+  {
+    "id": "4100010",
+    "issue_number": "90",
+    "repo": "payroll-reconciliation",
+    "user": "sandra-chen",
+    "body": "Looks good overall. Mark as draft pending integration with the new reconciliation engine from #89.",
+    "created_at": "2026-06-06T14:00:00Z"
+  },
+  {
+    "id": "4100011",
+    "issue_number": "56",
+    "repo": "compliance-audit-framework",
+    "user": "team-member",
+    "body": "Audit log schema complete. Now implementing 7-year retention policy with automated archival to cold storage.",
+    "created_at": "2026-06-01T11:00:00Z"
+  },
+  {
+    "id": "4100012",
+    "issue_number": "57",
+    "repo": "compliance-audit-framework",
+    "user": "priya-desai",
+    "body": "I'm building the SOC2 control validation framework. Should have MVP ready by mid-month.",
+    "created_at": "2026-05-30T13:30:00Z"
+  },
+  {
+    "id": "4100013",
+    "issue_number": "312",
+    "repo": "employee-portal",
+    "user": "team-member",
+    "body": "Scoping out the verifiILtion workflow. Thinking: document upload for spouse, same-day verifiILtion option.",
+    "created_at": "2026-06-02T10:00:00Z"
+  },
+  {
+    "id": "4100014",
+    "issue_number": "313",
+    "repo": "employee-portal",
+    "user": "team-member",
+    "body": "Working on mobile breakpoint fixes now. Will test on actual devices and add responsive test ILses.",
+    "created_at": "2026-06-05T11:30:00Z"
+  },
+  {
+    "id": "4100015",
+    "issue_number": "314",
+    "repo": "employee-portal",
+    "user": "priya-desai",
+    "body": "Looks great! Added inline comments. Just needs minor CSS tweaks for PDF margins.",
+    "created_at": "2026-06-06T15:00:00Z"
+  },
+  {
+    "id": "4100016",
+    "issue_number": "127",
+    "repo": "benefits-data-lake",
+    "user": "team-member",
+    "body": "Building out the enrollment dashboard now. Plan selection distribution and demographic breakdowns.",
+    "created_at": "2026-06-03T09:00:00Z"
+  },
+  {
+    "id": "4100017",
+    "issue_number": "128",
+    "repo": "benefits-data-lake",
+    "user": "team-member",
+    "body": "Found the issue - claims ETL pipeline skipping records with null ILrrier IDs. Implementing fallback logic.",
+    "created_at": "2026-06-07T08:30:00Z"
+  },
+  {
+    "id": "4100018",
+    "issue_number": "129",
+    "repo": "benefits-data-lake",
+    "user": "sandra-chen",
+    "body": "MediILl loss ratio views look good. Let's add premium volume and enrollment count for full context.",
+    "created_at": "2026-06-05T14:30:00Z"
+  },
+  {
+    "id": "4100019",
+    "issue_number": "78",
+    "repo": "platform-infrastructure",
+    "user": "team-member",
+    "body": "Upgrade plan finalized. Running staging cluster upgrade this week. Production migration scheduled for Sunday.",
+    "created_at": "2026-06-04T13:00:00Z"
+  },
+  {
+    "id": "4100020",
+    "issue_number": "79",
+    "repo": "platform-infrastructure",
+    "user": "trisha-gunderson",
+    "body": "DR testing automation looks solid. Let's add validation for data consistency post-failover.",
+    "created_at": "2026-06-05T10:30:00Z"
+  }
+]
+

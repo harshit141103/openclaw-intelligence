@@ -1,0 +1,202 @@
+[
+  {
+    "id": "500001",
+    "title": "WordPress core update 6.5.2",
+    "text": "Applied WordPress core update 6.5.2 to whitakerfreight.com.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "wfs-web-01",
+    "tags": "service:whitakerfreight-web;event:deploy",
+    "date_happened": "1749470400"
+  },
+  {
+    "id": "500002",
+    "title": "Monitor alert: Website uptime check failed",
+    "text": "Monitor triggered: whitakerfreight.com returned a 502 for two checks.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "wfs-web-01",
+    "tags": "service:whitakerfreight-web;monitor:1001",
+    "date_happened": "1749474000"
+  },
+  {
+    "id": "500003",
+    "title": "Monitor recovered: Website back up",
+    "text": "Monitor recovered: whitakerfreight.com responding normally again.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "wfs-web-01",
+    "tags": "host:wfs-web-01;monitor:1001",
+    "date_happened": "1749475800"
+  },
+  {
+    "id": "500004",
+    "title": "Nightly backup completed",
+    "text": "Restic nightly backup of the WFS database finished successfully.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "wfs-backup-01",
+    "tags": "host:wfs-backup-01;event:backup",
+    "date_happened": "1749452400"
+  },
+  {
+    "id": "500005",
+    "title": "Monitor alert: Nightly backup did not run",
+    "text": "Monitor triggered: restic nightly backup did not complete on wfs-backup-01.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "wfs-backup-01",
+    "tags": "host:wfs-backup-01;monitor:1012",
+    "date_happened": "1749538800"
+  },
+  {
+    "id": "500006",
+    "title": "TLS certificate renewed",
+    "text": "Certbot renewed the TLS certificate for whitakerfreight.com.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "wfs-proxy-01",
+    "tags": "service:whitakerfreight-web;event:tls",
+    "date_happened": "1749366000"
+  },
+  {
+    "id": "500007",
+    "title": "WordPress plugin update",
+    "text": "Updated the contact form plugin on whitakerfreight.com to the latest release.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "wfs-web-01",
+    "tags": "service:whitakerfreight-web;event:deploy",
+    "date_happened": "1749297600"
+  },
+  {
+    "id": "500008",
+    "title": "Database failover to db-02",
+    "text": "MySQL primary failed over from wfs-db-01 to wfs-db-02 during maintenance window.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "wfs-db-02",
+    "tags": "host:wfs-db-02;event:failover",
+    "date_happened": "1749211200"
+  },
+  {
+    "id": "500009",
+    "title": "Database back on primary",
+    "text": "MySQL primary restored to wfs-db-01 after maintenance completed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "wfs-db-01",
+    "tags": "host:wfs-db-01;event:failover",
+    "date_happened": "1749214800"
+  },
+  {
+    "id": "500010",
+    "title": "Monitor alert: Mail queue backlog",
+    "text": "Monitor triggered: outbound mail queue backing up on wfs-mail-02.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "wfs-mail-02",
+    "tags": "host:wfs-mail-02;monitor:1011",
+    "date_happened": "1749124800"
+  },
+  {
+    "id": "500011",
+    "title": "Monitor recovered: Mail queue drained",
+    "text": "Monitor recovered: outbound mail queue back to normal on wfs-mail-02.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "wfs-mail-02",
+    "tags": "host:wfs-mail-02;monitor:1011",
+    "date_happened": "1749128400"
+  },
+  {
+    "id": "500012",
+    "title": "Agent restarted",
+    "text": "Datadog agent restarted on wfs-monitor-01 after configuration change.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "wfs-monitor-01",
+    "tags": "host:wfs-monitor-01;event:agent",
+    "date_happened": "1749038400"
+  },
+  {
+    "id": "500013",
+    "title": "Redis cache flushed",
+    "text": "Manual cache flush on wfs-cache-01 ahead of the WordPress update.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "wfs-cache-01",
+    "tags": "host:wfs-cache-01;event:cache",
+    "date_happened": "1748952000"
+  },
+  {
+    "id": "500014",
+    "title": "Monitor alert: API host high latency",
+    "text": "Monitor triggered: API latency elevated on wfs-api-01.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "wfs-api-01",
+    "tags": "host:wfs-api-01;monitor:1015",
+    "date_happened": "1748865600"
+  },
+  {
+    "id": "500015",
+    "title": "Monitor recovered: API latency normal",
+    "text": "Monitor recovered: API latency back to normal on wfs-api-01.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "wfs-api-01",
+    "tags": "host:wfs-api-01;monitor:1015",
+    "date_happened": "1748869200"
+  },
+  {
+    "id": "500016",
+    "title": "Staging deploy",
+    "text": "Deployed website changes to wfs-staging-01 for review before production.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "wfs-staging-01",
+    "tags": "host:wfs-staging-01;event:deploy",
+    "date_happened": "1748779200"
+  },
+  {
+    "id": "500017",
+    "title": "Search index rebuilt",
+    "text": "Elasticsearch index rebuilt on wfs-search-01 after content sync.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "wfs-search-01",
+    "tags": "host:wfs-search-01;event:index",
+    "date_happened": "1748692800"
+  },
+  {
+    "id": "500018",
+    "title": "Cron job completed",
+    "text": "Weekly log rotation and cleanup finished on wfs-cron-01.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "wfs-cron-01",
+    "tags": "host:wfs-cron-01;event:cron",
+    "date_happened": "1748606400"
+  },
+  {
+    "id": "500019",
+    "title": "Offsite backup synced",
+    "text": "Restic offsite backup synced successfully from wfs-backup-02.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "wfs-backup-02",
+    "tags": "host:wfs-backup-02;event:backup",
+    "date_happened": "1748520000"
+  },
+  {
+    "id": "500020",
+    "title": "OS security patches applied",
+    "text": "Applied OS security patches across the WFS web hosts during the maintenance window.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "wfs-web-02",
+    "tags": "host:wfs-web-02;event:patch",
+    "date_happened": "1748433600"
+  }
+]

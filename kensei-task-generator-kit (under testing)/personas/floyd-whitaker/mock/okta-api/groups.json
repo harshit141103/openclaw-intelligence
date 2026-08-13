@@ -1,0 +1,142 @@
+[
+  {
+    "id": "00g1everyone",
+    "name": "Everyone",
+    "description": "All users at Whitaker Freight Services",
+    "type": "BUILT_IN",
+    "created": "2024-01-08T09:00:00.000Z"
+  },
+  {
+    "id": "00g2dispatch",
+    "name": "Dispatch",
+    "description": "Freight dispatch specialists",
+    "type": "OKTA_GROUP",
+    "created": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "00g3finance",
+    "name": "Finance and Bookkeeping",
+    "description": "Bookkeeping and accounting access",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-12T10:00:00.000Z"
+  },
+  {
+    "id": "00g4admins",
+    "name": "Administrators",
+    "description": "Account and tenant administrators",
+    "type": "OKTA_GROUP",
+    "created": "2024-01-08T09:05:00.000Z"
+  },
+  {
+    "id": "00g5google",
+    "name": "Google Workspace Users",
+    "description": "Access to Gmail, Calendar, Drive and Sheets",
+    "type": "APP_GROUP",
+    "created": "2024-01-09T10:00:00.000Z"
+  },
+  {
+    "id": "00g6zoom",
+    "name": "Zoom Users",
+    "description": "Zoom meeting licenses for staff",
+    "type": "APP_GROUP",
+    "created": "2024-01-10T10:05:00.000Z"
+  },
+  {
+    "id": "00g7quickbooks",
+    "name": "QuickBooks Users",
+    "description": "Accounting and bookkeeping software access",
+    "type": "APP_GROUP",
+    "created": "2024-01-12T10:05:00.000Z"
+  },
+  {
+    "id": "00g8routepoint",
+    "name": "RoutePoint Users",
+    "description": "Freight software suite access",
+    "type": "APP_GROUP",
+    "created": "2025-11-03T10:05:00.000Z"
+  },
+  {
+    "id": "00g9dat",
+    "name": "DAT Load Board Users",
+    "description": "Load board search and posting access",
+    "type": "APP_GROUP",
+    "created": "2024-01-15T10:05:00.000Z"
+  },
+  {
+    "id": "00g10linkedin",
+    "name": "LinkedIn Users",
+    "description": "Company LinkedIn page managers",
+    "type": "APP_GROUP",
+    "created": "2024-05-20T10:05:00.000Z"
+  },
+  {
+    "id": "00g11sales",
+    "name": "Sales and Brokerage",
+    "description": "Client-facing brokerage and sales staff",
+    "type": "OKTA_GROUP",
+    "created": "2024-03-01T10:10:00.000Z"
+  },
+  {
+    "id": "00g12mentorship",
+    "name": "Mentorship Program",
+    "description": "TN Freight Mentorship Program coordinators",
+    "type": "OKTA_GROUP",
+    "created": "2025-09-02T13:00:00.000Z"
+  },
+  {
+    "id": "00g13contractors",
+    "name": "Contractors",
+    "description": "External IT and service contractors",
+    "type": "OKTA_GROUP",
+    "created": "2024-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "00g14payroll",
+    "name": "Payroll Access",
+    "description": "ADP RUN payroll administration",
+    "type": "APP_GROUP",
+    "created": "2024-02-20T10:05:00.000Z"
+  },
+  {
+    "id": "00g15docusign",
+    "name": "DocuSign Senders",
+    "description": "Authorized to send broker-carrier agreements",
+    "type": "APP_GROUP",
+    "created": "2024-05-01T10:05:00.000Z"
+  },
+  {
+    "id": "00g16compliance",
+    "name": "DOT Compliance",
+    "description": "FMCSA and DOT compliance management",
+    "type": "OKTA_GROUP",
+    "created": "2024-07-10T10:00:00.000Z"
+  },
+  {
+    "id": "00g17outlook",
+    "name": "Outlook Legacy Users",
+    "description": "Legacy Microsoft 365 mailbox access",
+    "type": "APP_GROUP",
+    "created": "2024-01-09T10:08:00.000Z"
+  },
+  {
+    "id": "00g18notion",
+    "name": "Notion Workspace",
+    "description": "WFS Notion workspace members",
+    "type": "APP_GROUP",
+    "created": "2024-03-08T10:05:00.000Z"
+  },
+  {
+    "id": "00g19pagerduty",
+    "name": "On-Call Responders",
+    "description": "PagerDuty website and email monitoring responders",
+    "type": "APP_GROUP",
+    "created": "2024-06-25T10:05:00.000Z"
+  },
+  {
+    "id": "00g20managers",
+    "name": "Managers",
+    "description": "Office and operations managers",
+    "type": "OKTA_GROUP",
+    "created": "2024-01-08T09:20:00.000Z"
+  }
+]

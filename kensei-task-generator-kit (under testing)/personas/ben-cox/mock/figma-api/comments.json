@@ -1,0 +1,202 @@
+[
+  {
+    "comment_id": "cmt-9001",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001",
+    "user_handle": "dianecox",
+    "message": "Sand to 220 and raise the grain before finish",
+    "node_id": "5:12",
+    "resolved": "2025-02-25T14:15:00Z",
+    "created_at": "2026-06-27T07:30:00Z"
+  },
+  {
+    "comment_id": "cmt-9002",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002",
+    "user_handle": "keithcox_dev",
+    "message": "Built-ins - finish sample for your approval",
+    "node_id": "5:12",
+    "resolved": "2025-02-02T07:15:00Z",
+    "created_at": "2023-12-29T11:15:00Z"
+  },
+  {
+    "comment_id": "cmt-9003",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-2",
+    "user_handle": "dianecox",
+    "message": "Sharpen the jointer knives and reset the infeed table",
+    "node_id": "12:5",
+    "resolved": "2023-09-04T14:15:00Z",
+    "created_at": "2023-09-21T16:45:00Z"
+  },
+  {
+    "comment_id": "cmt-9004",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003",
+    "user_handle": "dianecox",
+    "message": "Built-ins - finish sample for your approval",
+    "node_id": "3:8",
+    "resolved": "2026-05-17T10:15:00Z",
+    "created_at": "2026-03-29T14:45:00Z"
+  },
+  {
+    "comment_id": "cmt-9902",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-4",
+    "user_handle": "bencox",
+    "message": "Splitting and stacking the winter firewood",
+    "node_id": "5:913",
+    "resolved": "2023-10-07T12:45:00Z",
+    "created_at": "2026-08-28T17:15:00Z"
+  },
+  {
+    "comment_id": "cmt-9904",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-5",
+    "user_handle": "dianecox",
+    "message": "Mock up the crown profile for the Henderson uppers",
+    "node_id": "5:914",
+    "resolved": "2025-09-21T09:45:00Z",
+    "created_at": "2024-10-17T17:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9906",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-6",
+    "user_handle": "dianecox",
+    "message": "Check the moisture content on the barn oak before joinery",
+    "node_id": "12:908",
+    "resolved": "2025-03-26T06:00:00Z",
+    "created_at": "2025-11-19T09:15:00Z"
+  },
+  {
+    "comment_id": "cmt-9908",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-7",
+    "user_handle": "coxcustomwoodwork",
+    "message": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "node_id": "3:912",
+    "resolved": "2026-03-26T12:45:00Z",
+    "created_at": "2024-10-22T18:45:00Z"
+  },
+  {
+    "comment_id": "cmt-9906",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-8",
+    "user_handle": "keithcox_dev",
+    "message": "Barn oak is summer 2027 - not pulling material yet.",
+    "node_id": "5:917",
+    "resolved": "2025-06-29T18:45:00Z",
+    "created_at": "2026-03-30T14:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9908",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-9",
+    "user_handle": "keithcox_dev",
+    "message": "Splitting and stacking the winter firewood",
+    "node_id": "5:918",
+    "resolved": "2025-05-21T13:30:00Z",
+    "created_at": "2024-10-05T14:45:00Z"
+  },
+  {
+    "comment_id": "cmt-9910",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-10",
+    "user_handle": "mariegagne",
+    "message": "Mock up the crown profile for the Henderson uppers",
+    "node_id": "12:912",
+    "resolved": "2026-05-06T06:00:00Z",
+    "created_at": "2026-05-24T15:45:00Z"
+  },
+  {
+    "comment_id": "cmt-9912",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-11",
+    "user_handle": "coxcustomwoodwork",
+    "message": "Barn oak is summer 2027 - not pulling material yet.",
+    "node_id": "3:916",
+    "resolved": "2024-09-25T13:30:00Z",
+    "created_at": "2025-11-17T09:30:00Z"
+  },
+  {
+    "comment_id": "cmt-9910",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-12",
+    "user_handle": "bencox",
+    "message": "Replace the dust collector filter and clean the cyclone",
+    "node_id": "5:921",
+    "resolved": "2026-01-04T15:00:00Z",
+    "created_at": "2024-10-21T12:45:00Z"
+  },
+  {
+    "comment_id": "cmt-9912",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-13",
+    "user_handle": "dianecox",
+    "message": "Sand to 220 and raise the grain before finish",
+    "node_id": "5:922",
+    "resolved": "2025-06-16T07:30:00Z",
+    "created_at": "2025-11-10T15:30:00Z"
+  },
+  {
+    "comment_id": "cmt-9914",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-14",
+    "user_handle": "bencox",
+    "message": "Dry-fit the face frames before glue-up",
+    "node_id": "12:916",
+    "resolved": "2026-07-07T17:15:00Z",
+    "created_at": "2024-08-29T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9916",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-15",
+    "user_handle": "keithcox_dev",
+    "message": "Set up the dado stack for the bookshelf rabbets",
+    "node_id": "3:920",
+    "resolved": "2025-02-12T06:00:00Z",
+    "created_at": "2025-04-16T15:45:00Z"
+  },
+  {
+    "comment_id": "cmt-9914",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-16",
+    "user_handle": "bencox",
+    "message": "Material order - Hardwick Lumber",
+    "node_id": "5:925",
+    "resolved": "2025-01-26T13:15:00Z",
+    "created_at": "2026-06-19T14:30:00Z"
+  },
+  {
+    "comment_id": "cmt-9916",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-17",
+    "user_handle": "keithcox_dev",
+    "message": "Stage the bookshelf sections for the Craftsbury install",
+    "node_id": "5:926",
+    "resolved": "2025-02-08T07:30:00Z",
+    "created_at": "2024-06-14T12:15:00Z"
+  },
+  {
+    "comment_id": "cmt-9918",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-18",
+    "user_handle": "keithcox_dev",
+    "message": "Sand to 220 and raise the grain before finish",
+    "node_id": "12:920",
+    "resolved": "2026-09-27T14:15:00Z",
+    "created_at": "2024-02-07T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9920",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-19",
+    "user_handle": "dianecox",
+    "message": "Final fit of the Henderson island base cabinets",
+    "node_id": "3:924",
+    "resolved": "2026-01-11T11:30:00Z",
+    "created_at": "2026-05-03T18:30:00Z"
+  }
+]

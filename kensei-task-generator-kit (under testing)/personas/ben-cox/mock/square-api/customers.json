@@ -1,0 +1,182 @@
+[
+  {
+    "id": "CUST_HARPER01",
+    "given_name": "Diane",
+    "family_name": "Cox",
+    "email_address": "diane.cox.vt@gmail.com",
+    "phone_number": "+18025550112",
+    "company_name": "Willey's Store",
+    "created_at": "2025-06-29T12:45:00Z"
+  },
+  {
+    "id": "CUST_DIEGO02",
+    "given_name": "Keith",
+    "family_name": "Cox",
+    "email_address": "keith.cox.bvt@gmail.com",
+    "phone_number": "+18025550145",
+    "company_name": "Parker Pie Co.",
+    "created_at": "2025-07-10T12:00:00Z"
+  },
+  {
+    "id": "CUST_MAYA03",
+    "given_name": "Marie",
+    "family_name": "Cox-Gagne",
+    "email_address": "marie.gagne.vt@gmail.com",
+    "phone_number": "+18025550155",
+    "company_name": "Tractor Supply Morrisville",
+    "created_at": "2025-03-02T06:00:00Z"
+  },
+  {
+    "id": "CUST_OMAR04",
+    "given_name": "Tom",
+    "family_name": "Gagne",
+    "email_address": "tom.gagne.vt@gmail.com",
+    "phone_number": "+18025550156",
+    "company_name": "Craftsbury General Store",
+    "created_at": "2026-03-30T12:15:00Z"
+  },
+  {
+    "id": "CUST_LENA05",
+    "given_name": "Pete",
+    "family_name": "Lafleur",
+    "email_address": "pete.lafleur.vt@gmail.com",
+    "phone_number": "+18025550178",
+    "company_name": "Positive Pie",
+    "created_at": "2024-12-05T13:30:00Z"
+  },
+  {
+    "id": "CUST_PRIYA06",
+    "given_name": "James",
+    "family_name": "Whitfield",
+    "email_address": "jwhitfield@copleyvt.org",
+    "phone_number": "+18025550410",
+    "company_name": "Craftsbury General Store",
+    "created_at": "2024-11-03T12:45:00Z"
+  },
+  {
+    "id": "CUST_TOMAS07",
+    "given_name": "Paul",
+    "family_name": "LeBlanc",
+    "email_address": "frontdesk@hardwickdental.com",
+    "phone_number": "+18025550425",
+    "company_name": "Parker Pie Co.",
+    "created_at": "2026-02-01T10:00:00Z"
+  },
+  {
+    "id": "CUST_HARPER902",
+    "given_name": "Scott",
+    "family_name": "Henderson",
+    "email_address": "shenderson@stowevt.net",
+    "phone_number": "+18025550500",
+    "company_name": "Vermont Tool & Die",
+    "created_at": "2025-08-17T11:45:00Z"
+  },
+  {
+    "id": "CUST_DIEGO904",
+    "given_name": "Linda",
+    "family_name": "Henderson",
+    "email_address": "lhenderson@stowevt.net",
+    "phone_number": "+18025550501",
+    "company_name": "Positive Pie",
+    "created_at": "2024-12-21T09:00:00Z"
+  },
+  {
+    "id": "CUST_MAYA906",
+    "given_name": "Alan",
+    "family_name": "Whitcomb",
+    "email_address": "awhitcomb@sterling.edu",
+    "phone_number": "+18025550512",
+    "company_name": "Tractor Supply Morrisville",
+    "created_at": "2026-06-01T06:45:00Z"
+  },
+  {
+    "id": "CUST_OMAR908",
+    "given_name": "Paul",
+    "family_name": "Dufresne",
+    "email_address": "paul.dufresne@myfairpoint.net",
+    "phone_number": "+18025550720",
+    "company_name": "Tractor Supply Morrisville",
+    "created_at": "2024-12-13T11:45:00Z"
+  },
+  {
+    "id": "CUST_LENA910",
+    "given_name": "Marc",
+    "family_name": "Belanger",
+    "email_address": "marc.belanger.mason@gmail.com",
+    "phone_number": "+18025550733",
+    "company_name": "Vermont Tool & Die",
+    "created_at": "2026-06-29T16:00:00Z"
+  },
+  {
+    "id": "CUST_PRIYA912",
+    "given_name": "Gary",
+    "family_name": "Stoddard",
+    "email_address": "stoddard.electric@gmail.com",
+    "phone_number": "+18025550741",
+    "company_name": "Parker Pie Co.",
+    "created_at": "2026-04-08T10:45:00Z"
+  },
+  {
+    "id": "CUST_TOMAS914",
+    "given_name": "Hardwick",
+    "family_name": "Lumber",
+    "email_address": "orders@hardwicklumber.com",
+    "phone_number": "+18025550700",
+    "company_name": "Willey's Store",
+    "created_at": "2024-08-07T10:15:00Z"
+  },
+  {
+    "id": "CUST_HARPER909",
+    "given_name": "Green",
+    "family_name": "Mountain Hardwoods",
+    "email_address": "sales@greenmountainhardwoods.com",
+    "phone_number": "+18025550810",
+    "company_name": "Cox Custom Woodwork",
+    "created_at": "2026-08-14T08:00:00Z"
+  },
+  {
+    "id": "CUST_DIEGO911",
+    "given_name": "Ray",
+    "family_name": "Tetreault",
+    "email_address": "ray@hardwicklumber.com",
+    "phone_number": "+18025550715",
+    "company_name": "Tractor Supply Morrisville",
+    "created_at": "2026-09-08T08:45:00Z"
+  },
+  {
+    "id": "CUST_MAYA913",
+    "given_name": "Nancy",
+    "family_name": "Beaulieu",
+    "email_address": "nancy.beaulieu@gmavt.net",
+    "phone_number": "+18025550523",
+    "company_name": "Aubuchon Hardware Hardwick",
+    "created_at": "2026-09-07T07:45:00Z"
+  },
+  {
+    "id": "CUST_OMAR915",
+    "given_name": "Susan",
+    "family_name": "Mills",
+    "email_address": "office@craftsburychurch.org",
+    "phone_number": "+18025550630",
+    "company_name": "Vermont Tool & Die",
+    "created_at": "2026-03-22T13:15:00Z"
+  },
+  {
+    "id": "CUST_LENA917",
+    "given_name": "Walt",
+    "family_name": "Perreault",
+    "email_address": "walt.perreault@gmail.com",
+    "phone_number": "+18025550766",
+    "company_name": "Craftsbury General Store",
+    "created_at": "2025-10-02T15:30:00Z"
+  },
+  {
+    "id": "CUST_PRIYA919",
+    "given_name": "Donna",
+    "family_name": "Sloan",
+    "email_address": "donna.sloan@comcast.net",
+    "phone_number": "+18025550544",
+    "company_name": "Hardwick Lumber",
+    "created_at": "2025-11-02T18:15:00Z"
+  }
+]

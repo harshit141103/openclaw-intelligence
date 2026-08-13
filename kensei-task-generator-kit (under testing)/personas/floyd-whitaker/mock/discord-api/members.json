@@ -1,0 +1,412 @@
+[
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400001",
+    "username": "keithb",
+    "global_name": "Keith Burgess",
+    "nick": "Keith",
+    "bot": "false",
+    "joined_at": "2024-11-02T10:00:00Z",
+    "roles": "700100200300400001;700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400002",
+    "username": "roytackett",
+    "global_name": "Roy T",
+    "nick": "Roy",
+    "bot": "false",
+    "joined_at": "2024-11-05T12:30:00Z",
+    "roles": "700100200300400002"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2024-12-01T09:15:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400004",
+    "username": "juniorm",
+    "global_name": "Junior Mullins",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-01-10T14:45:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "300100200300400001",
+    "username": "volsnewsbot",
+    "global_name": "Vols News Bot",
+    "nick": "",
+    "bot": "true",
+    "joined_at": "2024-11-02T10:05:00Z",
+    "roles": "700100200300400004"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400003",
+    "username": "darlw",
+    "global_name": "Darl Whitaker",
+    "nick": "Darl",
+    "bot": "false",
+    "joined_at": "2025-02-01T08:00:00Z",
+    "roles": "700100200300400005"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-02-03T11:20:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400005",
+    "username": "eddiecombs",
+    "global_name": "Eddie Combs",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-02-09T17:40:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400005",
+    "username": "eddiecombs",
+    "global_name": "Eddie Combs",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-01-15T19:20:00Z",
+    "roles": "700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400001",
+    "user_id": "500100200300400006",
+    "username": "keithburgess",
+    "global_name": "Keith B",
+    "nick": "Keith",
+    "bot": "false",
+    "joined_at": "2024-11-02T10:02:00Z",
+    "roles": "700100200300400002;700100200300400003"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400004",
+    "username": "juniorm",
+    "global_name": "Junior Mullins",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-02-12T18:00:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400002",
+    "username": "roytackett",
+    "global_name": "Roy T",
+    "nick": "Roy",
+    "bot": "false",
+    "joined_at": "2025-02-15T20:10:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400002",
+    "user_id": "500100200300400007",
+    "username": "brandw",
+    "global_name": "Brand Whitaker",
+    "nick": "Brand",
+    "bot": "false",
+    "joined_at": "2025-03-01T13:00:00Z",
+    "roles": "700100200300400006"
+  },
+  {
+    "guild_id": "900100200300400003",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-03-12T09:00:00Z",
+    "roles": "700100200300400007"
+  },
+  {
+    "guild_id": "900100200300400003",
+    "user_id": "500100200300400006",
+    "username": "keithburgess",
+    "global_name": "Keith B",
+    "nick": "Keith",
+    "bot": "false",
+    "joined_at": "2025-03-10T08:30:00Z",
+    "roles": "700100200300400007"
+  },
+  {
+    "guild_id": "900100200300400003",
+    "user_id": "500100200300400007",
+    "username": "brandw",
+    "global_name": "Brand Whitaker",
+    "nick": "Brand",
+    "bot": "false",
+    "joined_at": "2025-04-01T10:00:00Z",
+    "roles": "700100200300400007"
+  },
+  {
+    "guild_id": "900100200300400004",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-04-15T18:00:00Z",
+    "roles": "700100200300400008"
+  },
+  {
+    "guild_id": "900100200300400004",
+    "user_id": "500100200300400002",
+    "username": "roytackett",
+    "global_name": "Roy T",
+    "nick": "Roy",
+    "bot": "false",
+    "joined_at": "2025-04-10T07:00:00Z",
+    "roles": "700100200300400008"
+  },
+  {
+    "guild_id": "900100200300400004",
+    "user_id": "500100200300400003",
+    "username": "darlw",
+    "global_name": "Darl Whitaker",
+    "nick": "Darl",
+    "bot": "false",
+    "joined_at": "2025-04-20T12:00:00Z",
+    "roles": "700100200300400008"
+  },
+  {
+    "guild_id": "900100200300400005",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-05-01T19:30:00Z",
+    "roles": "700100200300400009"
+  },
+  {
+    "guild_id": "900100200300400005",
+    "user_id": "500100200300400004",
+    "username": "juniorm",
+    "global_name": "Junior Mullins",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-04-28T16:00:00Z",
+    "roles": "700100200300400009"
+  },
+  {
+    "guild_id": "900100200300400006",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-05-10T20:00:00Z",
+    "roles": "700100200300400010"
+  },
+  {
+    "guild_id": "900100200300400006",
+    "user_id": "500100200300400005",
+    "username": "eddiecombs",
+    "global_name": "Eddie Combs",
+    "nick": "",
+    "bot": "false",
+    "joined_at": "2025-05-08T18:00:00Z",
+    "roles": "700100200300400010"
+  },
+  {
+    "guild_id": "900100200300400007",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-05-15T10:00:00Z",
+    "roles": "700100200300400011"
+  },
+  {
+    "guild_id": "900100200300400007",
+    "user_id": "500100200300400003",
+    "username": "darlw",
+    "global_name": "Darl Whitaker",
+    "nick": "Darl",
+    "bot": "false",
+    "joined_at": "2025-05-18T11:00:00Z",
+    "roles": "700100200300400011"
+  },
+  {
+    "guild_id": "900100200300400008",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-05-20T13:00:00Z",
+    "roles": "700100200300400012"
+  },
+  {
+    "guild_id": "900100200300400009",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-05-22T08:00:00Z",
+    "roles": "700100200300400013"
+  },
+  {
+    "guild_id": "900100200300400009",
+    "user_id": "500100200300400001",
+    "username": "keithb",
+    "global_name": "Keith Burgess",
+    "nick": "Keith",
+    "bot": "false",
+    "joined_at": "2025-05-21T09:00:00Z",
+    "roles": "700100200300400013"
+  },
+  {
+    "guild_id": "900100200300400010",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-05-25T20:30:00Z",
+    "roles": "700100200300400014"
+  },
+  {
+    "guild_id": "900100200300400011",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-01T09:00:00Z",
+    "roles": "700100200300400015"
+  },
+  {
+    "guild_id": "900100200300400011",
+    "user_id": "500100200300400001",
+    "username": "keithb",
+    "global_name": "Keith Burgess",
+    "nick": "Keith",
+    "bot": "false",
+    "joined_at": "2025-06-02T10:00:00Z",
+    "roles": "700100200300400015"
+  },
+  {
+    "guild_id": "900100200300400012",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-05T14:00:00Z",
+    "roles": "700100200300400016"
+  },
+  {
+    "guild_id": "900100200300400013",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-08T07:30:00Z",
+    "roles": "700100200300400017"
+  },
+  {
+    "guild_id": "900100200300400014",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-10T09:00:00Z",
+    "roles": "700100200300400018"
+  },
+  {
+    "guild_id": "900100200300400014",
+    "user_id": "500100200300400006",
+    "username": "keithburgess",
+    "global_name": "Keith B",
+    "nick": "Keith",
+    "bot": "false",
+    "joined_at": "2025-06-11T08:00:00Z",
+    "roles": "700100200300400018"
+  },
+  {
+    "guild_id": "900100200300400015",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-15T20:00:00Z",
+    "roles": "700100200300400019"
+  },
+  {
+    "guild_id": "900100200300400016",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-18T10:00:00Z",
+    "roles": "700100200300400020"
+  },
+  {
+    "guild_id": "900100200300400017",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-20T12:30:00Z",
+    "roles": "700100200300400021"
+  },
+  {
+    "guild_id": "900100200300400018",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-22T09:00:00Z",
+    "roles": "700100200300400022"
+  },
+  {
+    "guild_id": "900100200300400019",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-25T08:00:00Z",
+    "roles": "700100200300400023"
+  },
+  {
+    "guild_id": "900100200300400020",
+    "user_id": "500100200300400010",
+    "username": "floydw",
+    "global_name": "Floyd W",
+    "nick": "Floyd",
+    "bot": "false",
+    "joined_at": "2025-06-28T19:00:00Z",
+    "roles": "700100200300400024"
+  }
+]

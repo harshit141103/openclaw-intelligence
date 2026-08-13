@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d-1a2b3c4d5e6f7081",
+    "name": "Load Confirmation",
+    "generation": "dynamic",
+    "subject": "Load confirmation for {{client_name}} - {{load_id}}",
+    "html_content": "<h1>Load Confirmed</h1><p>Hey {{first_name}}, your load {{load_id}} is booked and dispatched.</p>",
+    "active": "true",
+    "updated_at": "2026-05-10T10:00:00Z"
+  },
+  {
+    "id": "d-2b3c4d5e6f708192",
+    "name": "Delivery Notification",
+    "generation": "dynamic",
+    "subject": "Your shipment {{load_id}} has been delivered",
+    "html_content": "<p>Good news {{first_name}}, load {{load_id}} delivered safe and on time.</p>",
+    "active": "true",
+    "updated_at": "2026-05-12T11:30:00Z"
+  },
+  {
+    "id": "d-3c4d5e6f70819203",
+    "name": "WFS Monthly Newsletter",
+    "generation": "dynamic",
+    "subject": "Whitaker Freight - {{month}} update",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "active": "true",
+    "updated_at": "2026-05-20T09:15:00Z"
+  },
+  {
+    "id": "d-4d5e6f7081920314",
+    "name": "Carrier Rate Update",
+    "generation": "dynamic",
+    "subject": "Updated lane rates for {{lane}}",
+    "html_content": "<p>Hey {{first_name}}, here are the current rates on {{lane}}.</p>",
+    "active": "true",
+    "updated_at": "2026-05-22T14:00:00Z"
+  },
+  {
+    "id": "d-5e6f708192031425",
+    "name": "Mentorship Program Announcement",
+    "generation": "dynamic",
+    "subject": "TN Freight Mentorship - autumn cohort kickoff",
+    "html_content": "<p>The autumn cohort starts soon. We are glad to have you aboard.</p>",
+    "active": "true",
+    "updated_at": "2026-05-28T08:00:00Z"
+  },
+  {
+    "id": "d-6f70819203142536",
+    "name": "Quote Request Received",
+    "generation": "dynamic",
+    "subject": "We got your quote request, {{first_name}}",
+    "html_content": "<p>Thanks {{first_name}}, we received your request for {{lane}} and will be back with a rate shortly.</p>",
+    "active": "true",
+    "updated_at": "2026-05-14T09:00:00Z"
+  },
+  {
+    "id": "d-708192031425364a",
+    "name": "Rate Quote Reply",
+    "generation": "dynamic",
+    "subject": "Your rate quote for {{lane}}",
+    "html_content": "<p>Hey {{first_name}}, our rate on {{lane}} is {{rate}}. Let me know if you want to book.</p>",
+    "active": "true",
+    "updated_at": "2026-05-16T10:30:00Z"
+  },
+  {
+    "id": "d-8192031425364a5b",
+    "name": "Pickup Scheduled",
+    "generation": "dynamic",
+    "subject": "Pickup scheduled for load {{load_id}}",
+    "html_content": "<p>{{first_name}}, pickup for {{load_id}} is set for {{pickup_date}}. Driver details to follow.</p>",
+    "active": "true",
+    "updated_at": "2026-05-18T11:00:00Z"
+  },
+  {
+    "id": "d-92031425364a5b6c",
+    "name": "Driver Dispatched",
+    "generation": "dynamic",
+    "subject": "Driver dispatched on {{load_id}}",
+    "html_content": "<p>Good morning {{first_name}}, your driver is rolling on {{load_id}}. Tracking link inside.</p>",
+    "active": "true",
+    "updated_at": "2026-05-19T08:30:00Z"
+  },
+  {
+    "id": "d-031425364a5b6c7d",
+    "name": "In Transit Update",
+    "generation": "dynamic",
+    "subject": "Load {{load_id}} in transit",
+    "html_content": "<p>{{first_name}}, load {{load_id}} is in transit and on schedule for {{eta}}.</p>",
+    "active": "true",
+    "updated_at": "2026-05-21T13:00:00Z"
+  },
+  {
+    "id": "d-1425364a5b6c7d8e",
+    "name": "Invoice Sent",
+    "generation": "dynamic",
+    "subject": "Invoice {{invoice_id}} from Whitaker Freight",
+    "html_content": "<p>Hey {{first_name}}, attached is invoice {{invoice_id}} for load {{load_id}}. Thank you for your business.</p>",
+    "active": "true",
+    "updated_at": "2026-05-23T09:45:00Z"
+  },
+  {
+    "id": "d-425364a5b6c7d8e9",
+    "name": "Payment Reminder",
+    "generation": "dynamic",
+    "subject": "Friendly reminder on invoice {{invoice_id}}",
+    "html_content": "<p>{{first_name}}, just a friendly note that invoice {{invoice_id}} is due {{due_date}}.</p>",
+    "active": "true",
+    "updated_at": "2026-05-25T10:00:00Z"
+  },
+  {
+    "id": "d-25364a5b6c7d8e9f",
+    "name": "Payment Received",
+    "generation": "dynamic",
+    "subject": "Payment received - thank you {{first_name}}",
+    "html_content": "<p>We received your payment on invoice {{invoice_id}}. Appreciate you, {{first_name}}.</p>",
+    "active": "true",
+    "updated_at": "2026-05-26T11:15:00Z"
+  },
+  {
+    "id": "d-5364a5b6c7d8e9f0",
+    "name": "Carrier Onboarding Welcome",
+    "generation": "dynamic",
+    "subject": "Welcome aboard, {{carrier_name}}",
+    "html_content": "<p>Glad to partner with you. Here is what we need to get {{carrier_name}} set up in our system.</p>",
+    "active": "true",
+    "updated_at": "2026-04-28T09:00:00Z"
+  },
+  {
+    "id": "d-364a5b6c7d8e9f01",
+    "name": "Carrier Vetting Reminder",
+    "generation": "dynamic",
+    "subject": "Carrier packet renewal needed",
+    "html_content": "<p>Hey {{first_name}}, your authority and insurance packet is up for renewal. Please send updated docs.</p>",
+    "active": "true",
+    "updated_at": "2026-04-30T14:00:00Z"
+  },
+  {
+    "id": "d-64a5b6c7d8e9f012",
+    "name": "DOT Compliance Webinar Invite",
+    "generation": "dynamic",
+    "subject": "You're invited - Q{{quarter}} DOT compliance webinar",
+    "html_content": "<p>{{first_name}}, join our quarterly DOT compliance webinar on {{webinar_date}}. Register inside.</p>",
+    "active": "true",
+    "updated_at": "2026-05-02T08:00:00Z"
+  },
+  {
+    "id": "d-4a5b6c7d8e9f0123",
+    "name": "DOT Webinar Reminder",
+    "generation": "dynamic",
+    "subject": "Tomorrow - DOT compliance webinar",
+    "html_content": "<p>Quick reminder {{first_name}}, our DOT webinar is tomorrow at {{webinar_time}}.</p>",
+    "active": "true",
+    "updated_at": "2026-05-03T08:00:00Z"
+  },
+  {
+    "id": "d-a5b6c7d8e9f01234",
+    "name": "Client Review Request",
+    "generation": "dynamic",
+    "subject": "How did we do, {{first_name}}?",
+    "html_content": "<p>{{first_name}}, we'd appreciate a quick word on how the {{lane}} haul went.</p>",
+    "active": "true",
+    "updated_at": "2026-05-05T10:00:00Z"
+  },
+  {
+    "id": "d-b6c7d8e9f0123456",
+    "name": "Holiday Greeting",
+    "generation": "dynamic",
+    "subject": "Season's greetings from Whitaker Freight",
+    "html_content": "<p>From all of us at Whitaker Freight Services, thank you and happy holidays, {{first_name}}.</p>",
+    "active": "false",
+    "updated_at": "2025-12-15T09:00:00Z"
+  },
+  {
+    "id": "d-c7d8e9f012345678",
+    "name": "Delivery Exception Alert",
+    "generation": "dynamic",
+    "subject": "Heads up on load {{load_id}}",
+    "html_content": "<p>{{first_name}}, we hit a delay on {{load_id}}. Here's the situation and the new {{eta}}.</p>",
+    "active": "true",
+    "updated_at": "2026-05-31T15:30:00Z"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "user-wfs-001",
+  "name": "Floyd Whitaker",
+  "username": "floyd.whitaker",
+  "profile_location": "Knoxville, TN",
+  "email": "floyd.whitaker@finthesiss.ai",
+  "country": {"code": "US", "name": "United States"},
+  "native_currency": "USD",
+  "created_at": "2024-02-10T09:00:00Z"
+}

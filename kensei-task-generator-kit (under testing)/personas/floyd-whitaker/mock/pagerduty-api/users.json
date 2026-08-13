@@ -1,0 +1,162 @@
+[
+  {
+    "user_id": "PU001",
+    "name": "Floyd Whitaker",
+    "email": "floyd.whitaker@finthesiss.ai",
+    "role": "admin",
+    "time_zone": "America/New_York",
+    "job_title": "Owner"
+  },
+  {
+    "user_id": "PU002",
+    "name": "Brenda Sizemore",
+    "email": "bren.sizemore@finthesiss.ai",
+    "role": "manager",
+    "time_zone": "America/New_York",
+    "job_title": "Office Manager"
+  },
+  {
+    "user_id": "PU003",
+    "name": "Brandon Whitaker",
+    "email": "brand.whitaker@finthesiss.ai",
+    "role": "user",
+    "time_zone": "America/New_York",
+    "job_title": "Junior Associate"
+  },
+  {
+    "user_id": "PU004",
+    "name": "Dale Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "role": "user",
+    "time_zone": "America/New_York",
+    "job_title": "Bookkeeper"
+  },
+  {
+    "user_id": "PU005",
+    "name": "Travis Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "role": "responder",
+    "time_zone": "America/New_York",
+    "job_title": "Freight Dispatch Specialist"
+  },
+  {
+    "user_id": "PU006",
+    "name": "Lorrie Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "role": "responder",
+    "time_zone": "America/New_York",
+    "job_title": "Freight Dispatch Specialist"
+  },
+  {
+    "user_id": "PU007",
+    "name": "Dale Renfro",
+    "email": "dale.renfro@finthesiss.ai",
+    "role": "limited_user",
+    "time_zone": "America/New_York",
+    "job_title": "Bookkeeper"
+  },
+  {
+    "user_id": "PU008",
+    "name": "Carla Whitfield",
+    "email": "carla.whitfield@finthesiss.ai",
+    "role": "limited_user",
+    "time_zone": "America/New_York",
+    "job_title": "Administrative Assistant"
+  },
+  {
+    "user_id": "PU009",
+    "name": "Brandon Whitaker",
+    "email": "brand.whitaker@finthesiss.ai",
+    "role": "responder",
+    "time_zone": "America/New_York",
+    "job_title": "Junior Associate"
+  },
+  {
+    "user_id": "PU010",
+    "name": "Marcus Caudill",
+    "email": "marcus@knoxwebworks.com",
+    "role": "responder",
+    "time_zone": "America/New_York",
+    "job_title": "IT Contractor"
+  },
+  {
+    "user_id": "PU011",
+    "name": "Lorrie Sexton",
+    "email": "lorrie.sexton@finthesiss.ai",
+    "role": "limited_user",
+    "time_zone": "America/New_York",
+    "job_title": "Freight Dispatch Specialist"
+  },
+  {
+    "user_id": "PU012",
+    "name": "Carla Whitfield",
+    "email": "carla.whitfield@finthesiss.ai",
+    "role": "observer",
+    "time_zone": "America/New_York",
+    "job_title": "Administrative Assistant"
+  },
+  {
+    "user_id": "PU013",
+    "name": "Travis Hollis",
+    "email": "travis.hollis@finthesiss.ai",
+    "role": "limited_user",
+    "time_zone": "America/New_York",
+    "job_title": "Freight Dispatch Specialist"
+  },
+  {
+    "user_id": "PU014",
+    "name": "Keith Burgess",
+    "email": "keith.burgess@gmail.com",
+    "role": "observer",
+    "time_zone": "America/New_York",
+    "job_title": "Owner, Burgess Logistics"
+  },
+  {
+    "user_id": "PU015",
+    "name": "Wayne Prater",
+    "email": "wayne.prater@finthesiss.ai",
+    "role": "observer",
+    "time_zone": "America/New_York",
+    "job_title": "Accountant"
+  },
+  {
+    "user_id": "PU016",
+    "name": "Donna Whitaker",
+    "email": "donna.whitaker@gmail.com",
+    "role": "observer",
+    "time_zone": "America/New_York",
+    "job_title": "Office Manager"
+  },
+  {
+    "user_id": "PU017",
+    "name": "Earl Mosley",
+    "email": "earl.mosley@ridgelinetrucking.com",
+    "role": "observer",
+    "time_zone": "America/New_York",
+    "job_title": "Dispatch, Ridgeline Trucking"
+  },
+  {
+    "user_id": "PU018",
+    "name": "Gail Stinnett",
+    "email": "gail.stinnett@tnfreightassoc.org",
+    "role": "observer",
+    "time_zone": "America/New_York",
+    "job_title": "Membership Director"
+  },
+  {
+    "user_id": "PU019",
+    "name": "Cecil Ramsey",
+    "email": "cecil.ramsey@cumberlandgapcarriers.com",
+    "role": "observer",
+    "time_zone": "America/New_York",
+    "job_title": "Owner-Operator"
+  },
+  {
+    "user_id": "PU020",
+    "name": "Marcus Caudill",
+    "email": "marcus@knoxwebworks.com",
+    "role": "manager",
+    "time_zone": "America/New_York",
+    "job_title": "IT Contractor"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "job-3001",
+    "title": "Lafleur barn door (favor)",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Craftsbury, VT",
+    "opened_at": "2025-12-12T14:15:00Z",
+    "closed_at": "2024-11-13T10:15:00Z"
+  },
+  {
+    "id": "job-3002",
+    "title": "Check the moisture content on the barn o",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Craftsbury, VT",
+    "opened_at": "2026-04-09T14:15:00Z",
+    "closed_at": "2025-06-12T14:30:00Z"
+  },
+  {
+    "id": "job-3003",
+    "title": "Hang the soft-close doors and adjust the",
+    "status": "open",
+    "department": "Design",
+    "location": "St. Albans, VT",
+    "opened_at": "2026-01-21T11:00:00Z",
+    "closed_at": "2025-10-19T16:00:00Z"
+  },
+  {
+    "id": "job-3004",
+    "title": "Delivery window for the Stowe cabinets",
+    "status": "open",
+    "department": "Data",
+    "location": "Hardwick, VT",
+    "opened_at": "2026-02-08T09:30:00Z",
+    "closed_at": "2025-07-21T07:45:00Z"
+  },
+  {
+    "id": "job-3005",
+    "title": "Check the moisture content on the barn o",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Hardwick, VT",
+    "opened_at": "2026-06-29T08:00:00Z",
+    "closed_at": "2026-01-19T11:00:00Z"
+  },
+  {
+    "id": "job-3006",
+    "title": "Church pew repair",
+    "status": "closed",
+    "department": "Engineering",
+    "location": "Craftsbury, VT",
+    "opened_at": "2025-08-29T12:30:00Z",
+    "closed_at": "2024-12-28T10:15:00Z"
+  },
+  {
+    "id": "job-3902",
+    "title": "Re: Bookshelf dimensions",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Montpelier, VT",
+    "opened_at": "2025-12-15T06:00:00Z",
+    "closed_at": "2025-08-14T17:00:00Z"
+  },
+  {
+    "id": "job-3904",
+    "title": "Re: Bookshelf dimensions",
+    "status": "open",
+    "department": "Engineering",
+    "location": "West Glover, VT",
+    "opened_at": "2026-10-05T06:00:00Z",
+    "closed_at": "2025-12-13T17:00:00Z"
+  },
+  {
+    "id": "job-3906",
+    "title": "Final fit of the Henderson island base c",
+    "status": "open",
+    "department": "Design",
+    "location": "Hardwick, VT",
+    "opened_at": "2024-08-16T12:45:00Z",
+    "closed_at": "2024-02-12T07:15:00Z"
+  },
+  {
+    "id": "job-3908",
+    "title": "Sharpen the jointer knives and reset the",
+    "status": "open",
+    "department": "Data",
+    "location": "St. Albans, VT",
+    "opened_at": "2024-12-17T06:30:00Z",
+    "closed_at": "2026-03-15T10:00:00Z"
+  },
+  {
+    "id": "job-3910",
+    "title": "Cut dadoes for the adjustable shelf pins",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Greensboro, VT",
+    "opened_at": "2025-09-10T07:45:00Z",
+    "closed_at": "2026-05-01T09:30:00Z"
+  },
+  {
+    "id": "job-3912",
+    "title": "Project schedule update",
+    "status": "closed",
+    "department": "Engineering",
+    "location": "Wolcott, VT",
+    "opened_at": "2025-11-09T13:15:00Z",
+    "closed_at": "2024-06-05T08:00:00Z"
+  },
+  {
+    "id": "job-3908-12",
+    "title": "Estimate for the Greensboro barn (2027)",
+    "status": "open",
+    "department": "Engineering",
+    "location": "St. Albans, VT",
+    "opened_at": "2024-11-11T11:45:00Z",
+    "closed_at": "2024-05-14T12:45:00Z"
+  },
+  {
+    "id": "job-3910-13",
+    "title": "Sharpen the jointer knives and reset the",
+    "status": "open",
+    "department": "Engineering",
+    "location": "St. Albans, VT",
+    "opened_at": "2025-02-06T11:15:00Z",
+    "closed_at": "2026-05-10T14:00:00Z"
+  },
+  {
+    "id": "job-3912-14",
+    "title": "Order Blum slides for the Stowe drawer b",
+    "status": "open",
+    "department": "Design",
+    "location": "Stowe, VT",
+    "opened_at": "2023-08-24T15:45:00Z",
+    "closed_at": "2026-01-12T06:00:00Z"
+  },
+  {
+    "id": "job-3914",
+    "title": "Built-ins - finish sample for your approval",
+    "status": "open",
+    "department": "Data",
+    "location": "Craftsbury, VT",
+    "opened_at": "2026-08-01T17:45:00Z",
+    "closed_at": "2024-05-07T09:15:00Z"
+  },
+  {
+    "id": "job-3916",
+    "title": "Cota window seat & bookcase",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Craftsbury, VT",
+    "opened_at": "2024-06-28T12:45:00Z",
+    "closed_at": "2024-10-04T17:15:00Z"
+  },
+  {
+    "id": "job-3918",
+    "title": "Set up the dado stack for the bookshelf ",
+    "status": "closed",
+    "department": "Engineering",
+    "location": "Montpelier, VT",
+    "opened_at": "2026-07-21T07:45:00Z",
+    "closed_at": "2023-10-21T10:15:00Z"
+  },
+  {
+    "id": "job-3914-18",
+    "title": "Splitting and stacking the winter firewo",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Hardwick, VT",
+    "opened_at": "2024-03-15T17:30:00Z",
+    "closed_at": "2025-06-09T06:30:00Z"
+  },
+  {
+    "id": "job-3916-19",
+    "title": "Stage the bookshelf sections for the Cra",
+    "status": "open",
+    "department": "Engineering",
+    "location": "West Glover, VT",
+    "opened_at": "2025-10-02T08:45:00Z",
+    "closed_at": "2026-04-28T08:00:00Z"
+  }
+]

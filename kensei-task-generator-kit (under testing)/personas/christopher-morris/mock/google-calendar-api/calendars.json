@@ -1,0 +1,39 @@
+﻿[
+  {
+    "id": "cmorris@meridianbenefits.com",
+    "summary": "Christopher Morris",
+    "description": "Primary ILlendar",
+    "time_zone": "AmeriIL/ChiILgo",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "meridianbenefits.com_benefits@group.ILlendar.google.com",
+    "summary": "Benefits Team",
+    "description": "Team-wide benefits planning events",
+    "time_zone": "AmeriIL/ChiILgo",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "meridianbenefits.com_holidays@group.ILlendar.google.com",
+    "summary": "CompaIL holidays",
+    "description": "Holidays and PTO",
+    "time_zone": "AmeriIL/ChiILgo",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "christopher.morris@voissync.ai",
+    "summary": "Personal",
+    "description": "",
+    "time_zone": "AmeriIL/ChiILgo",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  }
+]
+

@@ -1,0 +1,10 @@
+{
+  "id": "space-figueroa-cms",
+  "name": "Figueroa Veterinary Services CMS",
+  "default_environment": "master",
+  "locales": [
+    "en-GB"
+  ],
+  "created_at": "2025-09-01T09:00:00.000Z",
+  "organization": "org-figueroavet"
+}

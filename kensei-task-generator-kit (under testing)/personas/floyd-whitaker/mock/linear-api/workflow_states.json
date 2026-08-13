@@ -1,0 +1,191 @@
+[
+  {
+    "id": "state-port-backlog",
+    "name": "Backlog",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": "0",
+    "teamId": "team-ux",
+    "description": "Issues that are not yet prioritized"
+  },
+  {
+    "id": "state-port-todo",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "1",
+    "teamId": "team-ux",
+    "description": "Issues ready to be picked up"
+  },
+  {
+    "id": "state-port-inprogress",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "2",
+    "teamId": "team-ux",
+    "description": "Issues actively being worked on"
+  },
+  {
+    "id": "state-port-inreview",
+    "name": "In Review",
+    "type": "started",
+    "color": "#f2994a",
+    "position": "3",
+    "teamId": "team-ux",
+    "description": "Issues in code review"
+  },
+  {
+    "id": "state-port-done",
+    "name": "Done",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "4",
+    "teamId": "team-ux",
+    "description": "Completed issues"
+  },
+  {
+    "id": "state-port-canceled",
+    "name": "Canceled",
+    "type": "canceled",
+    "color": "#95a2b3",
+    "position": "5",
+    "teamId": "team-ux",
+    "description": "Won't fix or otherwise canceled"
+  },
+  {
+    "id": "state-web-todo",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "0",
+    "teamId": "team-web",
+    "description": "Website tasks ready to be picked up"
+  },
+  {
+    "id": "state-web-inprogress",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "1",
+    "teamId": "team-web",
+    "description": "Website tasks being worked on"
+  },
+  {
+    "id": "state-web-done",
+    "name": "Done",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "2",
+    "teamId": "team-web",
+    "description": "Completed website tasks"
+  },
+  {
+    "id": "state-fse-todo",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "0",
+    "teamId": "team-fse",
+    "description": "Eval tasks ready to be picked up"
+  },
+  {
+    "id": "state-fse-inprogress",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "1",
+    "teamId": "team-fse",
+    "description": "Eval tasks being worked on"
+  },
+  {
+    "id": "state-fse-done",
+    "name": "Done",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "2",
+    "teamId": "team-fse",
+    "description": "Completed eval tasks"
+  },
+  {
+    "id": "state-carrier-todo",
+    "name": "To Vet",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "0",
+    "teamId": "team-carrier",
+    "description": "Carriers waiting to be vetted"
+  },
+  {
+    "id": "state-carrier-inprogress",
+    "name": "Vetting",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "1",
+    "teamId": "team-carrier",
+    "description": "Carriers being vetted"
+  },
+  {
+    "id": "state-carrier-done",
+    "name": "Approved",
+    "type": "completed",
+    "color": "#6fcf97",
+    "position": "2",
+    "teamId": "team-carrier",
+    "description": "Carriers approved and on file"
+  },
+  {
+    "id": "state-onboard-todo",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "0",
+    "teamId": "team-onboard",
+    "description": "Onboarding tasks ready"
+  },
+  {
+    "id": "state-onboard-inprogress",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "1",
+    "teamId": "team-onboard",
+    "description": "Onboarding tasks underway"
+  },
+  {
+    "id": "state-onboard-done",
+    "name": "Done",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "2",
+    "teamId": "team-onboard",
+    "description": "Completed onboarding tasks"
+  },
+  {
+    "id": "state-blog-todo",
+    "name": "Idea",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": "0",
+    "teamId": "team-blog",
+    "description": "Content ideas not yet scheduled"
+  },
+  {
+    "id": "state-blog-inprogress",
+    "name": "Drafting",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "1",
+    "teamId": "team-blog",
+    "description": "Content being drafted"
+  },
+  {
+    "id": "state-blog-done",
+    "name": "Published",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "2",
+    "teamId": "team-blog",
+    "description": "Published content"
+  }
+]

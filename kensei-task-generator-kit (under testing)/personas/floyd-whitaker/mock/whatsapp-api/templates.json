@@ -1,0 +1,162 @@
+[
+  {
+    "name": "load_confirmation",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, your load {{2}} is confirmed for pickup on {{3}}. Reply with any questions.",
+    "header_text": "Load update"
+  },
+  {
+    "name": "rate_quote",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Reminder: the rate quote for lane {{1}} is good through {{2}}.",
+    "header_text": ""
+  },
+  {
+    "name": "carrier_welcome",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Welcome aboard, {{1}}! Send over your carrier packet and we will get you set up to haul.",
+    "header_text": "Welcome to WFS"
+  },
+  {
+    "name": "otp_verify",
+    "language": "en_US",
+    "category": "AUTHENTICATION",
+    "status": "APPROVED",
+    "body_text": "Your verification code is {{1}}. It expires in 10 minutes.",
+    "header_text": ""
+  },
+  {
+    "name": "delivery_followup",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "PENDING",
+    "body_text": "Hi {{1}}, did load {{2}} deliver clean? Let us know if anything came up.",
+    "header_text": ""
+  },
+  {
+    "name": "pickup_reminder",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Reminder {{1}}: pickup for load {{2}} is scheduled at {{3}}. Confirm your driver is set.",
+    "header_text": "Pickup reminder"
+  },
+  {
+    "name": "rate_con_sent",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, the rate confirmation for load {{2}} has been sent. Sign and return when you can.",
+    "header_text": ""
+  },
+  {
+    "name": "insurance_expiring",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, your insurance cert on file expires {{2}}. Please send an updated COI to stay active.",
+    "header_text": "Insurance update needed"
+  },
+  {
+    "name": "detention_notice",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, we logged detention on load {{2}}. Send your in and out times so we can bill the shipper.",
+    "header_text": ""
+  },
+  {
+    "name": "border_crossing_update",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Load {{1}} cleared {{2}} crossing at {{3}}. Driver is rolling toward the consignee.",
+    "header_text": "Border update"
+  },
+  {
+    "name": "payment_processed",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, payment for load {{2}} was processed on {{3}}. Thanks for hauling with WFS.",
+    "header_text": "Payment sent"
+  },
+  {
+    "name": "lane_opportunity",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, we have a steady lane {{2}} opening up. Reply if you have capacity and want details.",
+    "header_text": "New lane"
+  },
+  {
+    "name": "mentorship_invite",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "PENDING",
+    "body_text": "Hi {{1}}, the TN Freight Mentorship autumn cohort is filling up. Want a spot? Reply YES to apply.",
+    "header_text": "Mentorship Program"
+  },
+  {
+    "name": "dot_webinar_reminder",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, our quarterly DOT compliance webinar is {{2}}. Reply for the registration link.",
+    "header_text": "DOT Webinar"
+  },
+  {
+    "name": "packet_request",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, to get set up we need your authority, W-9, and insurance cert. Send them when ready.",
+    "header_text": "Carrier packet"
+  },
+  {
+    "name": "load_canceled",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, unfortunately load {{2}} was canceled by the shipper. Sorry for the trouble. More to come.",
+    "header_text": ""
+  },
+  {
+    "name": "appointment_set",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, delivery appointment for load {{2}} is set for {{3}}. Don't be early or late.",
+    "header_text": "Appointment"
+  },
+  {
+    "name": "backhaul_offer",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, your driver is empty near {{2}}. We have a backhaul to {{3}}. Want it?",
+    "header_text": "Backhaul"
+  },
+  {
+    "name": "holiday_hours",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, WFS office will be closed {{2}} for the holiday. Dispatch line stays open for active loads.",
+    "header_text": "Holiday notice"
+  },
+  {
+    "name": "otp_login",
+    "language": "en_US",
+    "category": "AUTHENTICATION",
+    "status": "APPROVED",
+    "body_text": "Your WFS portal login code is {{1}}. Do not share it. It expires in 5 minutes.",
+    "header_text": ""
+  }
+]

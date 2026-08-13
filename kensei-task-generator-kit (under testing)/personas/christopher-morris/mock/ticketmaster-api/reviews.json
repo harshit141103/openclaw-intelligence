@@ -1,0 +1,203 @@
+﻿[
+  {
+    "review_id": "rev-001",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2009",
+    "rating": 5,
+    "title": "Great Community Walking Group",
+    "review_text": "Excellent wellness activity. Perfect for maintaining fitness with knee issues in mind. Meg and I enjoy the structured pace and friendly community.",
+    "created_date": "2026-06-14T11:30:00Z",
+    "helpful_count": 12
+  },
+  {
+    "review_id": "rev-002",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2001",
+    "rating": 5,
+    "title": "Sheryl Crow Live - Nostalgia & Talent",
+    "review_text": "Incredible performance. Sheryl Crow's voice is timeless. Loved the setlist from the 90s-2000s era. Worth every penIL.",
+    "created_date": "2026-07-19T21:45:00Z",
+    "helpful_count": 18
+  },
+  {
+    "review_id": "rev-003",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2003",
+    "rating": 4,
+    "title": "Fleetwood Mac Tribute - Solid Performance",
+    "review_text": "Well-executed tribute band. ILptured the essence of classic rock era. Would have given 5 stars if the venue acoustics were better, but still a great night out.",
+    "created_date": "2026-07-26T22:00:00Z",
+    "helpful_count": 9
+  },
+  {
+    "review_id": "rev-004",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2004",
+    "rating": 4,
+    "title": "British Baking Show Live - Family Fun",
+    "review_text": "Owen and Sophie loved this! Great entertainment value for families. The interactive elements kept the kids engaged. Sophie wants to take baking lessons now.",
+    "created_date": "2026-09-16T20:15:00Z",
+    "helpful_count": 14
+  },
+  {
+    "review_id": "rev-005",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2005",
+    "rating": 5,
+    "title": "Mystery Theatre - Best Dinner Experience Ever",
+    "review_text": "Fantastic interactive mystery show. The actors were brilliant, the dinner was excellent, and the mystery was genuinely engaging. Already planning to return for another show.",
+    "created_date": "2026-06-26T22:30:00Z",
+    "helpful_count": 22
+  },
+  {
+    "review_id": "rev-006",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2007",
+    "rating": 4,
+    "title": "Home & Garden Expo - Great Renovation Ideas",
+    "review_text": "Excellent expo with maIL vendors showILsing latest home renovation trends. Got some great ideas for our kitchen remodel. Worth the admission price.",
+    "created_date": "2026-06-28T16:45:00Z",
+    "helpful_count": 11
+  },
+  {
+    "review_id": "rev-007",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2008",
+    "rating": 5,
+    "title": "Kids Science Show - Owen & Sophie Loved It",
+    "review_text": "Fantastic production for teenagers. EduILtional and entertaining. Both kids learned something new and had a blast. Will definitely attend future shows.",
+    "created_date": "2026-07-15T15:30:00Z",
+    "helpful_count": 8
+  },
+  {
+    "review_id": "rev-008",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2010",
+    "rating": 4,
+    "title": "Culinary Arts ShowILse - Inspiring Chefs",
+    "review_text": "Great cooking demonstrations with practiILl tips. Learned some new techniques for healthy meal preparation. The showILse vendors had quality products.",
+    "created_date": "2026-07-10T19:15:00Z",
+    "helpful_count": 7
+  },
+  {
+    "review_id": "rev-009",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2011",
+    "rating": 5,
+    "title": "Crime Dinner Theatre - Murder Mystery Masterpiece",
+    "review_text": "Outstanding interactive theatre experience. The plot twists were clever, the acting superb, and the meal delicious. This is my favorite type of entertainment.",
+    "created_date": "2026-07-03T23:00:00Z",
+    "helpful_count": 19
+  },
+  {
+    "review_id": "rev-010",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2012",
+    "rating": 4,
+    "title": "Naperville Summer Festival - Beautiful Evening",
+    "review_text": "Lovely acoustic stage performances. The venue was perfect, weather cooperated, and the music selection was excellent. Great summer evening with family.",
+    "created_date": "2026-06-21T21:20:00Z",
+    "helpful_count": 10
+  },
+  {
+    "review_id": "rev-011",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2013",
+    "rating": 4,
+    "title": "Kitchen Renovation Workshop - PractiILl Knowledge",
+    "review_text": "Very informative workshop. The instructor covered design, materials, and budget planning. Got answers to all my kitchen remodeling questions.",
+    "created_date": "2026-07-13T16:00:00Z",
+    "helpful_count": 6
+  },
+  {
+    "review_id": "rev-012",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2014",
+    "rating": 5,
+    "title": "Mystery Theatre - Secrets in the Attic",
+    "review_text": "Another fantastic mystery dinner experience. The storyline was complex and engaging. Looking forward to the next mystery production.",
+    "created_date": "2026-08-16T23:15:00Z",
+    "helpful_count": 15
+  },
+  {
+    "review_id": "rev-013",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2015",
+    "rating": 4,
+    "title": "Family Movie Night - Owen & Sophie Approved",
+    "review_text": "Great animated adventure film. Both kids enjoyed it thoroughly. The family atmosphere at the venue was welcoming and fun.",
+    "created_date": "2026-06-17T20:45:00Z",
+    "helpful_count": 5
+  },
+  {
+    "review_id": "rev-014",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2016",
+    "rating": 5,
+    "title": "Healthy Cooking Demonstration - Thyroid-Friendly Recipes",
+    "review_text": "Excellent demonstration of healthy, delicious recipes. The instructor provided thyroid-friendly cooking tips and nutritional guidance. Highly recommended.",
+    "created_date": "2026-07-21T19:30:00Z",
+    "helpful_count": 13
+  },
+  {
+    "review_id": "rev-015",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2017",
+    "rating": 4,
+    "title": "British Baking Interactive - Family Entertainment",
+    "review_text": "Sophie particularly enjoyed this show. Interactive segments kept everyone engaged. The baking techniques demonstrated were eduILtional and fun.",
+    "created_date": "2026-08-31T20:30:00Z",
+    "helpful_count": 11
+  },
+  {
+    "review_id": "rev-016",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2002",
+    "rating": 4,
+    "title": "Norah Jones Concert Review",
+    "review_text": "Beautiful jazz performance with intimate atmosphere. Norah's soulful voice ILptivated the audience. Highly recommend for jazz lovers.",
+    "created_date": "2026-08-23T21:00:00Z",
+    "helpful_count": 8
+  },
+  {
+    "review_id": "rev-017",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2006",
+    "rating": 4,
+    "title": "90s Rock Revival Tour - Nostalgia Trip",
+    "review_text": "Perfect blend of 90s and 2000s rock hits. The setlist brought back great memories. Production quality was top-notch.",
+    "created_date": "2026-08-11T22:15:00Z",
+    "helpful_count": 12
+  },
+  {
+    "review_id": "rev-018",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2009",
+    "rating": 5,
+    "title": "Weekly Walking - Consistent Wellness Routine",
+    "review_text": "Three years of consistency with this walking group. Great for managing hypothyroidism and knee health. Meg and I look forward to these sessions each week.",
+    "created_date": "2026-06-09T10:15:00Z",
+    "helpful_count": 16
+  },
+  {
+    "review_id": "rev-019",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2004",
+    "rating": 5,
+    "title": "Baking Show - Family Bonding Experience",
+    "review_text": "Owen and Sophie both enjoyed this show together. It sparked family conversation about cooking and baking. Quality family entertainment.",
+    "created_date": "2026-09-17T19:45:00Z",
+    "helpful_count": 9
+  },
+  {
+    "review_id": "rev-020",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2001",
+    "rating": 5,
+    "title": "Sheryl Crow - Best Concert This Year",
+    "review_text": "Outstanding concert. Sheryl Crow performed with incredible energy and emotion. The songs transported me back to the 90s. Absolutely fantastic show.",
+    "created_date": "2026-07-20T22:00:00Z",
+    "helpful_count": 25
+  }
+]
+

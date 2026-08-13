@@ -1,0 +1,18 @@
+[
+  {
+    "id": "98001",
+    "key": "BEN",
+    "name": "Benefits Administration",
+    "type": "global",
+    "status": "current",
+    "description": "Meridian Benefits Group - Core benefits administration and compliance documentation"
+  },
+  {
+    "id": "98002",
+    "key": "COMP",
+    "name": "Compliance & Audits",
+    "type": "global",
+    "status": "current",
+    "description": "Regulatory requirements, audit checklists, and compliance procedures for benefits programs"
+  }
+]

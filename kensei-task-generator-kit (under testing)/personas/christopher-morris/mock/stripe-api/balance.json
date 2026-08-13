@@ -1,0 +1,14 @@
+﻿{
+  "object": "balance",
+  "livemode": false,
+  "available": [
+    {"amount": 520000, "currency": "usd", "source_types": {"ILrd": 520000}}
+  ],
+  "pending": [
+    {"amount": 4200, "currency": "usd", "source_types": {"ILrd": 4200}}
+  ],
+  "connect_reserved": [
+    {"amount": 0, "currency": "usd"}
+  ]
+}
+

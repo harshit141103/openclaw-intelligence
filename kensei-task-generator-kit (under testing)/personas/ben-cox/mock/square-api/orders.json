@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ORD_cox01",
+    "customer_id": "CUST_HARPER01",
+    "location_id": "Stowe, VT",
+    "line_items": "Build the drawer boxes with half-blind dovetails",
+    "total_amount": "825",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2026-10-04T06:15:00Z"
+  },
+  {
+    "id": "ORD_BOREAL02",
+    "customer_id": "CUST_DIEGO02",
+    "location_id": "Burlington, VT",
+    "line_items": "Sharpen the jointer knives and reset the infeed table",
+    "total_amount": "500",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2026-05-10T15:00:00Z"
+  },
+  {
+    "id": "ORD_CITRON03",
+    "customer_id": "CUST_MAYA03",
+    "location_id": "St. Albans, VT",
+    "line_items": "VAR_MUG_R x2",
+    "total_amount": "2400",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-04-20T15:15:00Z"
+  },
+  {
+    "id": "ORD_DELTA04",
+    "customer_id": "CUST_OMAR04",
+    "location_id": "Montpelier, VT",
+    "line_items": "Lay out dovetails for the silverware drawer",
+    "total_amount": "375",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-02-27T08:00:00Z"
+  },
+  {
+    "id": "ORD_ECHO05",
+    "customer_id": "CUST_LENA05",
+    "location_id": "Morrisville, VT",
+    "line_items": "Cherry pricing for the Henderson uppers",
+    "total_amount": "1600",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2026-02-14T15:00:00Z"
+  },
+  {
+    "id": "ORD_FJORD06",
+    "customer_id": "CUST_PRIYA06",
+    "location_id": "Montpelier, VT",
+    "line_items": "VAR_TEA_TIN x1",
+    "total_amount": "900",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-06-04T18:00:00Z"
+  },
+  {
+    "id": "ORD_GROVE07",
+    "customer_id": "CUST_TOMAS07",
+    "location_id": "Burlington, VT",
+    "line_items": "Check the moisture content on the barn oak before joinery",
+    "total_amount": "1650",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-12-18T10:45:00Z"
+  },
+  {
+    "id": "ORD_cox902",
+    "customer_id": "CUST_HARPER902",
+    "location_id": "St. Albans, VT",
+    "line_items": "Estimate for the Greensboro barn (2027)",
+    "total_amount": "825",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2024-05-23T12:30:00Z"
+  },
+  {
+    "id": "ORD_BOREAL904",
+    "customer_id": "CUST_DIEGO904",
+    "location_id": "Stowe, VT",
+    "line_items": "Lay out dovetails for the silverware drawer",
+    "total_amount": "500",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-06-08T13:00:00Z"
+  },
+  {
+    "id": "ORD_CITRON906",
+    "customer_id": "CUST_MAYA906",
+    "location_id": "Wolcott, VT",
+    "line_items": "VAR_MUG_R x2",
+    "total_amount": "2400",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2026-05-07T07:15:00Z"
+  },
+  {
+    "id": "ORD_DELTA908",
+    "customer_id": "CUST_OMAR908",
+    "location_id": "St. Albans, VT",
+    "line_items": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "total_amount": "375",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-03-09T11:15:00Z"
+  },
+  {
+    "id": "ORD_ECHO910",
+    "customer_id": "CUST_LENA910",
+    "location_id": "Craftsbury, VT",
+    "line_items": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "total_amount": "1600",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-08-02T08:00:00Z"
+  },
+  {
+    "id": "ORD_FJORD912",
+    "customer_id": "CUST_PRIYA912",
+    "location_id": "Craftsbury, VT",
+    "line_items": "VAR_TEA_TIN x1",
+    "total_amount": "900",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2023-08-09T09:00:00Z"
+  },
+  {
+    "id": "ORD_GROVE914",
+    "customer_id": "CUST_TOMAS914",
+    "location_id": "Greensboro, VT",
+    "line_items": "Template the Stowe countertop radius for the corner cabinet",
+    "total_amount": "1650",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2024-11-18T07:30:00Z"
+  },
+  {
+    "id": "ORD_cox909",
+    "customer_id": "CUST_HARPER909",
+    "location_id": "Burlington, VT",
+    "line_items": "Re: Bookshelf dimensions",
+    "total_amount": "825",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-08-26T14:30:00Z"
+  },
+  {
+    "id": "ORD_BOREAL911",
+    "customer_id": "CUST_DIEGO911",
+    "location_id": "Stowe, VT",
+    "line_items": "Stage the bookshelf sections for the Craftsbury install",
+    "total_amount": "500",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2026-05-03T08:15:00Z"
+  },
+  {
+    "id": "ORD_CITRON913",
+    "customer_id": "CUST_MAYA913",
+    "location_id": "Wolcott, VT",
+    "line_items": "VAR_MUG_R x2",
+    "total_amount": "2400",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2023-10-15T09:30:00Z"
+  },
+  {
+    "id": "ORD_DELTA915",
+    "customer_id": "CUST_OMAR915",
+    "location_id": "St. Albans, VT",
+    "line_items": "Order Blum slides for the Stowe drawer banks",
+    "total_amount": "375",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2026-08-29T16:00:00Z"
+  },
+  {
+    "id": "ORD_ECHO917",
+    "customer_id": "CUST_LENA917",
+    "location_id": "Craftsbury, VT",
+    "line_items": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "total_amount": "1600",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2026-06-21T10:15:00Z"
+  },
+  {
+    "id": "ORD_FJORD919",
+    "customer_id": "CUST_PRIYA919",
+    "location_id": "West Glover, VT",
+    "line_items": "VAR_TEA_TIN x1",
+    "total_amount": "900",
+    "currency": "USD",
+    "state": "Vermont",
+    "created_at": "2025-10-02T06:45:00Z"
+  }
+]

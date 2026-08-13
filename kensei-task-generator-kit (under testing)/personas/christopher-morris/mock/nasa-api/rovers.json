@@ -1,0 +1,110 @@
+[
+  {
+    "name": "curiosity",
+    "status": "active",
+    "landing_date": "2012-08-06",
+    "launch_date": "2011-11-26",
+    "max_sol": "4101",
+    "max_date": "2026-04-13",
+    "total_photos": "712450"
+  },
+  {
+    "name": "perseverance",
+    "status": "active",
+    "landing_date": "2021-02-18",
+    "launch_date": "2020-07-30",
+    "max_sol": "1111",
+    "max_date": "2026-05-01",
+    "total_photos": "358900"
+  },
+  {
+    "name": "opportunity",
+    "status": "complete",
+    "landing_date": "2004-01-25",
+    "launch_date": "2003-07-07",
+    "max_sol": "5111",
+    "max_date": "2018-06-10",
+    "total_photos": "228771"
+  },
+  {
+    "name": "spirit",
+    "status": "complete",
+    "landing_date": "2004-01-04",
+    "launch_date": "2003-06-10",
+    "max_sol": "2208",
+    "max_date": "2010-03-22",
+    "total_photos": "128212"
+  },
+  {
+    "name": "sojourner",
+    "status": "complete",
+    "landing_date": "1997-07-04",
+    "launch_date": "1996-12-04",
+    "max_sol": "84",
+    "max_date": "1997-09-27",
+    "total_photos": "16500"
+  },
+  {
+    "name": "zhurong",
+    "status": "inactive",
+    "landing_date": "2021-05-15",
+    "launch_date": "2020-07-23",
+    "max_sol": "910",
+    "max_date": "2023-11-20",
+    "total_photos": "94300"
+  },
+  {
+    "name": "lunokhod_1",
+    "status": "complete",
+    "landing_date": "1970-11-17",
+    "launch_date": "1970-11-10",
+    "max_sol": "322",
+    "max_date": "1971-09-14",
+    "total_photos": "14000"
+  },
+  {
+    "name": "lunokhod_2",
+    "status": "complete",
+    "landing_date": "1973-01-16",
+    "launch_date": "1973-01-08",
+    "max_sol": "220",
+    "max_date": "1973-09-11",
+    "total_photos": "80000"
+  },
+  {
+    "name": "yutu",
+    "status": "complete",
+    "landing_date": "2013-12-14",
+    "launch_date": "2013-12-02",
+    "max_sol": "2971",
+    "max_date": "2023-08-25",
+    "total_photos": "187500"
+  },
+  {
+    "name": "yutu_2",
+    "status": "active",
+    "landing_date": "2020-12-01",
+    "launch_date": "2020-11-24",
+    "max_sol": "1556",
+    "max_date": "2026-05-20",
+    "total_photos": "245600"
+  },
+  {
+    "name": "odyssey_rover",
+    "status": "complete",
+    "landing_date": "1999-07-04",
+    "launch_date": "1996-04-07",
+    "max_sol": "310",
+    "max_date": "2000-03-31",
+    "total_photos": "9800"
+  },
+  {
+    "name": "astrobiology_rover",
+    "status": "complete",
+    "landing_date": "2006-03-25",
+    "launch_date": "2005-10-08",
+    "max_sol": "450",
+    "max_date": "2007-05-28",
+    "total_photos": "32100"
+  }
+]

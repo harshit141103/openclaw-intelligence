@@ -1,0 +1,182 @@
+[
+  {
+    "id": "job-3001",
+    "title": "Freight Dispatch Specialist",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-04-01T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3002",
+    "title": "Administrative Assistant",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-04-10T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3003",
+    "title": "Junior Freight Broker",
+    "status": "open",
+    "department": "Brokerage",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-04-15T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3004",
+    "title": "Bookkeeper (Part-Time)",
+    "status": "open",
+    "department": "Finance",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-04-20T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3005",
+    "title": "Carrier Relations Coordinator",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-01T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3006",
+    "title": "Seasonal Dispatch Assistant",
+    "status": "closed",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-01-05T00:00:00Z",
+    "closed_at": "2026-03-28T00:00:00Z"
+  },
+  {
+    "id": "job-3007",
+    "title": "Logistics Account Manager",
+    "status": "open",
+    "department": "Brokerage",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-05T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3008",
+    "title": "Operations Support Specialist",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-08T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3009",
+    "title": "Track and Trace Coordinator",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-12T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3010",
+    "title": "Carrier Sales Representative",
+    "status": "open",
+    "department": "Brokerage",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-15T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3011",
+    "title": "Customer Service Representative",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-18T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3012",
+    "title": "Accounts Receivable Clerk",
+    "status": "open",
+    "department": "Finance",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-20T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3013",
+    "title": "Freight Mentorship Program Coordinator",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-22T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3014",
+    "title": "Sales Development Representative",
+    "status": "open",
+    "department": "Brokerage",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-25T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3015",
+    "title": "Office Receptionist",
+    "status": "closed",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2025-09-01T00:00:00Z",
+    "closed_at": "2025-10-15T00:00:00Z"
+  },
+  {
+    "id": "job-3016",
+    "title": "Senior Freight Broker",
+    "status": "open",
+    "department": "Brokerage",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-05-28T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3017",
+    "title": "Payroll and Benefits Administrator",
+    "status": "closed",
+    "department": "Finance",
+    "location": "Knoxville, TN",
+    "opened_at": "2025-11-03T00:00:00Z",
+    "closed_at": "2026-01-09T00:00:00Z"
+  },
+  {
+    "id": "job-3018",
+    "title": "Compliance and Safety Coordinator",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-06-01T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3019",
+    "title": "Brokerage Operations Intern",
+    "status": "open",
+    "department": "Brokerage",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-06-03T00:00:00Z",
+    "closed_at": ""
+  },
+  {
+    "id": "job-3020",
+    "title": "Night Dispatch Specialist",
+    "status": "open",
+    "department": "Operations",
+    "location": "Knoxville, TN",
+    "opened_at": "2026-06-05T00:00:00Z",
+    "closed_at": ""
+  }
+]

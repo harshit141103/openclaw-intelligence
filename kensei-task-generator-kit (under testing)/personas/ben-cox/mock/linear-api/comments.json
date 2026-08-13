@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cmt-201-1",
+    "body": "Sharpen the jointer knives and reset the infeed table",
+    "issueId": "BUG-201",
+    "userId": "user-tyler",
+    "createdAt": "2025-10-19T17:15:00Z",
+    "updatedAt": "2026-01-31T17:15:00Z"
+  },
+  {
+    "id": "cmt-201-2",
+    "body": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "issueId": "BUG-201",
+    "userId": "user-david",
+    "createdAt": "2025-12-20T16:30:00Z",
+    "updatedAt": "2024-03-20T16:00:00Z"
+  },
+  {
+    "id": "cmt-202-1",
+    "body": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "issueId": "BUG-202",
+    "userId": "user-david",
+    "createdAt": "2026-10-06T08:30:00Z",
+    "updatedAt": "2025-07-30T13:45:00Z"
+  },
+  {
+    "id": "cmt-202-2",
+    "body": "Check the moisture content on the barn oak before joinery",
+    "issueId": "BUG-202",
+    "userId": "user-mira",
+    "createdAt": "2025-07-30T17:00:00Z",
+    "updatedAt": "2025-12-09T16:15:00Z"
+  },
+  {
+    "id": "cmt-204-1",
+    "body": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "issueId": "BUG-204",
+    "userId": "user-tyler",
+    "createdAt": "2025-03-23T07:15:00Z",
+    "updatedAt": "2026-01-25T07:45:00Z"
+  },
+  {
+    "id": "cmt-204-2",
+    "body": "Check the moisture content on the barn oak before joinery",
+    "issueId": "BUG-204",
+    "userId": "user-patty",
+    "createdAt": "2025-03-16T15:00:00Z",
+    "updatedAt": "2025-03-05T12:45:00Z"
+  },
+  {
+    "id": "cmt-204-3",
+    "body": "Splitting and stacking the winter firewood",
+    "issueId": "BUG-204",
+    "userId": "user-mira",
+    "createdAt": "2025-06-16T16:30:00Z",
+    "updatedAt": "2024-02-26T06:30:00Z"
+  },
+  {
+    "id": "cmt-205-1",
+    "body": "Pete coming by Saturday for coffee; shop's a mess.",
+    "issueId": "BUG-205",
+    "userId": "user-patty",
+    "createdAt": "2026-04-17T16:15:00Z",
+    "updatedAt": "2025-12-17T16:00:00Z"
+  },
+  {
+    "id": "cmt-209-1",
+    "body": "Barn oak is summer 2027 - not pulling material yet.",
+    "issueId": "BUG-209",
+    "userId": "user-david",
+    "createdAt": "2025-06-21T09:15:00Z",
+    "updatedAt": "2025-05-24T15:30:00Z"
+  },
+  {
+    "id": "cmt-209-2",
+    "body": "Mill cherry stock to thickness for the upper cabinet doors",
+    "issueId": "BUG-209",
+    "userId": "user-tyler",
+    "createdAt": "2025-12-27T16:00:00Z",
+    "updatedAt": "2024-09-21T15:45:00Z"
+  },
+  {
+    "id": "cmt-210-1",
+    "body": "Order Blum slides for the Stowe drawer banks",
+    "issueId": "BUG-210",
+    "userId": "user-mira",
+    "createdAt": "2024-05-12T17:45:00Z",
+    "updatedAt": "2025-12-30T18:15:00Z"
+  },
+  {
+    "id": "cmt-201-902",
+    "body": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "issueId": "BUG-201",
+    "userId": "user-tyler",
+    "createdAt": "2024-09-29T07:00:00Z",
+    "updatedAt": "2026-01-08T18:30:00Z"
+  },
+  {
+    "id": "cmt-201-904",
+    "body": "Mock up the crown profile for the Henderson uppers",
+    "issueId": "BUG-201",
+    "userId": "user-david",
+    "createdAt": "2026-08-10T09:00:00Z",
+    "updatedAt": "2024-08-12T12:15:00Z"
+  },
+  {
+    "id": "cmt-202-904",
+    "body": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "issueId": "BUG-202",
+    "userId": "user-david",
+    "createdAt": "2026-09-26T06:30:00Z",
+    "updatedAt": "2025-03-16T09:45:00Z"
+  },
+  {
+    "id": "cmt-202-906",
+    "body": "Splitting and stacking the winter firewood",
+    "issueId": "BUG-202",
+    "userId": "user-mira",
+    "createdAt": "2026-04-09T12:00:00Z",
+    "updatedAt": "2025-03-24T10:45:00Z"
+  },
+  {
+    "id": "cmt-204-906",
+    "body": "Build the drawer boxes with half-blind dovetails",
+    "issueId": "BUG-204",
+    "userId": "user-tyler",
+    "createdAt": "2025-03-01T06:45:00Z",
+    "updatedAt": "2024-04-25T13:00:00Z"
+  },
+  {
+    "id": "cmt-204-908",
+    "body": "Cherry pricing for the Henderson uppers",
+    "issueId": "BUG-204",
+    "userId": "user-patty",
+    "createdAt": "2025-04-17T12:15:00Z",
+    "updatedAt": "2025-12-16T15:00:00Z"
+  },
+  {
+    "id": "cmt-204-910",
+    "body": "Lay out dovetails for the silverware drawer",
+    "issueId": "BUG-204",
+    "userId": "user-mira",
+    "createdAt": "2025-08-06T09:45:00Z",
+    "updatedAt": "2024-07-11T16:00:00Z"
+  },
+  {
+    "id": "cmt-205-909",
+    "body": "Stage the bookshelf sections for the Craftsbury install",
+    "issueId": "BUG-205",
+    "userId": "user-patty",
+    "createdAt": "2024-03-13T07:00:00Z",
+    "updatedAt": "2026-06-29T11:30:00Z"
+  },
+  {
+    "id": "cmt-209-910",
+    "body": "Sharpened the chisels; the 1in was overdue.",
+    "issueId": "BUG-209",
+    "userId": "user-david",
+    "createdAt": "2025-12-20T14:00:00Z",
+    "updatedAt": "2026-08-27T18:00:00Z"
+  }
+]

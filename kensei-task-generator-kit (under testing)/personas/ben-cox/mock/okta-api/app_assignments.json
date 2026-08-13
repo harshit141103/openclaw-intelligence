@@ -1,0 +1,102 @@
+[
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u1ben",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u2keith",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u1ben-2",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u3diane",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3aws",
+    "user_id": "00u1ben-4",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa4datadog",
+    "user_id": "00u3diane-5",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u1ben-6",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u2keith-7",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u1ben-8",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u3diane-9",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3aws",
+    "user_id": "00u1ben-10",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa4datadog",
+    "user_id": "00u3diane-11",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u1ben-12",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u2keith-13",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u1ben-14",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa2slack",
+    "user_id": "00u3diane-15",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa3aws",
+    "user_id": "00u1ben-16",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa4datadog",
+    "user_id": "00u3diane-17",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u1ben-18",
+    "scope": "USER"
+  },
+  {
+    "app_id": "0oa1github",
+    "user_id": "00u2keith-19",
+    "scope": "USER"
+  }
+]

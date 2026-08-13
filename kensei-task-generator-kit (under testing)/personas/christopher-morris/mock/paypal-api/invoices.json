@@ -1,0 +1,103 @@
+﻿[
+  {
+    "id": "INV2-AB12-CD34-EF56-GH78",
+    "invoice_number": "INV-2026-0001",
+    "status": "PAID",
+    "recipient_email": "cmorris@meridianbenefits.com",
+    "amount_value": "1850.00",
+    "currency_code": "USD",
+    "due_date": "2026-05-15",
+    "note": "Monthly consulting retainer - May 2026"
+  },
+  {
+    "id": "INV2-IJ90-KL12-MN34-OP56",
+    "invoice_number": "INV-2026-0002",
+    "status": "PAID",
+    "recipient_email": "cmorris@meridianbenefits.com",
+    "amount_value": "2100.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-01",
+    "note": "Strategic planning project - May 2026"
+  },
+  {
+    "id": "INV2-QR78-ST90-UV12-WX34",
+    "invoice_number": "INV-2026-0003",
+    "status": "PAID",
+    "recipient_email": "christopher.morris@voissync.ai",
+    "amount_value": "450.50",
+    "currency_code": "USD",
+    "due_date": "2026-05-30",
+    "note": "Software development services - May 2026"
+  },
+  {
+    "id": "INV2-YZ56-AB78-CD90-EF12",
+    "invoice_number": "INV-2026-0004",
+    "status": "PAID",
+    "recipient_email": "cmorris@meridianbenefits.com",
+    "amount_value": "1500.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-05",
+    "note": "Executive coaching sessions - May/June 2026"
+  },
+  {
+    "id": "INV2-GH34-IJ56-KL78-MN90",
+    "invoice_number": "INV-2026-0005",
+    "status": "SENT",
+    "recipient_email": "greg.morris77@gmail.com",
+    "amount_value": "325.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-10",
+    "note": "Household renovation invoice - design consultation"
+  },
+  {
+    "id": "INV2-OP12-QR34-ST56-UV78",
+    "invoice_number": "INV-2026-0006",
+    "status": "SENT",
+    "recipient_email": "christopher.morris@voissync.ai",
+    "amount_value": "875.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-15",
+    "note": "TechniILl documentation and training - June 2026"
+  },
+  {
+    "id": "INV2-WX90-YZ12-AB34-CD56",
+    "invoice_number": "INV-2026-0007",
+    "status": "DRAFT",
+    "recipient_email": "cmorris@meridianbenefits.com",
+    "amount_value": "1200.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-20",
+    "note": "Q2 strategic review - pending approval"
+  },
+  {
+    "id": "INV2-EF78-GH90-IJ12-KL34",
+    "invoice_number": "INV-2026-0008",
+    "status": "DRAFT",
+    "recipient_email": "christopher.morris@voissync.ai",
+    "amount_value": "550.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-25",
+    "note": "API integration project - estimate"
+  },
+  {
+    "id": "INV2-MN56-OP78-QR90-ST12",
+    "invoice_number": "INV-2026-0009",
+    "status": "SENT",
+    "recipient_email": "greg.morris77@gmail.com",
+    "amount_value": "200.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-20",
+    "note": "Shared household expense reimbursement"
+  },
+  {
+    "id": "INV2-UV34-WX56-YZ78-AB90",
+    "invoice_number": "INV-2026-0010",
+    "status": "PAID",
+    "recipient_email": "cmorris@meridianbenefits.com",
+    "amount_value": "925.00",
+    "currency_code": "USD",
+    "due_date": "2026-06-05",
+    "note": "Management consulting - process optimization"
+  }
+]
+

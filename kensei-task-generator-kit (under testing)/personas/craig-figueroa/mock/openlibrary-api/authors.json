@@ -1,0 +1,56 @@
+[
+  {
+    "author_id": "OL1A",
+    "name": "James Herriot",
+    "birth_date": "1916-10-03",
+    "death_date": "1995-02-23",
+    "bio": "English veterinary surgeon and writer of the All Creatures Great and Small memoirs.",
+    "top_work": "All Creatures Great and Small",
+    "work_count": "12"
+  },
+  {
+    "author_id": "OL2A",
+    "name": "Gabriel Garcia Marquez",
+    "birth_date": "1927-03-06",
+    "death_date": "2014-04-17",
+    "bio": "Colombian novelist and Nobel laureate, master of magical realism.",
+    "top_work": "One Hundred Years of Solitude",
+    "work_count": "27"
+  },
+  {
+    "author_id": "OL3A",
+    "name": "Isabel Allende",
+    "birth_date": "1942-08-02",
+    "death_date": "",
+    "bio": "Chilean writer known for novels weaving myth and history.",
+    "top_work": "The House of the Spirits",
+    "work_count": "24"
+  },
+  {
+    "author_id": "OL4A",
+    "name": "Robert Macfarlane",
+    "birth_date": "1976-08-15",
+    "death_date": "",
+    "bio": "British writer on landscape, nature and place.",
+    "top_work": "The Old Ways",
+    "work_count": "9"
+  },
+  {
+    "author_id": "OL5A",
+    "name": "Nan Shepherd",
+    "birth_date": "1893-02-11",
+    "death_date": "1981-02-23",
+    "bio": "Scottish writer and poet of the Cairngorms.",
+    "top_work": "The Living Mountain",
+    "work_count": "4"
+  },
+  {
+    "author_id": "OL6A",
+    "name": "John Muir",
+    "birth_date": "1838-04-21",
+    "death_date": "1914-12-24",
+    "bio": "Scottish-American naturalist and wilderness advocate.",
+    "top_work": "My First Summer in the Sierra",
+    "work_count": "31"
+  }
+]

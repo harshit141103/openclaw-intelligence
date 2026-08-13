@@ -1,0 +1,142 @@
+[
+  {
+    "id": "501",
+    "name": "Robert Duvall",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "34.6"
+  },
+  {
+    "id": "502",
+    "name": "Tommy Lee Jones",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "29.3"
+  },
+  {
+    "id": "503",
+    "name": "Kevin Costner",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "41.8"
+  },
+  {
+    "id": "504",
+    "name": "Clint Eastwood",
+    "known_for_department": "Directing",
+    "gender": "2",
+    "popularity": "38.1"
+  },
+  {
+    "id": "505",
+    "name": "Sissy Spacek",
+    "known_for_department": "Acting",
+    "gender": "1",
+    "popularity": "21.7"
+  },
+  {
+    "id": "506",
+    "name": "Val Kilmer",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "27.4"
+  },
+  {
+    "id": "507",
+    "name": "Joel Coen",
+    "known_for_department": "Directing",
+    "gender": "2",
+    "popularity": "24.9"
+  },
+  {
+    "id": "508",
+    "name": "Denzel Washington",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "45.5"
+  },
+  {
+    "id": "509",
+    "name": "Jeff Bridges",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "33.2"
+  },
+  {
+    "id": "510",
+    "name": "Paul Newman",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "28.7"
+  },
+  {
+    "id": "511",
+    "name": "John Wayne",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "26.8"
+  },
+  {
+    "id": "512",
+    "name": "Sam Elliott",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "31.5"
+  },
+  {
+    "id": "513",
+    "name": "Tom Hanks",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "52.4"
+  },
+  {
+    "id": "514",
+    "name": "Morgan Freeman",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "43.9"
+  },
+  {
+    "id": "515",
+    "name": "Gene Hackman",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "30.2"
+  },
+  {
+    "id": "516",
+    "name": "Taylor Sheridan",
+    "known_for_department": "Directing",
+    "gender": "2",
+    "popularity": "22.6"
+  },
+  {
+    "id": "517",
+    "name": "Billy Bob Thornton",
+    "known_for_department": "Acting",
+    "gender": "2",
+    "popularity": "29.8"
+  },
+  {
+    "id": "518",
+    "name": "Reese Witherspoon",
+    "known_for_department": "Acting",
+    "gender": "1",
+    "popularity": "39.4"
+  },
+  {
+    "id": "519",
+    "name": "Holly Hunter",
+    "known_for_department": "Acting",
+    "gender": "1",
+    "popularity": "19.6"
+  },
+  {
+    "id": "520",
+    "name": "Ron Howard",
+    "known_for_department": "Directing",
+    "gender": "2",
+    "popularity": "25.3"
+  }
+]

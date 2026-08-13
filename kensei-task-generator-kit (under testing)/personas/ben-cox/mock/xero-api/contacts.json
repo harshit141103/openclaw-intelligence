@@ -1,0 +1,222 @@
+[
+  {
+    "contact_id": "c0000001-0000-0000-0000-000000000001",
+    "name": "Diane Cox",
+    "first_name": "Diane",
+    "last_name": "Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "Parker Pie Co.",
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-000000000002",
+    "name": "Keith Cox",
+    "first_name": "Keith",
+    "last_name": "Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "Aubuchon Hardware Hardwick",
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-000000000003",
+    "name": "Marie Cox-Gagne",
+    "first_name": "Marie",
+    "last_name": "Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "Aubuchon Hardware Hardwick",
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-000000000004",
+    "name": "Tom Gagne",
+    "first_name": "Tom",
+    "last_name": "Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "Hardwick Lumber",
+    "status": "ACTIVE",
+    "account_number": "Cox Custom Woodwork-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-000000000005",
+    "name": "Pete Lafleur",
+    "first_name": "Pete",
+    "last_name": "Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "Green Mountain Hardwoods",
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-000000000006",
+    "name": "Dr. James Whitfield",
+    "first_name": "James",
+    "last_name": "Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "is_customer": "false",
+    "is_supplier": "Craftsbury General Store",
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  },
+  {
+    "contact_id": "c0000007-0000-0000-0000-000000000007",
+    "name": "Dr. Paul LeBlanc",
+    "first_name": "Paul",
+    "last_name": "LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "is_customer": "true",
+    "is_supplier": "Buffalo Mountain Food Co-op",
+    "status": "ARCHIVED",
+    "account_number": "HOOL-007"
+  },
+  {
+    "contact_id": "c0000001-0000-0000-0000-902",
+    "name": "Scott Henderson",
+    "first_name": "Scott",
+    "last_name": "Henderson",
+    "email": "shenderson@stowevt.net",
+    "is_customer": "true",
+    "is_supplier": "Willey's Store",
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-904",
+    "name": "Linda Henderson",
+    "first_name": "Linda",
+    "last_name": "Henderson",
+    "email": "lhenderson@stowevt.net",
+    "is_customer": "true",
+    "is_supplier": "Willey's Store",
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-906",
+    "name": "Alan Whitcomb",
+    "first_name": "Alan",
+    "last_name": "Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "is_customer": "true",
+    "is_supplier": "Cox Custom Woodwork",
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-908",
+    "name": "Paul Dufresne",
+    "first_name": "Paul",
+    "last_name": "Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "is_customer": "false",
+    "is_supplier": "Parker Pie Co.",
+    "status": "ACTIVE",
+    "account_number": "Cox Custom Woodwork-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-910",
+    "name": "Marc Belanger",
+    "first_name": "Marc",
+    "last_name": "Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "Parker Pie Co.",
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-912",
+    "name": "Gary Stoddard",
+    "first_name": "Gary",
+    "last_name": "Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "Buffalo Mountain Food Co-op",
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  },
+  {
+    "contact_id": "c0000007-0000-0000-0000-914",
+    "name": "Hardwick Lumber",
+    "first_name": "Hardwick",
+    "last_name": "Lumber",
+    "email": "orders@hardwicklumber.com",
+    "is_customer": "true",
+    "is_supplier": "Buffalo Mountain Food Co-op",
+    "status": "ARCHIVED",
+    "account_number": "HOOL-007"
+  },
+  {
+    "contact_id": "c0000001-0000-0000-0000-909",
+    "name": "Green Mountain Hardwoods",
+    "first_name": "Green",
+    "last_name": "Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "is_customer": "true",
+    "is_supplier": "Craftsbury General Store",
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-911",
+    "name": "Ray Tetreault",
+    "first_name": "Ray",
+    "last_name": "Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "is_customer": "true",
+    "is_supplier": "Parker Pie Co.",
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-913",
+    "name": "Nancy Beaulieu",
+    "first_name": "Nancy",
+    "last_name": "Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "is_customer": "true",
+    "is_supplier": "Tractor Supply Morrisville",
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-915",
+    "name": "Rev. Susan Mills",
+    "first_name": "Susan",
+    "last_name": "Mills",
+    "email": "office@craftsburychurch.org",
+    "is_customer": "false",
+    "is_supplier": "Willey's Store",
+    "status": "ACTIVE",
+    "account_number": "Cox Custom Woodwork-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-917",
+    "name": "Walt Perreault",
+    "first_name": "Walt",
+    "last_name": "Perreault",
+    "email": "walt.perreault@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "Green Mountain Hardwoods",
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-919",
+    "name": "Donna Sloan",
+    "first_name": "Donna",
+    "last_name": "Sloan",
+    "email": "donna.sloan@comcast.net",
+    "is_customer": "false",
+    "is_supplier": "Cox Custom Woodwork",
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "funnel_id": "7461001",
+    "name": "Quote Request Funnel",
+    "step_order": "1",
+    "step_event": "Page View",
+    "count": "640"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Quote Request Funnel",
+    "step_order": "2",
+    "step_event": "Services Viewed",
+    "count": "310"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Quote Request Funnel",
+    "step_order": "3",
+    "step_event": "Quote Request",
+    "count": "84"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Quote Request Funnel",
+    "step_order": "4",
+    "step_event": "Contact Form Submit",
+    "count": "41"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Carrier Onboarding Funnel",
+    "step_order": "1",
+    "step_event": "Carrier Page Viewed",
+    "count": "220"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Carrier Onboarding Funnel",
+    "step_order": "2",
+    "step_event": "Carrier Application",
+    "count": "73"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Carrier Onboarding Funnel",
+    "step_order": "3",
+    "step_event": "Newsletter Signup",
+    "count": "38"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Client Quote to Booking Funnel",
+    "step_order": "1",
+    "step_event": "Quote Request",
+    "count": "84"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Client Quote to Booking Funnel",
+    "step_order": "2",
+    "step_event": "Rate Provided",
+    "count": "57"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Client Quote to Booking Funnel",
+    "step_order": "3",
+    "step_event": "Load Booked",
+    "count": "29"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Newsletter Engagement Funnel",
+    "step_order": "1",
+    "step_event": "Email Opened",
+    "count": "112"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Newsletter Engagement Funnel",
+    "step_order": "2",
+    "step_event": "Link Clicked",
+    "count": "41"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Newsletter Engagement Funnel",
+    "step_order": "3",
+    "step_event": "Page View",
+    "count": "33"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Newsletter Engagement Funnel",
+    "step_order": "4",
+    "step_event": "Quote Request",
+    "count": "12"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Mentorship Application Funnel",
+    "step_order": "1",
+    "step_event": "Mentorship Page Viewed",
+    "count": "96"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Mentorship Application Funnel",
+    "step_order": "2",
+    "step_event": "Application Started",
+    "count": "44"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Mentorship Application Funnel",
+    "step_order": "3",
+    "step_event": "Application Submitted",
+    "count": "21"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Compliance Webinar Signup Funnel",
+    "step_order": "1",
+    "step_event": "Webinar Page Viewed",
+    "count": "130"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Compliance Webinar Signup Funnel",
+    "step_order": "2",
+    "step_event": "Registration Started",
+    "count": "62"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Compliance Webinar Signup Funnel",
+    "step_order": "3",
+    "step_event": "Registration Complete",
+    "count": "38"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Compliance Webinar Signup Funnel",
+    "step_order": "4",
+    "step_event": "Webinar Attended",
+    "count": "27"
+  }
+]

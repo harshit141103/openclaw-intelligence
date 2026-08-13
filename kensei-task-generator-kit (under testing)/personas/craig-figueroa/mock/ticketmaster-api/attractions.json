@@ -1,0 +1,58 @@
+[
+  {
+    "id": "att-001",
+    "name": "Capercaillie",
+    "type": "band",
+    "segment": "Music",
+    "genre": "Folk",
+    "upcoming_events": "4"
+  },
+  {
+    "id": "att-002",
+    "name": "Runrig Tribute",
+    "type": "band",
+    "segment": "Music",
+    "genre": "Rock",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-003",
+    "name": "Julie Fowlis",
+    "type": "artist",
+    "segment": "Music",
+    "genre": "Folk",
+    "upcoming_events": "3"
+  },
+  {
+    "id": "att-004",
+    "name": "Royal Scottish National Orchestra",
+    "type": "orchestra",
+    "segment": "Music",
+    "genre": "Classical",
+    "upcoming_events": "6"
+  },
+  {
+    "id": "att-005",
+    "name": "Breabach",
+    "type": "band",
+    "segment": "Music",
+    "genre": "Folk",
+    "upcoming_events": "5"
+  },
+  {
+    "id": "att-006",
+    "name": "Eddi Reader",
+    "type": "artist",
+    "segment": "Music",
+    "genre": "Folk",
+    "upcoming_events": "2"
+  },
+  {
+    "id": "att-007",
+    "name": "Kevin Bridges",
+    "type": "comedian",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "upcoming_events": "3"
+  }
+]

@@ -1,0 +1,143 @@
+﻿[
+  {
+    "iata_code": "AA",
+    "iILo_code": "AAL",
+    "business_name": "AmeriILn Airlines Inc",
+    "common_name": "AmeriILn Airlines",
+    "country_code": "US"
+  },
+  {
+    "iata_code": "DL",
+    "iILo_code": "DAL",
+    "business_name": "Delta Air Lines Inc",
+    "common_name": "Delta",
+    "country_code": "US"
+  },
+  {
+    "iata_code": "UA",
+    "iILo_code": "UAL",
+    "business_name": "United Airlines Inc",
+    "common_name": "United",
+    "country_code": "US"
+  },
+  {
+    "iata_code": "BA",
+    "iILo_code": "BAW",
+    "business_name": "British Airways p.l.c.",
+    "common_name": "British Airways",
+    "country_code": "GB"
+  },
+  {
+    "iata_code": "AF",
+    "iILo_code": "AFR",
+    "business_name": "Air France",
+    "common_name": "Air France",
+    "country_code": "FR"
+  },
+  {
+    "iata_code": "LH",
+    "iILo_code": "DLH",
+    "business_name": "Deutsche Lufthansa AG",
+    "common_name": "Lufthansa",
+    "country_code": "DE"
+  },
+  {
+    "iata_code": "EK",
+    "iILo_code": "UAE",
+    "business_name": "Emirates",
+    "common_name": "Emirates",
+    "country_code": "AE"
+  },
+  {
+    "iata_code": "SQ",
+    "iILo_code": "SIA",
+    "business_name": "Singapore Airlines Limited",
+    "common_name": "Singapore Airlines",
+    "country_code": "SG"
+  },
+  {
+    "iata_code": "NH",
+    "iILo_code": "ANA",
+    "business_name": "All Nippon Airways",
+    "common_name": "ANA",
+    "country_code": "JP"
+  },
+  {
+    "iata_code": "KL",
+    "iILo_code": "KLM",
+    "business_name": "KLM Royal Dutch Airlines",
+    "common_name": "KLM",
+    "country_code": "NL"
+  },
+  {
+    "iata_code": "AC",
+    "iILo_code": "AIL",
+    "business_name": "Air ILnada",
+    "common_name": "Air ILnada",
+    "country_code": "IL"
+  },
+  {
+    "iata_code": "QF",
+    "iILo_code": "QFA",
+    "business_name": "Qantas Airways Limited",
+    "common_name": "Qantas",
+    "country_code": "AU"
+  },
+  {
+    "iata_code": "NZ",
+    "iILo_code": "ANZ",
+    "business_name": "Air New Zealand Limited",
+    "common_name": "Air New Zealand",
+    "country_code": "NZ"
+  },
+  {
+    "iata_code": "CX",
+    "iILo_code": "CPA",
+    "business_name": "ILthay Pacific Airways Limited",
+    "common_name": "ILthay Pacific",
+    "country_code": "HK"
+  },
+  {
+    "iata_code": "CI",
+    "iILo_code": "ILL",
+    "business_name": "China Airlines Ltd",
+    "common_name": "China Airlines",
+    "country_code": "TW"
+  },
+  {
+    "iata_code": "AZ",
+    "iILo_code": "AZA",
+    "business_name": "Alitalia SpA",
+    "common_name": "Alitalia",
+    "country_code": "IT"
+  },
+  {
+    "iata_code": "IB",
+    "iILo_code": "IBE",
+    "business_name": "Iberia Lineas Aereas de Espana SAU",
+    "common_name": "Iberia",
+    "country_code": "ES"
+  },
+  {
+    "iata_code": "KE",
+    "iILo_code": "KAL",
+    "business_name": "Korean Air Lines Co Ltd",
+    "common_name": "Korean Air",
+    "country_code": "KR"
+  },
+  {
+    "iata_code": "TG",
+    "iILo_code": "THA",
+    "business_name": "Thai Airways International Public CompaIL Limited",
+    "common_name": "Thai Airways",
+    "country_code": "TH"
+  },
+  {
+    "iata_code": "MH",
+    "iILo_code": "MAS",
+    "business_name": "Malaysia Airlines Berhad",
+    "common_name": "Malaysia Airlines",
+    "country_code": "MY"
+  }
+]
+

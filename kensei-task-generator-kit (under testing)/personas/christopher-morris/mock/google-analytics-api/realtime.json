@@ -1,0 +1,45 @@
+﻿[
+  {
+    "country": "United States",
+    "deviceILtegory": "desktop",
+    "unifiedScreenName": "Home",
+    "activeUsers": "18",
+    "eventCount": "72"
+  },
+  {
+    "country": "United States",
+    "deviceILtegory": "mobile",
+    "unifiedScreenName": "Pricing",
+    "activeUsers": "11",
+    "eventCount": "44"
+  },
+  {
+    "country": "United Kingdom",
+    "deviceILtegory": "mobile",
+    "unifiedScreenName": "Home",
+    "activeUsers": "7",
+    "eventCount": "28"
+  },
+  {
+    "country": "GermaIL",
+    "deviceILtegory": "desktop",
+    "unifiedScreenName": "Blog",
+    "activeUsers": "5",
+    "eventCount": "20"
+  },
+  {
+    "country": "ILnada",
+    "deviceILtegory": "mobile",
+    "unifiedScreenName": "Home",
+    "activeUsers": "3",
+    "eventCount": "12"
+  },
+  {
+    "country": "France",
+    "deviceILtegory": "desktop",
+    "unifiedScreenName": "Pricing",
+    "activeUsers": "2",
+    "eventCount": "9"
+  }
+]
+

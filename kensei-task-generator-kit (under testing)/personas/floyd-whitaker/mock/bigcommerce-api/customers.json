@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1001",
+    "first_name": "Keith",
+    "last_name": "Burgess",
+    "email": "keith.burgess@gmail.com",
+    "company": "Burgess Logistics",
+    "phone": "+1-865-555-7715",
+    "customer_group_id": "2",
+    "date_created": "2026-01-05T10:00:00Z"
+  },
+  {
+    "id": "1002",
+    "first_name": "Darrell",
+    "last_name": "Whitaker",
+    "email": "darl.whitaker@gmail.com",
+    "company": "Whitaker Hauling",
+    "phone": "+1-606-555-0944",
+    "customer_group_id": "0",
+    "date_created": "2026-01-18T11:20:00Z"
+  },
+  {
+    "id": "1003",
+    "first_name": "Roy",
+    "last_name": "Tackett",
+    "email": "roy.tackett@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-7702",
+    "customer_group_id": "0",
+    "date_created": "2026-02-09T09:15:00Z"
+  },
+  {
+    "id": "1004",
+    "first_name": "Junior",
+    "last_name": "Mullins",
+    "email": "junior.mullins@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-7719",
+    "customer_group_id": "0",
+    "date_created": "2026-03-01T14:45:00Z"
+  },
+  {
+    "id": "1005",
+    "first_name": "Eddie",
+    "last_name": "Combs",
+    "email": "eddie.combs@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-7733",
+    "customer_group_id": "0",
+    "date_created": "2026-03-27T08:30:00Z"
+  },
+  {
+    "id": "1006",
+    "first_name": "Tammy",
+    "last_name": "Caldwell",
+    "email": "tammy.caldwell@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-2208",
+    "customer_group_id": "0",
+    "date_created": "2026-02-14T13:10:00Z"
+  },
+  {
+    "id": "1007",
+    "first_name": "Glen",
+    "last_name": "Mabry",
+    "email": "glen.mabry@cumberlandautoparts.com",
+    "company": "Cumberland Auto Parts",
+    "phone": "+1-865-555-3011",
+    "customer_group_id": "2",
+    "date_created": "2026-02-20T10:05:00Z"
+  },
+  {
+    "id": "1008",
+    "first_name": "Pete",
+    "last_name": "Arnett",
+    "email": "pete.arnett@smokymtnsupply.com",
+    "company": "Smoky Mountain Building Supply",
+    "phone": "+1-865-555-3022",
+    "customer_group_id": "2",
+    "date_created": "2026-03-04T09:40:00Z"
+  },
+  {
+    "id": "1009",
+    "first_name": "Wade",
+    "last_name": "Tipton",
+    "email": "wade.tipton@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6699",
+    "customer_group_id": "0",
+    "date_created": "2026-03-12T15:25:00Z"
+  },
+  {
+    "id": "1010",
+    "first_name": "Gail",
+    "last_name": "Pruett",
+    "email": "gail.pruett@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6688",
+    "customer_group_id": "0",
+    "date_created": "2026-03-18T12:00:00Z"
+  },
+  {
+    "id": "1011",
+    "first_name": "Roger",
+    "last_name": "Quillen",
+    "email": "roger.quillen@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6677",
+    "customer_group_id": "0",
+    "date_created": "2026-03-25T08:50:00Z"
+  },
+  {
+    "id": "1012",
+    "first_name": "Denise",
+    "last_name": "Caudill",
+    "email": "denise.caudill@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6666",
+    "customer_group_id": "0",
+    "date_created": "2026-04-01T11:30:00Z"
+  },
+  {
+    "id": "1013",
+    "first_name": "Lonnie",
+    "last_name": "Stamper",
+    "email": "lonnie.stamper@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6655",
+    "customer_group_id": "0",
+    "date_created": "2026-04-05T14:15:00Z"
+  },
+  {
+    "id": "1014",
+    "first_name": "Curtis",
+    "last_name": "Mullins",
+    "email": "curtis.mullins@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6644",
+    "customer_group_id": "0",
+    "date_created": "2026-04-10T10:40:00Z"
+  },
+  {
+    "id": "1015",
+    "first_name": "Sheila",
+    "last_name": "Adkins",
+    "email": "sheila.adkins@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6633",
+    "customer_group_id": "0",
+    "date_created": "2026-04-15T09:05:00Z"
+  },
+  {
+    "id": "1016",
+    "first_name": "Marty",
+    "last_name": "Brewer",
+    "email": "marty.brewer@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6622",
+    "customer_group_id": "0",
+    "date_created": "2026-04-20T16:20:00Z"
+  },
+  {
+    "id": "1017",
+    "first_name": "Hal",
+    "last_name": "Eubanks",
+    "email": "hal.eubanks@tristatemfg.com",
+    "company": "Tri-State Manufacturing",
+    "phone": "+1-865-555-3033",
+    "customer_group_id": "3",
+    "date_created": "2026-04-24T08:30:00Z"
+  },
+  {
+    "id": "1018",
+    "first_name": "Earl",
+    "last_name": "Hensley",
+    "email": "earl.hensley@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6611",
+    "customer_group_id": "0",
+    "date_created": "2026-04-28T13:45:00Z"
+  },
+  {
+    "id": "1019",
+    "first_name": "Patsy",
+    "last_name": "Gilbert",
+    "email": "patsy.gilbert@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6600",
+    "customer_group_id": "0",
+    "date_created": "2026-05-02T10:10:00Z"
+  },
+  {
+    "id": "1020",
+    "first_name": "Dwayne",
+    "last_name": "Salyers",
+    "email": "dwayne.salyers@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6599",
+    "customer_group_id": "0",
+    "date_created": "2026-05-07T11:55:00Z"
+  },
+  {
+    "id": "1021",
+    "first_name": "Bonnie",
+    "last_name": "Maynard",
+    "email": "bonnie.maynard@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6588",
+    "customer_group_id": "0",
+    "date_created": "2026-05-12T09:30:00Z"
+  },
+  {
+    "id": "1022",
+    "first_name": "Glenn",
+    "last_name": "Profitt",
+    "email": "glenn.profitt@gmail.com",
+    "company": "",
+    "phone": "+1-865-555-6577",
+    "customer_group_id": "0",
+    "date_created": "2026-05-18T14:05:00Z"
+  }
+]

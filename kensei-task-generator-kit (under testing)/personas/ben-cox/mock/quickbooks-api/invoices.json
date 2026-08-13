@@ -1,0 +1,713 @@
+[
+  {
+    "Id": "5001",
+    "DocNumber": "INV-2026-0301",
+    "TxnDate": "2026-05-06",
+    "DueDate": "2026-09-06",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Re: Bookshelf dimensions"
+    },
+    "Line": [
+      {
+        "Amount": 18.99,
+        "Description": "Plane the bookshelf shelves and ease the front edges",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Estimate for the Greensboro barn (2027)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 24,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5002",
+    "DocNumber": "INV-2026-0302",
+    "TxnDate": "2023-09-02",
+    "DueDate": "2023-09-29",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Lafleur barn door (favor)"
+    },
+    "Line": [
+      {
+        "Amount": 28.99,
+        "Description": "Bookshelf install Friday the 16th",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Order Blum slides for the Stowe drawer b"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 34,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5003",
+    "DocNumber": "INV-2026-0303",
+    "TxnDate": "2024-02-28",
+    "DueDate": "2026-07-27",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Replace the dust collector filter and cl"
+    },
+    "Line": [
+      {
+        "Amount": 41.0,
+        "Description": "Hang the soft-close doors and adjust the hinges",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Mill cherry stock to thickness for the u"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 48,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5004",
+    "DocNumber": "INV-2026-0304",
+    "TxnDate": "2026-08-28",
+    "DueDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Splitting and stacking the winter firewo"
+    },
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Replace the dust collector filter and clean the cyclone",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Stowe kitchen - cabinet hardware lead time"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 88,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5005",
+    "DocNumber": "INV-2026-0305",
+    "TxnDate": "2026-06-12",
+    "DueDate": "2026-08-04",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Dry-fit the face frames before glue-up"
+    },
+    "Line": [
+      {
+        "Amount": 110.0,
+        "Description": "Sand to 220 and raise the grain before finish",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Henderson kitchen cabinets"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 7,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5006",
+    "DocNumber": "BATCH-2026-03",
+    "TxnDate": "2026-09-11",
+    "DueDate": "2024-08-02",
+    "PrivateNote": "Re-saw the walnut for bookmatched panels",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Cota window seat & bookcase"
+    },
+    "Line": [
+      {
+        "Amount": 620.0,
+        "Description": "Hold the Stowe drive until the morning forecast clears.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Whitcomb built-in bookshelves"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5415.0,
+    "Balance": 9,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5007",
+    "DocNumber": "INV-2026-0306",
+    "TxnDate": "2024-12-11",
+    "DueDate": "2026-09-25",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Build the drawer boxes with half-blind d"
+    },
+    "Line": [
+      {
+        "Amount": 12.5,
+        "Description": "Estimate for the Greensboro barn (2027)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Lafleur barn door (favor)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 80.0,
+    "Balance": 19,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5008",
+    "DocNumber": "INV-2026-0307",
+    "TxnDate": "2025-02-22",
+    "DueDate": "2024-02-01",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Sharpen the jointer knives and reset the"
+    },
+    "Line": [
+      {
+        "Amount": 24.0,
+        "Description": "Hang the soft-close doors and adjust the hinges",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Re: Stowe install date"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 60.0,
+    "Balance": 29,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2001",
+    "DocNumber": "INV-2026-0401",
+    "TxnDate": "2024-06-30",
+    "DueDate": "2025-04-06",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Cherry pricing for the Henderson uppers"
+    },
+    "Line": [
+      {
+        "Amount": 34.5,
+        "Description": "Hold the Stowe drive until the morning forecast clears.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Cherry pricing for the Henderson uppers"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 41,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2002",
+    "DocNumber": "INV-2026-0402",
+    "TxnDate": "2026-04-05",
+    "DueDate": "2026-08-06",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Stowe kitchen - cabinet hardware lead time"
+    },
+    "Line": [
+      {
+        "Amount": 47.95,
+        "Description": "Build the drawer boxes with half-blind dovetails",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Lafleur barn door (favor)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 62,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2003",
+    "DocNumber": "INV-2026-0403",
+    "TxnDate": "2024-04-24",
+    "DueDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Final fit of the Henderson island base c"
+    },
+    "Line": [
+      {
+        "Amount": 88.0,
+        "Description": "Order Blum slides for the Stowe drawer banks",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Template the Stowe countertop radius for"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 110.0,
+    "Status": "Overdue",
+    "PrivateNote": "Build the drawer boxes with half-blind dovetails"
+  },
+  {
+    "Id": "2004",
+    "DocNumber": "INV-2026-0404",
+    "TxnDate": "2024-09-05",
+    "DueDate": "2023-12-08",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Cota window seat & bookcase"
+    },
+    "Line": [
+      {
+        "Amount": 6.8,
+        "Description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Re: Bookshelf dimensions"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 9,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2005",
+    "DocNumber": "INV-2026-0405",
+    "TxnDate": "2025-06-17",
+    "DueDate": "2026-09-19",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Lafleur barn door (favor)"
+    },
+    "Line": [
+      {
+        "Amount": 12.5,
+        "Description": "Barn oak is summer 2027 - not pulling material yet.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Mock up the crown profile for the Hender"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 18.99,
+    "Status": "Partial",
+    "PrivateNote": "Need to confirm material lead time on the Blum hardware before ordering."
+  },
+  {
+    "Id": "2006",
+    "DocNumber": "INV-2026-0406",
+    "TxnDate": "2025-11-28",
+    "DueDate": "2026-04-14",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Built-ins - finish sample for your approval"
+    },
+    "Line": [
+      {
+        "Amount": 24.0,
+        "Description": "Material order - Hardwick Lumber",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Build the drawer boxes with half-blind d"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 29,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2007",
+    "DocNumber": "INV-2026-0407",
+    "TxnDate": "2024-01-20",
+    "DueDate": "2023-09-22",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Project schedule update"
+    },
+    "Line": [
+      {
+        "Amount": 34.5,
+        "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Template the Stowe countertop radius for"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 41.0,
+    "Status": "Overdue"
+  },
+  {
+    "Id": "2008",
+    "DocNumber": "INV-2026-0408",
+    "TxnDate": "2024-07-05",
+    "DueDate": "2026-09-27",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Dry-fit the face frames before glue-up"
+    },
+    "Line": [
+      {
+        "Amount": 47.95,
+        "Description": "Built-ins - finish sample for your approval",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Project schedule update"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 62.0,
+    "Status": "Overdue",
+    "PrivateNote": "Delivery window for the Stowe cabinets"
+  },
+  {
+    "Id": "2009",
+    "DocNumber": "INV-2026-0409",
+    "TxnDate": "2025-12-27",
+    "DueDate": "2025-02-15",
+    "CustomerRef": {
+      "value": "31",
+      "name": "Build the drawer boxes with half-blind d"
+    },
+    "Line": [
+      {
+        "Amount": 88.0,
+        "Description": "Final fit of the Henderson island base cabinets",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Greensboro barn restoration"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 110,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2010",
+    "DocNumber": "INV-2026-0410",
+    "TxnDate": "2024-08-07",
+    "DueDate": "2025-01-12",
+    "CustomerRef": {
+      "value": "42",
+      "name": "Check the moisture content on the barn o"
+    },
+    "Line": [
+      {
+        "Amount": 6.8,
+        "Description": "Estimate for the Greensboro barn (2027)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Built-ins - finish sample for your approval"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 95.0,
+    "Balance": 9,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2011",
+    "DocNumber": "BATCH-2026-04",
+    "TxnDate": "2025-03-07",
+    "DueDate": "2025-12-15",
+    "PrivateNote": "Final fit of the Henderson island base cabinets",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Cherry pricing for the Henderson uppers"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Pete coming by Saturday for coffee; shop's a mess.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Henderson kitchen cabinets"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5035.0,
+    "Balance": 12,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2012",
+    "DocNumber": "INV-2026-0411",
+    "TxnDate": "2024-12-08",
+    "DueDate": "2025-09-30",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Lay out dovetails for the silverware dra"
+    },
+    "Line": [
+      {
+        "Amount": 18.99,
+        "Description": "Lay out dovetails for the silverware drawer",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Splitting and stacking the winter firewo"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 100.0,
+    "Balance": 24,
+    "Status": "Paid"
+  },
+  {
+    "Id": "2013",
+    "DocNumber": "INV-2026-0412",
+    "TxnDate": "2025-02-03",
+    "DueDate": "2026-04-18",
+    "CustomerRef": {
+      "value": "63",
+      "name": "Cota window seat & bookcase"
+    },
+    "Line": [
+      {
+        "Amount": 1850.0,
+        "Description": "Barn oak is summer 2027 - not pulling material yet.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Cota window seat & bookcase"
+          }
+        }
+      },
+      {
+        "Amount": 2400.0,
+        "Description": "Barn oak is summer 2027 - not pulling material yet.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Stowe kitchen - cabinet hardware lead time"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1560.0,
+    "Balance": 29,
+    "Status": "Paid",
+    "PrivateNote": "Hold the Stowe drive until the morning forecast clears."
+  },
+  {
+    "Id": "2014",
+    "DocNumber": "INV-2026-0413",
+    "TxnDate": "2026-06-17",
+    "DueDate": "2024-02-26",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Material order - Hardwick Lumber"
+    },
+    "Line": [
+      {
+        "Amount": 34.5,
+        "Description": "Delivery window for the Stowe cabinets",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Boucher mudroom built-ins"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 60.0,
+    "Balance": 41,
+    "Status": "Paid"
+  },
+  {
+    "Id": "1201",
+    "DocNumber": "ISC-2024-009",
+    "TxnDate": "2024-07-14",
+    "DueDate": "2025-04-15",
+    "CustomerRef": {
+      "value": "203",
+      "name": "Sloan cherry dining table"
+    },
+    "TotalAmt": 1800000.0,
+    "Balance": 3200.0,
+    "Line": [
+      {
+        "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+        "Amount": 4800.0
+      },
+      {
+        "Description": "Build the drawer boxes with half-blind dovetails",
+        "Amount": 5400.0
+      },
+      {
+        "Description": "Re: Stowe install date",
+        "Amount": 6200.0
+      },
+      {
+        "Description": "Final fit of the Henderson island base cabinets",
+        "Amount": 8500.0
+      },
+      {
+        "Description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+        "Amount": 12000.0
+      }
+    ],
+    "EmailStatus": "diane.cox.vt@gmail.com",
+    "BillEmail": {
+      "Address": "diane.cox.vt@gmail.com"
+    },
+    "MetaData": {
+      "CreateTime": "2024-11-29T13:00:00Z"
+    },
+    "Status": "Unpaid"
+  },
+  {
+    "Id": "1401",
+    "DocNumber": "BAR-1101",
+    "TxnDate": "2024-06-06",
+    "DueDate": "2024-11-30",
+    "CustomerRef": {
+      "value": "301",
+      "name": "Check the moisture content on the barn o"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 47.95,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Cherry pricing for the Henderson uppers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "401",
+            "name": "Plane the bookshelf shelves and ease the"
+          },
+          "UnitPrice": 62.0,
+          "Qty": 3
+        }
+      },
+      {
+        "Amount": 88.0,
+        "DetailType": "SubTotalLineDetail",
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "TotalAmt": 54.0,
+    "Balance": 110.0,
+    "PrintStatus": "NotSet",
+    "EmailStatus": "keith.cox.bvt@gmail.com",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2025-07-25T11:45:00Z",
+      "LastUpdatedTime": "2026-04-21T17:30:00Z"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "1402",
+    "DocNumber": "BAR-1102",
+    "TxnDate": "2026-04-30",
+    "DueDate": "2025-04-28",
+    "CustomerRef": {
+      "value": "301",
+      "name": "Sand to 220 and raise the grain before f"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 6.8,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "402",
+            "name": "Mock up the crown profile for the Hender"
+          },
+          "UnitPrice": 9.25,
+          "Qty": 2
+        }
+      },
+      {
+        "Amount": 12.5,
+        "DetailType": "SubTotalLineDetail",
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "TotalAmt": 36.0,
+    "Balance": 18.99,
+    "PrintStatus": "NotSet",
+    "EmailStatus": "marie.gagne.vt@gmail.com",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2026-09-26T09:00:00Z",
+      "LastUpdatedTime": "2026-07-11T17:45:00Z"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "1403",
+    "DocNumber": "BAR-1103",
+    "TxnDate": "2025-04-09",
+    "DueDate": "2024-10-28",
+    "CustomerRef": {
+      "value": "301",
+      "name": "Splitting and stacking the winter firewo"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 24.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Pete coming by Saturday for coffee; shop's a mess.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "405",
+            "name": "Splitting and stacking the winter firewo"
+          },
+          "UnitPrice": 28.99,
+          "Qty": 2
+        }
+      },
+      {
+        "Amount": 34.5,
+        "DetailType": "SubTotalLineDetail",
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "TotalAmt": 44.0,
+    "Balance": 41.0,
+    "PrintStatus": "NotSet",
+    "EmailStatus": "tom.gagne.vt@gmail.com",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2024-08-17T17:15:00Z",
+      "LastUpdatedTime": "2024-06-21T16:15:00Z"
+    },
+    "SyncToken": "1"
+  }
+]

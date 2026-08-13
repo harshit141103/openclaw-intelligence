@@ -1,0 +1,52 @@
+[
+  {
+    "retailer_id": "ret-safeway",
+    "name": "Tesco",
+    "logo_url": "https://logos.instacart.co.uk/tesco.png",
+    "delivers_to_zips": "IV1,IV2,IV54",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-wholefoods",
+    "name": "Co-op Lochcarron",
+    "logo_url": "https://logos.instacart.co.uk/co-op.png",
+    "delivers_to_zips": "IV1,IV2,IV54",
+    "min_basket": "10.00",
+    "delivery_fee": "4.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-costco",
+    "name": "Morrisons Inverness",
+    "logo_url": "https://logos.instacart.co.uk/morrisons.png",
+    "delivers_to_zips": "IV1,IV2,IV54",
+    "min_basket": "35.00",
+    "delivery_fee": "9.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-traderjoes",
+    "name": "Lidl Inverness",
+    "logo_url": "https://logos.instacart.co.uk/lidl.png",
+    "delivers_to_zips": "IV1,IV2,IV54",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-cvs",
+    "name": "Spar Strathcarron",
+    "logo_url": "https://logos.instacart.co.uk/spar.png",
+    "delivers_to_zips": "IV1,IV2,IV54",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "60"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "700100200300400001",
+    "guild_id": "900100200300400001",
+    "name": "Admin",
+    "color": "15158332",
+    "position": "4",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400002",
+    "guild_id": "900100200300400001",
+    "name": "Moderator",
+    "color": "3447003",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "268435456"
+  },
+  {
+    "id": "700100200300400003",
+    "guild_id": "900100200300400001",
+    "name": "Member",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400004",
+    "guild_id": "900100200300400001",
+    "name": "Bots",
+    "color": "9807270",
+    "position": "2",
+    "hoist": "false",
+    "mentionable": "false",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400005",
+    "guild_id": "900100200300400002",
+    "name": "Pitmaster",
+    "color": "10181046",
+    "position": "3",
+    "hoist": "true",
+    "mentionable": "true",
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400006",
+    "guild_id": "900100200300400002",
+    "name": "Member",
+    "color": "5763719",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400007",
+    "guild_id": "900100200300400003",
+    "name": "Member",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400008",
+    "guild_id": "900100200300400004",
+    "name": "Member",
+    "color": "3066993",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400009",
+    "guild_id": "900100200300400005",
+    "name": "Member",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400010",
+    "guild_id": "900100200300400006",
+    "name": "Member",
+    "color": "15844367",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400011",
+    "guild_id": "900100200300400007",
+    "name": "Member",
+    "color": "9807270",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400012",
+    "guild_id": "900100200300400008",
+    "name": "Member",
+    "color": "10038562",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400013",
+    "guild_id": "900100200300400009",
+    "name": "Member",
+    "color": "3066993",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400014",
+    "guild_id": "900100200300400010",
+    "name": "Member",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400015",
+    "guild_id": "900100200300400011",
+    "name": "Member",
+    "color": "15158332",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400016",
+    "guild_id": "900100200300400012",
+    "name": "Member",
+    "color": "10038562",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400017",
+    "guild_id": "900100200300400013",
+    "name": "Member",
+    "color": "3066993",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400018",
+    "guild_id": "900100200300400014",
+    "name": "Member",
+    "color": "0",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400019",
+    "guild_id": "900100200300400015",
+    "name": "Member",
+    "color": "15844367",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400020",
+    "guild_id": "900100200300400016",
+    "name": "Member",
+    "color": "9807270",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400021",
+    "guild_id": "900100200300400017",
+    "name": "Member",
+    "color": "10038562",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400022",
+    "guild_id": "900100200300400018",
+    "name": "Member",
+    "color": "15158332",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400023",
+    "guild_id": "900100200300400019",
+    "name": "Member",
+    "color": "3066993",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400024",
+    "guild_id": "900100200300400020",
+    "name": "Member",
+    "color": "10181046",
+    "position": "1",
+    "hoist": "false",
+    "mentionable": "true",
+    "permissions": "104324673"
+  }
+]

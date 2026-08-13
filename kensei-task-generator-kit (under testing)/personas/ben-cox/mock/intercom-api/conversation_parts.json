@@ -1,0 +1,182 @@
+[
+  {
+    "id": "part-1",
+    "conversation_id": "conv-100",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-mara",
+    "body": "Barn oak is summer 2027 - not pulling material yet.",
+    "created_at": "2026-03-09T06:30:00Z"
+  },
+  {
+    "id": "part-2",
+    "conversation_id": "conv-100",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-Keith",
+    "body": "Build the drawer boxes with half-blind dovetails",
+    "created_at": "2025-05-22T14:00:00Z"
+  },
+  {
+    "id": "part-3",
+    "conversation_id": "conv-100",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-mara",
+    "body": "Project schedule update",
+    "created_at": "2026-04-18T08:30:00Z"
+  },
+  {
+    "id": "part-4",
+    "conversation_id": "conv-101",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-ethan",
+    "body": "Sharpened the chisels; the 1in was overdue.",
+    "created_at": "2026-08-01T06:45:00Z"
+  },
+  {
+    "id": "part-5",
+    "conversation_id": "conv-101",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-Diane",
+    "body": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "created_at": "2024-08-30T09:15:00Z"
+  },
+  {
+    "id": "part-6",
+    "conversation_id": "conv-101",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-Diane",
+    "body": "Plane the bookshelf shelves and ease the front edges",
+    "created_at": "2025-11-16T08:00:00Z"
+  },
+  {
+    "id": "part-7",
+    "conversation_id": "conv-102",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-grace",
+    "body": "Project schedule update",
+    "created_at": "2025-04-30T17:00:00Z"
+  },
+  {
+    "id": "part-8",
+    "conversation_id": "conv-102",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-yara",
+    "body": "Diane flagged the Sloan invoice for QuickBooks.",
+    "created_at": "2024-07-22T09:00:00Z"
+  },
+  {
+    "id": "part-9",
+    "conversation_id": "conv-102",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-Diane",
+    "body": "Build the drawer boxes with half-blind dovetails",
+    "created_at": "2025-11-08T14:30:00Z"
+  },
+  {
+    "id": "part-902",
+    "conversation_id": "conv-103",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-mara",
+    "body": "Splitting and stacking the winter firewood",
+    "created_at": "2026-01-07T16:45:00Z"
+  },
+  {
+    "id": "part-904",
+    "conversation_id": "conv-103",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-Keith",
+    "body": "Barn oak is summer 2027 - not pulling material yet.",
+    "created_at": "2026-01-16T13:00:00Z"
+  },
+  {
+    "id": "part-906",
+    "conversation_id": "conv-103",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-mara",
+    "body": "Sharpened the chisels; the 1in was overdue.",
+    "created_at": "2024-04-06T18:00:00Z"
+  },
+  {
+    "id": "part-908",
+    "conversation_id": "conv-103",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-ethan",
+    "body": "Lay out dovetails for the silverware drawer",
+    "created_at": "2024-09-18T09:45:00Z"
+  },
+  {
+    "id": "part-910",
+    "conversation_id": "conv-104",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-Diane",
+    "body": "Cut dadoes for the adjustable shelf pins",
+    "created_at": "2025-09-04T18:00:00Z"
+  },
+  {
+    "id": "part-912",
+    "conversation_id": "conv-104",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-Diane",
+    "body": "Material order - Hardwick Lumber",
+    "created_at": "2024-05-02T17:15:00Z"
+  },
+  {
+    "id": "part-914",
+    "conversation_id": "conv-104",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-grace",
+    "body": "Estimate for the Greensboro barn (2027)",
+    "created_at": "2025-12-23T08:45:00Z"
+  },
+  {
+    "id": "part-916",
+    "conversation_id": "conv-104",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-yara",
+    "body": "Plane the bookshelf shelves and ease the front edges",
+    "created_at": "2026-05-22T07:15:00Z"
+  },
+  {
+    "id": "part-918",
+    "conversation_id": "conv-105",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-Diane",
+    "body": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "created_at": "2025-07-14T18:30:00Z"
+  },
+  {
+    "id": "part-911",
+    "conversation_id": "conv-105",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-mara",
+    "body": "Re: Bookshelf dimensions",
+    "created_at": "2024-09-24T06:30:00Z"
+  },
+  {
+    "id": "part-913",
+    "conversation_id": "conv-105",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-Keith",
+    "body": "Re: Stowe install date",
+    "created_at": "2024-06-22T10:00:00Z"
+  }
+]

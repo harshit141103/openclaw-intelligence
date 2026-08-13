@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2640887",
+    "name": "Strathcarron",
+    "country": "GB",
+    "state": "Highland",
+    "lat": "57.4200",
+    "lon": "-5.4300",
+    "timezone": "3600"
+  },
+  {
+    "id": "2644974",
+    "name": "Lochcarron",
+    "country": "GB",
+    "state": "Highland",
+    "lat": "57.4000",
+    "lon": "-5.4900",
+    "timezone": "3600"
+  },
+  {
+    "id": "2646088",
+    "name": "Inverness",
+    "country": "GB",
+    "state": "Highland",
+    "lat": "57.4778",
+    "lon": "-4.2247",
+    "timezone": "3600"
+  },
+  {
+    "id": "2640598",
+    "name": "Plockton",
+    "country": "GB",
+    "state": "Highland",
+    "lat": "57.3360",
+    "lon": "-5.6570",
+    "timezone": "3600"
+  },
+  {
+    "id": "2656402",
+    "name": "Applecross",
+    "country": "GB",
+    "state": "Highland",
+    "lat": "57.4300",
+    "lon": "-5.8100",
+    "timezone": "3600"
+  },
+  {
+    "id": "3133895",
+    "name": "Tromso",
+    "country": "NO",
+    "state": "Troms",
+    "lat": "69.6492",
+    "lon": "18.9553",
+    "timezone": "3600"
+  }
+]

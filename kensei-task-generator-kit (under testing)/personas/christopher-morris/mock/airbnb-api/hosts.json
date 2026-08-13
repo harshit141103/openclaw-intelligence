@@ -1,0 +1,135 @@
+﻿[
+  {
+    "host_id": "host-ava",
+    "name": "Ava Lindqvist",
+    "email": "ava.lindqvist@email.com",
+    "superhost": "true",
+    "joined_year": "2017",
+    "response_rate": "99",
+    "languages": "English,Swedish",
+    "total_listings": "3",
+    "total_reviews": "451"
+  },
+  {
+    "host_id": "host-diego",
+    "name": "Diego Fernandez",
+    "email": "diego.fernandez@email.com",
+    "superhost": "true",
+    "joined_year": "2015",
+    "response_rate": "97",
+    "languages": "English,Spanish",
+    "total_listings": "2",
+    "total_reviews": "365"
+  },
+  {
+    "host_id": "host-mei",
+    "name": "Mei Chen",
+    "email": "mei.chen@email.com",
+    "superhost": "false",
+    "joined_year": "2019",
+    "response_rate": "92",
+    "languages": "English,Mandarin",
+    "total_listings": "2",
+    "total_reviews": "187"
+  },
+  {
+    "host_id": "host-christopher",
+    "name": "Christopher Morris",
+    "email": "kashifrichy@gmail.com",
+    "superhost": "true",
+    "joined_year": "2018",
+    "response_rate": "98",
+    "languages": "English",
+    "total_listings": "4",
+    "total_reviews": "523"
+  },
+  {
+    "host_id": "host-james",
+    "name": "James Mitchell",
+    "email": "james.mitchell@email.com",
+    "superhost": "true",
+    "joined_year": "2016",
+    "response_rate": "96",
+    "languages": "English,French",
+    "total_listings": "5",
+    "total_reviews": "612"
+  },
+  {
+    "host_id": "host-sofia",
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia@email.com",
+    "superhost": "false",
+    "joined_year": "2020",
+    "response_rate": "89",
+    "languages": "English,Spanish,Portuguese",
+    "total_listings": "1",
+    "total_reviews": "78"
+  },
+  {
+    "host_id": "host-luILs",
+    "name": "LuILs Santos",
+    "email": "luILs.santos@email.com",
+    "superhost": "true",
+    "joined_year": "2017",
+    "response_rate": "95",
+    "languages": "English,Portuguese",
+    "total_listings": "3",
+    "total_reviews": "289"
+  },
+  {
+    "host_id": "host-isabella",
+    "name": "Isabella Romano",
+    "email": "isabella.romano@email.com",
+    "superhost": "true",
+    "joined_year": "2015",
+    "response_rate": "99",
+    "languages": "English,Italian",
+    "total_listings": "4",
+    "total_reviews": "718"
+  },
+  {
+    "host_id": "host-nora",
+    "name": "Nora Andersen",
+    "email": "nora.andersen@email.com",
+    "superhost": "false",
+    "joined_year": "2021",
+    "response_rate": "87",
+    "languages": "English,Danish",
+    "total_listings": "1",
+    "total_reviews": "42"
+  },
+  {
+    "host_id": "host-marcus",
+    "name": "Marcus Thompson",
+    "email": "marcus.thompson@email.com",
+    "superhost": "true",
+    "joined_year": "2016",
+    "response_rate": "98",
+    "languages": "English",
+    "total_listings": "6",
+    "total_reviews": "845"
+  },
+  {
+    "host_id": "host-helena",
+    "name": "Helena Svensson",
+    "email": "helena.svensson@email.com",
+    "superhost": "true",
+    "joined_year": "2014",
+    "response_rate": "100",
+    "languages": "English,Swedish,German",
+    "total_listings": "3",
+    "total_reviews": "567"
+  },
+  {
+    "host_id": "host-christopher",
+    "name": "christopher Zhang",
+    "email": "christopher.zhang@email.com",
+    "superhost": "false",
+    "joined_year": "2022",
+    "response_rate": "85",
+    "languages": "English,Mandarin,ILntonese",
+    "total_listings": "2",
+    "total_reviews": "95"
+  }
+]
+

@@ -1,0 +1,137 @@
+[
+  {
+    "user_id": "100004",
+    "first_name": "Daniel",
+    "last_name": "Bennett",
+    "email": "daniel.bennett@email.com",
+    "role": "owner",
+    "device_access": "all",
+    "shared_at": "2024-03-15T10:00:00.000Z"
+  },
+  {
+    "user_id": "100005",
+    "first_name": "Sarah",
+    "last_name": "Bennett",
+    "email": "sarah.bennett@email.com",
+    "role": "owner",
+    "device_access": "all",
+    "shared_at": "2024-03-15T10:05:00.000Z"
+  },
+  {
+    "user_id": "100006",
+    "first_name": "James",
+    "last_name": "Thompson",
+    "email": "james.thompson@email.com",
+    "role": "shared_user",
+    "device_access": "all",
+    "shared_at": "2024-06-10T14:30:00.000Z"
+  },
+  {
+    "user_id": "100007",
+    "first_name": "Lisa",
+    "last_name": "Rodriguez",
+    "email": "lisa.rodriguez@email.com",
+    "role": "shared_user",
+    "device_access": ["987001", "987002", "987003"],
+    "shared_at": "2024-07-22T09:15:00.000Z"
+  },
+  {
+    "user_id": "100008",
+    "first_name": "Michael",
+    "last_name": "Chen",
+    "email": "michael.chen@email.com",
+    "role": "shared_user",
+    "device_access": ["987001", "987010"],
+    "shared_at": "2024-08-05T11:45:00.000Z"
+  },
+  {
+    "user_id": "100009",
+    "first_name": "Jennifer",
+    "last_name": "Williams",
+    "email": "jennifer.williams@email.com",
+    "role": "shared_user",
+    "device_access": ["987002", "987004", "987005"],
+    "shared_at": "2024-09-12T13:20:00.000Z"
+  },
+  {
+    "user_id": "100010",
+    "first_name": "David",
+    "last_name": "Miller",
+    "email": "david.miller@email.com",
+    "role": "shared_user",
+    "device_access": ["987007"],
+    "shared_at": "2024-10-01T08:00:00.000Z"
+  },
+  {
+    "user_id": "100011",
+    "first_name": "Amanda",
+    "last_name": "Garcia",
+    "email": "amanda.garcia@email.com",
+    "role": "shared_user",
+    "device_access": "all",
+    "shared_at": "2024-10-15T10:30:00.000Z"
+  },
+  {
+    "user_id": "100012",
+    "first_name": "Robert",
+    "last_name": "Johnson",
+    "email": "robert.johnson@email.com",
+    "role": "viewer",
+    "device_access": ["987001", "987003"],
+    "shared_at": "2024-11-03T15:45:00.000Z"
+  },
+  {
+    "user_id": "100013",
+    "first_name": "Patricia",
+    "last_name": "Brown",
+    "email": "patricia.brown@email.com",
+    "role": "viewer",
+    "device_access": ["987012", "987013"],
+    "shared_at": "2024-11-20T12:00:00.000Z"
+  },
+  {
+    "user_id": "100014",
+    "first_name": "Christopher",
+    "last_name": "Morris",
+    "email": "christopher.morris@email.com",
+    "role": "shared_user",
+    "device_access": ["987001", "987010", "987012"],
+    "shared_at": "2024-12-10T09:30:00.000Z"
+  },
+  {
+    "user_id": "100015",
+    "first_name": "Margaret",
+    "last_name": "Taylor",
+    "email": "margaret.taylor@email.com",
+    "role": "shared_user",
+    "device_access": "all",
+    "shared_at": "2025-01-08T11:15:00.000Z"
+  },
+  {
+    "user_id": "100016",
+    "first_name": "Kevin",
+    "last_name": "Martin",
+    "email": "kevin.martin@email.com",
+    "role": "viewer",
+    "device_access": ["987002"],
+    "shared_at": "2025-01-22T14:00:00.000Z"
+  },
+  {
+    "user_id": "100017",
+    "first_name": "Susan",
+    "last_name": "Anderson",
+    "email": "susan.anderson@email.com",
+    "role": "shared_user",
+    "device_access": ["987004", "987005", "987006"],
+    "shared_at": "2025-02-05T10:45:00.000Z"
+  },
+  {
+    "user_id": "100018",
+    "first_name": "Paul",
+    "last_name": "Lewis",
+    "email": "paul.lewis@email.com",
+    "role": "shared_user",
+    "device_access": ["987011"],
+    "shared_at": "2025-03-01T13:30:00.000Z"
+  }
+]

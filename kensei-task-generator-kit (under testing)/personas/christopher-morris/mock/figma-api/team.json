@@ -1,0 +1,87 @@
+﻿{
+  "team": {
+    "id": "team-501",
+    "name": "Meridian Benefits Group Design"
+  },
+  "me": {
+    "id": "user-chris-morris",
+    "handle": "Christopher Morris",
+    "email": "christopher.morris@meridian-benefits.example.com",
+    "img_url": "https://figma-avatars.example.com/user-chris-morris.png"
+  },
+  "users": [
+    {
+      "id": "user-chris-morris",
+      "handle": "Christopher Morris",
+      "email": "christopher.morris@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-chris-morris.png"
+    },
+    {
+      "id": "user-1001",
+      "handle": "Sandra Chen",
+      "email": "priya@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1001.png"
+    },
+    {
+      "id": "user-1002",
+      "handle": "Diego Alvarez",
+      "email": "diego@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1002.png"
+    },
+    {
+      "id": "user-1003",
+      "handle": "Mara Lindqvist",
+      "email": "mara@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1003.png"
+    },
+    {
+      "id": "user-1004",
+      "handle": "Sophia Chen",
+      "email": "sophia@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1004.png"
+    },
+    {
+      "id": "user-1005",
+      "handle": "James O'Connor",
+      "email": "james@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1005.png"
+    },
+    {
+      "id": "user-1006",
+      "handle": "Elena Rossi",
+      "email": "elena@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1006.png"
+    },
+    {
+      "id": "user-1007",
+      "handle": "Marcus Thompson",
+      "email": "marcus@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1007.png"
+    },
+    {
+      "id": "user-1008",
+      "handle": "Lisa Kim",
+      "email": "lisa@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1008.png"
+    },
+    {
+      "id": "user-1009",
+      "handle": "AndrÃ© Dupont",
+      "email": "andre@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1009.png"
+    },
+    {
+      "id": "user-1010",
+      "handle": "Priya Desai",
+      "email": "yuki@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1010.png"
+    },
+    {
+      "id": "user-1011",
+      "handle": "Amara Okonkwo",
+      "email": "amara@meridian-benefits.example.com",
+      "img_url": "https://figma-avatars.example.com/user-1011.png"
+    }
+  ]
+}
+

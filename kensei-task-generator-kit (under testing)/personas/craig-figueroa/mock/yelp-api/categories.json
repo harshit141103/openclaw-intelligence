@@ -1,0 +1,52 @@
+[
+  {
+    "alias": "pubs",
+    "title": "Pubs",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "seafood",
+    "title": "Seafood",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "scottish",
+    "title": "Scottish",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "bistros",
+    "title": "Bistros",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "cafes",
+    "title": "Cafes",
+    "parent": "food"
+  },
+  {
+    "alias": "modern_european",
+    "title": "Modern European",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "grocery",
+    "title": "Grocery",
+    "parent": "food"
+  },
+  {
+    "alias": "lodging",
+    "title": "Hotels",
+    "parent": "hotelstravel"
+  },
+  {
+    "alias": "car_repair",
+    "title": "Auto Repair",
+    "parent": "automotive"
+  },
+  {
+    "alias": "health",
+    "title": "Health",
+    "parent": "health"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "group_id": "grp-todo",
+    "board_id": "board-101",
+    "title": "Mill cherry stock to thickness for the u",
+    "color": "#fdab3d",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-doing",
+    "board_id": "board-101",
+    "title": "Replace the dust collector filter and cl",
+    "color": "#0086c0",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-done",
+    "board_id": "board-101",
+    "title": "Stowe kitchen - cabinet hardware lead time",
+    "color": "#00c875",
+    "position": "3"
+  },
+  {
+    "group_id": "grp-open",
+    "board_id": "board-102",
+    "title": "Greensboro barn restoration",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-closed",
+    "board_id": "board-102",
+    "title": "Hang the soft-close doors and adjust the",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-planned",
+    "board_id": "board-201",
+    "title": "Mock up the crown profile for the Hender",
+    "color": "#a25ddc",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-live",
+    "board_id": "board-201",
+    "title": "Boucher mudroom built-ins",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-todo",
+    "board_id": "board-101",
+    "title": "Stowe kitchen - cabinet hardware lead time",
+    "color": "#fdab3d",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-doing",
+    "board_id": "board-101",
+    "title": "Lafleur barn door (favor)",
+    "color": "#0086c0",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-done",
+    "board_id": "board-101",
+    "title": "Lafleur barn door (favor)",
+    "color": "#00c875",
+    "position": "3"
+  },
+  {
+    "group_id": "grp-open",
+    "board_id": "board-102",
+    "title": "Sharpen the jointer knives and reset the",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-closed",
+    "board_id": "board-102",
+    "title": "Delivery window for the Stowe cabinets",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-planned",
+    "board_id": "board-201",
+    "title": "Built-ins - finish sample for your approval",
+    "color": "#a25ddc",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-live",
+    "board_id": "board-201",
+    "title": "Splitting and stacking the winter firewo",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-todo",
+    "board_id": "board-101",
+    "title": "Replace the dust collector filter and cl",
+    "color": "#fdab3d",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-doing",
+    "board_id": "board-101",
+    "title": "Re-saw the walnut for bookmatched panels",
+    "color": "#0086c0",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-done",
+    "board_id": "board-101",
+    "title": "Set up the dado stack for the bookshelf ",
+    "color": "#00c875",
+    "position": "3"
+  },
+  {
+    "group_id": "grp-open",
+    "board_id": "board-102",
+    "title": "Cut dadoes for the adjustable shelf pins",
+    "color": "#e2445c",
+    "position": "1"
+  },
+  {
+    "group_id": "grp-closed",
+    "board_id": "board-102",
+    "title": "Stowe kitchen - cabinet hardware lead time",
+    "color": "#00c875",
+    "position": "2"
+  },
+  {
+    "group_id": "grp-planned",
+    "board_id": "board-201",
+    "title": "Lafleur barn door (favor)",
+    "color": "#a25ddc",
+    "position": "1"
+  }
+]

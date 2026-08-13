@@ -1,0 +1,28 @@
+{
+  "CompanyName": "Whitaker Freight Services",
+  "LegalName": "Whitaker Freight Services LLC",
+  "CompanyAddr": {
+    "Line1": "8420 Kingston Pike Suite 210",
+    "City": "Knoxville",
+    "CountrySubDivisionCode": "TN",
+    "PostalCode": "37919"
+  },
+  "Email": {
+    "Address": "floyd.whitaker@finthesiss.ai"
+  },
+  "PrimaryPhone": {
+    "FreeFormNumber": "(865) 555-2750"
+  },
+  "FiscalYearStartMonth": "January",
+  "Country": "US",
+  "IndustryType": "Freight Brokerage & Logistics",
+  "NameValue": [
+    { "Name": "OwnerName", "Value": "Floyd Whitaker" },
+    { "Name": "BrokerLicense", "Value": "FMCSA #28471" },
+    { "Name": "Accountant", "Value": "Wayne Prater" }
+  ],
+  "MetaData": {
+    "CreateTime": "2008-06-02T10:00:00-04:00",
+    "LastUpdatedTime": "2026-04-30T09:15:00-04:00"
+  }
+}

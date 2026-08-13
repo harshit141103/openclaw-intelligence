@@ -1,0 +1,37 @@
+[
+  {
+    "owner": "user-craig-figueroa",
+    "weekday": "monday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "Europe/London"
+  },
+  {
+    "owner": "user-craig-figueroa",
+    "weekday": "tuesday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "Europe/London"
+  },
+  {
+    "owner": "user-craig-figueroa",
+    "weekday": "wednesday",
+    "start_time": "09:00",
+    "end_time": "15:00",
+    "timezone": "Europe/London"
+  },
+  {
+    "owner": "user-craig-figueroa",
+    "weekday": "thursday",
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "timezone": "Europe/London"
+  },
+  {
+    "owner": "user-craig-figueroa",
+    "weekday": "friday",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "timezone": "Europe/London"
+  }
+]

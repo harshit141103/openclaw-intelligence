@@ -1,0 +1,309 @@
+﻿[
+  {
+    "page_id": "page-task-001",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-christopher"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-06-30"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-owen"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-07-15"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-sandra"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-07-05"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-priya"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-08-30"
+  },
+  {
+    "page_id": "page-task-005",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-005",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-005",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-janet"
+  },
+  {
+    "page_id": "page-task-005",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-06-15"
+  },
+  {
+    "page_id": "page-okr-2026-q2-1",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "On track"
+  },
+  {
+    "page_id": "page-okr-2026-q2-1",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-christopher"
+  },
+  {
+    "page_id": "page-okr-2026-q2-1",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.68"
+  },
+  {
+    "page_id": "page-okr-2026-q2-2",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "On track"
+  },
+  {
+    "page_id": "page-okr-2026-q2-2",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-owen"
+  },
+  {
+    "page_id": "page-okr-2026-q2-2",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.55"
+  },
+  {
+    "page_id": "page-okr-2026-q2-3",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "On track"
+  },
+  {
+    "page_id": "page-okr-2026-q2-3",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-priya"
+  },
+  {
+    "page_id": "page-okr-2026-q2-3",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.42"
+  },
+  {
+    "page_id": "page-meeting-001",
+    "property_name": "Date",
+    "property_type": "date",
+    "value": "2026-06-03"
+  },
+  {
+    "page_id": "page-meeting-001",
+    "property_name": "Attendees",
+    "property_type": "people",
+    "value": "user-christopher,user-meg,user-sandra,user-janet"
+  },
+  {
+    "page_id": "page-meeting-002",
+    "property_name": "Date",
+    "property_type": "date",
+    "value": "2026-05-12"
+  },
+  {
+    "page_id": "page-meeting-002",
+    "property_name": "Attendees",
+    "property_type": "people",
+    "value": "user-christopher,user-priya,user-sandra"
+  },
+  {
+    "page_id": "page-meeting-003",
+    "property_name": "Date",
+    "property_type": "date",
+    "value": "2026-06-15"
+  },
+  {
+    "page_id": "page-meeting-003",
+    "property_name": "Attendees",
+    "property_type": "people",
+    "value": "user-christopher,user-meg,user-rita"
+  },
+  {
+    "page_id": "page-research-001",
+    "property_name": "Responses",
+    "property_type": "number",
+    "value": "287"
+  },
+  {
+    "page_id": "page-research-001",
+    "property_name": "Completion Date",
+    "property_type": "date",
+    "value": "2026-05-08"
+  },
+  {
+    "page_id": "page-research-001",
+    "property_name": "Lead",
+    "property_type": "people",
+    "value": "user-christopher"
+  },
+  {
+    "page_id": "page-research-002",
+    "property_name": "Start Date",
+    "property_type": "date",
+    "value": "2026-05-15"
+  },
+  {
+    "page_id": "page-research-002",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-research-002",
+    "property_name": "Lead",
+    "property_type": "people",
+    "value": "user-priya"
+  },
+  {
+    "page_id": "page-ILrrier-anthem",
+    "property_name": "ILrrier Name",
+    "property_type": "text",
+    "value": "Anthem Blue Cross"
+  },
+  {
+    "page_id": "page-ILrrier-anthem",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Selected"
+  },
+  {
+    "page_id": "page-ILrrier-anthem",
+    "property_name": "Annual Cost",
+    "property_type": "currency",
+    "value": "2450000"
+  },
+  {
+    "page_id": "page-ILrrier-united",
+    "property_name": "ILrrier Name",
+    "property_type": "text",
+    "value": "UnitedHealth Group"
+  },
+  {
+    "page_id": "page-ILrrier-united",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Under Review"
+  },
+  {
+    "page_id": "page-ILrrier-united",
+    "property_name": "Annual Cost",
+    "property_type": "currency",
+    "value": "2380000"
+  },
+  {
+    "page_id": "page-wellness-coaching",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Active"
+  },
+  {
+    "page_id": "page-wellness-coaching",
+    "property_name": "Enrollment",
+    "property_type": "number",
+    "value": "0.34"
+  },
+  {
+    "page_id": "page-wellness-fitness",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Active"
+  },
+  {
+    "page_id": "page-wellness-fitness",
+    "property_name": "Enrollment",
+    "property_type": "number",
+    "value": "0.28"
+  }
+]
+

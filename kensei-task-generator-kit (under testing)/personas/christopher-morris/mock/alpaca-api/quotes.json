@@ -1,0 +1,101 @@
+[
+  {
+    "symbol": "AAPL",
+    "bid_price": "191.20",
+    "bid_size": "3",
+    "ask_price": "191.25",
+    "ask_size": "2",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "MSFT",
+    "bid_price": "418.55",
+    "bid_size": "1",
+    "ask_price": "418.60",
+    "ask_size": "4",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "TSLA",
+    "bid_price": "228.70",
+    "bid_size": "5",
+    "ask_price": "228.75",
+    "ask_size": "3",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "NVDA",
+    "bid_price": "131.85",
+    "bid_size": "2",
+    "ask_price": "131.90",
+    "ask_size": "2",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "AMZN",
+    "bid_price": "188.40",
+    "bid_size": "6",
+    "ask_price": "188.45",
+    "ask_size": "1",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "GOOGL",
+    "bid_price": "174.10",
+    "bid_size": "2",
+    "ask_price": "174.15",
+    "ask_size": "3",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "SPY",
+    "bid_price": "531.20",
+    "bid_size": "8",
+    "ask_price": "531.25",
+    "ask_size": "7",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "VTI",
+    "bid_price": "248.25",
+    "bid_size": "4",
+    "ask_price": "248.30",
+    "ask_size": "3",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "VOO",
+    "bid_price": "492.45",
+    "bid_size": "2",
+    "ask_price": "492.50",
+    "ask_size": "5",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "QQQ",
+    "bid_price": "386.80",
+    "bid_size": "6",
+    "ask_price": "386.90",
+    "ask_size": "4",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  },
+  {
+    "symbol": "IWM",
+    "bid_price": "198.60",
+    "bid_size": "3",
+    "ask_price": "198.75",
+    "ask_size": "2",
+    "timestamp": "2026-06-10T20:00:00Z",
+    "last_updated": "2026-06-10T20:00:00Z"
+  }
+]

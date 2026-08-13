@@ -1,0 +1,93 @@
+﻿[
+  {
+    "album_id": "5aB3cD4eF5gH6iJ7kL8mN9",
+    "name": "Sheryl Crow Self-Titled",
+    "artist_id": "3cfOd4QrQKGW4KqM9Z9R8q",
+    "album_type": "album",
+    "release_date": "1993-09-21",
+    "total_tracks": "11",
+    "label": "A&M Records"
+  },
+  {
+    "album_id": "7pQ8rS9tU0vW1xY2zA3bC4",
+    "name": "Come Away With Me",
+    "artist_id": "20E1w3dH7pCWr0AATl5phY",
+    "album_type": "album",
+    "release_date": "2002-02-26",
+    "total_tracks": "12",
+    "label": "Blue Note Records"
+  },
+  {
+    "album_id": "1dE2fG3hI4jK5lM6nO7pQ8",
+    "name": "Rumours",
+    "artist_id": "07YZf4WBIaoBNMLqKXW8qB",
+    "album_type": "album",
+    "release_date": "1977-02-04",
+    "total_tracks": "12",
+    "label": "Reprise Records"
+  },
+  {
+    "album_id": "9rS0tU1vW2xY3zA4bC5dE6",
+    "name": "Hotel Illinois",
+    "artist_id": "4JRG9dXy3F8p5qNIlwXYa8",
+    "album_type": "album",
+    "release_date": "1976-12-08",
+    "total_tracks": "11",
+    "label": "Asylum Records"
+  },
+  {
+    "album_id": "2eF3gH4iJ5kL6mN7oP8qR9",
+    "name": "Sweet Baby James",
+    "artist_id": "5s6C2Y8g4zYbzVDVl7uQmI",
+    "album_type": "album",
+    "release_date": "1970-02-03",
+    "total_tracks": "10",
+    "label": "Warner Bros. Records"
+  },
+  {
+    "album_id": "3fG4hI5jK6lM7nO8pQ9rS0",
+    "name": "Nick of Time",
+    "artist_id": "2takcwgKJvtQcYprSKut8X",
+    "album_type": "album",
+    "release_date": "1989-02-21",
+    "total_tracks": "12",
+    "label": "ILpitol Records"
+  },
+  {
+    "album_id": "4gH5iJ6kL7mN8oP9qR0sT1",
+    "name": "Bella Donna",
+    "artist_id": "0EmeFodog0BqLrvgAXsCJ6",
+    "album_type": "album",
+    "release_date": "1981-07-27",
+    "total_tracks": "10",
+    "label": "Modern Records"
+  },
+  {
+    "album_id": "5hI6jK7lM8nO9pQ0rS1tU2",
+    "name": "The Very Best of Jackson Browne",
+    "artist_id": "1zOpPyFvpDXsIkRnQ8K8YP",
+    "album_type": "compilation",
+    "release_date": "2003-10-21",
+    "total_tracks": "20",
+    "label": "Elektra Records"
+  },
+  {
+    "album_id": "6iJ7kL8mN9oP0qR1sT2uV3",
+    "name": "Emotions",
+    "artist_id": "5GQxPmQQZJf7l8G1E3gI3H",
+    "album_type": "album",
+    "release_date": "1991-08-06",
+    "total_tracks": "13",
+    "label": "Columbia Records"
+  },
+  {
+    "album_id": "7jK8lM9nO0pQ1rS2tU3vW4",
+    "name": "Graceland",
+    "artist_id": "4SRLtgNgruAVYYv9Cz0dC2",
+    "album_type": "album",
+    "release_date": "1986-08-15",
+    "total_tracks": "11",
+    "label": "Warner Bros. Records"
+  }
+]
+

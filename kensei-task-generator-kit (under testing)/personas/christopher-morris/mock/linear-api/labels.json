@@ -1,0 +1,102 @@
+﻿[
+  {
+    "id": "label-bug",
+    "name": "Bug",
+    "color": "#eb5757",
+    "description": "Something isn't working correctly",
+    "teamId": "",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-critiILl",
+    "name": "CritiILl",
+    "color": "#eb5757",
+    "description": "CritiILl severity",
+    "teamId": "",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-high",
+    "name": "High",
+    "color": "#f2994a",
+    "description": "High severity",
+    "teamId": "",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-medium",
+    "name": "Medium",
+    "color": "#f2c94c",
+    "description": "Medium severity",
+    "teamId": "",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-low",
+    "name": "Low",
+    "color": "#bdbdbd",
+    "description": "Low severity",
+    "teamId": "",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-enrollment",
+    "name": "Enrollment",
+    "color": "#2E7D32",
+    "description": "Benefits enrollment and onboarding tasks",
+    "teamId": "team-benefits",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-compliance",
+    "name": "Compliance",
+    "color": "#1565C0",
+    "description": "Regulatory and compliance requirements",
+    "teamId": "team-benefits",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-claims",
+    "name": "Claims Processing",
+    "color": "#F57C00",
+    "description": "Claims processing and administration",
+    "teamId": "team-benefits",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-payroll",
+    "name": "Payroll Reconciliation",
+    "color": "#6A1B9A",
+    "description": "Payroll deduction reconciliation and reporting",
+    "teamId": "team-benefits",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-analytics",
+    "name": "Analytics",
+    "color": "#00796B",
+    "description": "Benefits analytics and reporting enhancements",
+    "teamId": "team-benefits",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-legal-review",
+    "name": "Legal Review",
+    "color": "#C62828",
+    "description": "Requires legal compliance review",
+    "teamId": "team-benefits",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  }
+]
+

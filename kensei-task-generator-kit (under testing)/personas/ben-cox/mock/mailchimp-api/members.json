@@ -1,0 +1,162 @@
+[
+  {
+    "list_id": "list-newsletter",
+    "email_address": "diane.cox.vt@gmail.com",
+    "full_name": "Diane Cox",
+    "status": "subscribed",
+    "timestamp_signup": "2025-04-11T16:30:00Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "keith.cox.bvt@gmail.com",
+    "full_name": "Keith Cox",
+    "status": "subscribed",
+    "timestamp_signup": "2026-09-01T09:00:00Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "marie.gagne.vt@gmail.com",
+    "full_name": "Marie Cox-Gagne",
+    "status": "unsubscribed",
+    "timestamp_signup": "2024-06-12T16:00:00Z",
+    "member_rating": "2"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "tom.gagne.vt@gmail.com",
+    "full_name": "Tom Gagne",
+    "status": "subscribed",
+    "timestamp_signup": "2026-07-10T08:30:00Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "pete.lafleur.vt@gmail.com",
+    "full_name": "Pete Lafleur",
+    "status": "cleaned",
+    "timestamp_signup": "2025-12-08T12:45:00Z",
+    "member_rating": "1"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "jwhitfield@copleyvt.org",
+    "full_name": "Dr. James Whitfield",
+    "status": "subscribed",
+    "timestamp_signup": "2023-09-17T08:30:00Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "frontdesk@hardwickdental.com",
+    "full_name": "Dr. Paul LeBlanc",
+    "status": "subscribed",
+    "timestamp_signup": "2024-10-21T11:45:00Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "shenderson@stowevt.net",
+    "full_name": "Scott Henderson",
+    "status": "subscribed",
+    "timestamp_signup": "2023-08-12T16:00:00Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "lhenderson@stowevt.net",
+    "full_name": "Linda Henderson",
+    "status": "subscribed",
+    "timestamp_signup": "2025-08-21T15:15:00Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "awhitcomb@sterling.edu",
+    "full_name": "Alan Whitcomb",
+    "status": "subscribed",
+    "timestamp_signup": "2024-06-21T15:30:00Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "paul.dufresne@myfairpoint.net",
+    "full_name": "Paul Dufresne",
+    "status": "subscribed",
+    "timestamp_signup": "2024-09-07T08:15:00Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "marc.belanger.mason@gmail.com",
+    "full_name": "Marc Belanger",
+    "status": "unsubscribed",
+    "timestamp_signup": "2024-08-12T14:30:00Z",
+    "member_rating": "2"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "stoddard.electric@gmail.com",
+    "full_name": "Gary Stoddard",
+    "status": "subscribed",
+    "timestamp_signup": "2024-05-06T06:30:00Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "orders@hardwicklumber.com",
+    "full_name": "Hardwick Lumber",
+    "status": "cleaned",
+    "timestamp_signup": "2025-03-28T13:00:00Z",
+    "member_rating": "1"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "sales@greenmountainhardwoods.com",
+    "full_name": "Green Mountain Hardwoods",
+    "status": "subscribed",
+    "timestamp_signup": "2026-06-16T07:00:00Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "ray@hardwicklumber.com",
+    "full_name": "Ray Tetreault",
+    "status": "subscribed",
+    "timestamp_signup": "2024-11-26T08:30:00Z",
+    "member_rating": "3"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "nancy.beaulieu@gmavt.net",
+    "full_name": "Nancy Beaulieu",
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-24T18:45:00Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-product",
+    "email_address": "office@craftsburychurch.org",
+    "full_name": "Rev. Susan Mills",
+    "status": "subscribed",
+    "timestamp_signup": "2026-05-10T18:45:00Z",
+    "member_rating": "5"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "walt.perreault@gmail.com",
+    "full_name": "Walt Perreault",
+    "status": "subscribed",
+    "timestamp_signup": "2024-09-04T13:45:00Z",
+    "member_rating": "4"
+  },
+  {
+    "list_id": "list-newsletter",
+    "email_address": "donna.sloan@comcast.net",
+    "full_name": "Donna Sloan",
+    "status": "subscribed",
+    "timestamp_signup": "2025-11-20T17:30:00Z",
+    "member_rating": "3"
+  }
+]

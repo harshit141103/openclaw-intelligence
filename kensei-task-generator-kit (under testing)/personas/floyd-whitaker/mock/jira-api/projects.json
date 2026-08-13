@@ -1,0 +1,162 @@
+[
+  {
+    "id": "10001",
+    "key": "FSE",
+    "name": "Freight Software Evaluation",
+    "project_type_key": "software",
+    "lead": "user-floyd",
+    "description": "Evaluating FreightFlow Pro vs RoutePoint Logistics Suite for WFS"
+  },
+  {
+    "id": "10002",
+    "key": "MENT",
+    "name": "TN Freight Mentorship Program",
+    "project_type_key": "software",
+    "lead": "user-keith",
+    "description": "Planning and tracking the autumn mentorship cohort with Burgess Logistics"
+  },
+  {
+    "id": "10003",
+    "key": "WEB",
+    "name": "WFS Website",
+    "project_type_key": "software",
+    "lead": "user-floyd",
+    "description": "Maintaining and improving whitakerfreight.com - content, quote form, and contact form"
+  },
+  {
+    "id": "10004",
+    "key": "CVR",
+    "name": "Carrier Vetting Refresh",
+    "project_type_key": "business",
+    "lead": "user-floyd",
+    "description": "Refreshing carrier vetting for automotive parts clients through Q4 2026"
+  },
+  {
+    "id": "10005",
+    "key": "BOND",
+    "name": "Brand Onboarding",
+    "project_type_key": "business",
+    "lead": "user-bren",
+    "description": "Onboarding Brandon Whitaker as a junior associate at WFS"
+  },
+  {
+    "id": "10006",
+    "key": "DOT",
+    "name": "DOT Compliance Webinars",
+    "project_type_key": "business",
+    "lead": "user-bren",
+    "description": "Planning and running the quarterly DOT compliance webinars for clients"
+  },
+  {
+    "id": "10007",
+    "key": "BLOG",
+    "name": "WFS Blog & Newsletter",
+    "project_type_key": "software",
+    "lead": "user-carla",
+    "description": "Content calendar for the WFS blog and monthly client newsletter"
+  },
+  {
+    "id": "10008",
+    "key": "SHOP",
+    "name": "WFS Branded Merch Store",
+    "project_type_key": "software",
+    "lead": "user-carla",
+    "description": "Small online store for WFS branded caps and shirts for clients and carriers"
+  },
+  {
+    "id": "10009",
+    "key": "ACCT",
+    "name": "Year-End Books & Tax Prep",
+    "project_type_key": "business",
+    "lead": "user-dale",
+    "description": "Coordinating year-end bookkeeping and tax prep with Wayne Prater"
+  },
+  {
+    "id": "10010",
+    "key": "FAIR",
+    "name": "TN Freight Assoc Conference",
+    "project_type_key": "business",
+    "lead": "user-floyd",
+    "description": "Planning WFS participation in the October TN Freight Association conference"
+  },
+  {
+    "id": "10011",
+    "key": "COOK",
+    "name": "Fall Client Cookout",
+    "project_type_key": "business",
+    "lead": "user-bren",
+    "description": "Organizing the October 17 fall cookout for clients and carriers"
+  },
+  {
+    "id": "10012",
+    "key": "LANE",
+    "name": "Lane Rate Review",
+    "project_type_key": "business",
+    "lead": "user-travis",
+    "description": "Quarterly review of SE and Midwest corridor lane rates"
+  },
+  {
+    "id": "10013",
+    "key": "CLNT",
+    "name": "Client Quarterly Reviews",
+    "project_type_key": "business",
+    "lead": "user-floyd",
+    "description": "Scheduling and running quarterly check-ins with top accounts"
+  },
+  {
+    "id": "10014",
+    "key": "INSUR",
+    "name": "Insurance & Bond Renewal",
+    "project_type_key": "business",
+    "lead": "user-dale",
+    "description": "Annual renewal of the freight broker bond and business insurance"
+  },
+  {
+    "id": "10015",
+    "key": "MKTG",
+    "name": "WFS Marketing",
+    "project_type_key": "business",
+    "lead": "user-carla",
+    "description": "Email campaigns, social posts, and lead follow-up for WFS"
+  },
+  {
+    "id": "10016",
+    "key": "HIRE",
+    "name": "Dispatcher Hiring",
+    "project_type_key": "business",
+    "lead": "user-bren",
+    "description": "Hiring a seventh employee, a dispatcher, for the Knoxville office"
+  },
+  {
+    "id": "10017",
+    "key": "TMS",
+    "name": "TMS Migration",
+    "project_type_key": "software",
+    "lead": "user-floyd",
+    "description": "Migrating load data into the chosen transportation management system after the software eval"
+  },
+  {
+    "id": "10018",
+    "key": "PHONE",
+    "name": "Office Phone System Upgrade",
+    "project_type_key": "business",
+    "lead": "user-bren",
+    "description": "Upgrading the Pellissippi Parkway office phone and VoIP system"
+  },
+  {
+    "id": "10019",
+    "key": "SAFETY",
+    "name": "Carrier Safety Scorecards",
+    "project_type_key": "business",
+    "lead": "user-travis",
+    "description": "Building monthly safety scorecards for partner carriers from FMCSA data"
+  },
+  {
+    "id": "10020",
+    "key": "ASSOC",
+    "name": "TN Freight Assoc Board Duties",
+    "project_type_key": "business",
+    "lead": "user-floyd",
+    "description": "Tracking Floyd's board member tasks for the TN Freight Association"
+  }
+]

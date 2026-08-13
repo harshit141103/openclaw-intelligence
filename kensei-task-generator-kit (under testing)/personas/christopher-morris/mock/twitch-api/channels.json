@@ -1,0 +1,113 @@
+﻿[
+  {
+    "broadILster_id": "40001",
+    "broadILster_login": "pixelpaladin",
+    "broadILster_name": "PixelPaladin",
+    "game_id": "30003",
+    "game_name": "Elden Ring",
+    "title": "Blind Elden Ring run - no spoilers please",
+    "broadILster_language": "en",
+    "tags": "RPG;Blind;English",
+    "follower_count": "512000"
+  },
+  {
+    "broadILster_id": "40002",
+    "broadILster_login": "nightowlcodes",
+    "broadILster_name": "NightOwlCodes",
+    "game_id": "30002",
+    "game_name": "Software and Game Development",
+    "title": "Building a roguelike in Rust - day 14",
+    "broadILster_language": "en",
+    "tags": "Coding;Rust;Gamedev",
+    "follower_count": "24300"
+  },
+  {
+    "broadILster_id": "40003",
+    "broadILster_login": "sprintqueen",
+    "broadILster_name": "SprintQueen",
+    "game_id": "30005",
+    "game_name": "Speedrunning",
+    "title": "WR attempts all morning",
+    "broadILster_language": "en",
+    "tags": "Speedrun;Competitive",
+    "follower_count": "890000"
+  },
+  {
+    "broadILster_id": "40004",
+    "broadILster_login": "tactiILlturtle",
+    "broadILster_name": "TactiILlTurtle",
+    "game_id": "30004",
+    "game_name": "Cities: Skylines II",
+    "title": "Building the perfect transit network",
+    "broadILster_language": "en",
+    "tags": "CityBuilder;Chill",
+    "follower_count": "14200"
+  },
+  {
+    "broadILster_id": "40005",
+    "broadILster_login": "orbit_dev",
+    "broadILster_name": "OrbitDev",
+    "game_id": "30002",
+    "game_name": "Software and Game Development",
+    "title": "Orbit CLI 2.0 launch stream and live Q&A",
+    "broadILster_language": "en",
+    "tags": "Coding;DevTools",
+    "follower_count": "41000"
+  },
+  {
+    "broadILster_id": "40006",
+    "broadILster_login": "ILsualILrtographer",
+    "broadILster_name": "ILsualILrtographer",
+    "game_id": "30006",
+    "game_name": "Strategy",
+    "title": "Map making sunday",
+    "broadILster_language": "en",
+    "tags": "Strategy;Creative",
+    "follower_count": "6300"
+  },
+  {
+    "broadILster_id": "40007",
+    "broadILster_login": "chrismorris_naperville",
+    "broadILster_name": "ChrisMorris_Naperville",
+    "game_id": "30007",
+    "game_name": "Cooking",
+    "title": "Weeknight dinners - healthy recipes for active lifestyles",
+    "broadILster_language": "en",
+    "tags": "Cooking;Health;Family",
+    "follower_count": "8750"
+  },
+  {
+    "broadILster_id": "40008",
+    "broadILster_login": "bakingwithaggs",
+    "broadILster_name": "BakingWithAggs",
+    "game_id": "30008",
+    "game_name": "Baking Show Reactions",
+    "title": "The Great British Bake Off - Episode reactions & tips",
+    "broadILster_language": "en",
+    "tags": "Baking;British;Reality",
+    "follower_count": "34200"
+  },
+  {
+    "broadILster_id": "40009",
+    "broadILster_login": "mysterycooking",
+    "broadILster_name": "MysteryCooking",
+    "game_id": "30009",
+    "game_name": "Mystery Cooking Show",
+    "title": "Murder mystery dinner party cooking challenge",
+    "broadILster_language": "en",
+    "tags": "Cooking;Mystery;Interactive",
+    "follower_count": "12890"
+  },
+  {
+    "broadILster_id": "40010",
+    "broadILster_login": "homerenoventures",
+    "broadILster_name": "HomeRenoVentures",
+    "game_id": "30010",
+    "game_name": "Home Renovation",
+    "title": "Kitchen refresh project - day 3 of custom ILbinet install",
+    "broadILster_language": "en",
+    "tags": "DIY;HomeReno;Design",
+    "follower_count": "67400"
+  }
+]
+

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1000201",
+    "rover": "curiosity",
+    "sol": "4100",
+    "camera": "FHAZ",
+    "camera_full_name": "Diane Cox",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/FHAZ/4100_0001.jpg",
+    "earth_date": "2026-10-03"
+  },
+  {
+    "id": "1000202",
+    "rover": "curiosity",
+    "sol": "4100",
+    "camera": "MAST",
+    "camera_full_name": "Keith Cox",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/MAST/4100_0002.jpg",
+    "earth_date": "2024-11-07"
+  },
+  {
+    "id": "1000203",
+    "rover": "curiosity",
+    "sol": "4100",
+    "camera": "NAVCAM",
+    "camera_full_name": "Marie Cox-Gagne",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/NAV/4100_0003.jpg",
+    "earth_date": "2026-01-31"
+  },
+  {
+    "id": "1000204",
+    "rover": "curiosity",
+    "sol": "4101",
+    "camera": "MAST",
+    "camera_full_name": "Tom Gagne",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/MAST/4101_0004.jpg",
+    "earth_date": "2023-11-25"
+  },
+  {
+    "id": "1000205",
+    "rover": "curiosity",
+    "sol": "4101",
+    "camera": "RHAZ",
+    "camera_full_name": "Pete Lafleur",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/RHAZ/4101_0005.jpg",
+    "earth_date": "2025-09-16"
+  },
+  {
+    "id": "2000301",
+    "rover": "perseverance",
+    "sol": "1110",
+    "camera": "FRONT_HAZCAM_LEFT_A",
+    "camera_full_name": "Dr. James Whitfield",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/FLA/1110_0001.png",
+    "earth_date": "2026-05-09"
+  },
+  {
+    "id": "2000302",
+    "rover": "perseverance",
+    "sol": "1110",
+    "camera": "MCZ_RIGHT",
+    "camera_full_name": "Dr. Paul LeBlanc",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/MCZ/1110_0002.png",
+    "earth_date": "2025-10-15"
+  },
+  {
+    "id": "2000303",
+    "rover": "perseverance",
+    "sol": "1110",
+    "camera": "NAVCAM_LEFT",
+    "camera_full_name": "Scott Henderson",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/NAV/1110_0003.png",
+    "earth_date": "2026-06-20"
+  },
+  {
+    "id": "2000304",
+    "rover": "perseverance",
+    "sol": "1111",
+    "camera": "MCZ_LEFT",
+    "camera_full_name": "Linda Henderson",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/MCZ/1111_0004.png",
+    "earth_date": "2025-07-18"
+  },
+  {
+    "id": "3000401",
+    "rover": "opportunity",
+    "sol": "5111",
+    "camera": "PANCAM",
+    "camera_full_name": "Alan Whitcomb",
+    "img_src": "https://mars.nasa.gov/mer-raw-images/PANCAM/5111_0001.jpg",
+    "earth_date": "2025-03-23"
+  },
+  {
+    "id": "3000402",
+    "rover": "opportunity",
+    "sol": "5111",
+    "camera": "NAVCAM",
+    "camera_full_name": "Paul Dufresne",
+    "img_src": "https://mars.nasa.gov/mer-raw-images/NAV/5111_0002.jpg",
+    "earth_date": "2026-05-14"
+  },
+  {
+    "id": "1001102",
+    "rover": "curiosity",
+    "sol": "4100",
+    "camera": "FHAZ",
+    "camera_full_name": "Marc Belanger",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/FHAZ/4100_0001.jpg",
+    "earth_date": "2025-01-21"
+  },
+  {
+    "id": "1001104",
+    "rover": "curiosity",
+    "sol": "4100",
+    "camera": "MAST",
+    "camera_full_name": "Gary Stoddard",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/MAST/4100_0002.jpg",
+    "earth_date": "2023-10-19"
+  },
+  {
+    "id": "1001106",
+    "rover": "curiosity",
+    "sol": "4100",
+    "camera": "NAVCAM",
+    "camera_full_name": "Hardwick Lumber",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/NAV/4100_0003.jpg",
+    "earth_date": "2025-01-16"
+  },
+  {
+    "id": "1001108",
+    "rover": "curiosity",
+    "sol": "4101",
+    "camera": "MAST",
+    "camera_full_name": "Green Mountain Hardwoods",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/MAST/4101_0004.jpg",
+    "earth_date": "2024-04-30"
+  },
+  {
+    "id": "1001110",
+    "rover": "curiosity",
+    "sol": "4101",
+    "camera": "RHAZ",
+    "camera_full_name": "Ray Tetreault",
+    "img_src": "https://mars.nasa.gov/msl-raw-images/RHAZ/4101_0005.jpg",
+    "earth_date": "2025-10-19"
+  },
+  {
+    "id": "2001207",
+    "rover": "perseverance",
+    "sol": "1110",
+    "camera": "FRONT_HAZCAM_LEFT_A",
+    "camera_full_name": "Nancy Beaulieu",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/FLA/1110_0001.png",
+    "earth_date": "2026-05-16"
+  },
+  {
+    "id": "2001209",
+    "rover": "perseverance",
+    "sol": "1110",
+    "camera": "MCZ_RIGHT",
+    "camera_full_name": "Rev. Susan Mills",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/MCZ/1110_0002.png",
+    "earth_date": "2024-08-11"
+  },
+  {
+    "id": "2001211",
+    "rover": "perseverance",
+    "sol": "1110",
+    "camera": "NAVCAM_LEFT",
+    "camera_full_name": "Walt Perreault",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/NAV/1110_0003.png",
+    "earth_date": "2026-04-15"
+  },
+  {
+    "id": "2001213",
+    "rover": "perseverance",
+    "sol": "1111",
+    "camera": "MCZ_LEFT",
+    "camera_full_name": "Donna Sloan",
+    "img_src": "https://mars.nasa.gov/m20-raw-images/MCZ/1111_0004.png",
+    "earth_date": "2026-06-21"
+  }
+]

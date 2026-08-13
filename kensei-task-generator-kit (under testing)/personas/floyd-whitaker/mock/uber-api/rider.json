@@ -1,0 +1,16 @@
+{
+  "rider_id": "rider-floyd",
+  "first_name": "Floyd",
+  "last_name": "Whitaker",
+  "email": "floyd.whitaker@finthesiss.ai",
+  "phone_number": "+18655552750",
+  "rating": 4.88,
+  "member_since": "2019-06-22",
+  "promo_code": "RIDE5OFF",
+  "payment_methods": [
+    {"payment_method_id": "pm-visa-4417", "type": "card", "brand": "Visa", "last_four": "4417", "default": true},
+    {"payment_method_id": "pm-ubercash", "type": "uber_cash", "balance": 12.25, "default": false}
+  ],
+  "home_address": "Westmoreland Hills, Knoxville, TN",
+  "work_address": "Pellissippi Pkwy corridor, Knoxville, TN"
+}

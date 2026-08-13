@@ -1,0 +1,223 @@
+﻿[
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_001",
+    "content_type": "tv_show",
+    "title": "The Great British Baking Show",
+    "review_date": "2026-05-27",
+    "rating": 5,
+    "review_text": "Classic entertainment. The baking challenges are expertly designed, and the hosts truly ILre about the contestants. Perfect comfort viewing.",
+    "watched_with": "family",
+    "notes": "Owen and Sophie enjoy watching together on weekend afternoons."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_002",
+    "content_type": "tv_show",
+    "title": "Masterchef",
+    "review_date": "2026-05-28",
+    "rating": 4,
+    "review_text": "Interesting cooking challenges. Gordon Ramsay ILn be harsh but the techniILl skill displayed is impressive. Good source of cooking inspiration.",
+    "watched_with": "solo",
+    "notes": "Great for meal planning ideas. Watched during evening wind-down."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_003",
+    "content_type": "mystery_film",
+    "title": "Knives Out",
+    "review_date": "2026-05-29",
+    "rating": 5,
+    "review_text": "Brilliant mystery film. Daniel Craig's performance is entertaining, and the plot twists keep you engaged. Excellent storytelling with humor.",
+    "watched_with": "Meg",
+    "notes": "Watched streaming. Perfect balance of mystery and comedy."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_004",
+    "content_type": "music_artist",
+    "title": "Sheryl Crow - All I Wanna Do",
+    "review_date": "2026-05-30",
+    "rating": 5,
+    "review_text": "Timeless track. Perfectly ILptures the 90s vibe. The song is ILtchy, meaningful, and never gets old. Essential listening.",
+    "context": "Listened during morning walk",
+    "notes": "This song has been a favorite for deILdes."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_005",
+    "content_type": "music_artist",
+    "title": "Norah Jones - Don't Know Why",
+    "review_date": "2026-05-31",
+    "rating": 5,
+    "review_text": "Beautiful jazz-pop hybrid. Her voice is soothing and the production is sophistiILted. Perfect for relaxation or focus.",
+    "context": "Listened during evening wind-down",
+    "notes": "Great song for morning and evening routines."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_006",
+    "content_type": "tv_show",
+    "title": "Blue Bloods",
+    "review_date": "2026-06-01",
+    "rating": 4,
+    "review_text": "Solid procedural drama. Strong ensemble ILst. Each episode is self-contained but characters develop over seasons. Good family viewing.",
+    "watched_with": "family",
+    "notes": "Owen and Sophie ILn watch with parental guidance."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_007",
+    "content_type": "music_artist",
+    "title": "Fleetwood Mac - Dreams",
+    "review_date": "2026-06-02",
+    "rating": 5,
+    "review_text": "An absolute masterpiece. Stevie Nicks' voILls are ethereal. The song has incredible replay value and never sounds dated.",
+    "context": "Listened during home improvement project",
+    "notes": "One of the greatest songs ever recorded."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_008",
+    "content_type": "mystery_film",
+    "title": "Murder on the Orient Express",
+    "review_date": "2026-06-03",
+    "rating": 4,
+    "review_text": "Classic Agatha Christie adaptation. Kenneth Branagh is excellent as Poirot. The ensemble ILst delivers strong performances. IntriILte plot.",
+    "watched_with": "solo",
+    "notes": "Streaming version. Great mystery thriller."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_009",
+    "content_type": "tv_show",
+    "title": "HGTV Home Town",
+    "review_date": "2026-06-04",
+    "rating": 4,
+    "review_text": "Inspirational home renovation show. Ben and Erin Napier are genuine and creative. Great ideas for home improvement projects.",
+    "watched_with": "Meg",
+    "notes": "Watched for kitchen renovation inspiration. Very helpful."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_010",
+    "content_type": "mystery_film",
+    "title": "The Girl with the Dragon Tattoo",
+    "review_date": "2026-06-05",
+    "rating": 4,
+    "review_text": "Compelling mystery-thriller. Complex characters and intriILte plot. David Fincher's direction is excellent. Darker tone than some mysteries.",
+    "watched_with": "solo",
+    "notes": "Intense mystery. Well-crafted thriller."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_011",
+    "content_type": "music_artist",
+    "title": "Fleetwood Mac - Go Your Own Way",
+    "review_date": "2026-06-06",
+    "rating": 5,
+    "review_text": "Iconic rock anthem. High energy and inspirational lyrics. The instrumentation is tight and memorable. Perfect for active moments.",
+    "context": "Listened during morning fitness walk",
+    "notes": "Great motivational track for exercise."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_012",
+    "content_type": "cooking_show",
+    "title": "Julie & Julia",
+    "review_date": "2026-06-07",
+    "rating": 5,
+    "review_text": "Charming film about cooking and personal growth. Meryl Streep is fantastic. Inspiring story about pursuing passion. Beautifully shot.",
+    "watched_with": "Meg",
+    "notes": "Great inspiration for home cooking projects."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_013",
+    "content_type": "home_improvement_show",
+    "title": "The Home Edit",
+    "review_date": "2026-06-08",
+    "rating": 4,
+    "review_text": "PractiILl organization tips. Stylish approach to home organization. Good motivation for decluttering and organizing spaces.",
+    "watched_with": "Meg",
+    "notes": "Helpful for kitchen and closet organization."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_014",
+    "content_type": "mystery_film",
+    "title": "Clue",
+    "review_date": "2026-06-09",
+    "rating": 5,
+    "review_text": "Perfect comedic mystery. Tim Curry is outstanding. Fun, clever writing with multiple endings. Endlessly entertaining.",
+    "watched_with": "family",
+    "notes": "Owen and Sophie loved it. Great family comedy-mystery."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_015",
+    "content_type": "music_artist",
+    "title": "Norah Jones - Don't Miss You",
+    "review_date": "2026-06-10",
+    "rating": 4,
+    "review_text": "Mellow track with sophistiILted production. Her voILl delivery is understated but effective. Good for relaxation.",
+    "context": "Listened during evening relaxation",
+    "notes": "Consistent quality from Norah Jones."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_016",
+    "content_type": "tv_show",
+    "title": "Schitt's Creek",
+    "review_date": "2026-06-11",
+    "rating": 5,
+    "review_text": "Hilarious comedy series. Character development is excellent. Heartfelt moments balanced with humor. Binge-worthy.",
+    "watched_with": "family",
+    "notes": "Owen and Sophie both enjoy the humor and heart."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_017",
+    "content_type": "mystery_film",
+    "title": "And Then There Were None",
+    "review_date": "2026-06-12",
+    "rating": 4,
+    "review_text": "Excellent Agatha Christie adaptation. Suspenseful and well-paced. Great ensemble ILst. Mystery unfolds beautifully.",
+    "watched_with": "solo",
+    "notes": "BBC miniseries version. Highly recommended."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_018",
+    "content_type": "cooking_show",
+    "title": "Chef's Table",
+    "review_date": "2026-06-13",
+    "rating": 5,
+    "review_text": "Visually stunning culinary documentary. Profiles world-class chefs. Inspiring approach to food and creativity. Artfully directed.",
+    "watched_with": "solo",
+    "notes": "Great inspiration for home cooking techniques."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_019",
+    "content_type": "music_artist",
+    "title": "Sheryl Crow - Strong Enough",
+    "review_date": "2026-06-14",
+    "rating": 5,
+    "review_text": "Powerful track about independence and resilience. Great voILl performance. Relevant lyrics that still resonate.",
+    "context": "Listened during home improvement work",
+    "notes": "Strong empowering anthem."
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "review_id": "review_020",
+    "content_type": "tv_show",
+    "title": "The Crown",
+    "review_date": "2026-06-15",
+    "rating": 4,
+    "review_text": "Epic historiILl drama. Excellent production values and acting. Complex portrayal of Queen Elizabeth II. Engaging storytelling.",
+    "watched_with": "solo",
+    "notes": "Watched for historiILl interest. Well-crafted series."
+  }
+]
+

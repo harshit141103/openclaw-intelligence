@@ -1,0 +1,12 @@
+{
+  "id": 201,
+  "username": "floyd-whitaker-wfs",
+  "name": "Floyd Whitaker",
+  "email": "floyd.w@outlook.com",
+  "state": "active",
+  "is_admin": false,
+  "bio": "Freight broker, owner of Whitaker Freight Services in Knoxville, TN",
+  "web_url": "https://gitlab.com/floyd-whitaker-wfs",
+  "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/201/avatar.png",
+  "created_at": "2023-02-25T10:00:00.000Z"
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artist_id": "0RpddSzMBmSdb5e5q5g2N1",
+    "name": "Rodrigo y Gabriela",
+    "genres": "flamenco,acoustic,instrumental",
+    "followers": "612340",
+    "popularity": "66"
+  },
+  {
+    "artist_id": "2pCqZLeavM2BMovJXsJEIV",
+    "name": "Vicente Amigo",
+    "genres": "flamenco,nuevo flamenco,spanish guitar",
+    "followers": "148902",
+    "popularity": "55"
+  },
+  {
+    "artist_id": "4nQBcAj3M3FQZF1k3v0a0K",
+    "name": "Fleet Foxes",
+    "genres": "indie folk,folk rock",
+    "followers": "2210044",
+    "popularity": "71"
+  },
+  {
+    "artist_id": "6mdiAmATAx73kdxrNrnlao",
+    "name": "Dire Straits",
+    "genres": "classic rock,soft rock",
+    "followers": "8450112",
+    "popularity": "79"
+  }
+]

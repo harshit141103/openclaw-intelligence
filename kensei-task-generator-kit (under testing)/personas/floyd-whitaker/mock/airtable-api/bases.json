@@ -1,0 +1,102 @@
+[
+  {
+    "id": "appNW1studio0001",
+    "name": "WFS Freight Ops",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appCarrierVet001",
+    "name": "Carrier Vetting Refresh",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appLoadBoard0001",
+    "name": "WFS Load Board Tracker",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appClientCRM0001",
+    "name": "Client CRM",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appRateConfirm01",
+    "name": "Rate Confirmations",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appLaneRates0001",
+    "name": "Lane Rate Database",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appDOTComply001",
+    "name": "DOT Compliance Webinars",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appMentorship001",
+    "name": "TN Freight Mentorship",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appInvoiceLog001",
+    "name": "Invoice and AR Log",
+    "permissionLevel": "edit"
+  },
+  {
+    "id": "appCarrierDir001",
+    "name": "Carrier Directory",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appClaimsDmg001",
+    "name": "Claims and Damage Log",
+    "permissionLevel": "edit"
+  },
+  {
+    "id": "appFuelSurchg01",
+    "name": "Fuel Surcharge Schedule",
+    "permissionLevel": "read"
+  },
+  {
+    "id": "appSoftwareEvl1",
+    "name": "Freight Software Eval",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appQuotePipe001",
+    "name": "Quote Pipeline",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appBrandOnboard",
+    "name": "Brand Onboarding",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appInsuranceCrt",
+    "name": "Carrier Insurance Certs",
+    "permissionLevel": "edit"
+  },
+  {
+    "id": "appAccessorial1",
+    "name": "Accessorial Charges",
+    "permissionLevel": "read"
+  },
+  {
+    "id": "appTNFAEvents01",
+    "name": "TN Freight Assoc Events",
+    "permissionLevel": "create"
+  },
+  {
+    "id": "appQ4Forecast01",
+    "name": "Q4 2026 Revenue Forecast",
+    "permissionLevel": "edit"
+  },
+  {
+    "id": "appReferralLog1",
+    "name": "Referral Partner Log",
+    "permissionLevel": "create"
+  }
+]

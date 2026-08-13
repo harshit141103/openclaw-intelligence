@@ -1,0 +1,68 @@
+[
+  {
+    "account_id": "user-craig",
+    "display_name": "Craig Figueroa",
+    "email": "craig.figueroa@gmail.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-jonas",
+    "display_name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-helena",
+    "display_name": "Fiona Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-rohit",
+    "display_name": "Graeme Sutherland",
+    "email": "graeme.sutherland@gmail.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-noor",
+    "display_name": "Rhona Matheson",
+    "email": "rhona.matheson@apha.gov.uk",
+    "active": "true"
+  },
+  {
+    "account_id": "user-craig-7000",
+    "display_name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-craig-7001",
+    "display_name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-craig-7002",
+    "display_name": "Isabel Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-craig-7003",
+    "display_name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-craig-7004",
+    "display_name": "Iain Campbell",
+    "email": "iain.campbell@btinternet.com",
+    "active": "true"
+  },
+  {
+    "account_id": "user-craig-7005",
+    "display_name": "Jean MacKenzie",
+    "email": "jean.mackenzie@gmail.com",
+    "active": "true"
+  }
+]

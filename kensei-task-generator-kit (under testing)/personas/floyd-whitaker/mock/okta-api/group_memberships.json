@@ -1,0 +1,134 @@
+[
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u2bren"
+  },
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u3brand"
+  },
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u4travis"
+  },
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u5lorrie"
+  },
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u6dale"
+  },
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u7carla"
+  },
+  {
+    "group_id": "00g2dispatch",
+    "user_id": "00u4travis"
+  },
+  {
+    "group_id": "00g2dispatch",
+    "user_id": "00u5lorrie"
+  },
+  {
+    "group_id": "00g2dispatch",
+    "user_id": "00u3brand"
+  },
+  {
+    "group_id": "00g3finance",
+    "user_id": "00u6dale"
+  },
+  {
+    "group_id": "00g3finance",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g4admins",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g4admins",
+    "user_id": "00u2bren"
+  },
+  {
+    "group_id": "00g5google",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g5google",
+    "user_id": "00u2bren"
+  },
+  {
+    "group_id": "00g5google",
+    "user_id": "00u4travis"
+  },
+  {
+    "group_id": "00g6zoom",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g7quickbooks",
+    "user_id": "00u6dale"
+  },
+  {
+    "group_id": "00g8routepoint",
+    "user_id": "00u4travis"
+  },
+  {
+    "group_id": "00g8routepoint",
+    "user_id": "00u5lorrie"
+  },
+  {
+    "group_id": "00g9dat",
+    "user_id": "00u4travis"
+  },
+  {
+    "group_id": "00g11sales",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g11sales",
+    "user_id": "00u3brand"
+  },
+  {
+    "group_id": "00g12mentorship",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g12mentorship",
+    "user_id": "00u11keith"
+  },
+  {
+    "group_id": "00g13contractors",
+    "user_id": "00u12marcus"
+  },
+  {
+    "group_id": "00g14payroll",
+    "user_id": "00u6dale"
+  },
+  {
+    "group_id": "00g16compliance",
+    "user_id": "00u1floyd"
+  },
+  {
+    "group_id": "00g19pagerduty",
+    "user_id": "00u2bren"
+  },
+  {
+    "group_id": "00g19pagerduty",
+    "user_id": "00u12marcus"
+  },
+  {
+    "group_id": "00g20managers",
+    "user_id": "00u2bren"
+  },
+  {
+    "group_id": "00g1everyone",
+    "user_id": "00u11keith"
+  }
+]

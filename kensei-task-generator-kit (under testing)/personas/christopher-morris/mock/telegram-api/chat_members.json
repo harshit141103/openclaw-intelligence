@@ -1,0 +1,257 @@
+[
+  {
+    "chat_id": "-200500",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-200500",
+    "user_id": "9002",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-200500",
+    "user_id": "9006",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-200500",
+    "user_id": "9007",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200500",
+    "user_id": "9008",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200500",
+    "user_id": "9009",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200500",
+    "user_id": "7654321098",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-200501",
+    "user_id": "9001",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200501",
+    "user_id": "9002",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-200501",
+    "user_id": "9006",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200501",
+    "user_id": "9007",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200501",
+    "user_id": "9008",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200501",
+    "user_id": "9009",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200501",
+    "user_id": "7654321098",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-200502",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-200502",
+    "user_id": "9006",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-200502",
+    "user_id": "9007",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200502",
+    "user_id": "9008",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200502",
+    "user_id": "9010",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200503",
+    "user_id": "9001",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200503",
+    "user_id": "9006",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200503",
+    "user_id": "9008",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200503",
+    "user_id": "9009",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200504",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "-200504",
+    "user_id": "9002",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200504",
+    "user_id": "9003",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200504",
+    "user_id": "9004",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200504",
+    "user_id": "9005",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200505",
+    "user_id": "9001",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200505",
+    "user_id": "7654321098",
+    "status": "administrator"
+  },
+  {
+    "chat_id": "-200506",
+    "user_id": "9001",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200506",
+    "user_id": "9006",
+    "status": "member"
+  },
+  {
+    "chat_id": "-200506",
+    "user_id": "9007",
+    "status": "member"
+  },
+  {
+    "chat_id": "1001",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1001",
+    "user_id": "9002",
+    "status": "member"
+  },
+  {
+    "chat_id": "1002",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1002",
+    "user_id": "9003",
+    "status": "member"
+  },
+  {
+    "chat_id": "1003",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1003",
+    "user_id": "9004",
+    "status": "member"
+  },
+  {
+    "chat_id": "1004",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1004",
+    "user_id": "9005",
+    "status": "member"
+  },
+  {
+    "chat_id": "1005",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1005",
+    "user_id": "9006",
+    "status": "member"
+  },
+  {
+    "chat_id": "1006",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1006",
+    "user_id": "9007",
+    "status": "member"
+  },
+  {
+    "chat_id": "1007",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1007",
+    "user_id": "9008",
+    "status": "member"
+  },
+  {
+    "chat_id": "1008",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1008",
+    "user_id": "9009",
+    "status": "member"
+  },
+  {
+    "chat_id": "1009",
+    "user_id": "9001",
+    "status": "creator"
+  },
+  {
+    "chat_id": "1009",
+    "user_id": "9010",
+    "status": "member"
+  }
+]

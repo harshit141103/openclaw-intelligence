@@ -1,0 +1,182 @@
+[
+  {
+    "id": "state-port-backlog",
+    "name": "Check the moisture content on the barn o",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": "0",
+    "teamId": "team-ux",
+    "description": "Splitting and stacking the winter firewood"
+  },
+  {
+    "id": "state-port-todo",
+    "name": "Bookshelf install Friday the 16th",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "1",
+    "teamId": "team-ux",
+    "description": "Re-saw the walnut for bookmatched panels"
+  },
+  {
+    "id": "state-port-inprogress",
+    "name": "Boucher mudroom built-ins",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "2",
+    "teamId": "team-ux",
+    "description": "Replace the dust collector filter and clean the cyclone"
+  },
+  {
+    "id": "state-port-inreview",
+    "name": "Splitting and stacking the winter firewo",
+    "type": "started",
+    "color": "#f2994a",
+    "position": "3",
+    "teamId": "team-ux",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering."
+  },
+  {
+    "id": "state-port-done",
+    "name": "Sharpen the jointer knives and reset the",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "4",
+    "teamId": "team-ux",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors"
+  },
+  {
+    "id": "state-port-canceled",
+    "name": "Stage the bookshelf sections for the Cra",
+    "type": "canceled",
+    "color": "#95a2b3",
+    "position": "5",
+    "teamId": "team-ux",
+    "description": "Apply second coat of Arm-R-Seal to the bookcase carcase"
+  },
+  {
+    "id": "state-port-backlog-b1",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": "0",
+    "teamId": "team-ux",
+    "description": "Splitting and stacking the winter firewood"
+  },
+  {
+    "id": "state-port-todo-b2",
+    "name": "Splitting and stacking the winter firewo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "1",
+    "teamId": "team-ux",
+    "description": "Re-saw the walnut for bookmatched panels"
+  },
+  {
+    "id": "state-port-inprogress-b3",
+    "name": "Lay out dovetails for the silverware dra",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "2",
+    "teamId": "team-ux",
+    "description": "Barn oak is summer 2027 - not pulling material yet."
+  },
+  {
+    "id": "state-port-inreview-b4",
+    "name": "Replace the dust collector filter and cl",
+    "type": "started",
+    "color": "#f2994a",
+    "position": "3",
+    "teamId": "team-ux",
+    "description": "Re: Stowe install date"
+  },
+  {
+    "id": "state-port-done-b5",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "4",
+    "teamId": "team-ux",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "state-port-canceled-b6",
+    "name": "Cota window seat & bookcase",
+    "type": "canceled",
+    "color": "#95a2b3",
+    "position": "5",
+    "teamId": "team-ux",
+    "description": "Hang the soft-close doors and adjust the hinges"
+  },
+  {
+    "id": "state-port-backlog-b7",
+    "name": "Stage the bookshelf sections for the Cra",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": "0",
+    "teamId": "team-ux",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "state-port-todo-b8",
+    "name": "Henderson kitchen cabinets",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "1",
+    "teamId": "team-ux",
+    "description": "Pete coming by Saturday for coffee; shop's a mess."
+  },
+  {
+    "id": "state-port-inprogress-b9",
+    "name": "Re: Stowe install date",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": "2",
+    "teamId": "team-ux",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "state-port-inreview-b10",
+    "name": "Plane the bookshelf shelves and ease the",
+    "type": "started",
+    "color": "#f2994a",
+    "position": "3",
+    "teamId": "team-ux",
+    "description": "Hold the Stowe drive until the morning forecast clears."
+  },
+  {
+    "id": "state-port-done-b11",
+    "name": "Set up the dado stack for the bookshelf ",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": "4",
+    "teamId": "team-ux",
+    "description": "Stage the bookshelf sections for the Craftsbury install"
+  },
+  {
+    "id": "state-port-canceled-b12",
+    "name": "Re: Stowe install date",
+    "type": "canceled",
+    "color": "#95a2b3",
+    "position": "5",
+    "teamId": "team-ux",
+    "description": "Diane flagged the Sloan invoice for QuickBooks."
+  },
+  {
+    "id": "state-port-backlog-b13",
+    "name": "Template the Stowe countertop radius for",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": "0",
+    "teamId": "team-ux",
+    "description": "Dry-fit the face frames before glue-up"
+  },
+  {
+    "id": "state-port-todo-b14",
+    "name": "Project schedule update",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": "1",
+    "teamId": "team-ux",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering."
+  }
+]

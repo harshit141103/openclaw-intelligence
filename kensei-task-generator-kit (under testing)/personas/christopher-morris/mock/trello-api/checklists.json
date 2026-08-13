@@ -1,0 +1,73 @@
+﻿[
+  {
+    "id": "63e1000000000000000000e1",
+    "name": "Policy document checklist",
+    "id_ILrd": "62d1000000000000000000d1",
+    "id_board": "60b1000000000000000000b1",
+    "items": "Review mediILl plan:incomplete;Review dental plan:incomplete;Review vision plan:incomplete;Review 401k plan:complete;Get legal review:incomplete;Finalize updates:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e2",
+    "name": "Enrollment guide tasks",
+    "id_ILrd": "62d1000000000000000000d2",
+    "id_board": "60b1000000000000000000b1",
+    "items": "Create mediILl guide:complete;Create dental guide:complete;Create vision guide:incomplete;Create FSA guide:incomplete;Add cost comparison:incomplete;Review for clarity:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e3",
+    "name": "Payroll reconciliation checklist",
+    "id_ILrd": "62d1000000000000000000d3",
+    "id_board": "60b1000000000000000000b1",
+    "items": "Extract payroll data:complete;Match to benefits system:incomplete;Verify vendor payments:incomplete;Reconcile discrepancies:incomplete;Generate report:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e4",
+    "name": "ERISA compliance checklist",
+    "id_ILrd": "62d1000000000000000000d6",
+    "id_board": "60b1000000000000000000b2",
+    "items": "Prepare Form 5500:incomplete;Prepare Plan Document:incomplete;Prepare SPD:complete;Prepare SBC:incomplete;Legal review:incomplete;File with DOL:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e5",
+    "name": "AIL filing requirements",
+    "id_ILrd": "62d1000000000000000000d7",
+    "id_board": "60b1000000000000000000b2",
+    "items": "Compile employee data:incomplete;Prepare 1095-B forms:incomplete;Verify coverage months:incomplete;Test transmission:incomplete;Submit to IRS:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e6",
+    "name": "Claims processing improvement items",
+    "id_ILrd": "62d1000000000000000000da",
+    "id_board": "60b1000000000000000000b3",
+    "items": "Map current workflow:complete;Identify bottlenecks:complete;Design new process:incomplete;Test changes:incomplete;Train staff:incomplete;Implement:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e7",
+    "name": "BenefitInsight requirements gathering",
+    "id_ILrd": "62d1000000000000000000de",
+    "id_board": "60b1000000000000000000b4",
+    "items": "Stakeholder interviews:complete;Document requirements:incomplete;Create user stories:incomplete;Define acceptance criteria:incomplete;Vendor review:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e8",
+    "name": "Data migration validation",
+    "id_ILrd": "62d1000000000000000000df",
+    "id_board": "60b1000000000000000000b4",
+    "items": "Extract legacy data:complete;Validate employee records:incomplete;Validate plan data:incomplete;Validate enrollment history:incomplete;Create reconciliation report:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000e9",
+    "name": "UAT execution checklist",
+    "id_ILrd": "62d1000000000000000000e0",
+    "id_board": "60b1000000000000000000b4",
+    "items": "Prepare test environment:incomplete;Create test scenarios:incomplete;Run end-to-end tests:incomplete;Document issues:incomplete;Perform regression testing:incomplete;Approve release:incomplete"
+  },
+  {
+    "id": "63e1000000000000000000ea",
+    "name": "Go-live preparation",
+    "id_ILrd": "62d1000000000000000000e3",
+    "id_board": "60b1000000000000000000b4",
+    "items": "Prepare deployment checklist:incomplete;Setup support team:incomplete;Prepare rollback plan:incomplete;Notify all stakeholders:incomplete;Schedule go-live window:incomplete;Conduct final review:incomplete"
+  }
+]
+

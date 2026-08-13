@@ -1,0 +1,202 @@
+[
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Brokerage Commission Income",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from freight brokerage margin",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "260",
+    "name": "Consulting Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Logistics consulting and mentorship income",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "400",
+    "name": "Advertising",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Expenses incurred for advertising",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "404",
+    "name": "Bank Fees",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Fees charged by your bank",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "090",
+    "name": "First Tennessee Valley Operating Account",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Primary operating bank account",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "610",
+    "name": "Accounts Receivable",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding invoices owed to the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "800",
+    "name": "Accounts Payable",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding carrier payments owed",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "477",
+    "name": "Wages and Salaries",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Payment to employees for services",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000009-0000-0000-0000-000000000009",
+    "code": "310",
+    "name": "Carrier Freight Costs",
+    "type": "DIRECTCOSTS",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Amounts paid to carriers to move freight",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000010-0000-0000-0000-000000000010",
+    "code": "412",
+    "name": "Factoring Fees",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Fees paid to invoice factoring providers",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000011-0000-0000-0000-000000000011",
+    "code": "420",
+    "name": "Software Subscriptions",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "TMS, load board, and SaaS subscriptions",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000012-0000-0000-0000-000000000012",
+    "code": "425",
+    "name": "Load Board Fees",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Subscriptions to freight load boards",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000013-0000-0000-0000-000000000013",
+    "code": "430",
+    "name": "Broker Bond and Insurance",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "FMCSA broker bond and contingent cargo insurance",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000014-0000-0000-0000-000000000014",
+    "code": "445",
+    "name": "Office Rent",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Rent for the Pellissippi Parkway office",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000015-0000-0000-0000-000000000015",
+    "code": "449",
+    "name": "Telephone and Internet",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Office phone, mobile, and internet service",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000016-0000-0000-0000-000000000016",
+    "code": "453",
+    "name": "Professional Fees",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Accounting and legal fees",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000017-0000-0000-0000-000000000017",
+    "code": "461",
+    "name": "Travel and Conferences",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "TN Freight Association events and travel",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000018-0000-0000-0000-000000000018",
+    "code": "091",
+    "name": "First Tennessee Valley Savings Account",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Business savings and reserve account",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000019-0000-0000-0000-000000000019",
+    "code": "820",
+    "name": "Sales Tax Payable",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Tennessee sales tax collected and owed",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000020-0000-0000-0000-000000000020",
+    "code": "480",
+    "name": "Owner Distributions",
+    "type": "EQUITY",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Distributions paid to Floyd Whitaker",
+    "enable_payments_to_account": "false"
+  }
+]

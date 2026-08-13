@@ -1,0 +1,29 @@
+{
+  "location_id": "loc_whitaker_001",
+  "name": "Whitaker Home",
+  "address": {
+    "street1": "1142 Westland Oaks Dr",
+    "street2": "",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37922",
+    "country": "US"
+  },
+  "latitude": 35.9312,
+  "longitude": -84.0488,
+  "time_zone": "America/New_York",
+  "mode": "home",
+  "owner": {
+    "id": 100001,
+    "first_name": "Floyd",
+    "last_name": "Whitaker",
+    "email": "floyd.w@outlook.com"
+  },
+  "subscription": {
+    "plan": "protect_plus",
+    "status": "active",
+    "video_history_days": 180
+  },
+  "created_at": "2022-06-15T10:00:00.000Z",
+  "updated_at": "2026-05-28T08:00:00.000Z"
+}

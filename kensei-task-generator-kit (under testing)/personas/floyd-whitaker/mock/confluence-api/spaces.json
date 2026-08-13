@@ -1,0 +1,162 @@
+[
+  {
+    "id": "98001",
+    "key": "OPS",
+    "name": "Operations",
+    "type": "global",
+    "status": "current",
+    "description": "WFS operations space for carrier vetting SOPs and dispatch runbooks"
+  },
+  {
+    "id": "98002",
+    "key": "CMP",
+    "name": "Compliance",
+    "type": "global",
+    "status": "current",
+    "description": "DOT compliance notes broker authority and mentorship program docs"
+  },
+  {
+    "id": "98003",
+    "key": "DISP",
+    "name": "Dispatch",
+    "type": "global",
+    "status": "current",
+    "description": "Day to day dispatch playbooks rate cons tracking and BOL handoff"
+  },
+  {
+    "id": "98004",
+    "key": "CLNT",
+    "name": "Clients",
+    "type": "global",
+    "status": "current",
+    "description": "Shipper account profiles lane history and onboarding records"
+  },
+  {
+    "id": "98005",
+    "key": "CARR",
+    "name": "Carriers",
+    "type": "global",
+    "status": "current",
+    "description": "Preferred carrier roster insurance certs and lane coverage"
+  },
+  {
+    "id": "98006",
+    "key": "BILL",
+    "name": "Billing",
+    "type": "global",
+    "status": "current",
+    "description": "Invoicing collections and net 30 terms managed by bookkeeping"
+  },
+  {
+    "id": "98007",
+    "key": "MENT",
+    "name": "Mentorship",
+    "type": "global",
+    "status": "current",
+    "description": "TN Freight Mentorship Program curriculum and cohort notes with Keith Burgess"
+  },
+  {
+    "id": "98008",
+    "key": "TMS",
+    "name": "TMS Evaluation",
+    "type": "global",
+    "status": "current",
+    "description": "FreightFlow Pro versus RoutePoint Logistics Suite demo and pricing notes"
+  },
+  {
+    "id": "98009",
+    "key": "HR",
+    "name": "Team and HR",
+    "type": "global",
+    "status": "current",
+    "description": "Staff onboarding PTO and the Brand Whitaker associate plan"
+  },
+  {
+    "id": "98010",
+    "key": "SAFE",
+    "name": "Safety",
+    "type": "global",
+    "status": "current",
+    "description": "Carrier safety ratings out of service alerts and securement notes"
+  },
+  {
+    "id": "98011",
+    "key": "MKTG",
+    "name": "Marketing",
+    "type": "global",
+    "status": "current",
+    "description": "whitakerfreight.com content blog posts and TN Freight Association outreach"
+  },
+  {
+    "id": "98012",
+    "key": "FIN",
+    "name": "Finance",
+    "type": "global",
+    "status": "current",
+    "description": "Monthly reports distributions and the Wayne Prater review prep"
+  },
+  {
+    "id": "98013",
+    "key": "BBQ",
+    "name": "BBQ and Cookouts",
+    "type": "global",
+    "status": "current",
+    "description": "Floyd rub recipes smoker notes and the annual fall cookout planning"
+  },
+  {
+    "id": "98014",
+    "key": "LANE",
+    "name": "Lane Notes",
+    "type": "global",
+    "status": "current",
+    "description": "Corridor pricing and capacity notes for SE and Midwest lanes"
+  },
+  {
+    "id": "98015",
+    "key": "CLAIM",
+    "name": "Claims",
+    "type": "global",
+    "status": "current",
+    "description": "Freight claim handling cargo damage and OS&D resolution steps"
+  },
+  {
+    "id": "98016",
+    "key": "VEND",
+    "name": "Vendors",
+    "type": "global",
+    "status": "current",
+    "description": "Software and service vendor contacts Carrier411 DocuSign and the bond agent"
+  },
+  {
+    "id": "98017",
+    "key": "AUTO",
+    "name": "Automotive Parts",
+    "type": "global",
+    "status": "current",
+    "description": "Cumberland Auto Parts and Tri-State Manufacturing account playbooks"
+  },
+  {
+    "id": "98018",
+    "key": "AG",
+    "name": "Agriculture",
+    "type": "global",
+    "status": "current",
+    "description": "Valley Grain Cooperative and Appalachian Ag Producers seasonal lane notes"
+  },
+  {
+    "id": "98019",
+    "key": "BLD",
+    "name": "Building Materials",
+    "type": "global",
+    "status": "current",
+    "description": "Smoky Mountain Building Supply flatbed tarping and permit notes"
+  },
+  {
+    "id": "98020",
+    "key": "ASSOC",
+    "name": "TN Freight Association",
+    "type": "global",
+    "status": "current",
+    "description": "Board notes conference planning and the autumn association events"
+  }
+]

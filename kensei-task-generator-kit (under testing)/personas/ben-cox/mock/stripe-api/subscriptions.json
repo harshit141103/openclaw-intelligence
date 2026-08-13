@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sub_cox",
+    "customer": "cus_Nb1cox",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1778756400",
+    "current_period_end": "1755318600",
+    "cancel_at_period_end": "2025-10-31T14:15:00Z",
+    "created": "1789115400"
+  },
+  {
+    "id": "sub_Helix",
+    "customer": "cus_Nb2Helix",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1753428600",
+    "current_period_end": "1746441900",
+    "cancel_at_period_end": "2025-08-29T09:15:00Z",
+    "created": "1775180700"
+  },
+  {
+    "id": "sub_Lumen",
+    "customer": "cus_Nb3Lumen",
+    "price": "price_Pro_M",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1779621300",
+    "current_period_end": "1752112800",
+    "cancel_at_period_end": "2026-09-14T12:00:00Z",
+    "created": "1736249400"
+  },
+  {
+    "id": "sub_Quanta",
+    "customer": "cus_Nb6Quanta",
+    "price": "price_Pro_Y",
+    "status": "active",
+    "quantity": "3",
+    "current_period_start": "1711589400",
+    "current_period_end": "1759283100",
+    "cancel_at_period_end": "2024-07-01T06:30:00Z",
+    "created": "1785667500"
+  },
+  {
+    "id": "sub_Verdant",
+    "customer": "cus_Nb5Verdant",
+    "price": "price_Pro_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1767876300",
+    "current_period_end": "1788428700",
+    "cancel_at_period_end": "2024-08-07T14:45:00Z",
+    "created": "1740378600"
+  },
+  {
+    "id": "sub_Pelagic",
+    "customer": "cus_Nb4Pelagic",
+    "price": "price_Starter_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1691210700",
+    "current_period_end": "1752394500",
+    "cancel_at_period_end": "2024-08-09T11:15:00Z",
+    "created": "1788868800"
+  },
+  {
+    "id": "sub_cox-b1",
+    "customer": "cus_Nb1cox",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1779522300",
+    "current_period_end": "1783246500",
+    "cancel_at_period_end": "2025-05-05T13:45:00Z",
+    "created": "1758791700"
+  },
+  {
+    "id": "sub_Helix-b2",
+    "customer": "cus_Nb2Helix",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1785112200",
+    "current_period_end": "1785034800",
+    "cancel_at_period_end": "2026-08-06T17:00:00Z",
+    "created": "1714217400"
+  },
+  {
+    "id": "sub_Lumen-b3",
+    "customer": "cus_Nb3Lumen",
+    "price": "price_Pro_M",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1765675800",
+    "current_period_end": "1737275400",
+    "cancel_at_period_end": "2025-08-01T07:00:00Z",
+    "created": "1777986000"
+  },
+  {
+    "id": "sub_Quanta-b4",
+    "customer": "cus_Nb6Quanta",
+    "price": "price_Pro_Y",
+    "status": "active",
+    "quantity": "3",
+    "current_period_start": "1769668200",
+    "current_period_end": "1749880800",
+    "cancel_at_period_end": "2025-05-08T11:45:00Z",
+    "created": "1723547700"
+  },
+  {
+    "id": "sub_Verdant-b5",
+    "customer": "cus_Nb5Verdant",
+    "price": "price_Pro_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1772972100",
+    "current_period_end": "1748059200",
+    "cancel_at_period_end": "2023-09-03T10:45:00Z",
+    "created": "1770279300"
+  },
+  {
+    "id": "sub_Pelagic-b6",
+    "customer": "cus_Nb4Pelagic",
+    "price": "price_Starter_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1742713200",
+    "current_period_end": "1790388900",
+    "cancel_at_period_end": "2026-02-05T10:30:00Z",
+    "created": "1729046700"
+  },
+  {
+    "id": "sub_cox-b7",
+    "customer": "cus_Nb1cox",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1728954900",
+    "current_period_end": "1732189500",
+    "cancel_at_period_end": "2023-08-10T17:45:00Z",
+    "created": "1772716500"
+  },
+  {
+    "id": "sub_Helix-b8",
+    "customer": "cus_Nb2Helix",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1750822200",
+    "current_period_end": "1763343000",
+    "cancel_at_period_end": "2025-06-28T08:45:00Z",
+    "created": "1699848000"
+  },
+  {
+    "id": "sub_Lumen-b9",
+    "customer": "cus_Nb3Lumen",
+    "price": "price_Pro_M",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1770624000",
+    "current_period_end": "1779614100",
+    "cancel_at_period_end": "2025-08-12T07:30:00Z",
+    "created": "1744450200"
+  },
+  {
+    "id": "sub_Quanta-b10",
+    "customer": "cus_Nb6Quanta",
+    "price": "price_Pro_Y",
+    "status": "active",
+    "quantity": "3",
+    "current_period_start": "1746342000",
+    "current_period_end": "1773628200",
+    "cancel_at_period_end": "2026-09-13T08:00:00Z",
+    "created": "1762411500"
+  },
+  {
+    "id": "sub_Verdant-b11",
+    "customer": "cus_Nb5Verdant",
+    "price": "price_Pro_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1765544400",
+    "current_period_end": "1761699600",
+    "cancel_at_period_end": "2024-10-14T07:00:00Z",
+    "created": "1785492900"
+  },
+  {
+    "id": "sub_Pelagic-b12",
+    "customer": "cus_Nb4Pelagic",
+    "price": "price_Starter_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1782954000",
+    "current_period_end": "1767324600",
+    "cancel_at_period_end": "2026-06-15T17:30:00Z",
+    "created": "1711935000"
+  },
+  {
+    "id": "sub_cox-b13",
+    "customer": "cus_Nb1cox",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1764660600",
+    "current_period_end": "1775099700",
+    "cancel_at_period_end": "2026-06-19T16:45:00Z",
+    "created": "1764934200"
+  },
+  {
+    "id": "sub_Helix-b14",
+    "customer": "cus_Nb2Helix",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1726281900",
+    "current_period_end": "1787017500",
+    "cancel_at_period_end": "2025-06-08T06:45:00Z",
+    "created": "1729050300"
+  }
+]

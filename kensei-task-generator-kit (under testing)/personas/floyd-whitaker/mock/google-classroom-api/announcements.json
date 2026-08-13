@@ -1,0 +1,202 @@
+[
+  {
+    "courseId": "cohort-2026-autumn",
+    "id": "ann_001",
+    "text": "Welcome to the Autumn 2026 cohort. Glad to have you. Read the syllabus in Materials and fill out the intro form by Friday. Keith and I are looking forward to working with every one of you.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-08-28T09:00:00Z",
+    "updateTime": "2026-08-28T09:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2026-autumn/p/ann_001"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "id": "ann_002",
+    "text": "Reminder: the FMCSA authority research assignment is due next Monday. Use the SAFER lookup guide in Materials. Pick a real carrier, it makes the lesson stick.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-09-04T08:00:00Z",
+    "updateTime": "2026-09-04T08:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2026-autumn/p/ann_002"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "id": "ann_003",
+    "text": "Carrier vetting week starts Monday. We will spend time on insurance certs and authority because that is where brokers get burned. Bring questions.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-09-08T08:00:00Z",
+    "updateTime": "2026-09-08T08:00:00Z",
+    "creatorUserId": "teacher_002",
+    "alternateLink": "https://classroom.google.com/c/cohort-2026-autumn/p/ann_003"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "id": "ann_004",
+    "text": "Next week we shadow dispatch at the WFS office. Travis and Lorrie will have you on live loads. Wear something you can sit a desk in and bring a notepad.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-09-18T08:00:00Z",
+    "updateTime": "2026-09-18T08:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2026-autumn/p/ann_004"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "id": "ann_005",
+    "text": "Good work on the rate role-plays. A few of you left money on the table being too quick to agree. We will go over holding your number in class Thursday.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-09-25T08:00:00Z",
+    "updateTime": "2026-09-25T08:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2026-autumn/p/ann_005"
+  },
+  {
+    "courseId": "cohort-2025",
+    "id": "ann_006",
+    "text": "Welcome to the 2025 cohort. We run twelve weeks and finish with a live load capstone. Keith and I put a lot into this, so show up ready to learn.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-08-29T09:00:00Z",
+    "updateTime": "2025-08-29T09:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2025/p/ann_006"
+  },
+  {
+    "courseId": "cohort-2025",
+    "id": "ann_007",
+    "text": "Lane rate worksheets are due Tuesday. Don't forget fuel surcharge, it changes the whole picture on a long haul.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-09-16T08:00:00Z",
+    "updateTime": "2025-09-16T08:00:00Z",
+    "creatorUserId": "teacher_002",
+    "alternateLink": "https://classroom.google.com/c/cohort-2025/p/ann_007"
+  },
+  {
+    "courseId": "cohort-2025",
+    "id": "ann_008",
+    "text": "Capstone week. Each of you will help cover a real load start to finish. This is the part that turns book learning into a broker. Proud of how far you've come.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-11-14T08:00:00Z",
+    "updateTime": "2025-11-14T08:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2025/p/ann_008"
+  },
+  {
+    "courseId": "cohort-2025",
+    "id": "ann_009",
+    "text": "Cohort wrapped up strong. A couple of you already have offers. Marcus and Crystal, keep me posted. Doors stay open at WFS for good people.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-12-12T16:00:00Z",
+    "updateTime": "2025-12-12T16:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2025/p/ann_009"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "id": "ann_010",
+    "text": "Welcome aboard. This workspace has everything you need to get rolling at WFS. Start with the SOPs and the TMS quick start. Ask Bren or me anytime.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-09-03T09:00:00Z",
+    "updateTime": "2025-09-03T09:00:00Z",
+    "creatorUserId": "teacher_003",
+    "alternateLink": "https://classroom.google.com/c/onboarding-2026/p/ann_010"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "id": "ann_011",
+    "text": "Brand, finish the TMS practice entry this week so we can get you on live loads. You're picking it up fast.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-09-12T09:00:00Z",
+    "updateTime": "2025-09-12T09:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/onboarding-2026/p/ann_011"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "id": "ann_012",
+    "text": "Customer email templates are posted. Use plain words and always confirm pickup and delivery times in writing. That habit saves a lot of headaches.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-09-24T09:00:00Z",
+    "updateTime": "2025-09-24T09:00:00Z",
+    "creatorUserId": "teacher_003",
+    "alternateLink": "https://classroom.google.com/c/onboarding-2026/p/ann_012"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "id": "ann_013",
+    "text": "Q1 broker bond renewal is done and documented. Everybody confirm your authority paperwork is current too. This is the boring stuff that keeps us in business.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-01-15T09:00:00Z",
+    "updateTime": "2026-01-15T09:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/dot-compliance-2026/p/ann_013"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "id": "ann_014",
+    "text": "Q2 webinar on carrier safety ratings is posted in Materials. If a carrier shows conditional, we slow down and dig in before we hand them a load.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-04-10T09:00:00Z",
+    "updateTime": "2026-04-10T09:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/dot-compliance-2026/p/ann_014"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "id": "ann_015",
+    "text": "Q3 module on hours of service is live. Carriers, this one is for you too. Knowing the 14-hour window keeps everybody legal and safe out there.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-06-01T09:00:00Z",
+    "updateTime": "2026-06-01T09:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/dot-compliance-2026/p/ann_015"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "id": "ann_016",
+    "text": "Our next DOT compliance webinar is October 23. I'll be presenting the carrier vetting section. Mark your calendars and bring your audit questions.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-06-02T09:00:00Z",
+    "updateTime": "2026-06-02T09:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/dot-compliance-2026/p/ann_016"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "id": "ann_017",
+    "text": "Claims handling guide is posted in Materials. Most claims come down to good paperwork and quick photos. Read it before Thursday's class.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-10-02T08:00:00Z",
+    "updateTime": "2026-10-02T08:00:00Z",
+    "creatorUserId": "teacher_002",
+    "alternateLink": "https://classroom.google.com/c/cohort-2026-autumn/p/ann_017"
+  },
+  {
+    "courseId": "cohort-2026-autumn",
+    "id": "ann_018",
+    "text": "Capstone week is here. Each of you gets a real load to cover start to finish with Travis or Lorrie alongside. This is what it all builds to. Show up sharp.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-10-09T08:00:00Z",
+    "updateTime": "2026-10-09T08:00:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/cohort-2026-autumn/p/ann_018"
+  },
+  {
+    "courseId": "onboarding-2026",
+    "id": "ann_019",
+    "text": "Carla, the carrier packet template is in Materials. When you set up a new carrier, make sure the insurance cert lists WFS as certificate holder. Small thing, big deal.",
+    "state": "PUBLISHED",
+    "creationTime": "2025-10-08T09:00:00Z",
+    "updateTime": "2025-10-08T09:00:00Z",
+    "creatorUserId": "teacher_003",
+    "alternateLink": "https://classroom.google.com/c/onboarding-2026/p/ann_019"
+  },
+  {
+    "courseId": "dot-compliance-2026",
+    "id": "ann_020",
+    "text": "Q4 recordkeeping module is up. Every load file needs the rate con, BOL, POD, and carrier packet. If it isn't in the file, it didn't happen as far as an auditor cares.",
+    "state": "PUBLISHED",
+    "creationTime": "2026-06-02T09:30:00Z",
+    "updateTime": "2026-06-02T09:30:00Z",
+    "creatorUserId": "teacher_001",
+    "alternateLink": "https://classroom.google.com/c/dot-compliance-2026/p/ann_020"
+  }
+]

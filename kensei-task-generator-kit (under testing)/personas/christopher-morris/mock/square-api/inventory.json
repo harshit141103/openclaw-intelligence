@@ -1,0 +1,153 @@
+﻿[
+  {
+    "ILtalog_object_id": "VAR_GROCERIES_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_FUEL_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_DINNER_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_WATER_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_GYM_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_INS_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_COPAY_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_MED_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_PRODUCE_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_DAIRY_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_PANTRY_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_OFFICE_R",
+    "loILtion_id": "LOC_WORK",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_CONF_R",
+    "loILtion_id": "LOC_WORK",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_REPAIR_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_HOUSEHOLD_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_APP_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_RETAIL_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_MOVIE_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_STREAM_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_FURN_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_COFFEE_R",
+    "loILtion_id": "LOC_WORK",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_PASTRY_R",
+    "loILtion_id": "LOC_WORK",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_CLOTHING_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "9999",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_PAY_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  },
+  {
+    "ILtalog_object_id": "VAR_INVEST_R",
+    "loILtion_id": "LOC_MAIN",
+    "quantity": "1",
+    "state": "IN_STOCK"
+  }
+]
+

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "abc-123-def",
+    "title": "Website Overview",
+    "description": "whitakerfreight.com health and uptime",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "6",
+    "is_read_only": "false",
+    "created": "2025-11-01T10:00:00+00:00",
+    "modified": "2026-06-09T09:00:00+00:00"
+  },
+  {
+    "id": "ghi-456-jkl",
+    "title": "Mail Server",
+    "description": "Outbound mail queue and delivery for the WFS mail host",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "4",
+    "is_read_only": "false",
+    "created": "2025-11-10T10:00:00+00:00",
+    "modified": "2026-06-08T15:00:00+00:00"
+  },
+  {
+    "id": "mno-789-pqr",
+    "title": "Infra Hosts",
+    "description": "CPU memory and disk across the WFS hosts",
+    "layout_type": "free",
+    "author": "floyd-whitaker",
+    "widget_count": "9",
+    "is_read_only": "true",
+    "created": "2025-12-01T10:00:00+00:00",
+    "modified": "2026-06-07T12:00:00+00:00"
+  },
+  {
+    "id": "stu-012-vwx",
+    "title": "Database Health",
+    "description": "MySQL queries connections and disk on the WFS database hosts",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "7",
+    "is_read_only": "false",
+    "created": "2025-12-10T10:00:00+00:00",
+    "modified": "2026-06-08T11:00:00+00:00"
+  },
+  {
+    "id": "yz0-345-abc",
+    "title": "Cache and Queue",
+    "description": "Redis and RabbitMQ throughput and memory",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "5",
+    "is_read_only": "false",
+    "created": "2025-12-15T10:00:00+00:00",
+    "modified": "2026-06-06T09:00:00+00:00"
+  },
+  {
+    "id": "def-678-ghi",
+    "title": "Load Balancer",
+    "description": "HAProxy sessions and backend health for wfs-lb-01",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "4",
+    "is_read_only": "false",
+    "created": "2026-01-05T10:00:00+00:00",
+    "modified": "2026-06-09T08:00:00+00:00"
+  },
+  {
+    "id": "jkl-901-mno",
+    "title": "Web Traffic",
+    "description": "Nginx request rate and connections for whitakerfreight.com",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "6",
+    "is_read_only": "false",
+    "created": "2026-01-12T10:00:00+00:00",
+    "modified": "2026-06-09T07:00:00+00:00"
+  },
+  {
+    "id": "pqr-234-stu",
+    "title": "Backups",
+    "description": "Restic nightly and offsite backup status across hosts",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "3",
+    "is_read_only": "true",
+    "created": "2026-01-20T10:00:00+00:00",
+    "modified": "2026-06-08T06:00:00+00:00"
+  },
+  {
+    "id": "vwx-567-yz0",
+    "title": "TLS and Certificates",
+    "description": "Certificate expiration tracking for whitakerfreight.com",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "2",
+    "is_read_only": "true",
+    "created": "2026-02-01T10:00:00+00:00",
+    "modified": "2026-06-04T09:00:00+00:00"
+  },
+  {
+    "id": "abc-890-def",
+    "title": "DNS Health",
+    "description": "Resolution latency and query volume for wfs-dns-01",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "3",
+    "is_read_only": "false",
+    "created": "2026-02-08T10:00:00+00:00",
+    "modified": "2026-06-09T06:30:00+00:00"
+  },
+  {
+    "id": "ghi-123-jkl",
+    "title": "Search Cluster",
+    "description": "Elasticsearch query time and cluster health for wfs-search-01",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "4",
+    "is_read_only": "false",
+    "created": "2026-02-15T10:00:00+00:00",
+    "modified": "2026-06-07T16:00:00+00:00"
+  },
+  {
+    "id": "mno-456-pqr",
+    "title": "API Service",
+    "description": "Request latency hits and errors for the WFS API host",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "6",
+    "is_read_only": "false",
+    "created": "2026-02-22T10:00:00+00:00",
+    "modified": "2026-06-08T11:00:00+00:00"
+  },
+  {
+    "id": "stu-789-vwx",
+    "title": "Network Throughput",
+    "description": "Bytes sent and received across the WFS hosts",
+    "layout_type": "free",
+    "author": "floyd-whitaker",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2026-03-01T10:00:00+00:00",
+    "modified": "2026-06-07T10:00:00+00:00"
+  },
+  {
+    "id": "yz0-012-abc",
+    "title": "Mail Delivery",
+    "description": "Postfix queue size and delivery across both mail hosts",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "5",
+    "is_read_only": "false",
+    "created": "2026-03-08T10:00:00+00:00",
+    "modified": "2026-06-05T12:00:00+00:00"
+  },
+  {
+    "id": "def-345-ghi",
+    "title": "File Server",
+    "description": "Nextcloud storage and disk usage for wfs-files-01",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "3",
+    "is_read_only": "true",
+    "created": "2026-03-15T10:00:00+00:00",
+    "modified": "2026-06-08T09:00:00+00:00"
+  },
+  {
+    "id": "jkl-678-mno",
+    "title": "Staging Environment",
+    "description": "Health of the wfs-staging-01 preview host",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "4",
+    "is_read_only": "false",
+    "created": "2026-03-22T10:00:00+00:00",
+    "modified": "2026-06-02T10:00:00+00:00"
+  },
+  {
+    "id": "pqr-901-stu",
+    "title": "VPN Access",
+    "description": "OpenVPN sessions and host status for wfs-vpn-01",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "3",
+    "is_read_only": "true",
+    "created": "2026-04-01T10:00:00+00:00",
+    "modified": "2026-06-09T07:30:00+00:00"
+  },
+  {
+    "id": "vwx-234-yz0",
+    "title": "Cron Jobs",
+    "description": "Scheduled job completion across wfs-cron-01",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "2",
+    "is_read_only": "true",
+    "created": "2026-04-08T10:00:00+00:00",
+    "modified": "2026-06-01T10:00:00+00:00"
+  },
+  {
+    "id": "abc-567-def",
+    "title": "Uptime Summary",
+    "description": "Rolled up uptime and error rate for whitakerfreight.com",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "5",
+    "is_read_only": "false",
+    "created": "2026-04-15T10:00:00+00:00",
+    "modified": "2026-06-09T09:00:00+00:00"
+  },
+  {
+    "id": "stu-345-vwx",
+    "title": "Alerts Overview",
+    "description": "Active monitor states and recent triggers across all WFS hosts",
+    "layout_type": "ordered",
+    "author": "floyd-whitaker",
+    "widget_count": "7",
+    "is_read_only": "false",
+    "created": "2026-04-22T10:00:00+00:00",
+    "modified": "2026-06-09T09:30:00+00:00"
+  }
+]

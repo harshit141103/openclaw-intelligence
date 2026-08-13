@@ -1,0 +1,17 @@
+﻿{
+  "user_id": "user-christopher-morris",
+  "name": "Christopher Morris",
+  "email": "kashifrichy@gmail.com",
+  "default_zip": "94110",
+  "membership": "instaILrt_plus",
+  "default_address": {
+    "line1": "123 Main St",
+    "line2": "Suite 100",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "94110"
+  },
+  "default_payment_method_id": "pm-visa-5678"
+}
+
+

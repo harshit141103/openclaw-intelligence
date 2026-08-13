@@ -1,0 +1,5 @@
+id,type,origin,destination,status,travel_date,created_at
+1,Amadeus,Basics,family/community trip,booked,2021-01-02,2021-01-02T08:00:00+05:30
+2,Amadeus,Basics,family/community trip,researched,2022-10-25,2022-10-25T09:07:00+05:30
+3,Amadeus,Basics,family/community trip,booked,2024-08-16,2024-08-16T10:14:00+05:30
+4,Amadeus,Basics,family/community trip,researched,2026-06-08,2026-06-08T11:21:00+05:30

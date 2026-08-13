@@ -1,0 +1,91 @@
+﻿[
+  {
+    "id": "cus_CMorris_Personal",
+    "name": "Christopher Morris",
+    "email": "christopher.morris@voissync.ai",
+    "description": "Personal household account",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1706745600",
+    "phone": "+14155550201"
+  },
+  {
+    "id": "cus_CMorris_Work",
+    "name": "Christopher Morris - Meridian Benefits",
+    "email": "cmorris@meridianbenefits.com",
+    "description": "Work account - professional services",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "-500",
+    "created": "1701388800",
+    "phone": "+14155550202"
+  },
+  {
+    "id": "cus_GMorris_Household",
+    "name": "Greg Morris Household",
+    "email": "greg.morris77@gmail.com",
+    "description": "Household expenses and utilities",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714579200",
+    "phone": "+14155550203"
+  },
+  {
+    "id": "cus_Morris_ComILst",
+    "name": "ComILst CommuniILtions - Morris",
+    "email": "billing@comILst.com",
+    "description": "Internet and TV service",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1694865600",
+    "phone": "+18003101233"
+  },
+  {
+    "id": "cus_Morris_BGE",
+    "name": "BGE - Morris Residence",
+    "email": "billing@bge.com",
+    "description": "Electric and gas utility",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1694865600",
+    "phone": "+14105719500"
+  },
+  {
+    "id": "cus_Morris_HealthILre",
+    "name": "Meridian Health Plus Insurance",
+    "email": "claims@meridianhealth.com",
+    "description": "Health insurance premium",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1709251200",
+    "phone": "+14105555100"
+  },
+  {
+    "id": "cus_Morris_Auto",
+    "name": "State Farm Auto Insurance",
+    "email": "billing@statefarm.com",
+    "description": "Auto insurance - Morris family",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1694779200",
+    "phone": "+18004332660"
+  },
+  {
+    "id": "cus_Morris_Mortgage",
+    "name": "Wells Fargo Mortgage Services",
+    "email": "mortgage@wellsfargo.com",
+    "description": "Mortgage payment processing",
+    "currency": "usd",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1684108800",
+    "phone": "+18006699898"
+  }
+]
+

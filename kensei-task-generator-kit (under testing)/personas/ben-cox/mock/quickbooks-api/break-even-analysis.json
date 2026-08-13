@@ -1,0 +1,77 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Gary Stoddard",
+    "PreparedDate": "2026-01-03",
+    "Context": "Diane flagged the Sloan invoice for QuickBooks.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 55,
+          "Rate": 95,
+          "Total": 5225
+        },
+        "DropIns": {
+          "AvgMonthly": 90
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 60
+        },
+        "TotalMonthlyRevenue": 5375
+      },
+      "MonthlyExpenses": {
+        "Rent": 650,
+        "Utilities": {
+          "Electric": 165,
+          "Water": 55,
+          "Total": 220
+        },
+        "Insurance": {
+          "Quarterly": 840,
+          "Monthly": 280
+        },
+        "InstructorPay_Raj": 1100,
+        "Cleaning": {
+          "BiWeekly": 140,
+          "Monthly": 280
+        },
+        "Supplies": {
+          "AvgMonthly": 100
+        },
+        "Marketing": {
+          "AvgMonthly": 40
+        },
+        "TotalMonthlyExpenses": 2670
+      },
+      "MonthlyNetIncome": 620,
+      "AaronDrawFromNet": 1200,
+      "RetainedForReserves": 2005,
+      "Note": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Sharpen the jointer knives and reset the infeed table",
+        "NewRent": 750,
+        "RentIncrease": 100,
+        "NewTotalExpenses": 2770,
+        "NewNetIncome": 1850,
+        "BreakEvenMembers": 30,
+        "BreakEvenCalculation": "Check the moisture content on the barn oak before joinery",
+        "Impact": "Template the Stowe countertop radius for the corner cabinet"
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Re: Stowe install date",
+        "NewRent": 850,
+        "RentIncrease": 200,
+        "NewTotalExpenses": 2870,
+        "NewNetIncome": 2400,
+        "BreakEvenMembers": 31,
+        "Impact": "Mill cherry stock to thickness for the upper cabinet doors"
+      }
+    },
+    "KeyInsight": "Replace the dust collector filter and clean the cyclone",
+    "ActionItems": [
+      "Re: Bookshelf dimensions",
+      "Mock up the crown profile for the Henderson uppers"
+    ]
+  }
+}

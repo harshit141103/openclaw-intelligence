@@ -1,0 +1,14 @@
+{
+  "user": {
+    "displayName": "Floyd Whitaker",
+    "emailAddress": "floyd.whitaker@finthesiss.ai",
+    "permissionId": "perm-floyd"
+  },
+  "storageQuota": {
+    "limit": "32212254720",
+    "usage": "9847210334",
+    "usageInDrive": "9400000000",
+    "usageInDriveTrash": "38000000"
+  },
+  "maxUploadSize": "5368709120"
+}

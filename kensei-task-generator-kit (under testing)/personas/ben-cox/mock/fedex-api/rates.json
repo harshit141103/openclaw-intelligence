@@ -1,0 +1,222 @@
+[
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "Set up the dado stack for the bookshelf ",
+    "origin_zip": "05602",
+    "dest_zip": "05672",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "18.99",
+    "transit_days": "4",
+    "delivery_day": "2026-10-04"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "Sloan cherry dining table",
+    "origin_zip": "05841",
+    "dest_zip": "05680",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "24.00",
+    "transit_days": "5",
+    "delivery_day": "2023-08-08"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "Delivery window for the Stowe cabinets",
+    "origin_zip": "05875",
+    "dest_zip": "05680",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "28.99",
+    "transit_days": "2",
+    "delivery_day": "2024-04-08"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "Order Blum slides for the Stowe drawer b",
+    "origin_zip": "05841",
+    "dest_zip": "05672",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "34.50",
+    "transit_days": "2",
+    "delivery_day": "2026-09-19"
+  },
+  {
+    "service_type": "STANDARD_OVERNIGHT",
+    "service_name": "Stage the bookshelf sections for the Cra",
+    "origin_zip": "05680",
+    "dest_zip": "05672",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "41.00",
+    "transit_days": "1",
+    "delivery_day": "2025-10-21"
+  },
+  {
+    "service_type": "PRIORITY_OVERNIGHT",
+    "service_name": "Greensboro barn restoration",
+    "origin_zip": "05680",
+    "dest_zip": "05401",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "47.95",
+    "transit_days": "1",
+    "delivery_day": "2025-12-16"
+  },
+  {
+    "service_type": "FEDEX_EXPRESS_SAVER",
+    "service_name": "Stage the bookshelf sections for the Cra",
+    "origin_zip": "05661",
+    "dest_zip": "05602",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "62.00",
+    "transit_days": "3",
+    "delivery_day": "2026-08-18"
+  },
+  {
+    "service_type": "INTERNATIONAL_PRIORITY",
+    "service_name": "Splitting and stacking the winter firewo",
+    "origin_zip": "05401",
+    "dest_zip": "05680",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "88.00",
+    "transit_days": "3",
+    "delivery_day": "2023-09-14"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "Lay out dovetails for the silverware dra",
+    "origin_zip": "05478",
+    "dest_zip": "05401",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "110.00",
+    "transit_days": "4",
+    "delivery_day": "2024-03-08"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "Church pew repair",
+    "origin_zip": "05841",
+    "dest_zip": "05875",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "6.80",
+    "transit_days": "5",
+    "delivery_day": "2025-06-21"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "Template the Stowe countertop radius for",
+    "origin_zip": "05826",
+    "dest_zip": "05843",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "9.25",
+    "transit_days": "2",
+    "delivery_day": "2024-02-26"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "Template the Stowe countertop radius for",
+    "origin_zip": "05841",
+    "dest_zip": "05661",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "12.50",
+    "transit_days": "2",
+    "delivery_day": "2025-11-11"
+  },
+  {
+    "service_type": "STANDARD_OVERNIGHT",
+    "service_name": "Replace the dust collector filter and cl",
+    "origin_zip": "05672",
+    "dest_zip": "05401",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "18.99",
+    "transit_days": "1",
+    "delivery_day": "2025-09-29"
+  },
+  {
+    "service_type": "PRIORITY_OVERNIGHT",
+    "service_name": "Cota window seat & bookcase",
+    "origin_zip": "05826",
+    "dest_zip": "05661",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "24.00",
+    "transit_days": "1",
+    "delivery_day": "2026-06-02"
+  },
+  {
+    "service_type": "FEDEX_EXPRESS_SAVER",
+    "service_name": "Splitting and stacking the winter firewo",
+    "origin_zip": "05661",
+    "dest_zip": "05680",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "28.99",
+    "transit_days": "3",
+    "delivery_day": "2025-01-24"
+  },
+  {
+    "service_type": "INTERNATIONAL_PRIORITY",
+    "service_name": "Church pew repair",
+    "origin_zip": "05841",
+    "dest_zip": "05875",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "34.50",
+    "transit_days": "3",
+    "delivery_day": "2025-05-31"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "Check the moisture content on the barn o",
+    "origin_zip": "05478",
+    "dest_zip": "05401",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "41.00",
+    "transit_days": "4",
+    "delivery_day": "2023-07-22"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "Cut dadoes for the adjustable shelf pins",
+    "origin_zip": "05841",
+    "dest_zip": "05843",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "47.95",
+    "transit_days": "5",
+    "delivery_day": "2023-12-21"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "Order Blum slides for the Stowe drawer b",
+    "origin_zip": "05602",
+    "dest_zip": "05841",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "62.00",
+    "transit_days": "2",
+    "delivery_day": "2025-03-28"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "Stage the bookshelf sections for the Cra",
+    "origin_zip": "05672",
+    "dest_zip": "05680",
+    "weight_lb": "5.0",
+    "currency": "USD",
+    "net_charge": "88.00",
+    "transit_days": "2",
+    "delivery_day": "2026-06-25"
+  }
+]

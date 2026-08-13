@@ -1,0 +1,35 @@
+[
+  {
+    "id": "venue-inverness",
+    "name": "Drumossie Hotel",
+    "address1": "Old Perth Rd",
+    "city": "Inverness",
+    "region": "Highland",
+    "postal_code": "IV2 5BE",
+    "country": "GB",
+    "latitude": "57.4530",
+    "longitude": "-4.1870"
+  },
+  {
+    "id": "venue-lochcarron",
+    "name": "Lochcarron Showfield",
+    "address1": "Croft Road",
+    "city": "Lochcarron",
+    "region": "Highland",
+    "postal_code": "IV54 8YH",
+    "country": "GB",
+    "latitude": "57.4007",
+    "longitude": "-5.4928"
+  },
+  {
+    "id": "venue-harrogate",
+    "name": "Harrogate Convention Centre",
+    "address1": "Kings Rd",
+    "city": "Harrogate",
+    "region": "North Yorkshire",
+    "postal_code": "HG1 5LA",
+    "country": "GB",
+    "latitude": "53.9950",
+    "longitude": "-1.5380"
+  }
+]

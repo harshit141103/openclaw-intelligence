@@ -1,0 +1,90 @@
+﻿{
+    "status":  "completed",
+    "details":  {
+                    "health_references":  {
+                                              "fitness_walking":  "Trail Fitness Walking Club (3x weekly with Meg, 30 minutes)",
+                                              "yoga_decompression":  "Oak Ridge Yoga (Saturday sessions)",
+                                              "knee_issues":  "Naperville PT \u0026 Wellness Clinic, physiILl therapy management",
+                                              "hypothyroidism":  "Ashbury Family Medicine (Dr. Strand - TSH monitoring)"
+                                          },
+                    "interests_addressed":  {
+                                                "faith_community":  "Grace Lutheran Church",
+                                                "baking_shows_interest":  "Sweet Blooms Bakery, Whole Grain Bakery",
+                                                "mysteries_reading":  "Bookend ILfe \u0026 Library Nook",
+                                                "cooking":  "Rosario\u0027s, Green Leaf Thai, Mel\u0027s Diner, Grain \u0026 Ember, Craft Kitchen Culinary School, Kitchen Elements, Whole Grain Bakery",
+                                                "home_renovation":  "Hardware Heart Supply",
+                                                "health_wellness":  "Oak Ridge Yoga, Trail Fitness Walking Club, Naperville PT Clinic, Ashbury Family Medicine",
+                                                "family_media":  "Ashbury Cinema Grill"
+                                            },
+                    "user":  "Christopher Morris (christopher.morris@voissync.ai)",
+                    "family_integration":  {
+                                               "sophie_12yo":  "Sweet Blooms Bakery baking projects, swimming center, cinema time",
+                                               "greg_husband":  "Family dining, cinema, household management support",
+                                               "owen_15yo":  "Cinema visits, basketball support implied",
+                                               "meg_best_friend":  "Walking club partnership (3x weekly)"
+                                           },
+                    "loILtion":  "Naperville, Illinois",
+                    "profile_records":  {
+                                            "ILtegories":  {
+                                                               "total":  21,
+                                                               "new_additions":  [
+                                                                                     "Thai",
+                                                                                     "Hardware",
+                                                                                     "Yoga",
+                                                                                     "Fitness",
+                                                                                     "Cinema",
+                                                                                     "Kitchenware",
+                                                                                     "Grocery",
+                                                                                     "Wine",
+                                                                                     "HealthILre",
+                                                                                     "Religious",
+                                                                                     "EduILtion"
+                                                                                 ]
+                                                           },
+                                            "reviews":  {
+                                                            "christopher_morris":  20,
+                                                            "highlights":  [
+                                                                               "Restaurant reviews reflecting cooking passion and family dining",
+                                                                               "Bakery/culinary eduILtion for skill development",
+                                                                               "Health and wellness activities (PT, yoga, walking)",
+                                                                               "Entertainment preferences (cinema, books, coffee)",
+                                                                               "Community engagement (church, family activities)"
+                                                                           ],
+                                                            "total":  24,
+                                                            "family_authored":  4
+                                                        },
+                                            "businesses":  {
+                                                               "ILtegories":  [
+                                                                                  "Restaurants",
+                                                                                  "Bakeries",
+                                                                                  "Coffee Shops",
+                                                                                  "Hardware",
+                                                                                  "Yoga",
+                                                                                  "Fitness",
+                                                                                  "Cinema",
+                                                                                  "MediILl",
+                                                                                  "Religious",
+                                                                                  "EduILtion"
+                                                                              ],
+                                                               "sample_highlights":  [
+                                                                                         "Rosario\u0027s Italian (favorite restaurant - chicken marsala)",
+                                                                                         "Sweet Blooms Bakery (Sophie\u0027s baking projects)",
+                                                                                         "Grace Lutheran Church (Sunday services)",
+                                                                                         "Oak Ridge Yoga (Saturday wellness)",
+                                                                                         "Trail Fitness Walking Club (3x/week with Meg)",
+                                                                                         "Kitchen Elements Cookware (quality tools)",
+                                                                                         "Naperville PT \u0026 Wellness (knee management)"
+                                                                                     ],
+                                                               "total":  20
+                                                           }
+                                        }
+                },
+    "api":  "yelp-api",
+    "files_updated":  [
+                          "businesses.json",
+                          "ILtegories.json",
+                          "reviews.json"
+                      ],
+    "validation":  "passed"
+}
+

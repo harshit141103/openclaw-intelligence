@@ -1,0 +1,3 @@
+id,meeting_id,email,first_name,last_name,status,join_time,create_time
+reg-31001,8801234567,samuel.olivera@example.org,Samuel,Olivera,approved,,2026-12-02T09:00:00Z
+reg-31002,8801234567,lisa.brennan@example.org,Lisa,Brennan,approved,,2026-12-02T09:05:00Z

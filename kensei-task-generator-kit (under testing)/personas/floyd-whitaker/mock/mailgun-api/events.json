@@ -1,0 +1,209 @@
+[
+  {
+    "id": "ev_0001",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260501093012.1.A1B2C3D4E5F6@mg.whitakerfreight.com",
+    "event": "accepted",
+    "recipient": "glen.mabry@cumberlandautoparts.com",
+    "timestamp": "2026-05-01T09:30:12Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0002",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260501093012.1.A1B2C3D4E5F6@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "glen.mabry@cumberlandautoparts.com",
+    "timestamp": "2026-05-01T09:30:18Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0003",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260501093012.1.A1B2C3D4E5F6@mg.whitakerfreight.com",
+    "event": "opened",
+    "recipient": "glen.mabry@cumberlandautoparts.com",
+    "timestamp": "2026-05-01T10:02:41Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0004",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260501093012.1.A1B2C3D4E5F6@mg.whitakerfreight.com",
+    "event": "clicked",
+    "recipient": "glen.mabry@cumberlandautoparts.com",
+    "timestamp": "2026-05-01T10:03:55Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0005",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260503141522.2.B2C3D4E5F6A7@mg.whitakerfreight.com",
+    "event": "accepted",
+    "recipient": "hal.eubanks@tristatemfg.com",
+    "timestamp": "2026-05-03T14:15:22Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0006",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260503141522.2.B2C3D4E5F6A7@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "hal.eubanks@tristatemfg.com",
+    "timestamp": "2026-05-03T14:15:30Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0007",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260503141522.2.B2C3D4E5F6A7@mg.whitakerfreight.com",
+    "event": "opened",
+    "recipient": "hal.eubanks@tristatemfg.com",
+    "timestamp": "2026-05-03T15:41:02Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0008",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260507081005.3.C3D4E5F6A7B8@mg.whitakerfreight.com",
+    "event": "accepted",
+    "recipient": "ruth.lyle@valleygrainco.com",
+    "timestamp": "2026-05-07T08:10:05Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0009",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260507081005.3.C3D4E5F6A7B8@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "ruth.lyle@valleygrainco.com",
+    "timestamp": "2026-05-07T08:10:11Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0010",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260507081005.3.C3D4E5F6A7B8@mg.whitakerfreight.com",
+    "event": "opened",
+    "recipient": "ruth.lyle@valleygrainco.com",
+    "timestamp": "2026-05-07T08:25:19Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0011",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260512162844.4.D4E5F6A7B8C9@mg.whitakerfreight.com",
+    "event": "accepted",
+    "recipient": "pete.arnett@smokymtnsupply.com",
+    "timestamp": "2026-05-12T16:28:44Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0012",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260512162844.4.D4E5F6A7B8C9@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "pete.arnett@smokymtnsupply.com",
+    "timestamp": "2026-05-12T16:28:50Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0013",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260515104733.5.E5F6A7B8C9D0@mg.whitakerfreight.com",
+    "event": "accepted",
+    "recipient": "nan.coley@appalachianag.com",
+    "timestamp": "2026-05-15T10:47:33Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0014",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260515104733.5.E5F6A7B8C9D0@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "nan.coley@appalachianag.com",
+    "timestamp": "2026-05-15T10:47:39Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0015",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260515104733.5.E5F6A7B8C9D0@mg.whitakerfreight.com",
+    "event": "opened",
+    "recipient": "nan.coley@appalachianag.com",
+    "timestamp": "2026-05-15T11:20:14Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0016",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260520113900.6.F6A7B8C9D0E1@mg.whitakerfreight.com",
+    "event": "accepted",
+    "recipient": "marcus.fields@cumberlandgapcarriers.com",
+    "timestamp": "2026-05-20T11:39:00Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0017",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260520113900.6.F6A7B8C9D0E1@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "marcus.fields@cumberlandgapcarriers.com",
+    "timestamp": "2026-05-20T11:39:06Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0018",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260520113900.6.F6A7B8C9D0E1@mg.whitakerfreight.com",
+    "event": "clicked",
+    "recipient": "marcus.fields@cumberlandgapcarriers.com",
+    "timestamp": "2026-05-20T13:05:48Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0019",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260524175611.7.A7B8C9D0E1F2@mg.whitakerfreight.com",
+    "event": "accepted",
+    "recipient": "angela.mott@gmail.com",
+    "timestamp": "2026-05-24T17:56:11Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0020",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260524175611.7.A7B8C9D0E1F2@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "angela.mott@gmail.com",
+    "timestamp": "2026-05-24T17:56:18Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0021",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260524175611.7.A7B8C9D0E1F2@mg.whitakerfreight.com",
+    "event": "opened",
+    "recipient": "angela.mott@gmail.com",
+    "timestamp": "2026-05-24T18:40:33Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0022",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260528092200.8.B8C9D0E1F2A3@mg.whitakerfreight.com",
+    "event": "delivered",
+    "recipient": "roy.tackett@ridgelinetrucking.com",
+    "timestamp": "2026-05-28T09:22:08Z",
+    "reason": ""
+  },
+  {
+    "id": "ev_0023",
+    "domain": "mg.whitakerfreight.com",
+    "message_id": "20260528092200.8.B8C9D0E1F2A3@mg.whitakerfreight.com",
+    "event": "failed",
+    "recipient": "roy.tackett@ridgelinetrucking.com",
+    "timestamp": "2026-05-28T09:25:14Z",
+    "reason": "temporary delivery failure"
+  }
+]

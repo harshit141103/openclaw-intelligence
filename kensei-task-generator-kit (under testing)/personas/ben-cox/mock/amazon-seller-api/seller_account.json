@@ -1,0 +1,65 @@
+{
+  "sellerId": "A3EXAMPLE1SELLER",
+  "marketplaceId": "ATVPDKIKX0DER",
+  "businessName": "Cox Custom Woodwork",
+  "storeName": "Lafleur barn door (favor)",
+  "storeUrl": "https://www.amazon.com/stores/VoltEdgeTech/page/EXAMPLE-PAGE-ID",
+  "registrationDate": "2024-01-22T09:45:00Z",
+  "businessAddress": {
+    "Name": "Boucher mudroom built-ins",
+    "AddressLine1": "1842 Wylie Hill Road",
+    "AddressLine2": "1842 Wylie Hill Road",
+    "City": "West Glover",
+    "StateOrRegion": "VT",
+    "PostalCode": "05602",
+    "CountryCode": "US"
+  },
+  "primaryContactEmail": "lhenderson@stowevt.net",
+  "accountHealth": {
+    "orderDefectRate": 0.8,
+    "orderDefectRateTarget": 1.0,
+    "lateShipmentRate": 2.1,
+    "lateShipmentRateTarget": 4.0,
+    "preFulfillmentCancelRate": 1.2,
+    "preFulfillmentCancelRateTarget": 2.5,
+    "validTrackingRate": 96.5,
+    "validTrackingRateTarget": 95.0,
+    "onTimeDeliveryRate": 94.8,
+    "onTimeDeliveryRateTarget": 90.0,
+    "returnDissatisfactionRate": 3.2,
+    "returnDissatisfactionRateTarget": 10.0,
+    "customerServiceDissatisfactionRate": 1.5,
+    "customerServiceDissatisfactionRateTarget": 25.0,
+    "policyViolations": 0,
+    "accountStatus": "NORMAL"
+  },
+  "performanceNotifications": [
+    {
+      "notificationId": "NOTIF-001",
+      "type": "PERFORMANCE_WARNING",
+      "title": "Boucher mudroom built-ins",
+      "message": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+      "severity": "WARNING",
+      "createdDate": "2026-09-22T09:45:00Z",
+      "isRead": true
+    },
+    {
+      "notificationId": "NOTIF-002",
+      "type": "LISTING_DEACTIVATED",
+      "title": "Re-saw the walnut for bookmatched panels",
+      "message": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+      "severity": "CRITICAL",
+      "createdDate": "2026-05-05T07:15:00Z",
+      "isRead": false
+    },
+    {
+      "notificationId": "NOTIF-003",
+      "type": "INFO",
+      "title": "Lafleur barn door (favor)",
+      "message": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+      "severity": "INFO",
+      "createdDate": "2025-04-17T15:45:00Z",
+      "isRead": false
+    }
+  ]
+}

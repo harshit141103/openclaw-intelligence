@@ -1,0 +1,233 @@
+[
+  {
+    "Id": "1",
+    "Name": "Brokerage Commission - Dry Van",
+    "Description": "Freight brokerage commission on dry van loads",
+    "Type": "Service",
+    "UnitPrice": "485.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "2",
+    "Name": "Brokerage Commission - Reefer",
+    "Description": "Freight brokerage commission on refrigerated loads",
+    "Type": "Service",
+    "UnitPrice": "620.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "3",
+    "Name": "Brokerage Commission - Flatbed",
+    "Description": "Freight brokerage commission on flatbed loads",
+    "Type": "Service",
+    "UnitPrice": "560.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "4",
+    "Name": "Expedited Load Coordination",
+    "Description": "Rush and expedited load coordination fee",
+    "Type": "Service",
+    "UnitPrice": "375.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "5",
+    "Name": "Logistics Consulting",
+    "Description": "Hourly logistics and supply chain consulting",
+    "Type": "Service",
+    "UnitPrice": "150.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "6",
+    "Name": "Carrier Vetting Service",
+    "Description": "Carrier qualification and compliance vetting package",
+    "Type": "Service",
+    "UnitPrice": "450.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "7",
+    "Name": "Lane Analysis Report",
+    "Description": "Detailed lane rate and capacity analysis report",
+    "Type": "Service",
+    "UnitPrice": "375.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "8",
+    "Name": "LTL Brokerage Commission",
+    "Description": "Less-than-truckload brokerage commission",
+    "Type": "Service",
+    "UnitPrice": "220.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "9",
+    "Name": "Backhaul Coordination",
+    "Description": "Return load and backhaul coordination service",
+    "Type": "Service",
+    "UnitPrice": "395.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "10",
+    "Name": "Brokerage Commission - Expedited",
+    "Description": "Freight brokerage commission on hot/expedited loads",
+    "Type": "Service",
+    "UnitPrice": "695.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "11",
+    "Name": "Freight Audit & Rate Review",
+    "Description": "Freight invoice audit and lane rate benchmarking",
+    "Type": "Service",
+    "UnitPrice": "285.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "12",
+    "Name": "DOT Compliance Consulting",
+    "Description": "DOT and FMCSA compliance advisory and webinar prep",
+    "Type": "Service",
+    "UnitPrice": "175.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "13",
+    "Name": "Drayage Coordination",
+    "Description": "Port and rail drayage coordination service",
+    "Type": "Service",
+    "UnitPrice": "340.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "14",
+    "Name": "Claims Management Service",
+    "Description": "Freight loss and damage claims filing and resolution",
+    "Type": "Service",
+    "UnitPrice": "310.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "15",
+    "Name": "Route Optimization Analysis",
+    "Description": "Multi-stop route and corridor optimization analysis",
+    "Type": "Service",
+    "UnitPrice": "265.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "16",
+    "Name": "Freight Mentorship Program",
+    "Description": "TN Freight Mentorship Program enrollment fee per participant",
+    "Type": "Service",
+    "UnitPrice": "500.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "17",
+    "Name": "Brokerage Commission - Partial Truckload",
+    "Description": "Freight brokerage commission on partial truckload shipments",
+    "Type": "Service",
+    "UnitPrice": "295.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "18",
+    "Name": "Detention & Accessorial Billing",
+    "Description": "Detention, layover, and accessorial charge coordination",
+    "Type": "Service",
+    "UnitPrice": "125.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "19",
+    "Name": "Carrier Onboarding Setup",
+    "Description": "New carrier setup, packet, and insurance verification",
+    "Type": "Service",
+    "UnitPrice": "200.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "20",
+    "Name": "DOT Compliance Webinar Registration",
+    "Description": "Quarterly DOT compliance webinar registration per seat",
+    "Type": "Service",
+    "UnitPrice": "95.00",
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Logistics Consulting Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "21",
+    "Name": "Brokerage Commission - Intermodal",
+    "Description": "Freight brokerage commission on rail intermodal loads",
+    "Type": "Service",
+    "UnitPrice": "410.00",
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Brokerage Commission Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  }
+]

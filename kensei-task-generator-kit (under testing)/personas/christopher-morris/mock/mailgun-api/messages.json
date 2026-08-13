@@ -1,0 +1,184 @@
+﻿[
+  {
+    "id": "20260501093012.1.A1B2C3D4E5F6@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "noreply@sandbox.mailgun.org",
+    "recipient": "alice@voissync.ai",
+    "subject": "Welcome to Acme",
+    "body": "Thanks for signing up!",
+    "timestamp": "2026-05-01T09:30:12Z"
+  },
+  {
+    "id": "20260503141522.2.B2C3D4E5F6A7@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "billing@sandbox.mailgun.org",
+    "recipient": "bob@voissync.ai",
+    "subject": "Your invoice is ready",
+    "body": "Invoice #1042 is attached.",
+    "timestamp": "2026-05-03T14:15:22Z"
+  },
+  {
+    "id": "20260507081005.3.C3D4E5F6A7B8@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "support@sandbox.mailgun.org",
+    "recipient": "ILrol@voissync.ai",
+    "subject": "Password reset",
+    "body": "Click the link to reset your password.",
+    "timestamp": "2026-05-07T08:10:05Z"
+  },
+  {
+    "id": "20260512162844.4.D4E5F6A7B8C9@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "news@sandbox.mailgun.org",
+    "recipient": "dave@voissync.ai",
+    "subject": "May Newsletter",
+    "body": "Here is what is new this month.",
+    "timestamp": "2026-05-12T16:28:44Z"
+  },
+  {
+    "id": "20260515104733.5.E5F6A7B8C9D0@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "noreply@sandbox.mailgun.org",
+    "recipient": "erin@voissync.ai",
+    "subject": "Order shipped",
+    "body": "Your order is on the way.",
+    "timestamp": "2026-05-15T10:47:33Z"
+  },
+  {
+    "id": "20260520113900.6.F6A7B8C9D0E1@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "team@sandbox.mailgun.org",
+    "recipient": "frank@voissync.ai",
+    "subject": "Meeting reminder",
+    "body": "Standup at 10am tomorrow.",
+    "timestamp": "2026-05-20T11:39:00Z"
+  },
+  {
+    "id": "20260524175611.7.A7B8C9D0E1F2@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "noreply@sandbox.mailgun.org",
+    "recipient": "grace@voissync.ai",
+    "subject": "Survey request",
+    "body": "We value your feedback.",
+    "timestamp": "2026-05-24T17:56:11Z"
+  },
+  {
+    "id": "20260528092645.8.B8C9D0E1F2G3@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "alerts@sandbox.mailgun.org",
+    "recipient": "henry@voissync.ai",
+    "subject": "Account security alert",
+    "body": "New login detected from ChiILgo, IL.",
+    "timestamp": "2026-05-28T09:26:45Z"
+  },
+  {
+    "id": "20260601143827.9.C9D0E1F2G3H4@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "promotions@sandbox.mailgun.org",
+    "recipient": "iris@voissync.ai",
+    "subject": "Summer Sale: 30% Off",
+    "body": "Limited time offer on all premium plans.",
+    "timestamp": "2026-06-01T14:38:27Z"
+  },
+  {
+    "id": "20260604161009.10.D0E1F2G3H4I5@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "support@sandbox.mailgun.org",
+    "recipient": "jack@voissync.ai",
+    "subject": "Support ticket #7845 updated",
+    "body": "Your issue has been esILlated to our engineering team.",
+    "timestamp": "2026-06-04T16:10:09Z"
+  },
+  {
+    "id": "20260607075542.11.E1F2G3H4I5J6@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "announcements@sandbox.mailgun.org",
+    "recipient": "kate@voissync.ai",
+    "subject": "API v2 Release Notes",
+    "body": "Check out the new features in our latest API release.",
+    "timestamp": "2026-06-07T07:55:42Z"
+  },
+  {
+    "id": "20260510142230.12.F2G3H4I5J6K7@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "billing@sandbox.mailgun.org",
+    "recipient": "liam@voissync.ai",
+    "subject": "Payment method expires soon",
+    "body": "Your credit ILrd will expire on 06/30/2026. Please update it.",
+    "timestamp": "2026-06-10T14:22:30Z"
+  },
+  {
+    "id": "20260609080015.13.G3H4I5J6K7L8@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "noreply@sandbox.mailgun.org",
+    "recipient": "mia@voissync.ai",
+    "subject": "Confirm your email address",
+    "body": "Click here to verify your email and activate your account.",
+    "timestamp": "2026-06-09T08:00:15Z"
+  },
+  {
+    "id": "20260608123456.14.H4I5J6K7L8M9@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "team@sandbox.mailgun.org",
+    "recipient": "noah@voissync.ai",
+    "subject": "Quarterly Performance Review",
+    "body": "Your review is scheduled for June 20th.",
+    "timestamp": "2026-06-08T12:34:56Z"
+  },
+  {
+    "id": "20260606195837.15.I5J6K7L8M9N0@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "support@sandbox.mailgun.org",
+    "recipient": "olivia@voissync.ai",
+    "subject": "Documentation Update",
+    "body": "New guides are available in our knowledge base.",
+    "timestamp": "2026-06-06T19:58:37Z"
+  },
+  {
+    "id": "20260605140322.16.J6K7L8M9N0O1@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "events@sandbox.mailgun.org",
+    "recipient": "paul@voissync.ai",
+    "subject": "Webinar: Advanced API Integration",
+    "body": "Join us on June 15th for an exclusive webinar.",
+    "timestamp": "2026-06-05T14:03:22Z"
+  },
+  {
+    "id": "20260604090547.17.K7L8M9N0O1P2@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "noreply@sandbox.mailgun.org",
+    "recipient": "quinn@voissync.ai",
+    "subject": "Your subscription renewal receipt",
+    "body": "Thank you for renewing your subscription.",
+    "timestamp": "2026-06-04T09:05:47Z"
+  },
+  {
+    "id": "20260603162110.18.L8M9N0O1P2Q3@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "compliance@sandbox.mailgun.org",
+    "recipient": "rachel@voissync.ai",
+    "subject": "Privacy Policy Update",
+    "body": "Please review our updated privacy policy.",
+    "timestamp": "2026-06-03T16:21:10Z"
+  },
+  {
+    "id": "20260602110628.19.M9N0O1P2Q3R4@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "promotions@sandbox.mailgun.org",
+    "recipient": "sam@voissync.ai",
+    "subject": "Exclusive offer for returning customers",
+    "body": "Use code WELCOME20 for 20% off your next purchase.",
+    "timestamp": "2026-06-02T11:06:28Z"
+  },
+  {
+    "id": "20260601155943.20.N0O1P2Q3R4S5@sandbox.mailgun.org",
+    "domain": "sandbox.mailgun.org",
+    "sender": "noreply@sandbox.mailgun.org",
+    "recipient": "tina@voissync.ai",
+    "subject": "Your order confirmation",
+    "body": "Order #98765 has been confirmed and is being prepared.",
+    "timestamp": "2026-06-01T15:59:43Z"
+  }
+]
+
+

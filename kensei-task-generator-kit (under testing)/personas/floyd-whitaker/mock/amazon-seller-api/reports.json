@@ -1,0 +1,202 @@
+[
+  {
+    "reportId": "REP-001",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-04-01T00:00:00Z",
+    "dataEndTime": "2026-04-30T23:59:59Z",
+    "createdTime": "2026-05-01T02:00:00Z",
+    "processingEndTime": "2026-05-01T02:05:00Z",
+    "reportDocumentId": "DOC-REP-001"
+  },
+  {
+    "reportId": "REP-002",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-04-01T00:00:00Z",
+    "dataEndTime": "2026-04-30T23:59:59Z",
+    "createdTime": "2026-05-01T02:00:00Z",
+    "processingEndTime": "2026-05-01T02:06:00Z",
+    "reportDocumentId": "DOC-REP-002"
+  },
+  {
+    "reportId": "REP-003",
+    "reportType": "GET_FLAT_FILE_ALL_ORDERS_DATA_BY_ORDER_DATE_GENERAL",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-03-01T00:00:00Z",
+    "dataEndTime": "2026-03-31T23:59:59Z",
+    "createdTime": "2026-04-01T03:00:00Z",
+    "processingEndTime": "2026-04-01T03:04:00Z",
+    "reportDocumentId": "DOC-REP-003"
+  },
+  {
+    "reportId": "REP-004",
+    "reportType": "GET_FLAT_FILE_ALL_ORDERS_DATA_BY_ORDER_DATE_GENERAL",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-04-01T00:00:00Z",
+    "dataEndTime": "2026-04-30T23:59:59Z",
+    "createdTime": "2026-05-01T03:00:00Z",
+    "processingEndTime": "2026-05-01T03:08:00Z",
+    "reportDocumentId": "DOC-REP-004"
+  },
+  {
+    "reportId": "REP-005",
+    "reportType": "GET_FLAT_FILE_RETURNS_DATA_BY_RETURN_DATE",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-02-01T00:00:00Z",
+    "dataEndTime": "2026-04-30T23:59:59Z",
+    "createdTime": "2026-05-01T04:00:00Z",
+    "processingEndTime": "2026-05-01T04:06:00Z",
+    "reportDocumentId": "DOC-REP-005"
+  },
+  {
+    "reportId": "REP-006",
+    "reportType": "GET_SALES_AND_TRAFFIC_REPORT",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-04-01T00:00:00Z",
+    "dataEndTime": "2026-04-30T23:59:59Z",
+    "createdTime": "2026-05-01T05:00:00Z",
+    "processingEndTime": "2026-05-01T05:04:00Z",
+    "reportDocumentId": "DOC-REP-006"
+  },
+  {
+    "reportId": "REP-007",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-03-01T00:00:00Z",
+    "dataEndTime": "2026-03-31T23:59:59Z",
+    "createdTime": "2026-04-01T02:00:00Z",
+    "processingEndTime": "2026-04-01T02:05:00Z",
+    "reportDocumentId": "DOC-REP-007"
+  },
+  {
+    "reportId": "REP-008",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-03-01T00:00:00Z",
+    "dataEndTime": "2026-03-31T23:59:59Z",
+    "createdTime": "2026-04-01T02:30:00Z",
+    "processingEndTime": "2026-04-01T02:33:00Z",
+    "reportDocumentId": "DOC-REP-008"
+  },
+  {
+    "reportId": "REP-009",
+    "reportType": "GET_SALES_AND_TRAFFIC_REPORT",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-05-01T00:00:00Z",
+    "dataEndTime": "2026-05-31T23:59:59Z",
+    "createdTime": "2026-06-01T05:00:00Z",
+    "processingEndTime": "2026-06-01T05:05:00Z",
+    "reportDocumentId": "DOC-REP-009"
+  },
+  {
+    "reportId": "REP-010",
+    "reportType": "GET_FLAT_FILE_ALL_ORDERS_DATA_BY_ORDER_DATE_GENERAL",
+    "reportStatus": "IN_PROGRESS",
+    "dataStartTime": "2026-05-01T00:00:00Z",
+    "dataEndTime": "2026-05-31T23:59:59Z",
+    "createdTime": "2026-06-08T01:00:00Z",
+    "processingEndTime": "",
+    "reportDocumentId": ""
+  },
+  {
+    "reportId": "REP-011",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA",
+    "reportStatus": "IN_QUEUE",
+    "dataStartTime": "2026-06-01T00:00:00Z",
+    "dataEndTime": "2026-06-08T23:59:59Z",
+    "createdTime": "2026-06-08T01:30:00Z",
+    "processingEndTime": "",
+    "reportDocumentId": ""
+  },
+  {
+    "reportId": "REP-012",
+    "reportType": "GET_FLAT_FILE_RETURNS_DATA_BY_RETURN_DATE",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-05-01T00:00:00Z",
+    "dataEndTime": "2026-05-31T23:59:59Z",
+    "createdTime": "2026-06-01T04:00:00Z",
+    "processingEndTime": "2026-06-01T04:05:00Z",
+    "reportDocumentId": "DOC-REP-012"
+  },
+  {
+    "reportId": "REP-013",
+    "reportType": "GET_FBA_INVENTORY_AGED_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-05-01T00:00:00Z",
+    "dataEndTime": "2026-05-31T23:59:59Z",
+    "createdTime": "2026-06-01T06:00:00Z",
+    "processingEndTime": "2026-06-01T06:03:00Z",
+    "reportDocumentId": "DOC-REP-013"
+  },
+  {
+    "reportId": "REP-014",
+    "reportType": "GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-04-15T00:00:00Z",
+    "dataEndTime": "2026-04-30T23:59:59Z",
+    "createdTime": "2026-05-02T07:00:00Z",
+    "processingEndTime": "2026-05-02T07:04:00Z",
+    "reportDocumentId": "DOC-REP-014"
+  },
+  {
+    "reportId": "REP-015",
+    "reportType": "GET_V2_SETTLEMENT_REPORT_DATA_FLAT_FILE",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-05-01T00:00:00Z",
+    "dataEndTime": "2026-05-15T23:59:59Z",
+    "createdTime": "2026-05-17T07:00:00Z",
+    "processingEndTime": "2026-05-17T07:04:00Z",
+    "reportDocumentId": "DOC-REP-015"
+  },
+  {
+    "reportId": "REP-016",
+    "reportType": "GET_SALES_AND_TRAFFIC_REPORT",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-03-01T00:00:00Z",
+    "dataEndTime": "2026-03-31T23:59:59Z",
+    "createdTime": "2026-04-01T05:00:00Z",
+    "processingEndTime": "2026-04-01T05:05:00Z",
+    "reportDocumentId": "DOC-REP-016"
+  },
+  {
+    "reportId": "REP-017",
+    "reportType": "GET_FBA_FULFILLMENT_CUSTOMER_RETURNS_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-04-01T00:00:00Z",
+    "dataEndTime": "2026-04-30T23:59:59Z",
+    "createdTime": "2026-05-01T06:30:00Z",
+    "processingEndTime": "2026-05-01T06:33:00Z",
+    "reportDocumentId": "DOC-REP-017"
+  },
+  {
+    "reportId": "REP-018",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-05-01T00:00:00Z",
+    "dataEndTime": "2026-05-31T23:59:59Z",
+    "createdTime": "2026-06-01T02:00:00Z",
+    "processingEndTime": "2026-06-01T02:04:00Z",
+    "reportDocumentId": "DOC-REP-018"
+  },
+  {
+    "reportId": "REP-019",
+    "reportType": "GET_FBA_INVENTORY_PLANNING_DATA",
+    "reportStatus": "DONE",
+    "dataStartTime": "2026-05-01T00:00:00Z",
+    "dataEndTime": "2026-05-31T23:59:59Z",
+    "createdTime": "2026-06-01T06:45:00Z",
+    "processingEndTime": "2026-06-01T06:49:00Z",
+    "reportDocumentId": "DOC-REP-019"
+  },
+  {
+    "reportId": "REP-020",
+    "reportType": "GET_FLAT_FILE_ALL_ORDERS_DATA_BY_ORDER_DATE_GENERAL",
+    "reportStatus": "CANCELLED",
+    "dataStartTime": "2026-06-01T00:00:00Z",
+    "dataEndTime": "2026-06-05T23:59:59Z",
+    "createdTime": "2026-06-06T01:00:00Z",
+    "processingEndTime": "",
+    "reportDocumentId": ""
+  }
+]

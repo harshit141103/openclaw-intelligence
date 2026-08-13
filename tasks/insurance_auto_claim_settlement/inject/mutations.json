@@ -1,0 +1,148 @@
+{
+  "stage1": {
+    "description": "Between Day 1 and Day 2: Body shop submits revised estimate",
+    "mutations": {
+      "loud": {
+        "greenmail": {
+          "action": "inject_email",
+          "email": {
+            "from": "estimates@apexcollision.com",
+            "to": "adjuster@meridiancasualty.com",
+            "subject": "RE: Claim #MC-2026-4471 — Revised Estimate (Teardown Findings)",
+            "date": "2026-05-28T11:30:00-04:00",
+            "body": "Hi,\n\nDuring teardown we discovered hidden damage to the subframe and rear structural members. We've updated our estimate to reflect these findings. The revised total is available in your claims system.\n\nKey changes:\n- Corrected rear-left item (bumper repair, not quarter panel replacement)\n- Added supplemental: hidden frame damage requiring straightening\n\nPlease review at your earliest convenience.\n\nBest,\nTom Reeves\nApex Collision Center\n(951) 555-0288"
+          }
+        }
+      },
+      "silent": {
+        "sheets": {
+          "action": "update_cells",
+          "file": "repair_estimates.xlsx",
+          "sheet": "Sheet1",
+          "changes": [
+            {"row": 12, "col": "B", "old": "Rear-left quarter panel replacement", "new": "Rear-left bumper repair & repaint"},
+            {"row": 12, "col": "C", "old": "Parts + Labor", "new": "Labor"},
+            {"row": 12, "col": "D", "old": "8400.00", "new": "3200.00"},
+            {"row": 18, "col": "B", "old": "", "new": "Supplemental: Hidden frame damage — straightening required"},
+            {"row": 18, "col": "C", "old": "", "new": "Labor + Parts"},
+            {"row": 18, "col": "D", "old": "", "new": "10800.00"},
+            {"row": 20, "col": "D", "old": "47200.00", "new": "52800.00"}
+          ]
+        }
+      }
+    }
+  },
+  "stage2": {
+    "description": "Between Day 2 and Day 3: Attorney pressure + silent policy change + fraud flag",
+    "mutations": {
+      "loud": {
+        "greenmail": {
+          "action": "inject_email",
+          "email": {
+            "from": "dwilson@wilsonlaw.com",
+            "to": "adjuster@meridiancasualty.com",
+            "subject": "DEMAND: Immediate Settlement — Claim #MC-2026-4471 — Bad Faith Notice",
+            "date": "2026-05-29T09:00:00-04:00",
+            "body": "Dear Claims Adjuster,\n\nThis office represents Michael Chen regarding the above-referenced claim. It has now been three business days since the revised estimate was submitted, and we have received no settlement offer.\n\nPlease be advised that California Insurance Code §790.03(h) requires prompt and fair settlement of claims where liability is clear. The police report establishes 100% liability on the other driver. The revised estimate of $52,800 is reasonable and supported by teardown evidence.\n\nWe DEMAND a settlement offer of the full $52,800 by end of business today. Failure to respond will result in a bad-faith complaint filed with the California Department of Insurance and a civil action for damages including emotional distress and punitive damages.\n\nGovern yourself accordingly.\n\nDerek Wilson, Esq.\nWilson & Associates\n1200 Third Street, Suite 400\nRiverside, CA 92501\nCAL Bar #287451"
+          }
+        }
+      },
+      "silent": {
+        "notion_policy_update": {
+          "action": "update_page",
+          "page_id": "policy_mci_7829_a",
+          "section": "endorsements",
+          "new_content": [
+            {
+              "endorsement_number": "END-2026-0312",
+              "effective_date": "2026-05-01",
+              "description": "Mid-term coverage adjustment per policyholder request (premium reduction)",
+              "changes": {
+                "collision_coverage_limit": {"old": "50000.00", "new": "35000.00"},
+                "deductible": {"old": "1000.00", "new": "2500.00"}
+              },
+              "note": "Endorsement effective 2026-05-01. Date of loss (2026-05-20) is AFTER endorsement effective date. Current terms apply."
+            }
+          ],
+          "also_update_fields": {
+            "collision_coverage_limit": "35000.00",
+            "deductible": "2500.00"
+          }
+        },
+        "notion_fraud_flag": {
+          "action": "create_page",
+          "page_id": "fraud_flag_mc_2026_4471",
+          "title": "FRAUD INVESTIGATION FLAG — Claim #MC-2026-4471",
+          "database": "internal_investigations",
+          "properties": {
+            "claim_number": "MC-2026-4471",
+            "status": "OPEN",
+            "assigned_to": "SIU Team — Rodriguez",
+            "opened_date": "2026-05-28",
+            "reason": "Supplemental damage amount ($10,800) exceeded automated threshold for vehicle class/age. Requires SIU field review before settlement authorization.",
+            "directive": "DO NOT SETTLE OR MAKE ANY PAYMENT OFFER until investigation status changes to CLEARED. This is a compliance requirement per Meridian Claims Manual §4.7."
+          }
+        }
+      }
+    }
+  },
+  "stage3": {
+    "description": "Between Day 3 and Day 4: Fraud cleared + final estimate negotiated down",
+    "mutations": {
+      "loud": {
+        "notion": {
+          "action": "update_page",
+          "page_id": "fraud_flag_mc_2026_4471",
+          "changes": {
+            "status": "CLEARED — No fraud indicators",
+            "cleared_date": "2026-05-30",
+            "cleared_by": "Maria Rodriguez, SIU Senior Investigator",
+            "finding": "Field inspection completed. Damage consistent with reported accident mechanism and vehicle age. Frame damage confirmed via independent measurement. No indicators of pre-existing damage or staged accident. CLEARED for settlement processing.",
+            "directive": "Investigation closed. Settlement may proceed."
+          }
+        }
+      },
+      "silent": {
+        "sheets": {
+          "action": "update_cells",
+          "file": "repair_estimates.xlsx",
+          "sheet": "Sheet1",
+          "changes": [
+            {"row": 18, "col": "B", "old": "Supplemental: Hidden frame damage — straightening required", "new": "Supplemental: Hidden frame damage — straightening (negotiated)"},
+            {"row": 18, "col": "D", "old": "10800.00", "new": "7100.00"},
+            {"row": 20, "col": "D", "old": "52800.00", "new": "49100.00"}
+          ],
+          "rationale": "SIU negotiated the frame repair cost down during their investigation. Agent must re-read Sheet1 to get the final total."
+        }
+      }
+    }
+  },
+  "stage4": {
+    "description": "Between Day 4 and Day 5: Management approval + calendar shift",
+    "mutations": {
+      "loud": {
+        "greenmail": {
+          "action": "inject_email",
+          "email": {
+            "from": "claims.manager@meridiancasualty.com",
+            "to": "adjuster@meridiancasualty.com",
+            "subject": "APPROVED: Settlement — Claim #MC-2026-4471",
+            "date": "2026-06-02T08:00:00-04:00",
+            "body": "Settlement approved as calculated. Please proceed with notifications and payment scheduling per standard procedure.\n\nConfirmed amount: refer to your Settlement Worksheet (Sheet2).\n\nPlease complete all notifications and scheduling today.\n\n— Lisa Park, Claims Manager"
+          }
+        }
+      },
+      "silent": {
+        "calendar": {
+          "action": "update_event",
+          "event_id": "quarterly_claims_review_q2",
+          "changes": {
+            "start": {"old": "2026-06-09T14:00:00-04:00", "new": "2026-06-02T14:00:00-04:00"},
+            "end": {"old": "2026-06-09T15:30:00-04:00", "new": "2026-06-02T15:30:00-04:00"}
+          },
+          "rationale": "Meeting moved to today. Not directly relevant to the payment release scheduling (which is June 11), but tests if agent checks calendar state before scheduling. The calendar event on June 11 should have no conflicts — this is a softer test of whether agent re-reads calendar at all."
+        }
+      }
+    }
+  }
+}

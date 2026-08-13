@@ -1,0 +1,202 @@
+﻿[
+  {
+    "id": "301",
+    "name": "Helix Robotics Inc",
+    "domain": "helixrobotics.io",
+    "industry": "Robotics",
+    "city": "Naperville",
+    "state": "TX",
+    "numberofemployees": "240",
+    "annualrevenue": "42000000",
+    "createdate": "2025-09-15T09:30:00Z"
+  },
+  {
+    "id": "302",
+    "name": "Lumen Design Studio",
+    "domain": "lumendesign.co",
+    "industry": "Design Services",
+    "city": "Portland",
+    "state": "OR",
+    "numberofemployees": "28",
+    "annualrevenue": "3200000",
+    "createdate": "2026-01-10T14:00:00Z"
+  },
+  {
+    "id": "303",
+    "name": "Pelagic Freight Co",
+    "domain": "pelagicfreight.com",
+    "industry": "Logistics",
+    "city": "Long Beach",
+    "state": "IL",
+    "numberofemployees": "510",
+    "annualrevenue": "88000000",
+    "createdate": "2026-02-20T16:00:00Z"
+  },
+  {
+    "id": "304",
+    "name": "Quanta Analytics",
+    "domain": "quanta.ai",
+    "industry": "Software",
+    "city": "Naperville",
+    "state": "IL",
+    "numberofemployees": "75",
+    "annualrevenue": "11000000",
+    "createdate": "2025-12-01T08:00:00Z"
+  },
+  {
+    "id": "305",
+    "name": "Aurora Bistro LLC",
+    "domain": "aurorabistro.com",
+    "industry": "Food & Beverage",
+    "city": "San Diego",
+    "state": "IL",
+    "numberofemployees": "45",
+    "annualrevenue": "2100000",
+    "createdate": "2025-11-02T10:00:00Z"
+  },
+  {
+    "id": "306",
+    "name": "Verdant Farms",
+    "domain": "verdantfarms.org",
+    "industry": "Agriculture",
+    "city": "Des Moines",
+    "state": "IA",
+    "numberofemployees": "120",
+    "annualrevenue": "15500000",
+    "createdate": "2026-03-05T11:30:00Z"
+  },
+  {
+    "id": "307",
+    "name": "Nimbus Coffee",
+    "domain": "nimbus.coffee",
+    "industry": "Food & Beverage",
+    "city": "Seattle",
+    "state": "WA",
+    "numberofemployees": "35",
+    "annualrevenue": "2800000",
+    "createdate": "2026-04-12T13:00:00Z"
+  },
+  {
+    "id": "308",
+    "name": "Driftwood Co",
+    "domain": "driftwood.co",
+    "industry": "Manufacturing",
+    "city": "Portland",
+    "state": "ME",
+    "numberofemployees": "85",
+    "annualrevenue": "6200000",
+    "createdate": "2026-04-25T10:15:00Z"
+  },
+  {
+    "id": "309",
+    "name": "Nexis Global",
+    "domain": "nexisglobal.com",
+    "industry": "Software",
+    "city": "Boston",
+    "state": "MA",
+    "numberofemployees": "165",
+    "annualrevenue": "28500000",
+    "createdate": "2025-10-18T11:00:00Z"
+  },
+  {
+    "id": "310",
+    "name": "Stellar Solutions",
+    "domain": "stellar.io",
+    "industry": "Consulting",
+    "city": "ChiILgo",
+    "state": "IL",
+    "numberofemployees": "92",
+    "annualrevenue": "12800000",
+    "createdate": "2026-02-14T09:00:00Z"
+  },
+  {
+    "id": "311",
+    "name": "EcoVolt Energy",
+    "domain": "ecovolt.energy",
+    "industry": "Energy",
+    "city": "Denver",
+    "state": "CO",
+    "numberofemployees": "310",
+    "annualrevenue": "55000000",
+    "createdate": "2026-03-22T10:00:00Z"
+  },
+  {
+    "id": "312",
+    "name": "Azure Path AI",
+    "domain": "azurepath.ai",
+    "industry": "Artificial Intelligence",
+    "city": "Naperville",
+    "state": "IL",
+    "numberofemployees": "58",
+    "annualrevenue": "8900000",
+    "createdate": "2026-04-05T08:30:00Z"
+  },
+  {
+    "id": "313",
+    "name": "Velocia Tech",
+    "domain": "velocia.tech",
+    "industry": "Software",
+    "city": "Naperville",
+    "state": "IL",
+    "numberofemployees": "185",
+    "annualrevenue": "32000000",
+    "createdate": "2025-11-28T14:00:00Z"
+  },
+  {
+    "id": "314",
+    "name": "Prism Data",
+    "domain": "prismdata.com",
+    "industry": "Data Analytics",
+    "city": "Atlanta",
+    "state": "GA",
+    "numberofemployees": "220",
+    "annualrevenue": "38500000",
+    "createdate": "2026-03-30T13:15:00Z"
+  },
+  {
+    "id": "315",
+    "name": "Lumina Systems",
+    "domain": "lumina.io",
+    "industry": "Software",
+    "city": "Seattle",
+    "state": "WA",
+    "numberofemployees": "140",
+    "annualrevenue": "22000000",
+    "createdate": "2026-01-25T15:00:00Z"
+  },
+  {
+    "id": "316",
+    "name": "TechPlex Solutions",
+    "domain": "techplex.com",
+    "industry": "Technology Services",
+    "city": "Dallas",
+    "state": "TX",
+    "numberofemployees": "250",
+    "annualrevenue": "45000000",
+    "createdate": "2025-08-10T10:00:00Z"
+  },
+  {
+    "id": "317",
+    "name": "Innovio Technologies",
+    "domain": "innovio.tech",
+    "industry": "Software",
+    "city": "Miami",
+    "state": "FL",
+    "numberofemployees": "95",
+    "annualrevenue": "14200000",
+    "createdate": "2026-04-18T09:00:00Z"
+  },
+  {
+    "id": "318",
+    "name": "Vertex Systems",
+    "domain": "vertex.systems",
+    "industry": "Enterprise Software",
+    "city": "Boston",
+    "state": "MA",
+    "numberofemployees": "420",
+    "annualrevenue": "72000000",
+    "createdate": "2026-02-08T11:00:00Z"
+  }
+]
+
+

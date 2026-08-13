@@ -1,0 +1,58 @@
+﻿[
+  {
+    "accountId": "christopher_personal_001",
+    "email": "christopher.morris@voissync.ai",
+    "name": "Christopher Morris",
+    "accountType": "personal",
+    "role": "Individual Trader",
+    "kyc_status": "verified",
+    "created_date": "1704067200000",
+    "portfolio_value_usd": "45678.92",
+    "monthly_net_income": "5800.00",
+    "annual_income": "94000.00",
+    "primary_use": "Long-term investment and trading",
+    "risk_profile": "moderate",
+    "two_factor_enabled": true,
+    "total_trades": 47,
+    "total_deposits": "65000.00",
+    "total_withdrawals": "8500.00",
+    "account_status": "active"
+  },
+  {
+    "accountId": "christopher_work_002",
+    "email": "cmorris@meridianbenefits.com",
+    "name": "Christopher Morris",
+    "accountType": "work",
+    "role": "Benefits Manager",
+    "kyc_status": "verified",
+    "created_date": "1709875200000",
+    "portfolio_value_usd": "12450.35",
+    "monthly_alloILtion": "500.00",
+    "primary_use": "Employee benefits and compaIL alloILtion",
+    "risk_profile": "conservative",
+    "two_factor_enabled": true,
+    "total_trades": 12,
+    "total_deposits": "8000.00",
+    "total_withdrawals": "0.00",
+    "account_status": "active"
+  },
+  {
+    "accountId": "greg_household_003",
+    "email": "greg.morris77@gmail.com",
+    "name": "Greg Morris",
+    "accountType": "household",
+    "role": "Household Manager",
+    "kyc_status": "verified",
+    "created_date": "1710480000000",
+    "portfolio_value_usd": "8925.67",
+    "monthly_alloILtion": "1500.00",
+    "primary_use": "Household expenses and family savings",
+    "risk_profile": "conservative",
+    "two_factor_enabled": true,
+    "total_trades": 8,
+    "total_deposits": "5500.00",
+    "total_withdrawals": "2000.00",
+    "account_status": "active"
+  }
+]
+

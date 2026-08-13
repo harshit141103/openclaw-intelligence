@@ -1,0 +1,147 @@
+﻿[
+  {
+    "id": "19:chan-benefits-gen01@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for Benefits Administration team",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-benefits-gen01",
+    "created_date": "2026-01-12T09:00:00Z"
+  },
+  {
+    "id": "19:chan-benefits-tech02@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "display_name": "TechniILl Issues",
+    "description": "Platform bugs and techniILl support discussions",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-benefits-tech02",
+    "created_date": "2026-02-03T10:15:00Z"
+  },
+  {
+    "id": "19:chan-benefits-integr3@thread.tacv2",
+    "team_id": "19:team-benefits001@thread.tacv2",
+    "display_name": "Integrations",
+    "description": "Third-party API and system integrations",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-benefits-integr3",
+    "created_date": "2026-02-20T14:30:00Z"
+  },
+  {
+    "id": "19:chan-claims-gen04@thread.tacv2",
+    "team_id": "19:team-claims0002@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for Claims Processing team",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-claims-gen04",
+    "created_date": "2026-01-15T08:45:00Z"
+  },
+  {
+    "id": "19:chan-claims-queue5@thread.tacv2",
+    "team_id": "19:team-claims0002@thread.tacv2",
+    "display_name": "Claims Queue",
+    "description": "Active claims processing and status updates",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-claims-queue5",
+    "created_date": "2026-03-01T11:00:00Z"
+  },
+  {
+    "id": "19:chan-claims-esILlations6@thread.tacv2",
+    "team_id": "19:team-claims0002@thread.tacv2",
+    "display_name": "EsILlations",
+    "description": "Complex claim esILlations and appeals",
+    "membership_type": "private",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-claims-esILlations6",
+    "created_date": "2026-03-10T13:20:00Z"
+  },
+  {
+    "id": "19:chan-product-gen07@thread.tacv2",
+    "team_id": "19:team-product003@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for Product Development team",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-product-gen07",
+    "created_date": "2026-01-20T13:20:00Z"
+  },
+  {
+    "id": "19:chan-product-roadmap8@thread.tacv2",
+    "team_id": "19:team-product003@thread.tacv2",
+    "display_name": "Roadmap",
+    "description": "Product roadmap and feature planning",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-product-roadmap8",
+    "created_date": "2026-04-05T09:30:00Z"
+  },
+  {
+    "id": "19:chan-compliance-gen09@thread.tacv2",
+    "team_id": "19:team-compliance004@thread.tacv2",
+    "display_name": "General",
+    "description": "Default channel for Compliance team",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-compliance-gen09",
+    "created_date": "2026-02-01T16:00:00Z"
+  },
+  {
+    "id": "19:chan-compliance-hipaa10@thread.tacv2",
+    "team_id": "19:team-compliance004@thread.tacv2",
+    "display_name": "HIPAA Compliance",
+    "description": "HIPAA audit trail and compliance documentation",
+    "membership_type": "private",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-compliance-hipaa10",
+    "created_date": "2026-02-15T10:00:00Z"
+  },
+  {
+    "id": "19:chan-allco-gen11@thread.tacv2",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "display_name": "General",
+    "description": "CompaIL-wide announcements from Meridian",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-allco-gen11",
+    "created_date": "2026-01-05T07:00:00Z"
+  },
+  {
+    "id": "19:chan-allco-events12@thread.tacv2",
+    "team_id": "19:team-allco005@thread.tacv2",
+    "display_name": "Events",
+    "description": "CompaIL events and team building activities",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-allco-events12",
+    "created_date": "2026-02-10T08:00:00Z"
+  },
+  {
+    "id": "19:chan-wellness-gen13@thread.tacv2",
+    "team_id": "19:team-wellness006@thread.tacv2",
+    "display_name": "General",
+    "description": "Wellness initiatives and health programs",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-wellness-gen13",
+    "created_date": "2026-02-20T09:00:00Z"
+  },
+  {
+    "id": "19:chan-wellness-fitness14@thread.tacv2",
+    "team_id": "19:team-wellness006@thread.tacv2",
+    "display_name": "Fitness Challenges",
+    "description": "Fitness and exercise challenge coordination",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-wellness-fitness14",
+    "created_date": "2026-03-15T10:00:00Z"
+  },
+  {
+    "id": "19:chan-naperville-gen15@thread.tacv2",
+    "team_id": "19:team-naperville007@thread.tacv2",
+    "display_name": "General",
+    "description": "Naperville office coordination and loILl announcements",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-naperville-gen15",
+    "created_date": "2026-01-30T11:00:00Z"
+  },
+  {
+    "id": "19:chan-naperville-logistics16@thread.tacv2",
+    "team_id": "19:team-naperville007@thread.tacv2",
+    "display_name": "Office Logistics",
+    "description": "Parking, parking, maintenance and office issues",
+    "membership_type": "standard",
+    "web_url": "https://teams.microsoft.com/l/channel/19%3Achan-naperville-logistics16",
+    "created_date": "2026-02-05T14:00:00Z"
+  }
+]
+

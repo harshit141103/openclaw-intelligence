@@ -1,0 +1,221 @@
+id,account,merchant,category,amount,date
+1,Primary Checking,Payroll,Income,2110.50,2021-01-01
+2,Primary Checking,Mortgage/Rent,Expense,-1457.35,2021-01-02
+3,Primary Checking,Grocery Market,Expense,-147.01,2021-01-03
+4,Primary Checking,Utilities,Expense,-218.28,2021-01-04
+5,Primary Checking,Mobile Phone,Expense,-82.42,2021-01-05
+6,Primary Checking,Insurance,Expense,-164.78,2021-01-06
+7,Primary Checking,Fuel,Expense,-55.13,2021-01-07
+8,Primary Checking,Streaming,Expense,-20.14,2021-01-08
+9,Primary Checking,Dining,Expense,-40.31,2021-01-09
+10,Primary Checking,Savings Transfer,Expense,-247.37,2021-01-10
+11,Primary Checking,Payroll,Income,2109.48,2021-04-01
+12,Primary Checking,Mortgage/Rent,Expense,-1460.23,2021-04-02
+13,Primary Checking,Grocery Market,Expense,-173.14,2021-04-03
+14,Primary Checking,Utilities,Expense,-209.17,2021-04-04
+15,Primary Checking,Mobile Phone,Expense,-76.23,2021-04-05
+16,Primary Checking,Insurance,Expense,-186.01,2021-04-06
+17,Primary Checking,Fuel,Expense,-59.68,2021-04-07
+18,Primary Checking,Streaming,Expense,-29.05,2021-04-08
+19,Primary Checking,Dining,Expense,-57.64,2021-04-09
+20,Primary Checking,Savings Transfer,Expense,-264.20,2021-04-10
+21,Primary Checking,Payroll,Income,2083.23,2021-07-01
+22,Primary Checking,Mortgage/Rent,Expense,-1460.73,2021-07-02
+23,Primary Checking,Grocery Market,Expense,-162.07,2021-07-03
+24,Primary Checking,Utilities,Expense,-201.99,2021-07-04
+25,Primary Checking,Mobile Phone,Expense,-70.90,2021-07-05
+26,Primary Checking,Insurance,Expense,-175.29,2021-07-06
+27,Primary Checking,Fuel,Expense,-78.33,2021-07-07
+28,Primary Checking,Streaming,Expense,-20.74,2021-07-08
+29,Primary Checking,Dining,Expense,-70.51,2021-07-09
+30,Primary Checking,Savings Transfer,Expense,-245.36,2021-07-10
+31,Primary Checking,Payroll,Income,2099.91,2021-10-01
+32,Primary Checking,Mortgage/Rent,Expense,-1465.52,2021-10-02
+33,Primary Checking,Grocery Market,Expense,-168.45,2021-10-03
+34,Primary Checking,Utilities,Expense,-221.83,2021-10-04
+35,Primary Checking,Mobile Phone,Expense,-91.10,2021-10-05
+36,Primary Checking,Insurance,Expense,-182.60,2021-10-06
+37,Primary Checking,Fuel,Expense,-84.19,2021-10-07
+38,Primary Checking,Streaming,Expense,-12.95,2021-10-08
+39,Primary Checking,Dining,Expense,-72.22,2021-10-09
+40,Primary Checking,Savings Transfer,Expense,-245.89,2021-10-10
+41,Primary Checking,Payroll,Income,2117.75,2022-01-01
+42,Primary Checking,Mortgage/Rent,Expense,-1440.65,2022-01-02
+43,Primary Checking,Grocery Market,Expense,-181.47,2022-01-03
+44,Primary Checking,Utilities,Expense,-199.72,2022-01-04
+45,Primary Checking,Mobile Phone,Expense,-72.22,2022-01-05
+46,Primary Checking,Insurance,Expense,-195.02,2022-01-06
+47,Primary Checking,Fuel,Expense,-84.88,2022-01-07
+48,Primary Checking,Streaming,Expense,-28.91,2022-01-08
+49,Primary Checking,Dining,Expense,-66.94,2022-01-09
+50,Primary Checking,Savings Transfer,Expense,-238.74,2022-01-10
+51,Primary Checking,Payroll,Income,2097.65,2022-04-01
+52,Primary Checking,Mortgage/Rent,Expense,-1448.63,2022-04-02
+53,Primary Checking,Grocery Market,Expense,-157.93,2022-04-03
+54,Primary Checking,Utilities,Expense,-214.05,2022-04-04
+55,Primary Checking,Mobile Phone,Expense,-76.53,2022-04-05
+56,Primary Checking,Insurance,Expense,-174.40,2022-04-06
+57,Primary Checking,Fuel,Expense,-61.32,2022-04-07
+58,Primary Checking,Streaming,Expense,-16.16,2022-04-08
+59,Primary Checking,Dining,Expense,-49.22,2022-04-09
+60,Primary Checking,Savings Transfer,Expense,-260.03,2022-04-10
+61,Primary Checking,Payroll,Income,2111.68,2022-07-01
+62,Primary Checking,Mortgage/Rent,Expense,-1433.66,2022-07-02
+63,Primary Checking,Grocery Market,Expense,-170.56,2022-07-03
+64,Primary Checking,Utilities,Expense,-197.15,2022-07-04
+65,Primary Checking,Mobile Phone,Expense,-100.98,2022-07-05
+66,Primary Checking,Insurance,Expense,-180.82,2022-07-06
+67,Primary Checking,Fuel,Expense,-86.08,2022-07-07
+68,Primary Checking,Streaming,Expense,-0.50,2022-07-08
+69,Primary Checking,Dining,Expense,-66.54,2022-07-09
+70,Primary Checking,Savings Transfer,Expense,-264.25,2022-07-10
+71,Primary Checking,Payroll,Income,2100.94,2022-10-01
+72,Primary Checking,Mortgage/Rent,Expense,-1432.63,2022-10-02
+73,Primary Checking,Grocery Market,Expense,-151.23,2022-10-03
+74,Primary Checking,Utilities,Expense,-227.44,2022-10-04
+75,Primary Checking,Mobile Phone,Expense,-69.99,2022-10-05
+76,Primary Checking,Insurance,Expense,-175.67,2022-10-06
+77,Primary Checking,Fuel,Expense,-80.80,2022-10-07
+78,Primary Checking,Streaming,Expense,-28.13,2022-10-08
+79,Primary Checking,Dining,Expense,-49.68,2022-10-09
+80,Primary Checking,Savings Transfer,Expense,-237.66,2022-10-10
+81,Primary Checking,Payroll,Income,2116.37,2023-01-01
+82,Primary Checking,Mortgage/Rent,Expense,-1440.93,2023-01-02
+83,Primary Checking,Grocery Market,Expense,-159.69,2023-01-03
+84,Primary Checking,Utilities,Expense,-217.23,2023-01-04
+85,Primary Checking,Mobile Phone,Expense,-74.46,2023-01-05
+86,Primary Checking,Insurance,Expense,-178.09,2023-01-06
+87,Primary Checking,Fuel,Expense,-86.88,2023-01-07
+88,Primary Checking,Streaming,Expense,-2.50,2023-01-08
+89,Primary Checking,Dining,Expense,-67.22,2023-01-09
+90,Primary Checking,Savings Transfer,Expense,-256.63,2023-01-10
+91,Primary Checking,Payroll,Income,2090.21,2023-04-01
+92,Primary Checking,Mortgage/Rent,Expense,-1442.53,2023-04-02
+93,Primary Checking,Grocery Market,Expense,-152.76,2023-04-03
+94,Primary Checking,Utilities,Expense,-206.10,2023-04-04
+95,Primary Checking,Mobile Phone,Expense,-84.76,2023-04-05
+96,Primary Checking,Insurance,Expense,-168.86,2023-04-06
+97,Primary Checking,Fuel,Expense,-60.34,2023-04-07
+98,Primary Checking,Streaming,Expense,-21.03,2023-04-08
+99,Primary Checking,Dining,Expense,-65.44,2023-04-09
+100,Primary Checking,Savings Transfer,Expense,-247.43,2023-04-10
+101,Primary Checking,Payroll,Income,2090.68,2023-07-01
+102,Primary Checking,Mortgage/Rent,Expense,-1443.24,2023-07-02
+103,Primary Checking,Grocery Market,Expense,-164.15,2023-07-03
+104,Primary Checking,Utilities,Expense,-213.32,2023-07-04
+105,Primary Checking,Mobile Phone,Expense,-83.48,2023-07-05
+106,Primary Checking,Insurance,Expense,-168.37,2023-07-06
+107,Primary Checking,Fuel,Expense,-67.22,2023-07-07
+108,Primary Checking,Streaming,Expense,-31.82,2023-07-08
+109,Primary Checking,Dining,Expense,-50.04,2023-07-09
+110,Primary Checking,Savings Transfer,Expense,-255.74,2023-07-10
+111,Primary Checking,Payroll,Income,2096.83,2023-10-01
+112,Primary Checking,Mortgage/Rent,Expense,-1458.04,2023-10-02
+113,Primary Checking,Grocery Market,Expense,-181.67,2023-10-03
+114,Primary Checking,Utilities,Expense,-202.86,2023-10-04
+115,Primary Checking,Mobile Phone,Expense,-74.31,2023-10-05
+116,Primary Checking,Insurance,Expense,-194.30,2023-10-06
+117,Primary Checking,Fuel,Expense,-73.61,2023-10-07
+118,Primary Checking,Streaming,Expense,-5.09,2023-10-08
+119,Primary Checking,Dining,Expense,-69.67,2023-10-09
+120,Primary Checking,Savings Transfer,Expense,-254.35,2023-10-10
+121,Primary Checking,Payroll,Income,2100.84,2024-01-01
+122,Primary Checking,Mortgage/Rent,Expense,-1443.33,2024-01-02
+123,Primary Checking,Grocery Market,Expense,-166.23,2024-01-03
+124,Primary Checking,Utilities,Expense,-202.01,2024-01-04
+125,Primary Checking,Mobile Phone,Expense,-99.84,2024-01-05
+126,Primary Checking,Insurance,Expense,-180.68,2024-01-06
+127,Primary Checking,Fuel,Expense,-85.67,2024-01-07
+128,Primary Checking,Streaming,Expense,-4.30,2024-01-08
+129,Primary Checking,Dining,Expense,-45.52,2024-01-09
+130,Primary Checking,Savings Transfer,Expense,-262.37,2024-01-10
+131,Primary Checking,Payroll,Income,2099.73,2024-04-01
+132,Primary Checking,Mortgage/Rent,Expense,-1443.26,2024-04-02
+133,Primary Checking,Grocery Market,Expense,-156.66,2024-04-03
+134,Primary Checking,Utilities,Expense,-213.48,2024-04-04
+135,Primary Checking,Mobile Phone,Expense,-101.25,2024-04-05
+136,Primary Checking,Insurance,Expense,-189.18,2024-04-06
+137,Primary Checking,Fuel,Expense,-81.35,2024-04-07
+138,Primary Checking,Streaming,Expense,-24.14,2024-04-08
+139,Primary Checking,Dining,Expense,-48.51,2024-04-09
+140,Primary Checking,Savings Transfer,Expense,-245.65,2024-04-10
+141,Primary Checking,Payroll,Income,2098.69,2024-07-01
+142,Primary Checking,Mortgage/Rent,Expense,-1442.60,2024-07-02
+143,Primary Checking,Grocery Market,Expense,-169.20,2024-07-03
+144,Primary Checking,Utilities,Expense,-198.60,2024-07-04
+145,Primary Checking,Mobile Phone,Expense,-67.47,2024-07-05
+146,Primary Checking,Insurance,Expense,-174.85,2024-07-06
+147,Primary Checking,Fuel,Expense,-58.25,2024-07-07
+148,Primary Checking,Streaming,Expense,-5.76,2024-07-08
+149,Primary Checking,Dining,Expense,-43.46,2024-07-09
+150,Primary Checking,Savings Transfer,Expense,-267.49,2024-07-10
+151,Primary Checking,Payroll,Income,2097.45,2024-10-01
+152,Primary Checking,Mortgage/Rent,Expense,-1458.98,2024-10-02
+153,Primary Checking,Grocery Market,Expense,-172.90,2024-10-03
+154,Primary Checking,Utilities,Expense,-205.44,2024-10-04
+155,Primary Checking,Mobile Phone,Expense,-77.00,2024-10-05
+156,Primary Checking,Insurance,Expense,-186.86,2024-10-06
+157,Primary Checking,Fuel,Expense,-81.10,2024-10-07
+158,Primary Checking,Streaming,Expense,-17.76,2024-10-08
+159,Primary Checking,Dining,Expense,-63.18,2024-10-09
+160,Primary Checking,Savings Transfer,Expense,-258.22,2024-10-10
+161,Primary Checking,Payroll,Income,2110.14,2025-01-01
+162,Primary Checking,Mortgage/Rent,Expense,-1434.02,2025-01-02
+163,Primary Checking,Grocery Market,Expense,-169.65,2025-01-03
+164,Primary Checking,Utilities,Expense,-195.13,2025-01-04
+165,Primary Checking,Mobile Phone,Expense,-74.64,2025-01-05
+166,Primary Checking,Insurance,Expense,-183.43,2025-01-06
+167,Primary Checking,Fuel,Expense,-74.53,2025-01-07
+168,Primary Checking,Streaming,Expense,-2.02,2025-01-08
+169,Primary Checking,Dining,Expense,-38.02,2025-01-09
+170,Primary Checking,Savings Transfer,Expense,-252.08,2025-01-10
+171,Primary Checking,Payroll,Income,2116.01,2025-04-01
+172,Primary Checking,Mortgage/Rent,Expense,-1446.19,2025-04-02
+173,Primary Checking,Grocery Market,Expense,-168.63,2025-04-03
+174,Primary Checking,Utilities,Expense,-195.61,2025-04-04
+175,Primary Checking,Mobile Phone,Expense,-72.95,2025-04-05
+176,Primary Checking,Insurance,Expense,-170.75,2025-04-06
+177,Primary Checking,Fuel,Expense,-65.51,2025-04-07
+178,Primary Checking,Streaming,Expense,-1.98,2025-04-08
+179,Primary Checking,Dining,Expense,-41.88,2025-04-09
+180,Primary Checking,Savings Transfer,Expense,-266.19,2025-04-10
+181,Primary Checking,Payroll,Income,2101.13,2025-07-01
+182,Primary Checking,Mortgage/Rent,Expense,-1440.54,2025-07-02
+183,Primary Checking,Grocery Market,Expense,-176.98,2025-07-03
+184,Primary Checking,Utilities,Expense,-215.78,2025-07-04
+185,Primary Checking,Mobile Phone,Expense,-73.88,2025-07-05
+186,Primary Checking,Insurance,Expense,-185.23,2025-07-06
+187,Primary Checking,Fuel,Expense,-85.64,2025-07-07
+188,Primary Checking,Streaming,Expense,-1.29,2025-07-08
+189,Primary Checking,Dining,Expense,-65.41,2025-07-09
+190,Primary Checking,Savings Transfer,Expense,-261.88,2025-07-10
+191,Primary Checking,Payroll,Income,2112.05,2025-10-01
+192,Primary Checking,Mortgage/Rent,Expense,-1463.93,2025-10-02
+193,Primary Checking,Grocery Market,Expense,-151.75,2025-10-03
+194,Primary Checking,Utilities,Expense,-201.26,2025-10-04
+195,Primary Checking,Mobile Phone,Expense,-80.70,2025-10-05
+196,Primary Checking,Insurance,Expense,-182.04,2025-10-06
+197,Primary Checking,Fuel,Expense,-71.27,2025-10-07
+198,Primary Checking,Streaming,Expense,-29.86,2025-10-08
+199,Primary Checking,Dining,Expense,-54.20,2025-10-09
+200,Primary Checking,Savings Transfer,Expense,-260.26,2025-10-10
+201,Primary Checking,Payroll,Income,2108.01,2026-01-01
+202,Primary Checking,Mortgage/Rent,Expense,-1445.72,2026-01-02
+203,Primary Checking,Grocery Market,Expense,-177.04,2026-01-03
+204,Primary Checking,Utilities,Expense,-208.53,2026-01-04
+205,Primary Checking,Mobile Phone,Expense,-73.96,2026-01-05
+206,Primary Checking,Insurance,Expense,-185.93,2026-01-06
+207,Primary Checking,Fuel,Expense,-59.79,2026-01-07
+208,Primary Checking,Streaming,Expense,-4.51,2026-01-08
+209,Primary Checking,Dining,Expense,-39.50,2026-01-09
+210,Primary Checking,Savings Transfer,Expense,-241.07,2026-01-10
+211,Primary Checking,Payroll,Income,2089.32,2026-04-01
+212,Primary Checking,Mortgage/Rent,Expense,-1454.32,2026-04-02
+213,Primary Checking,Grocery Market,Expense,-164.23,2026-04-03
+214,Primary Checking,Utilities,Expense,-198.95,2026-04-04
+215,Primary Checking,Mobile Phone,Expense,-90.69,2026-04-05
+216,Primary Checking,Insurance,Expense,-190.33,2026-04-06
+217,Primary Checking,Fuel,Expense,-76.35,2026-04-07
+218,Primary Checking,Streaming,Expense,-13.02,2026-04-08
+219,Primary Checking,Dining,Expense,-69.88,2026-04-09
+220,Primary Checking,Savings Transfer,Expense,-260.84,2026-04-10

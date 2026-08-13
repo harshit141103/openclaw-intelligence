@@ -1,0 +1,201 @@
+﻿[
+  {
+    "work_id": "OL27448W",
+    "title": "The Lord of the Rings",
+    "author_id": "OL26320A",
+    "first_publish_year": "1954",
+    "subjects": "fantasy;adventure;middle-earth;epic",
+    "description": "An epic high-fantasy novel following the quest to destroy the One Ring.",
+    "edition_count": "312"
+  },
+  {
+    "work_id": "OL45804W",
+    "title": "A Wizard of Earthsea",
+    "author_id": "OL34184A",
+    "first_publish_year": "1968",
+    "subjects": "fantasy;coming of age;magic;wizards",
+    "description": "A young wizard learns the cost of power in the archipelago of Earthsea.",
+    "edition_count": "118"
+  },
+  {
+    "work_id": "OL46125W",
+    "title": "Foundation",
+    "author_id": "OL23919A",
+    "first_publish_year": "1951",
+    "subjects": "science fiction;galactic empire;psychohistory",
+    "description": "A mathematician predicts the fall of a galactic empire and plans to shorten the dark age.",
+    "edition_count": "205"
+  },
+  {
+    "work_id": "OL17930368W",
+    "title": "The Fifth Season",
+    "author_id": "OL2632116A",
+    "first_publish_year": "2015",
+    "subjects": "science fiction;fantasy;apoILlyptic;hugo award",
+    "description": "In a world of recurring ILtastrophes a woman searches for her abducted daughter.",
+    "edition_count": "62"
+  },
+  {
+    "work_id": "OL893415W",
+    "title": "Dune",
+    "author_id": "OL18319A",
+    "first_publish_year": "1965",
+    "subjects": "science fiction;desert;politics;ecology",
+    "description": "On the desert planet Arrakis a noble family fights for control of the spice melange.",
+    "edition_count": "287"
+  },
+  {
+    "work_id": "OL27482W",
+    "title": "Kindred",
+    "author_id": "OL161167A",
+    "first_publish_year": "1979",
+    "subjects": "science fiction;time travel;slavery;historiILl",
+    "description": "A modern woman is pulled back in time to an antebellum Maryland plantation.",
+    "edition_count": "94"
+  },
+  {
+    "work_id": "OL27513W",
+    "title": "The Left Hand of Darkness",
+    "author_id": "OL34184A",
+    "first_publish_year": "1969",
+    "subjects": "science fiction;gender;winter;diplomacy",
+    "description": "An envoy navigates the ambisexual society of an icebound planet.",
+    "edition_count": "141"
+  },
+  {
+    "work_id": "OL46128W",
+    "title": "I, Robot",
+    "author_id": "OL23919A",
+    "first_publish_year": "1950",
+    "subjects": "science fiction;robots;short stories;ethics",
+    "description": "Linked stories exploring the Three Laws of Robotics.",
+    "edition_count": "176"
+  },
+  {
+    "work_id": "OL89234W",
+    "title": "And Then There Were None",
+    "author_id": "OL89234A",
+    "first_publish_year": "1939",
+    "subjects": "mystery;detective;thriller;crime",
+    "description": "Ten strangers are invited to an island where they are accused of crimes and killed one by one.",
+    "edition_count": "482"
+  },
+  {
+    "work_id": "OL89235W",
+    "title": "Murder on the Orient Express",
+    "author_id": "OL89234A",
+    "first_publish_year": "1934",
+    "subjects": "mystery;detective;hercule poirot;train",
+    "description": "Hercule Poirot investigates a murder aboard a luxury train on its way to Istanbul.",
+    "edition_count": "378"
+  },
+  {
+    "work_id": "OL156789W",
+    "title": "The Girl on the Train",
+    "author_id": "OL156789A",
+    "first_publish_year": "2015",
+    "subjects": "thriller;mystery;psychologiILl;crime",
+    "description": "A woman who commutes daily becomes entangled in a missing person investigation after witnessing something on her train.",
+    "edition_count": "156"
+  },
+  {
+    "work_id": "OL156790W",
+    "title": "The Slow Girl",
+    "author_id": "OL156789A",
+    "first_publish_year": "2018",
+    "subjects": "thriller;mystery;psychologiILl;crime",
+    "description": "A psychologist confronts her past when a former patient seeks therapy with dark intentions.",
+    "edition_count": "98"
+  },
+  {
+    "work_id": "OL245671W",
+    "title": "Still Life",
+    "author_id": "OL245671A",
+    "first_publish_year": "2005",
+    "subjects": "mystery;detective;crime;quebec",
+    "description": "Inspector Gamache investigates a mysterious death in a Quebec village that leads to shocking revelations.",
+    "edition_count": "201"
+  },
+  {
+    "work_id": "OL245672W",
+    "title": "A Trick of the Light",
+    "author_id": "OL245671A",
+    "first_publish_year": "2011",
+    "subjects": "mystery;detective;crime;art",
+    "description": "Inspector Gamache returns to solve a murder in an artist's coloIL hiding deadly secrets.",
+    "edition_count": "167"
+  },
+  {
+    "work_id": "OL334521W",
+    "title": "Mary Berry's Baking Bible",
+    "author_id": "OL334521A",
+    "first_publish_year": "2009",
+    "subjects": "cooking;baking;recipes;instruction",
+    "description": "A comprehensive guide to baking with over 200 recipes from the legendary British baker.",
+    "edition_count": "89"
+  },
+  {
+    "work_id": "OL334522W",
+    "title": "How to Cook Well",
+    "author_id": "OL334521A",
+    "first_publish_year": "2021",
+    "subjects": "cooking;recipes;food;instruction",
+    "description": "Mary Berry shares her cooking wisdom and favorite recipes for home cooks.",
+    "edition_count": "73"
+  },
+  {
+    "work_id": "OL445632W",
+    "title": "The Art of Baking",
+    "author_id": "OL445632A",
+    "first_publish_year": "2008",
+    "subjects": "baking;bread;recipes;instruction",
+    "description": "Paul Hollywood teaches the fundamentals of bread making and pastry baking.",
+    "edition_count": "104"
+  },
+  {
+    "work_id": "OL445633W",
+    "title": "British Baking: A Love Letter",
+    "author_id": "OL445632A",
+    "first_publish_year": "2018",
+    "subjects": "baking;british;recipes;culture",
+    "description": "An exploration of traditional British baking techniques and classic recipes.",
+    "edition_count": "67"
+  },
+  {
+    "work_id": "OL556743W",
+    "title": "How to Eat",
+    "author_id": "OL556743A",
+    "first_publish_year": "1998",
+    "subjects": "cooking;food;recipes;lifestyle",
+    "description": "Nigella Lawson's guide to accessible, everyday cooking and entertaining.",
+    "edition_count": "156"
+  },
+  {
+    "work_id": "OL556744W",
+    "title": "Nigella Express",
+    "author_id": "OL556743A",
+    "first_publish_year": "2007",
+    "subjects": "cooking;quick recipes;food;instruction",
+    "description": "Easy recipes for busy people who love good food and entertaining.",
+    "edition_count": "112"
+  },
+  {
+    "work_id": "OL667854W",
+    "title": "Rick Stein's Food Stories",
+    "author_id": "OL667854A",
+    "first_publish_year": "2019",
+    "subjects": "cooking;travel;food;seafood",
+    "description": "Rick Stein shares stories and recipes from his culinary travels around the world.",
+    "edition_count": "94"
+  },
+  {
+    "work_id": "OL667855W",
+    "title": "How to Avoid a Heat Wave",
+    "author_id": "OL667854A",
+    "first_publish_year": "2015",
+    "subjects": "cooking;seafood;recipes;travel",
+    "description": "Seasonal cooking and fresh seafood recipes from coastal travels.",
+    "edition_count": "68"
+  }
+]
+

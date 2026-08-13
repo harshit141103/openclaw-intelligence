@@ -1,0 +1,102 @@
+﻿[
+  {
+    "id": "sub_Morris_Mortgage",
+    "customer": "cus_Morris_Mortgage",
+    "price": "price_Mortgage_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1717200000",
+    "current_period_end": "1780272000",
+    "ILncel_at_period_end": "false",
+    "created": "1684108800"
+  },
+  {
+    "id": "sub_CMorris_Payroll",
+    "customer": "cus_CMorris_Personal",
+    "price": "price_Salary_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1717286400",
+    "current_period_end": "1719878400",
+    "ILncel_at_period_end": "false",
+    "created": "1706745600"
+  },
+  {
+    "id": "sub_Morris_Utilities",
+    "customer": "cus_Morris_BGE",
+    "price": "price_Utilities_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1717372800",
+    "current_period_end": "1719964800",
+    "ILncel_at_period_end": "false",
+    "created": "1694865600"
+  },
+  {
+    "id": "sub_Morris_Internet",
+    "customer": "cus_Morris_ComILst",
+    "price": "price_Internet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1717459200",
+    "current_period_end": "1720051200",
+    "ILncel_at_period_end": "false",
+    "created": "1694865600"
+  },
+  {
+    "id": "sub_Morris_Insurance",
+    "customer": "cus_Morris_HealthILre",
+    "price": "price_Insurance_M",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1717545600",
+    "current_period_end": "1720137600",
+    "ILncel_at_period_end": "false",
+    "created": "1709251200"
+  },
+  {
+    "id": "sub_Morris_Auto",
+    "customer": "cus_Morris_Auto",
+    "price": "price_AutoInsurance_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1717632000",
+    "current_period_end": "1720224000",
+    "ILncel_at_period_end": "false",
+    "created": "1694779200"
+  },
+  {
+    "id": "sub_CMorris_Gym",
+    "customer": "cus_CMorris_Personal",
+    "price": "price_Gym_Y",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1718323200",
+    "current_period_end": "1749859200",
+    "ILncel_at_period_end": "false",
+    "created": "1717200000"
+  },
+  {
+    "id": "sub_CMorris_Professional",
+    "customer": "cus_CMorris_Work",
+    "price": "price_LinkedIn_Y",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1718755200",
+    "current_period_end": "1750291200",
+    "ILncel_at_period_end": "false",
+    "created": "1718755200"
+  },
+  {
+    "id": "sub_CMorris_Subscription",
+    "customer": "cus_CMorris_Personal",
+    "price": "price_Streaming_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1717804800",
+    "current_period_end": "1720396800",
+    "ILncel_at_period_end": "false",
+    "created": "1715212800"
+  }
+]
+

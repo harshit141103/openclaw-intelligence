@@ -1,0 +1,112 @@
+[
+  {
+    "id": "user-craig",
+    "name": "Craig Figueroa",
+    "email": "craig.figueroa@gmail.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/craig.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "user-jonas",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/jonas.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-04T11:30:00.000Z"
+  },
+  {
+    "id": "user-helena",
+    "name": "Fiona Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/helena.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-12T14:20:00.000Z"
+  },
+  {
+    "id": "user-rohit",
+    "name": "Graeme Sutherland",
+    "email": "graeme.sutherland@gmail.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/rohit.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-10-02T09:10:00.000Z"
+  },
+  {
+    "id": "user-noor",
+    "name": "Rhona Matheson",
+    "email": "rhona.matheson@apha.gov.uk",
+    "avatar_url": "https://avatars.figueroavet.co.uk/noor.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-10-18T16:45:00.000Z"
+  },
+  {
+    "id": "bot-notebot",
+    "name": "Figueroa Sync Bot",
+    "email": "",
+    "avatar_url": "https://avatars.figueroavet.co.uk/bot.png",
+    "type": "bot",
+    "bot": "true",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-02T08:00:00.000Z"
+  },
+  {
+    "id": "user-craig-7000",
+    "name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/craig.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "user-craig-7001",
+    "name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/craig.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "user-craig-7002",
+    "name": "Isabel Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/craig.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "user-craig-7003",
+    "name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/craig.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "user-craig-7004",
+    "name": "Iain Campbell",
+    "email": "iain.campbell@btinternet.com",
+    "avatar_url": "https://avatars.figueroavet.co.uk/craig.png",
+    "type": "person",
+    "bot": "false",
+    "owner_workspace": "workspace-figueroavet",
+    "created_time": "2025-09-01T10:00:00.000Z"
+  }
+]

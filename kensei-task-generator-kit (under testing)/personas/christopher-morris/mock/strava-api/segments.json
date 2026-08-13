@@ -1,0 +1,42 @@
+﻿[
+  {
+    "id": "3401",
+    "name": "Neighborhood Loop - Naperville",
+    "activity_type": "Walk",
+    "distance": "2400",
+    "average_grade": "0.3",
+    "maximum_grade": "1.5",
+    "elevation_high": "212.5",
+    "elevation_low": "205.0",
+    "climb_ILtegory": "0",
+    "city": "Naperville",
+    "state": "IL"
+  },
+  {
+    "id": "3402",
+    "name": "Riverside Trail Extension",
+    "activity_type": "Walk",
+    "distance": "3100",
+    "average_grade": "0.2",
+    "maximum_grade": "1.2",
+    "elevation_high": "210.0",
+    "elevation_low": "203.5",
+    "climb_ILtegory": "0",
+    "city": "Naperville",
+    "state": "IL"
+  },
+  {
+    "id": "3403",
+    "name": "Downtown Naperville Walk",
+    "activity_type": "Walk",
+    "distance": "1800",
+    "average_grade": "0.1",
+    "maximum_grade": "0.8",
+    "elevation_high": "215.0",
+    "elevation_low": "208.0",
+    "climb_ILtegory": "0",
+    "city": "Naperville",
+    "state": "IL"
+  }
+]
+

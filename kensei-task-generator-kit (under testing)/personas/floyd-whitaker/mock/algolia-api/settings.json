@@ -1,0 +1,142 @@
+[
+  {
+    "index": "products",
+    "searchableAttributes": "name,description,brand,category",
+    "attributesForFaceting": "category,brand,in_stock",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "docs",
+    "searchableAttributes": "title,body,section,tags",
+    "attributesForFaceting": "section,tags",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "carriers",
+    "searchableAttributes": "name,mc_number,dot_number,equipment_type",
+    "attributesForFaceting": "equipment_type,status,home_state",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "lanes",
+    "searchableAttributes": "name,origin,destination,equipment_type",
+    "attributesForFaceting": "origin_state,destination_state,equipment_type",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "shippers",
+    "searchableAttributes": "name,commodity,city,contact",
+    "attributesForFaceting": "commodity,state,status",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "loads",
+    "searchableAttributes": "load_ref,origin,destination,shipper,carrier",
+    "attributesForFaceting": "status,equipment_type,origin_state,destination_state",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "invoices",
+    "searchableAttributes": "invoice_number,shipper,load_ref",
+    "attributesForFaceting": "status,month,shipper",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "rate_confirmations",
+    "searchableAttributes": "conf_number,carrier,load_ref,lane",
+    "attributesForFaceting": "status,carrier,equipment_type",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "lane_rates",
+    "searchableAttributes": "name,origin,destination,equipment_type",
+    "attributesForFaceting": "equipment_type,origin_state,destination_state",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "claims",
+    "searchableAttributes": "claim_number,shipper,carrier,description",
+    "attributesForFaceting": "status,claim_type,carrier",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "quotes",
+    "searchableAttributes": "quote_ref,shipper,origin,destination",
+    "attributesForFaceting": "status,commodity,equipment_type",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "insurance_certs",
+    "searchableAttributes": "cert_holder,carrier,policy_number",
+    "attributesForFaceting": "status,coverage_type,carrier",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "webinars",
+    "searchableAttributes": "title,topic,presenter,description",
+    "attributesForFaceting": "topic,year,status",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "mentees",
+    "searchableAttributes": "name,company,cohort,focus_area",
+    "attributesForFaceting": "cohort,status,focus_area",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "contacts",
+    "searchableAttributes": "name,email,company,role",
+    "attributesForFaceting": "company,role,type",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "referrals",
+    "searchableAttributes": "source,referred_name,company,notes",
+    "attributesForFaceting": "status,source,outcome",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "fuel_surcharges",
+    "searchableAttributes": "week,region,index_source",
+    "attributesForFaceting": "region,year,index_source",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "accessorials",
+    "searchableAttributes": "name,code,description",
+    "attributesForFaceting": "category,billable",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "tnfa_events",
+    "searchableAttributes": "title,location,description,date",
+    "attributesForFaceting": "year,event_type,location",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "eval_criteria",
+    "searchableAttributes": "criterion,category,notes",
+    "attributesForFaceting": "category,product,weight",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  }
+]

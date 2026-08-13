@@ -1,0 +1,102 @@
+[
+  {
+    "channel_id": "C01GENERAL100",
+    "user_id": "U01ben"
+  },
+  {
+    "channel_id": "C01GENERAL100",
+    "user_id": "U01keith"
+  },
+  {
+    "channel_id": "C01GENERAL100",
+    "user_id": "U01diane"
+  },
+  {
+    "channel_id": "C01GENERAL100",
+    "user_id": "U01PETE"
+  },
+  {
+    "channel_id": "C01GENERAL101",
+    "user_id": "U01WALT"
+  },
+  {
+    "channel_id": "C01GENERAL101",
+    "user_id": "U01ben-5"
+  },
+  {
+    "channel_id": "C01GENERAL101",
+    "user_id": "U01keith-6"
+  },
+  {
+    "channel_id": "C01GENERAL101",
+    "user_id": "U01diane-7"
+  },
+  {
+    "channel_id": "C01GENERAL101",
+    "user_id": "U01PETE-8"
+  },
+  {
+    "channel_id": "C01GENERAL102",
+    "user_id": "U01WALT-9"
+  },
+  {
+    "channel_id": "C01GENERAL102",
+    "user_id": "U01ben-10"
+  },
+  {
+    "channel_id": "C01GENERAL102",
+    "user_id": "U01keith-11"
+  },
+  {
+    "channel_id": "C01GENERAL102",
+    "user_id": "U01diane-12"
+  },
+  {
+    "channel_id": "C01GENERAL102",
+    "user_id": "U01PETE-13"
+  },
+  {
+    "channel_id": "C01GENERAL103",
+    "user_id": "U01BOT"
+  },
+  {
+    "channel_id": "C01GENERAL103",
+    "user_id": "U01ben-15"
+  },
+  {
+    "channel_id": "C01GENERAL103",
+    "user_id": "U01keith-16"
+  },
+  {
+    "channel_id": "C01GENERAL104",
+    "user_id": "U01diane-17"
+  },
+  {
+    "channel_id": "C01GENERAL104",
+    "user_id": "U01PETE-18"
+  },
+  {
+    "channel_id": "C01GENERAL104",
+    "user_id": "U01WALT-19"
+  },
+  {
+    "channel_id": "C01GENERAL105",
+    "user_id": "U01ben-20"
+  },
+  {
+    "channel_id": "C01GENERAL105",
+    "user_id": "U01keith-21"
+  },
+  {
+    "channel_id": "C01GENERAL105",
+    "user_id": "U01diane-22"
+  },
+  {
+    "channel_id": "C01GENERAL106",
+    "user_id": "U01ben-23"
+  },
+  {
+    "channel_id": "C01GENERAL106",
+    "user_id": "U01keith-24"
+  }
+]

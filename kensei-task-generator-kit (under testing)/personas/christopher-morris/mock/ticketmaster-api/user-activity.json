@@ -1,0 +1,163 @@
+﻿[
+  {
+    "activity_id": "act-001",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2003",
+    "activity_type": "event_saved",
+    "timestamp": "2026-06-10T14:32:00Z",
+    "notes": "Fleetwood Mac Tribute - nostalgic favorite"
+  },
+  {
+    "activity_id": "act-002",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2001",
+    "activity_type": "event_saved",
+    "timestamp": "2026-06-10T15:10:00Z",
+    "notes": "Sheryl Crow concert - classic soft rock"
+  },
+  {
+    "activity_id": "act-003",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2002",
+    "activity_type": "event_bookmarked",
+    "timestamp": "2026-06-09T19:45:00Z",
+    "notes": "Norah Jones - excellent jazz artist"
+  },
+  {
+    "activity_id": "act-004",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2009",
+    "activity_type": "event_registered",
+    "timestamp": "2026-06-08T10:22:00Z",
+    "notes": "Weekly wellness walking group - 3x per week commitment with Meg"
+  },
+  {
+    "activity_id": "act-005",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2007",
+    "activity_type": "event_saved",
+    "timestamp": "2026-06-07T11:30:00Z",
+    "notes": "Home & Garden Expo - renovation ideas for kitchen"
+  },
+  {
+    "activity_id": "act-006",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2008",
+    "activity_type": "event_registered",
+    "timestamp": "2026-06-05T16:15:00Z",
+    "notes": "Kids science show for Owen and Sophie - summer activity"
+  },
+  {
+    "activity_id": "act-007",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2004",
+    "activity_type": "event_saved",
+    "timestamp": "2026-06-04T18:00:00Z",
+    "notes": "British Baking Show live - family entertainment"
+  },
+  {
+    "activity_id": "act-008",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2005",
+    "activity_type": "event_saved",
+    "timestamp": "2026-06-03T20:45:00Z",
+    "notes": "Mystery dinner theatre - interactive murder mystery"
+  },
+  {
+    "activity_id": "act-009",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2006",
+    "activity_type": "event_bookmarked",
+    "timestamp": "2026-06-02T12:30:00Z",
+    "notes": "90s Rock Revival - songs from favorite era"
+  },
+  {
+    "activity_id": "act-010",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2010",
+    "activity_type": "event_saved",
+    "timestamp": "2026-06-01T14:20:00Z",
+    "notes": "Culinary Arts ShowILse - exploring cooking techniques"
+  },
+  {
+    "activity_id": "act-011",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2011",
+    "activity_type": "event_bookmarked",
+    "timestamp": "2026-05-31T19:10:00Z",
+    "notes": "Crime dinner mystery - love interactive experiences"
+  },
+  {
+    "activity_id": "act-012",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2012",
+    "activity_type": "event_registered",
+    "timestamp": "2026-05-30T15:45:00Z",
+    "notes": "Summer music festival acoustic stage - loILl Naperville event"
+  },
+  {
+    "activity_id": "act-013",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2013",
+    "activity_type": "event_saved",
+    "timestamp": "2026-05-29T10:15:00Z",
+    "notes": "Home renovation workshop - kitchen remodeling plans"
+  },
+  {
+    "activity_id": "act-014",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2014",
+    "activity_type": "event_bookmarked",
+    "timestamp": "2026-05-28T18:30:00Z",
+    "notes": "Another mystery dinner - interactive theater favorite"
+  },
+  {
+    "activity_id": "act-015",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2015",
+    "activity_type": "event_registered",
+    "timestamp": "2026-05-27T17:00:00Z",
+    "notes": "Family movie night for Owen 15 and Sophie 12"
+  },
+  {
+    "activity_id": "act-016",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2016",
+    "activity_type": "event_saved",
+    "timestamp": "2026-05-26T19:20:00Z",
+    "notes": "Healthy cooking demonstration - health conscious cooking"
+  },
+  {
+    "activity_id": "act-017",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2017",
+    "activity_type": "event_bookmarked",
+    "timestamp": "2026-05-25T16:40:00Z",
+    "notes": "British Baking interactive show - family enjoyment"
+  },
+  {
+    "activity_id": "act-018",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2001",
+    "activity_type": "ticket_purchased",
+    "timestamp": "2026-05-24T20:00:00Z",
+    "notes": "Purchased 2 tickets for Sheryl Crow - summer concert"
+  },
+  {
+    "activity_id": "act-019",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2009",
+    "activity_type": "event_attended",
+    "timestamp": "2026-06-14T10:30:00Z",
+    "notes": "Attended weekly wellness walk with Meg"
+  },
+  {
+    "activity_id": "act-020",
+    "user_id": "christopher.morris@voissync.ai",
+    "event_id": "evt-2009",
+    "activity_type": "event_attended",
+    "timestamp": "2026-06-09T09:45:00Z",
+    "notes": "Attended weekly wellness walk - knee doing well"
+  }
+]
+

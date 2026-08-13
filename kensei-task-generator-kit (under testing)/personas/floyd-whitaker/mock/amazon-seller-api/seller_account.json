@@ -1,0 +1,65 @@
+{
+  "sellerId": "A2WFWBBQ1SMOKE",
+  "marketplaceId": "ATVPDKIKX0DER",
+  "businessName": "Whitaker Smoke Co LLC",
+  "storeName": "Whitaker Smoke Co",
+  "storeUrl": "https://www.amazon.com/stores/WhitakerSmokeCo/page/WFS-SMOKE-PAGE",
+  "registrationDate": "2024-09-12T08:00:00Z",
+  "businessAddress": {
+    "Name": "Whitaker Smoke Co LLC",
+    "AddressLine1": "118 Pellissippi Pkwy",
+    "AddressLine2": "Suite 4",
+    "City": "Knoxville",
+    "StateOrRegion": "TN",
+    "PostalCode": "37932",
+    "CountryCode": "US"
+  },
+  "primaryContactEmail": "floyd.whitaker@finthesiss.ai",
+  "accountHealth": {
+    "orderDefectRate": 0.0,
+    "orderDefectRateTarget": 1.0,
+    "lateShipmentRate": 0.0,
+    "lateShipmentRateTarget": 4.0,
+    "preFulfillmentCancelRate": 0.0,
+    "preFulfillmentCancelRateTarget": 2.5,
+    "validTrackingRate": 98.0,
+    "validTrackingRateTarget": 95.0,
+    "onTimeDeliveryRate": 97.5,
+    "onTimeDeliveryRateTarget": 90.0,
+    "returnDissatisfactionRate": 1.0,
+    "returnDissatisfactionRateTarget": 10.0,
+    "customerServiceDissatisfactionRate": 0.5,
+    "customerServiceDissatisfactionRateTarget": 25.0,
+    "policyViolations": 0,
+    "accountStatus": "NORMAL"
+  },
+  "performanceNotifications": [
+    {
+      "notificationId": "NOTIF-001",
+      "type": "INFO",
+      "title": "Welcome to Selling on Amazon",
+      "message": "Your seller account for Whitaker Smoke Co is active. This is a small side business listing BBQ rubs and smoker accessories.",
+      "severity": "INFO",
+      "createdDate": "2024-09-13T14:30:00Z",
+      "isRead": true
+    },
+    {
+      "notificationId": "NOTIF-002",
+      "type": "INFO",
+      "title": "FBM Shipping Reminder",
+      "message": "Your listings are merchant fulfilled. Remember to ship orders by the expected ship date to keep your metrics healthy.",
+      "severity": "INFO",
+      "createdDate": "2026-03-10T09:15:00Z",
+      "isRead": true
+    },
+    {
+      "notificationId": "NOTIF-003",
+      "type": "INFO",
+      "title": "Low Inventory Notice",
+      "message": "Your listing for SKU WS-RUB-BRISKET is running low. Consider restocking before the summer grilling season.",
+      "severity": "INFO",
+      "createdDate": "2026-05-18T11:00:00Z",
+      "isRead": false
+    }
+  ]
+}

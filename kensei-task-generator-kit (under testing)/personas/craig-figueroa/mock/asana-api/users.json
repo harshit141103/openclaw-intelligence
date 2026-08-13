@@ -1,0 +1,68 @@
+[
+  {
+    "gid": "1202000000001001",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "1202000000001002",
+    "name": "Iain Campbell",
+    "email": "iain.campbell@btinternet.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "1202000000001003",
+    "name": "Fiona Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "1202000000001004",
+    "name": "Graeme Sutherland",
+    "email": "graeme.sutherland@gmail.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "1202000000001005",
+    "name": "Rhona Matheson",
+    "email": "rhona.matheson@apha.gov.uk",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "7000",
+    "name": "Fiona Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "7001",
+    "name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "7002",
+    "name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "7003",
+    "name": "Isabel Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "7004",
+    "name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "workspace_gid": "1201990000000001"
+  },
+  {
+    "gid": "7005",
+    "name": "Duncan Fraser",
+    "email": "duncan.fraser@btinternet.com",
+    "workspace_gid": "1201990000000001"
+  }
+]

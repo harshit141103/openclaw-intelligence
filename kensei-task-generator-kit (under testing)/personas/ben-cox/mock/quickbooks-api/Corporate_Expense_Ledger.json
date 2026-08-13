@@ -1,0 +1,54 @@
+{
+  "document_name": "Material order - Hardwick Lumber",
+  "account_id": 6,
+  "entries": [
+    {
+      "date": "2023-12-10T18:45:00Z",
+      "merchant": "Green Mountain Hardwoods",
+      "employee": "Marc Belanger",
+      "amount": 18.99
+    },
+    {
+      "date": "2026-08-05T07:45:00Z",
+      "merchant": "Cox Custom Woodwork",
+      "employee": "Diane Cox",
+      "amount": 24.0
+    },
+    {
+      "date": "2023-08-08T06:15:00Z",
+      "merchant": "Cox Custom Woodwork",
+      "employee": "Walt Perreault",
+      "amount": 28.99
+    },
+    {
+      "date": "2025-01-17T12:00:00Z",
+      "merchant": "Buffalo Mountain Food Co-op",
+      "employee": "Diane Cox",
+      "amount": 34.5
+    },
+    {
+      "date": "2025-04-03T06:00:00Z",
+      "merchant": "Parker Pie Co.",
+      "employee": "Marc Belanger",
+      "amount": 41.0
+    },
+    {
+      "date": "2025-03-11T09:00:00Z",
+      "merchant": "Positive Pie",
+      "employee": "Diane Cox",
+      "amount": 47.95
+    },
+    {
+      "date": "2026-05-29T10:45:00Z",
+      "merchant": "Buffalo Mountain Food Co-op",
+      "employee": "Diane Cox",
+      "amount": 62.0
+    },
+    {
+      "date": "2025-04-20T08:45:00Z",
+      "merchant": "Green Mountain Hardwoods",
+      "employee": "Marc Belanger",
+      "amount": 88.0
+    }
+  ]
+}

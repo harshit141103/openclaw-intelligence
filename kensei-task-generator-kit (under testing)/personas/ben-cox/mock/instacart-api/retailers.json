@@ -1,0 +1,202 @@
+[
+  {
+    "retailer_id": "ret-safeway",
+    "name": "Re: Stowe install date",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114",
+    "min_basket": "10.00",
+    "delivery_fee": "18.99",
+    "service_fee_pct": "24.00",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-wholefoods",
+    "name": "Mill cherry stock to thickness for the u",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "28.99",
+    "service_fee_pct": "34.50",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-costco",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94114",
+    "min_basket": "35.00",
+    "delivery_fee": "41.00",
+    "service_fee_pct": "47.95",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-traderjoes",
+    "name": "Bookshelf install Friday the 16th",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "62.00",
+    "service_fee_pct": "88.00",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-cvs",
+    "name": "Whitcomb built-in bookshelves",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "110.00",
+    "service_fee_pct": "6.80",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "ret-safeway",
+    "name": "Cherry pricing for the Henderson uppers",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114",
+    "min_basket": "10.00",
+    "delivery_fee": "9.25",
+    "service_fee_pct": "12.50",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-wholefoods",
+    "name": "Delivery window for the Stowe cabinets",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "18.99",
+    "service_fee_pct": "24.00",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-costco",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94114",
+    "min_basket": "35.00",
+    "delivery_fee": "28.99",
+    "service_fee_pct": "34.50",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-traderjoes",
+    "name": "Template the Stowe countertop radius for",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "41.00",
+    "service_fee_pct": "47.95",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-cvs",
+    "name": "Estimate for the Greensboro barn (2027)",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "62.00",
+    "service_fee_pct": "88.00",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "ret-safeway",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114",
+    "min_basket": "10.00",
+    "delivery_fee": "110.00",
+    "service_fee_pct": "6.80",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-wholefoods",
+    "name": "Whitcomb built-in bookshelves",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "9.25",
+    "service_fee_pct": "12.50",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-costco",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94114",
+    "min_basket": "35.00",
+    "delivery_fee": "18.99",
+    "service_fee_pct": "24.00",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-traderjoes",
+    "name": "Replace the dust collector filter and cl",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "28.99",
+    "service_fee_pct": "34.50",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-cvs",
+    "name": "Set up the dado stack for the bookshelf ",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "41.00",
+    "service_fee_pct": "47.95",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "ret-safeway",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114",
+    "min_basket": "10.00",
+    "delivery_fee": "62.00",
+    "service_fee_pct": "88.00",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-wholefoods",
+    "name": "Stage the bookshelf sections for the Cra",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "110.00",
+    "service_fee_pct": "6.80",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-costco",
+    "name": "Cota window seat & bookcase",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94114",
+    "min_basket": "35.00",
+    "delivery_fee": "9.25",
+    "service_fee_pct": "12.50",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-traderjoes",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94110,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "18.99",
+    "service_fee_pct": "24.00",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-cvs",
+    "name": "Boucher mudroom built-ins",
+    "logo_url": "https://coxcustomwoodwork.com",
+    "delivers_to_zips": "94103,94110,94114,94117",
+    "min_basket": "10.00",
+    "delivery_fee": "28.99",
+    "service_fee_pct": "34.50",
+    "eta_minutes": "60"
+  }
+]

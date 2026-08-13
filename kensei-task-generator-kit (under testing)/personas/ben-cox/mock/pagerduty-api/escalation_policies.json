@@ -1,0 +1,142 @@
+[
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Greensboro barn restoration",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Project schedule update",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Henderson kitchen cabinets",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Church pew repair",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Stage the bookshelf sections for the Cra",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Sloan cherry dining table",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Whitcomb built-in bookshelves",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Mill cherry stock to thickness for the u",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Check the moisture content on the barn o",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Cherry pricing for the Henderson uppers",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Stage the bookshelf sections for the Cra",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Cherry pricing for the Henderson uppers",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Sand to 220 and raise the grain before f",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Greensboro barn restoration",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Hang the soft-close doors and adjust the",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Build the drawer boxes with half-blind d",
+    "num_loops": "2",
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Mill cherry stock to thickness for the u",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  }
+]

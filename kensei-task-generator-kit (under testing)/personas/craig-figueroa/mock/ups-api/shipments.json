@@ -1,0 +1,62 @@
+[
+  {
+    "tracking_number": "1Z999AA110000",
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "ship_date": "2026-05-10",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "6.5",
+    "currency": "GBP",
+    "total_charge": "18.4",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "1Z999AA110001",
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "ship_date": "2026-05-11",
+    "origin_zip": "BA22 7TT",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "12.0",
+    "currency": "GBP",
+    "total_charge": "27.2",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "1Z999AA110002",
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "ship_date": "2026-05-12",
+    "origin_zip": "EH54 6AX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "3.2",
+    "currency": "GBP",
+    "total_charge": "13.12",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "1Z999AA110003",
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "ship_date": "2026-05-13",
+    "origin_zip": "G52 4XB",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "2.1",
+    "currency": "GBP",
+    "total_charge": "11.36",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "1Z999AA110004",
+    "service_code": "07",
+    "service_name": "UPS Express",
+    "ship_date": "2026-05-14",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "9.4",
+    "currency": "GBP",
+    "total_charge": "23.04",
+    "label_url": ""
+  }
+]

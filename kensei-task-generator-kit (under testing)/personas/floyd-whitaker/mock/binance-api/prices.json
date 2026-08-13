@@ -1,0 +1,182 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "price": "67250.45",
+    "priceChange": "1320.55",
+    "priceChangePercent": "2.004",
+    "highPrice": "68110.00",
+    "lowPrice": "65500.20",
+    "volume": "18452.331"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "price": "3520.18",
+    "priceChange": "-45.32",
+    "priceChangePercent": "-1.271",
+    "highPrice": "3601.40",
+    "lowPrice": "3480.05",
+    "volume": "92344.118"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "price": "592.74",
+    "priceChange": "8.16",
+    "priceChangePercent": "1.396",
+    "highPrice": "601.20",
+    "lowPrice": "580.33",
+    "volume": "145220.402"
+  },
+  {
+    "symbol": "SOLUSDT",
+    "price": "168.92",
+    "priceChange": "5.47",
+    "priceChangePercent": "3.347",
+    "highPrice": "172.10",
+    "lowPrice": "160.85",
+    "volume": "884512.770"
+  },
+  {
+    "symbol": "XRPUSDT",
+    "price": "0.5234",
+    "priceChange": "-0.0081",
+    "priceChangePercent": "-1.524",
+    "highPrice": "0.5390",
+    "lowPrice": "0.5180",
+    "volume": "1245332.900"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "price": "0.4612",
+    "priceChange": "0.0123",
+    "priceChangePercent": "2.741",
+    "highPrice": "0.4705",
+    "lowPrice": "0.4480",
+    "volume": "2210456.330"
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "price": "0.1582",
+    "priceChange": "0.0044",
+    "priceChangePercent": "2.861",
+    "highPrice": "0.1620",
+    "lowPrice": "0.1530",
+    "volume": "3320112.450"
+  },
+  {
+    "symbol": "MATICUSDT",
+    "price": "0.7245",
+    "priceChange": "-0.0162",
+    "priceChangePercent": "-2.187",
+    "highPrice": "0.7480",
+    "lowPrice": "0.7180",
+    "volume": "1875440.120"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "price": "7.214",
+    "priceChange": "0.182",
+    "priceChangePercent": "2.588",
+    "highPrice": "7.350",
+    "lowPrice": "6.980",
+    "volume": "442318.660"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "price": "84.55",
+    "priceChange": "-1.22",
+    "priceChangePercent": "-1.423",
+    "highPrice": "86.40",
+    "lowPrice": "83.70",
+    "volume": "121884.990"
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "price": "36.18",
+    "priceChange": "0.94",
+    "priceChangePercent": "2.668",
+    "highPrice": "37.05",
+    "lowPrice": "34.90",
+    "volume": "318442.110"
+  },
+  {
+    "symbol": "LINKUSDT",
+    "price": "14.82",
+    "priceChange": "-0.31",
+    "priceChangePercent": "-2.049",
+    "highPrice": "15.40",
+    "lowPrice": "14.55",
+    "volume": "402117.880"
+  },
+  {
+    "symbol": "TRXUSDT",
+    "price": "0.1234",
+    "priceChange": "0.0021",
+    "priceChangePercent": "1.731",
+    "highPrice": "0.1260",
+    "lowPrice": "0.1205",
+    "volume": "5120448.700"
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "price": "6.842",
+    "priceChange": "0.114",
+    "priceChangePercent": "1.694",
+    "highPrice": "6.980",
+    "lowPrice": "6.650",
+    "volume": "210334.450"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "price": "8.915",
+    "priceChange": "-0.205",
+    "priceChangePercent": "-2.247",
+    "highPrice": "9.220",
+    "lowPrice": "8.780",
+    "volume": "188220.310"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "price": "412.30",
+    "priceChange": "6.80",
+    "priceChangePercent": "1.677",
+    "highPrice": "418.90",
+    "lowPrice": "402.10",
+    "volume": "84221.770"
+  },
+  {
+    "symbol": "NEARUSDT",
+    "price": "5.214",
+    "priceChange": "0.182",
+    "priceChangePercent": "3.617",
+    "highPrice": "5.340",
+    "lowPrice": "4.980",
+    "volume": "295440.220"
+  },
+  {
+    "symbol": "FILUSDT",
+    "price": "4.328",
+    "priceChange": "-0.097",
+    "priceChangePercent": "-2.192",
+    "highPrice": "4.480",
+    "lowPrice": "4.260",
+    "volume": "163880.140"
+  },
+  {
+    "symbol": "APTUSDT",
+    "price": "7.912",
+    "priceChange": "0.241",
+    "priceChangePercent": "3.143",
+    "highPrice": "8.090",
+    "lowPrice": "7.560",
+    "volume": "221455.660"
+  },
+  {
+    "symbol": "ARBUSDT",
+    "price": "0.8412",
+    "priceChange": "-0.0188",
+    "priceChangePercent": "-2.186",
+    "highPrice": "0.8720",
+    "lowPrice": "0.8290",
+    "volume": "1024118.330"
+  }
+]

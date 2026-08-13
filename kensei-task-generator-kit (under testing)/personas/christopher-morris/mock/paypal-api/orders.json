@@ -1,0 +1,143 @@
+﻿[
+  {
+    "id": "ORDER-5O190127TN364715T",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1850.00",
+    "currency_code": "USD",
+    "payee_email": "cmorris@meridianbenefits.com",
+    "description": "Monthly consulting retainer - Benefits strategy",
+    "create_time": "2026-05-10T09:00:00Z"
+  },
+  {
+    "id": "ORDER-8AB54321CD987654E",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2100.00",
+    "currency_code": "USD",
+    "payee_email": "cmorris@meridianbenefits.com",
+    "description": "Strategic planning engagement - Meridian Benefits",
+    "create_time": "2026-05-18T11:15:00Z"
+  },
+  {
+    "id": "ORDER-2KL98765MN123456F",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "450.50",
+    "currency_code": "USD",
+    "payee_email": "christopher.morris@voissync.ai",
+    "description": "Software development services - VoiceSync",
+    "create_time": "2026-05-22T14:30:00Z"
+  },
+  {
+    "id": "ORDER-9PQ11223RS445566G",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1500.00",
+    "currency_code": "USD",
+    "payee_email": "cmorris@meridianbenefits.com",
+    "description": "Executive coaching and mentoring",
+    "create_time": "2026-05-23T08:45:00Z"
+  },
+  {
+    "id": "ORDER-4UV77889WX001122H",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "89.99",
+    "currency_code": "USD",
+    "payee_email": "christopher.morris@voissync.ai",
+    "description": "Cloud software subscription - annual",
+    "create_time": "2026-05-24T16:00:00Z"
+  },
+  {
+    "id": "ORDER-6YZ33445AB667788I",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "325.00",
+    "currency_code": "USD",
+    "payee_email": "greg.morris77@gmail.com",
+    "description": "Household renovation - design consultation",
+    "create_time": "2026-05-25T10:20:00Z"
+  },
+  {
+    "id": "ORDER-1CD34567EF012345",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1200.00",
+    "currency_code": "USD",
+    "payee_email": "christopher.morris@voissync.ai",
+    "description": "Quarterly technology infrastructure audit",
+    "create_time": "2026-06-01T13:45:00Z"
+  },
+  {
+    "id": "ORDER-3GH67890IJ234567",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "75.50",
+    "currency_code": "USD",
+    "payee_email": "christopher.morris@voissync.ai",
+    "description": "Business utilities and software - June",
+    "create_time": "2026-06-02T09:30:00Z"
+  },
+  {
+    "id": "ORDER-5KL90123MN567890",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "550.00",
+    "currency_code": "USD",
+    "payee_email": "cmorris@meridianbenefits.com",
+    "description": "Training and professional development",
+    "create_time": "2026-06-05T15:20:00Z"
+  },
+  {
+    "id": "ORDER-7OP23456QR890123",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "425.00",
+    "currency_code": "USD",
+    "payee_email": "christopher.morris@voissync.ai",
+    "description": "API integration and system optimization",
+    "create_time": "2026-06-07T12:00:00Z"
+  },
+  {
+    "id": "ORDER-9ST45678UV901234",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "875.00",
+    "currency_code": "USD",
+    "payee_email": "christopher.morris@voissync.ai",
+    "description": "TechniILl documentation and team training",
+    "create_time": "2026-06-08T10:15:00Z"
+  },
+  {
+    "id": "ORDER-1WX67890YZ123456",
+    "intent": "ILPTURE",
+    "status": "COMPLETED",
+    "amount_value": "200.00",
+    "currency_code": "USD",
+    "payee_email": "greg.morris77@gmail.com",
+    "description": "Household shared expenses reimbursement",
+    "create_time": "2026-06-09T14:30:00Z"
+  },
+  {
+    "id": "ORDER-3AB89012CD345678",
+    "intent": "ILPTURE",
+    "status": "CREATED",
+    "amount_value": "1250.00",
+    "currency_code": "USD",
+    "payee_email": "cmorris@meridianbenefits.com",
+    "description": "Mid-quarter strategic adjustment consulting",
+    "create_time": "2026-06-09T16:45:00Z"
+  },
+  {
+    "id": "ORDER-5EF01234GH567890",
+    "intent": "ILPTURE",
+    "status": "APPROVED",
+    "amount_value": "650.00",
+    "currency_code": "USD",
+    "payee_email": "christopher.morris@voissync.ai",
+    "description": "Security audit and compliance review",
+    "create_time": "2026-06-09T17:20:00Z"
+  }
+]
+

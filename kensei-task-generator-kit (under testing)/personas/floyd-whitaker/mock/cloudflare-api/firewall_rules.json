@@ -1,0 +1,202 @@
+[
+  {
+    "id": "fw0001aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-04-01T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Challenge high threat score",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2024-04-02T10:00:00.000Z"
+  },
+  {
+    "id": "fw0003cccc",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Allow WFS office IP",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": "true",
+    "priority": "3",
+    "created_on": "2024-04-05T10:00:00.000Z"
+  },
+  {
+    "id": "fw0004dddd",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Challenge non-US traffic to admin",
+    "action": "js_challenge",
+    "expression": "(http.request.uri.path contains \"/admin\" and ip.geoip.country ne \"US\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-04-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0005eeee",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2024-04-10T10:05:00.000Z"
+  },
+  {
+    "id": "fw0006ffff",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Rate limit login attempts",
+    "action": "challenge",
+    "expression": "(http.request.uri.path eq \"/login\" and http.request.method eq \"POST\")",
+    "paused": "false",
+    "priority": "3",
+    "created_on": "2024-04-12T10:00:00.000Z"
+  },
+  {
+    "id": "fw0007gggg",
+    "zone_id": "zone3iiii7777jjjj8888kkkk9999llll",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-04-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0008hhhh",
+    "zone_id": "zone3iiii7777jjjj8888kkkk9999llll",
+    "description": "Challenge high threat score",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2024-04-15T10:05:00.000Z"
+  },
+  {
+    "id": "fw0009iiii",
+    "zone_id": "zone4mmmm0000nnnn1111oooo2222pppp",
+    "description": "Redirect parked domain bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-04-18T10:00:00.000Z"
+  },
+  {
+    "id": "fw0010jjjj",
+    "zone_id": "zone5qqqq3333rrrr4444ssss5555tttt",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-05-01T10:00:00.000Z"
+  },
+  {
+    "id": "fw0011kkkk",
+    "zone_id": "zone7yyyy9999zzzz0000aaab1111bbbc",
+    "description": "Challenge high threat score",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-05-05T10:00:00.000Z"
+  },
+  {
+    "id": "fw0012llll",
+    "zone_id": "zone9jjjjk555llllm666nnnno777pppp",
+    "description": "Allow WFS office IP",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2026-02-06T10:00:00.000Z"
+  },
+  {
+    "id": "fw0013mmmm",
+    "zone_id": "zone9jjjjk555llllm666nnnno777pppp",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2026-02-06T10:05:00.000Z"
+  },
+  {
+    "id": "fw0014nnnn",
+    "zone_id": "zone11xxxy111zzzz222aaaa333bbbb444",
+    "description": "Restrict carrier portal to US traffic",
+    "action": "js_challenge",
+    "expression": "(ip.geoip.country ne \"US\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2026-01-13T10:00:00.000Z"
+  },
+  {
+    "id": "fw0015oooo",
+    "zone_id": "zone12cccc555dddd666eeee777ffff888",
+    "description": "Allow WFS office IP",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "fw0016pppp",
+    "zone_id": "zone13gggg999hhhh000iiii111jjjj222",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-06-13T10:00:00.000Z"
+  },
+  {
+    "id": "fw0017qqqq",
+    "zone_id": "zone17wwww555xxxx666yyyy777zzzz888",
+    "description": "Challenge high threat score",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-10-04T10:00:00.000Z"
+  },
+  {
+    "id": "fw0018rrrr",
+    "zone_id": "zone18aaab999bbbc000cccd111ddde222",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2025-02-21T10:00:00.000Z"
+  },
+  {
+    "id": "fw0019ssss",
+    "zone_id": "zone20iiij777jjjk888kkkl999lllm000",
+    "description": "Allow WFS office IP to demo subdomain",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2026-04-06T10:00:00.000Z"
+  },
+  {
+    "id": "fw0020tttt",
+    "zone_id": "zone20iiij777jjjk888kkkl999lllm000",
+    "description": "Challenge non-US traffic to demo subdomain",
+    "action": "js_challenge",
+    "expression": "(ip.geoip.country ne \"US\")",
+    "paused": "true",
+    "priority": "2",
+    "created_on": "2026-04-06T10:05:00.000Z"
+  }
+]

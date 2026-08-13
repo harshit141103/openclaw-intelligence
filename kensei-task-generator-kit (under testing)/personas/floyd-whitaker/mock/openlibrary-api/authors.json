@@ -1,0 +1,200 @@
+[
+  {
+    "author_id": "OL233456A",
+    "name": "John Egerton",
+    "birth_date": "14 June 1935",
+    "death_date": "21 November 2013",
+    "bio": "American writer on Southern food, history, and culture.",
+    "top_work": "Southern Food: At Home, on the Road, in History",
+    "work_count": "18"
+  },
+  {
+    "author_id": "OL287199A",
+    "name": "Wilma Dykeman",
+    "birth_date": "20 May 1920",
+    "death_date": "22 December 2006",
+    "bio": "Appalachian author and historian of the French Broad and Tennessee valleys.",
+    "top_work": "The French Broad",
+    "work_count": "17"
+  },
+  {
+    "author_id": "OL301455A",
+    "name": "John Gunther",
+    "birth_date": "30 August 1901",
+    "death_date": "29 May 1970",
+    "bio": "American journalist and author known for the Inside series.",
+    "top_work": "Inside U.S.A.",
+    "work_count": "26"
+  },
+  {
+    "author_id": "OL412780A",
+    "name": "Ronald C. White",
+    "birth_date": "8 April 1939",
+    "death_date": "",
+    "bio": "American historian and biographer of nineteenth century America.",
+    "top_work": "American Ulysses",
+    "work_count": "12"
+  },
+  {
+    "author_id": "OL455921A",
+    "name": "John C. Campbell",
+    "birth_date": "14 September 1867",
+    "death_date": "2 May 1919",
+    "bio": "American educator and early scholar of the southern highlands.",
+    "top_work": "The Southern Highlander and His Homeland",
+    "work_count": "5"
+  },
+  {
+    "author_id": "OL512033A",
+    "name": "Horace Kephart",
+    "birth_date": "8 September 1862",
+    "death_date": "2 April 1931",
+    "bio": "American writer and outdoorsman who chronicled life in the Smoky Mountains.",
+    "top_work": "Our Southern Highlanders",
+    "work_count": "9"
+  },
+  {
+    "author_id": "OL567812A",
+    "name": "Thomas G. Andrews",
+    "birth_date": "3 March 1972",
+    "death_date": "",
+    "bio": "Environmental and labor historian of the American West and industry.",
+    "top_work": "Killing for Coal",
+    "work_count": "6"
+  },
+  {
+    "author_id": "OL601244A",
+    "name": "Maury Klein",
+    "birth_date": "12 January 1939",
+    "death_date": "",
+    "bio": "American business historian best known for railroad histories.",
+    "top_work": "Union Pacific",
+    "work_count": "21"
+  },
+  {
+    "author_id": "OL644901A",
+    "name": "Stephen E. Ambrose",
+    "birth_date": "10 January 1936",
+    "death_date": "13 October 2002",
+    "bio": "American historian and biographer of figures and events in U.S. history.",
+    "top_work": "Nothing Like It in the World",
+    "work_count": "44"
+  },
+  {
+    "author_id": "OL678233A",
+    "name": "Charles Reagan Wilson",
+    "birth_date": "27 July 1948",
+    "death_date": "",
+    "bio": "American historian of Southern religion and culture.",
+    "top_work": "Encyclopedia of Southern Culture",
+    "work_count": "14"
+  },
+  {
+    "author_id": "OL701566A",
+    "name": "Robert Moss",
+    "birth_date": "5 June 1973",
+    "death_date": "",
+    "bio": "American food writer and historian of Southern barbecue.",
+    "top_work": "Barbecue: The History of an American Institution",
+    "work_count": "7"
+  },
+  {
+    "author_id": "OL733890A",
+    "name": "Aaron Franklin",
+    "birth_date": "4 December 1977",
+    "death_date": "",
+    "bio": "American pitmaster and restaurateur known for Central Texas barbecue.",
+    "top_work": "Franklin Barbecue: A Meat-Smoking Manifesto",
+    "work_count": "3"
+  },
+  {
+    "author_id": "OL765412A",
+    "name": "Steven Raichlen",
+    "birth_date": "11 March 1953",
+    "death_date": "",
+    "bio": "American cookbook author and authority on grilling and barbecue.",
+    "top_work": "The Barbecue Bible",
+    "work_count": "31"
+  },
+  {
+    "author_id": "OL789045A",
+    "name": "Ron Rash",
+    "birth_date": "25 September 1953",
+    "death_date": "",
+    "bio": "American poet and novelist of southern Appalachia.",
+    "top_work": "Serena",
+    "work_count": "19"
+  },
+  {
+    "author_id": "OL812377A",
+    "name": "Charles Frazier",
+    "birth_date": "4 November 1950",
+    "death_date": "",
+    "bio": "American novelist of the southern mountains, author of Cold Mountain.",
+    "top_work": "Cold Mountain",
+    "work_count": "5"
+  },
+  {
+    "author_id": "OL834120A",
+    "name": "Barbara Kingsolver",
+    "birth_date": "8 April 1955",
+    "death_date": "",
+    "bio": "American novelist and essayist with Appalachian roots.",
+    "top_work": "Demon Copperhead",
+    "work_count": "22"
+  },
+  {
+    "author_id": "OL856743A",
+    "name": "Catherine Marshall",
+    "birth_date": "27 September 1914",
+    "death_date": "18 March 1983",
+    "bio": "American author best known for the Appalachian novel Christy.",
+    "top_work": "Christy",
+    "work_count": "16"
+  },
+  {
+    "author_id": "OL878901A",
+    "name": "James A. Crutchfield",
+    "birth_date": "15 May 1938",
+    "death_date": "",
+    "bio": "American author of Tennessee and frontier history.",
+    "top_work": "The Tennessee Almanac and Book of Facts",
+    "work_count": "28"
+  },
+  {
+    "author_id": "OL890233A",
+    "name": "Patricia Bernard Ezzell",
+    "birth_date": "2 February 1960",
+    "death_date": "",
+    "bio": "Historian of the Tennessee Valley Authority.",
+    "top_work": "TVA Photography",
+    "work_count": "4"
+  },
+  {
+    "author_id": "OL901577A",
+    "name": "William Bruce Wheeler",
+    "birth_date": "19 October 1939",
+    "death_date": "",
+    "bio": "American historian of Knoxville and East Tennessee.",
+    "top_work": "Knoxville, Tennessee: A Mountain City in the New South",
+    "work_count": "11"
+  },
+  {
+    "author_id": "OL912844A",
+    "name": "George Hubbard Mahan",
+    "birth_date": "7 July 1929",
+    "death_date": "14 August 2011",
+    "bio": "Railroad historian of the southern Appalachian rail corridors.",
+    "top_work": "Rails Through the Cumberland Gap",
+    "work_count": "8"
+  },
+  {
+    "author_id": "OL923100A",
+    "name": "Daniel S. Pierce",
+    "birth_date": "23 April 1956",
+    "death_date": "",
+    "bio": "American historian of the Great Smoky Mountains and southern foodways.",
+    "top_work": "The Great Smokies: From Natural Habitat to National Park",
+    "work_count": "9"
+  }
+]

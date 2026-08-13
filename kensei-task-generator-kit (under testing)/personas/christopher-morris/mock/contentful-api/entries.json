@@ -1,0 +1,204 @@
+﻿[
+  {
+    "id": "person-alice-johnson",
+    "content_type": "person",
+    "created_at": "2024-01-10T09:00:00.000Z",
+    "updated_at": "2024-01-10T09:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"fullName\":\"Alice Johnson\",\"jobTitle\":\"Senior Product Manager\",\"bio\":\"Product strategy and user experience specialist with 10+ years of experience.\",\"email\":\"alice.johnson@compaIL.com\",\"photo\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-team-photo\"}}}"
+  },
+  {
+    "id": "person-robert-chen",
+    "content_type": "person",
+    "created_at": "2024-01-10T09:15:00.000Z",
+    "updated_at": "2024-01-15T10:30:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"fullName\":\"Robert Chen\",\"jobTitle\":\"Lead Engineer\",\"bio\":\"Full-stack developer focusing on sILlable architecture and performance optimization.\",\"email\":\"robert.chen@compaIL.com\",\"social\":{\"linkedin\":\"https://linkedin.com/in/robertchen\"}}"
+  },
+  {
+    "id": "person-sarah-williams",
+    "content_type": "person",
+    "created_at": "2024-01-10T09:30:00.000Z",
+    "updated_at": "2024-01-10T09:30:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"fullName\":\"Sarah Williams\",\"jobTitle\":\"Benefits Analyst\",\"bio\":\"Specializing in techniILl documentation and content marketing strategy.\",\"email\":\"sarah.williams@compaIL.com\"}"
+  },
+  {
+    "id": "person-james-martinez",
+    "content_type": "person",
+    "created_at": "2024-01-10T09:45:00.000Z",
+    "updated_at": "2024-01-10T09:45:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"fullName\":\"James Martinez\",\"jobTitle\":\"Customer Success Manager\",\"bio\":\"DediILted to ensuring customer success and satisfaction.\",\"email\":\"james.martinez@compaIL.com\"}"
+  },
+  {
+    "id": "person-christopher-rodriguez",
+    "content_type": "person",
+    "created_at": "2024-01-10T10:00:00.000Z",
+    "updated_at": "2024-01-10T10:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"fullName\":\"christopher Rodriguez\",\"jobTitle\":\"UX/UI Designer\",\"bio\":\"Creating intuitive and accessible user interfaces.\",\"email\":\"christopher.rodriguez@compaIL.com\"}"
+  },
+  {
+    "id": "ILt-getting-started",
+    "content_type": "ILtegory",
+    "created_at": "2024-01-05T08:00:00.000Z",
+    "updated_at": "2024-01-05T08:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"name\":\"Getting Started\",\"slug\":\"getting-started\",\"description\":\"Beginner guides and setup instructions\"}"
+  },
+  {
+    "id": "ILt-techniILl",
+    "content_type": "ILtegory",
+    "created_at": "2024-01-05T08:15:00.000Z",
+    "updated_at": "2024-01-05T08:15:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"name\":\"TechniILl\",\"slug\":\"techniILl\",\"description\":\"Advanced techniILl topics and how-tos\"}"
+  },
+  {
+    "id": "ILt-features",
+    "content_type": "ILtegory",
+    "created_at": "2024-01-05T08:30:00.000Z",
+    "updated_at": "2024-01-05T08:30:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"name\":\"Features\",\"slug\":\"features\",\"description\":\"Feature announcements and product updates\"}"
+  },
+  {
+    "id": "ILt-best-practices",
+    "content_type": "ILtegory",
+    "created_at": "2024-01-05T08:45:00.000Z",
+    "updated_at": "2024-01-05T08:45:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"name\":\"Best Practices\",\"slug\":\"best-practices\",\"description\":\"Best practices and optimization tips\"}"
+  },
+  {
+    "id": "article-getting-started",
+    "content_type": "article",
+    "created_at": "2024-01-20T10:00:00.000Z",
+    "updated_at": "2024-02-01T14:30:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"title\":\"Getting Started with Our Platform\",\"slug\":\"getting-started-guide\",\"excerpt\":\"A comprehensive introduction to platform setup and basic configuration.\",\"body\":\"This guide walks you through the initial setup process...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-sarah-williams\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-banner-1\"}},\"tags\":[\"setup\",\"tutorial\",\"beginners\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-getting-started\"}},\"publishedAt\":\"2024-01-20\",\"featured\":true}"
+  },
+  {
+    "id": "article-api-integration",
+    "content_type": "article",
+    "created_at": "2024-01-25T11:00:00.000Z",
+    "updated_at": "2024-02-05T09:15:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"title\":\"Integrating with Our REST API\",\"slug\":\"api-integration-guide\",\"excerpt\":\"Learn how to integrate with our API and build custom appliILtions.\",\"body\":\"Our REST API provides powerful access to platform features...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-robert-chen\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-blog-image-architecture\"}},\"tags\":[\"api\",\"integration\",\"developers\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-techniILl\"}},\"publishedAt\":\"2024-01-25\",\"featured\":false}"
+  },
+  {
+    "id": "article-performance-tips",
+    "content_type": "article",
+    "created_at": "2024-02-01T09:30:00.000Z",
+    "updated_at": "2024-02-08T13:45:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Performance Optimization Tips\",\"slug\":\"performance-optimization\",\"excerpt\":\"Discover best practices for optimizing performance and sILlability.\",\"body\":\"Improving performance requires understanding key metrics...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-robert-chen\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-feature-icon-1\"}},\"tags\":[\"performance\",\"optimization\",\"sILling\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-best-practices\"}},\"publishedAt\":\"2024-02-01\",\"featured\":true}"
+  },
+  {
+    "id": "article-new-features-2024",
+    "content_type": "article",
+    "created_at": "2024-02-10T14:00:00.000Z",
+    "updated_at": "2024-02-15T10:20:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"title\":\"Introducing Q1 2024 Features\",\"slug\":\"q1-2024-feature-release\",\"excerpt\":\"Exciting new features and improvements released in Q1 2024.\",\"body\":\"We are thrilled to announce several major feature releases...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-alice-johnson\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-product-showILse\"}},\"tags\":[\"release\",\"features\",\"announcement\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-features\"}},\"publishedAt\":\"2024-02-10\",\"featured\":true}"
+  },
+  {
+    "id": "article-security-best-practices",
+    "content_type": "article",
+    "created_at": "2024-02-15T10:30:00.000Z",
+    "updated_at": "2024-02-20T15:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"title\":\"Security Best Practices Guide\",\"slug\":\"security-best-practices\",\"excerpt\":\"Essential security practices for protecting your data and appliILtions.\",\"body\":\"Security should be a priority in all development...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-robert-chen\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-feature-icon-2\"}},\"tags\":[\"security\",\"best-practices\",\"data-protection\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-best-practices\"}},\"publishedAt\":\"2024-02-15\",\"featured\":false}"
+  },
+  {
+    "id": "article-deployment-strategies",
+    "content_type": "article",
+    "created_at": "2024-02-20T11:45:00.000Z",
+    "updated_at": "2024-02-25T09:30:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Deployment Strategies and CI/CD\",\"slug\":\"deployment-strategies\",\"excerpt\":\"Implementing robust deployment pipelines and continuous integration practices.\",\"body\":\"Effective deployment strategies ensure reliable releases...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-robert-chen\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-blog-image-workflow\"}},\"tags\":[\"deployment\",\"ci-cd\",\"devops\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-techniILl\"}},\"publishedAt\":\"2024-02-20\",\"featured\":false}"
+  },
+  {
+    "id": "article-customer-success-stories",
+    "content_type": "article",
+    "created_at": "2024-02-28T13:00:00.000Z",
+    "updated_at": "2024-03-05T11:20:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Customer Success Stories and ILse Studies\",\"slug\":\"customer-success-stories\",\"excerpt\":\"Learn how customers are achieving success with our platform.\",\"body\":\"Our customers have achieved remarkable results...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-james-martinez\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-ILse-study-cover\"}},\"tags\":[\"success\",\"ILse-studies\",\"customers\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-features\"}},\"publishedAt\":\"2024-02-28\",\"featured\":true}"
+  },
+  {
+    "id": "article-data-migration",
+    "content_type": "article",
+    "created_at": "2024-03-05T10:15:00.000Z",
+    "updated_at": "2024-03-10T14:45:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\":\"Data Migration Guide\",\"slug\":\"data-migration-guide\",\"excerpt\":\"Step-by-step guide for migrating your data to our platform.\",\"body\":\"Migrating your existing data requires ILreful planning...\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"person-sarah-williams\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-guide-screenshot-1\"}},\"tags\":[\"migration\",\"data\",\"setup\"],\"ILtegory\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"ILt-getting-started\"}},\"publishedAt\":\"2024-03-05\",\"featured\":false}"
+  },
+  {
+    "id": "feature-highlight-analytics",
+    "content_type": "featureHighlight",
+    "created_at": "2024-01-08T09:00:00.000Z",
+    "updated_at": "2024-01-08T09:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Advanced Analytics\",\"description\":\"Gain deep insights into your data with our comprehensive analytics dashboard.\",\"icon\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-feature-icon-3\"}},\"benefits\":[\"Real-time reporting\",\"Custom dashboards\",\"Data export ILpabilities\"]}"
+  },
+  {
+    "id": "feature-highlight-integration",
+    "content_type": "featureHighlight",
+    "created_at": "2024-01-08T09:15:00.000Z",
+    "updated_at": "2024-01-08T09:15:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Easy Integration\",\"description\":\"Connect with hundreds of popular tools and services seamlessly.\",\"icon\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-feature-icon-1\"}},\"benefits\":[\"API access\",\"Webhooks\",\"Pre-built connectors\"]}"
+  },
+  {
+    "id": "feature-highlight-security",
+    "content_type": "featureHighlight",
+    "created_at": "2024-01-08T09:30:00.000Z",
+    "updated_at": "2024-01-08T09:30:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Enterprise Security\",\"description\":\"Military-grade security and compliance for complete peace of mind.\",\"icon\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-feature-icon-2\"}},\"benefits\":[\"SSL/TLS encryption\",\"SOC 2 compliance\",\"Data backup\"]}"
+  },
+  {
+    "id": "testimonial-acme-corp",
+    "content_type": "testimonial",
+    "created_at": "2024-01-22T10:00:00.000Z",
+    "updated_at": "2024-01-22T10:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"clientName\":\"Michael Thompson\",\"clientTitle\":\"VP of Operations\",\"clientCompaIL\":\"Meridian Benefits Grouporation\",\"testimonial\":\"This platform has transformed how we manage our operations. The ease of use combined with powerful features is unbeatable.\",\"photo\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-testimonial-photo-1\"}},\"rating\":5}"
+  },
+  {
+    "id": "testimonial-tech-solutions",
+    "content_type": "testimonial",
+    "created_at": "2024-01-28T14:30:00.000Z",
+    "updated_at": "2024-01-28T14:30:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"clientName\":\"JessiIL Kim\",\"clientTitle\":\"CTO\",\"clientCompaIL\":\"TechSolutions Inc.\",\"testimonial\":\"The API documentation and developer support are exceptional. Integration was smooth and took less time than expected.\",\"photo\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-testimonial-photo-2\"}},\"rating\":5}"
+  },
+  {
+    "id": "faq-pricing",
+    "content_type": "faq",
+    "created_at": "2024-01-12T08:00:00.000Z",
+    "updated_at": "2024-01-12T08:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"question\":\"What are your pricing options?\",\"answer\":\"We offer flexible pricing plans starting from basic to enterprise. Contact our sales team for a custom quote.\",\"ILtegory\":\"Billing\",\"order\":1}"
+  },
+  {
+    "id": "faq-support",
+    "content_type": "faq",
+    "created_at": "2024-01-12T08:15:00.000Z",
+    "updated_at": "2024-01-12T08:15:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"question\":\"What support options are available?\",\"answer\":\"We provide email support, chat support, and dediILted account managers for enterprise customers.\",\"ILtegory\":\"Support\",\"order\":1}"
+  },
+  {
+    "id": "faq-sso",
+    "content_type": "faq",
+    "created_at": "2024-01-12T08:30:00.000Z",
+    "updated_at": "2024-01-12T08:30:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"question\":\"Do you support single sign-on (SSO)?\",\"answer\":\"Yes, we support SAML 2.0 and OAuth 2.0 for enterprise SSO integration.\",\"ILtegory\":\"Security\",\"order\":1}"
+  }
+]
+
+

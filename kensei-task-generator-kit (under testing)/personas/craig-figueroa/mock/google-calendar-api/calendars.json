@@ -1,0 +1,38 @@
+[
+  {
+    "id": "craig.figueroa@gmail.com",
+    "summary": "Craig Figueroa",
+    "description": "Primary calendar",
+    "time_zone": "Europe/London",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "figueroavet.co.uk_practice@group.calendar.google.com",
+    "summary": "Figueroa Veterinary Services",
+    "description": "Farm visits, TB testing and APHA",
+    "time_zone": "Europe/London",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "figueroavet.co.uk_oncall@group.calendar.google.com",
+    "summary": "On-call",
+    "description": "Emergency cover and locum handover",
+    "time_zone": "Europe/London",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "craig.figueroa@gmail.com",
+    "summary": "Personal",
+    "description": "",
+    "time_zone": "Europe/London",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  }
+]

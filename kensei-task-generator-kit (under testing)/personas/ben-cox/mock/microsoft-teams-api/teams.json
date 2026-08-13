@@ -1,0 +1,182 @@
+[
+  {
+    "id": "19:team-eng0001@thread.tacv2",
+    "display_name": "Diane Cox",
+    "description": "Bookshelf install Friday the 16th",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-eng0001",
+    "member_ids": "user-001;user-002;user-003;user-004"
+  },
+  {
+    "id": "19:team-prod0002@thread.tacv2",
+    "display_name": "Keith Cox",
+    "description": "Final fit of the Henderson island base cabinets",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-prod0002",
+    "member_ids": "user-002;user-005;user-006"
+  },
+  {
+    "id": "19:team-mktg0003@thread.tacv2",
+    "display_name": "Marie Cox-Gagne",
+    "description": "Delivery window for the Stowe cabinets",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-mktg0003",
+    "member_ids": "user-006;user-007;user-008"
+  },
+  {
+    "id": "19:team-sales004@thread.tacv2",
+    "display_name": "Tom Gagne",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-sales004",
+    "member_ids": "user-008;user-009;user-010"
+  },
+  {
+    "id": "19:team-allco005@thread.tacv2",
+    "display_name": "Pete Lafleur",
+    "description": "Re: Stowe install date",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-allco005",
+    "member_ids": "user-001;user-002;user-005;user-006;user-008"
+  },
+  {
+    "id": "19:team-arch0006@thread.tacv2",
+    "display_name": "Dr. James Whitfield",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "visibility": "private",
+    "is_archived": "true",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-arch0006",
+    "member_ids": "user-001;user-003"
+  },
+  {
+    "id": "19:team-eng0001@thread.tacv903",
+    "display_name": "Dr. Paul LeBlanc",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-eng0001",
+    "member_ids": "user-001;user-002;user-003;user-004"
+  },
+  {
+    "id": "19:team-prod0002@thread.tacv904",
+    "display_name": "Scott Henderson",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-prod0002",
+    "member_ids": "user-002;user-005;user-006"
+  },
+  {
+    "id": "19:team-mktg0003@thread.tacv905",
+    "display_name": "Linda Henderson",
+    "description": "Sand to 220 and raise the grain before finish",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-mktg0003",
+    "member_ids": "user-006;user-007;user-008"
+  },
+  {
+    "id": "19:team-sales004@thread.tacv906",
+    "display_name": "Alan Whitcomb",
+    "description": "Material order - Hardwick Lumber",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-sales004",
+    "member_ids": "user-008;user-009;user-010"
+  },
+  {
+    "id": "19:team-allco005@thread.tacv907",
+    "display_name": "Paul Dufresne",
+    "description": "Hendersons want the corner cabinet on a lazy Susan, confirmed.",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-allco005",
+    "member_ids": "user-001;user-002;user-005;user-006;user-008"
+  },
+  {
+    "id": "19:team-arch0006@thread.tacv908",
+    "display_name": "Marc Belanger",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "visibility": "private",
+    "is_archived": "true",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-arch0006",
+    "member_ids": "user-001;user-003"
+  },
+  {
+    "id": "19:team-eng0001@thread.tacv909",
+    "display_name": "Gary Stoddard",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-eng0001",
+    "member_ids": "user-001;user-002;user-003;user-004"
+  },
+  {
+    "id": "19:team-prod0002@thread.tacv910",
+    "display_name": "Hardwick Lumber",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-prod0002",
+    "member_ids": "user-002;user-005;user-006"
+  },
+  {
+    "id": "19:team-mktg0003@thread.tacv911",
+    "display_name": "Green Mountain Hardwoods",
+    "description": "Cherry pricing for the Henderson uppers",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-mktg0003",
+    "member_ids": "user-006;user-007;user-008"
+  },
+  {
+    "id": "19:team-sales004@thread.tacv912",
+    "display_name": "Ray Tetreault",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-sales004",
+    "member_ids": "user-008;user-009;user-010"
+  },
+  {
+    "id": "19:team-allco005@thread.tacv913",
+    "display_name": "Nancy Beaulieu",
+    "description": "Splitting and stacking the winter firewood",
+    "visibility": "public",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-allco005",
+    "member_ids": "user-001;user-002;user-005;user-006;user-008"
+  },
+  {
+    "id": "19:team-arch0006@thread.tacv914",
+    "display_name": "Rev. Susan Mills",
+    "description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "visibility": "private",
+    "is_archived": "true",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-arch0006",
+    "member_ids": "user-001;user-003"
+  },
+  {
+    "id": "19:team-eng0001@thread.tacv915",
+    "display_name": "Walt Perreault",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-eng0001",
+    "member_ids": "user-001;user-002;user-003;user-004"
+  },
+  {
+    "id": "19:team-prod0002@thread.tacv916",
+    "display_name": "Donna Sloan",
+    "description": "Cut dadoes for the adjustable shelf pins",
+    "visibility": "private",
+    "is_archived": "false",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-prod0002",
+    "member_ids": "user-002;user-005;user-006"
+  }
+]

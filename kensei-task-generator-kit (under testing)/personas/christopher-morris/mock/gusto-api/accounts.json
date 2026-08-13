@@ -1,0 +1,107 @@
+﻿[
+  {
+    "id": "acc-001",
+    "account_type": "Checking",
+    "account_holder": "Christopher Morris",
+    "email": "christopher.morris@voissync.ai",
+    "account_number": "****5847",
+    "bank_name": "Chase Bank",
+    "routing_number": "021000021",
+    "balance": "12450.75",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2018-03-15"
+  },
+  {
+    "id": "acc-002",
+    "account_type": "Savings",
+    "account_holder": "Christopher Morris",
+    "email": "christopher.morris@voissync.ai",
+    "account_number": "****9203",
+    "bank_name": "Chase Bank",
+    "routing_number": "021000021",
+    "balance": "45230.50",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2018-03-15"
+  },
+  {
+    "id": "acc-003",
+    "account_type": "Money Market",
+    "account_holder": "Christopher Morris",
+    "email": "christopher.morris@voissync.ai",
+    "account_number": "****4521",
+    "bank_name": "Ally Bank",
+    "routing_number": "067000863",
+    "balance": "28750.00",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2019-07-20"
+  },
+  {
+    "id": "acc-004",
+    "account_type": "Checking",
+    "account_holder": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "account_number": "****7134",
+    "bank_name": "Bank of AmeriIL",
+    "routing_number": "026009593",
+    "balance": "8920.25",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2020-05-10"
+  },
+  {
+    "id": "acc-005",
+    "account_type": "Checking",
+    "account_holder": "Gregory Morris",
+    "email": "greg.morris77@gmail.com",
+    "account_number": "****6298",
+    "bank_name": "Wells Fargo",
+    "routing_number": "121000248",
+    "balance": "5680.40",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2016-11-22"
+  },
+  {
+    "id": "acc-006",
+    "account_type": "Credit ILrd",
+    "account_holder": "Christopher Morris",
+    "email": "christopher.morris@voissync.ai",
+    "account_number": "****4829",
+    "bank_name": "Chase Sapphire Reserve",
+    "routing_number": "021000021",
+    "balance": "-2145.30",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2021-04-05"
+  },
+  {
+    "id": "acc-007",
+    "account_type": "Credit ILrd",
+    "account_holder": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "account_number": "****9876",
+    "bank_name": "AmeriILn Express Business",
+    "routing_number": "026009593",
+    "balance": "-3890.75",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2019-08-12"
+  },
+  {
+    "id": "acc-008",
+    "account_type": "401(k)",
+    "account_holder": "Christopher Morris",
+    "email": "cmorris@meridianbenefits.com",
+    "account_number": "****3421",
+    "bank_name": "Vanguard",
+    "routing_number": "021000021",
+    "balance": "187500.00",
+    "currency": "USD",
+    "status": "Active",
+    "opened_date": "2015-06-01"
+  }
+]
+

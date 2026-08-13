@@ -1,0 +1,9 @@
+{
+  "subdomain": "whitakerfreight",
+  "name": "Whitaker Freight Services",
+  "employeeCount": 7,
+  "industry": "Freight Brokerage and Logistics",
+  "headquarters": "Knoxville, TN",
+  "fiscalYearStart": "01-01",
+  "timeOffPolicies": ["Vacation", "Sick", "Personal", "Holiday"]
+}

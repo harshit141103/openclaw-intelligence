@@ -1,0 +1,508 @@
+﻿[
+  {
+    "response_id": "resp-csat-1",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "Maria Chen"
+  },
+  {
+    "response_id": "resp-csat-1",
+    "field_id": "fld-csat-rating",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "answer": "5"
+  },
+  {
+    "response_id": "resp-csat-1",
+    "field_id": "fld-csat-recommend",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "answer": "Definitely"
+  },
+  {
+    "response_id": "resp-csat-1",
+    "field_id": "fld-csat-email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "answer": "maria.chen@acme-corp.com"
+  },
+  {
+    "response_id": "resp-csat-1",
+    "field_id": "fld-csat-comment",
+    "field_type": "long_text",
+    "ref": "comments",
+    "answer": "Excellent service and support team"
+  },
+  {
+    "response_id": "resp-csat-2",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "Tomas Reyes"
+  },
+  {
+    "response_id": "resp-csat-2",
+    "field_id": "fld-csat-rating",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "answer": "4"
+  },
+  {
+    "response_id": "resp-csat-2",
+    "field_id": "fld-csat-recommend",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "answer": "Probably"
+  },
+  {
+    "response_id": "resp-csat-2",
+    "field_id": "fld-csat-email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "answer": "tomas.reyes@solutions-inc.com"
+  },
+  {
+    "response_id": "resp-csat-2",
+    "field_id": "fld-csat-comment",
+    "field_type": "long_text",
+    "ref": "comments",
+    "answer": "Good overall experience with minor improvements needed"
+  },
+  {
+    "response_id": "resp-csat-3",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "Lena Voss"
+  },
+  {
+    "response_id": "resp-csat-3",
+    "field_id": "fld-csat-rating",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "answer": "3"
+  },
+  {
+    "response_id": "resp-csat-3",
+    "field_id": "fld-csat-recommend",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "answer": "Not sure"
+  },
+  {
+    "response_id": "resp-csat-3",
+    "field_id": "fld-csat-email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "answer": "lena.voss@tech-ventures.com"
+  },
+  {
+    "response_id": "resp-csat-3",
+    "field_id": "fld-csat-comment",
+    "field_type": "long_text",
+    "ref": "comments",
+    "answer": "Average experience, needs better documentation"
+  },
+  {
+    "response_id": "resp-csat-4",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "christopher Kumar"
+  },
+  {
+    "response_id": "resp-csat-4",
+    "field_id": "fld-csat-rating",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "answer": "5"
+  },
+  {
+    "response_id": "resp-csat-4",
+    "field_id": "fld-csat-recommend",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "answer": "Definitely"
+  },
+  {
+    "response_id": "resp-csat-4",
+    "field_id": "fld-csat-email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "answer": "christopher.kumar@dataflow.io"
+  },
+  {
+    "response_id": "resp-csat-4",
+    "field_id": "fld-csat-comment",
+    "field_type": "long_text",
+    "ref": "comments",
+    "answer": "Outstanding product and customer support"
+  },
+  {
+    "response_id": "resp-csat-5",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "Sophie Martin"
+  },
+  {
+    "response_id": "resp-csat-5",
+    "field_id": "fld-csat-rating",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "answer": "4"
+  },
+  {
+    "response_id": "resp-csat-5",
+    "field_id": "fld-csat-recommend",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "answer": "Definitely"
+  },
+  {
+    "response_id": "resp-csat-5",
+    "field_id": "fld-csat-email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "answer": "sophie.martin@cloudworks.net"
+  },
+  {
+    "response_id": "resp-csat-5",
+    "field_id": "fld-csat-comment",
+    "field_type": "long_text",
+    "ref": "comments",
+    "answer": "Very satisfied with the platform ILpabilities"
+  },
+  {
+    "response_id": "resp-csat-6",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "James Wilson"
+  },
+  {
+    "response_id": "resp-csat-6",
+    "field_id": "fld-csat-rating",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "answer": "2"
+  },
+  {
+    "response_id": "resp-csat-6",
+    "field_id": "fld-csat-recommend",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "answer": "Probably"
+  },
+  {
+    "response_id": "resp-csat-6",
+    "field_id": "fld-csat-email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "answer": "james.wilson@legacy-systems.org"
+  },
+  {
+    "response_id": "resp-csat-6",
+    "field_id": "fld-csat-comment",
+    "field_type": "long_text",
+    "ref": "comments",
+    "answer": "Integration challenges with existing systems"
+  },
+  {
+    "response_id": "resp-onb-1",
+    "field_id": "fld-onb-role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "answer": "Engineer"
+  },
+  {
+    "response_id": "resp-onb-1",
+    "field_id": "fld-onb-ease",
+    "field_type": "rating",
+    "ref": "setup_ease",
+    "answer": "4"
+  },
+  {
+    "response_id": "resp-onb-1",
+    "field_id": "fld-onb-comments",
+    "field_type": "short_text",
+    "ref": "comments",
+    "answer": "Docs were clear and easy to follow"
+  },
+  {
+    "response_id": "resp-onb-1",
+    "field_id": "fld-onb-time",
+    "field_type": "multiple_choice",
+    "ref": "time_to_value",
+    "answer": "1-4 hours"
+  },
+  {
+    "response_id": "resp-onb-2",
+    "field_id": "fld-onb-role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "answer": "Product Manager"
+  },
+  {
+    "response_id": "resp-onb-2",
+    "field_id": "fld-onb-ease",
+    "field_type": "rating",
+    "ref": "setup_ease",
+    "answer": "5"
+  },
+  {
+    "response_id": "resp-onb-2",
+    "field_id": "fld-onb-comments",
+    "field_type": "short_text",
+    "ref": "comments",
+    "answer": "Extremely quick and intuitive setup"
+  },
+  {
+    "response_id": "resp-onb-2",
+    "field_id": "fld-onb-time",
+    "field_type": "multiple_choice",
+    "ref": "time_to_value",
+    "answer": "Under 1 hour"
+  },
+  {
+    "response_id": "resp-onb-3",
+    "field_id": "fld-onb-role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "answer": "Designer"
+  },
+  {
+    "response_id": "resp-onb-3",
+    "field_id": "fld-onb-ease",
+    "field_type": "rating",
+    "ref": "setup_ease",
+    "answer": "3"
+  },
+  {
+    "response_id": "resp-onb-3",
+    "field_id": "fld-onb-comments",
+    "field_type": "short_text",
+    "ref": "comments",
+    "answer": "Some configuration options not clearly labeled"
+  },
+  {
+    "response_id": "resp-onb-3",
+    "field_id": "fld-onb-time",
+    "field_type": "multiple_choice",
+    "ref": "time_to_value",
+    "answer": "1-2 days"
+  },
+  {
+    "response_id": "resp-onb-4",
+    "field_id": "fld-onb-role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "answer": "Executive"
+  },
+  {
+    "response_id": "resp-onb-4",
+    "field_id": "fld-onb-ease",
+    "field_type": "rating",
+    "ref": "setup_ease",
+    "answer": "5"
+  },
+  {
+    "response_id": "resp-onb-4",
+    "field_id": "fld-onb-comments",
+    "field_type": "short_text",
+    "ref": "comments",
+    "answer": "Smooth onboarding experience from start to finish"
+  },
+  {
+    "response_id": "resp-onb-4",
+    "field_id": "fld-onb-time",
+    "field_type": "multiple_choice",
+    "ref": "time_to_value",
+    "answer": "Under 1 hour"
+  },
+  {
+    "response_id": "resp-onb-5",
+    "field_id": "fld-onb-role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "answer": "Other"
+  },
+  {
+    "response_id": "resp-onb-5",
+    "field_id": "fld-onb-ease",
+    "field_type": "rating",
+    "ref": "setup_ease",
+    "answer": "4"
+  },
+  {
+    "response_id": "resp-onb-5",
+    "field_id": "fld-onb-comments",
+    "field_type": "short_text",
+    "ref": "comments",
+    "answer": "Good overall, could use more video tutorials"
+  },
+  {
+    "response_id": "resp-onb-5",
+    "field_id": "fld-onb-time",
+    "field_type": "multiple_choice",
+    "ref": "time_to_value",
+    "answer": "1-4 hours"
+  },
+  {
+    "response_id": "resp-evt-1",
+    "field_id": "fld-evt-name",
+    "field_type": "short_text",
+    "ref": "attendee_name",
+    "answer": "Devon Clark"
+  },
+  {
+    "response_id": "resp-evt-1",
+    "field_id": "fld-evt-email",
+    "field_type": "email",
+    "ref": "attendee_email",
+    "answer": "devon.clark@contractor.dev"
+  },
+  {
+    "response_id": "resp-evt-1",
+    "field_id": "fld-evt-track",
+    "field_type": "multiple_choice",
+    "ref": "track",
+    "answer": "Platform"
+  },
+  {
+    "response_id": "resp-evt-1",
+    "field_id": "fld-evt-compaIL",
+    "field_type": "short_text",
+    "ref": "compaIL",
+    "answer": "Tech Solutions LLC"
+  },
+  {
+    "response_id": "resp-evt-2",
+    "field_id": "fld-evt-name",
+    "field_type": "short_text",
+    "ref": "attendee_name",
+    "answer": "Sandra Chen"
+  },
+  {
+    "response_id": "resp-evt-2",
+    "field_id": "fld-evt-email",
+    "field_type": "email",
+    "ref": "attendee_email",
+    "answer": "priya.nair@lessor.com"
+  },
+  {
+    "response_id": "resp-evt-2",
+    "field_id": "fld-evt-track",
+    "field_type": "multiple_choice",
+    "ref": "track",
+    "answer": "Security"
+  },
+  {
+    "response_id": "resp-evt-2",
+    "field_id": "fld-evt-compaIL",
+    "field_type": "short_text",
+    "ref": "compaIL",
+    "answer": "Enterprise Systems Corp"
+  },
+  {
+    "response_id": "resp-nps-1",
+    "field_id": "fld-nps-score",
+    "field_type": "rating",
+    "ref": "nps_score",
+    "answer": "9"
+  },
+  {
+    "response_id": "resp-nps-1",
+    "field_id": "fld-nps-reason",
+    "field_type": "long_text",
+    "ref": "nps_reason",
+    "answer": "Great product quality and responsive customer service"
+  },
+  {
+    "response_id": "resp-nps-2",
+    "field_id": "fld-nps-score",
+    "field_type": "rating",
+    "ref": "nps_score",
+    "answer": "7"
+  },
+  {
+    "response_id": "resp-nps-2",
+    "field_id": "fld-nps-reason",
+    "field_type": "long_text",
+    "ref": "nps_reason",
+    "answer": "Good value but pricing could be more competitive"
+  },
+  {
+    "response_id": "resp-nps-3",
+    "field_id": "fld-nps-score",
+    "field_type": "rating",
+    "ref": "nps_score",
+    "answer": "8"
+  },
+  {
+    "response_id": "resp-nps-3",
+    "field_id": "fld-nps-reason",
+    "field_type": "long_text",
+    "ref": "nps_reason",
+    "answer": "Reliable platform with continuous improvements"
+  },
+  {
+    "response_id": "resp-feature-1",
+    "field_id": "fld-feature-idea",
+    "field_type": "long_text",
+    "ref": "feature_request",
+    "answer": "Advanced filtering and custom reporting ILpabilities"
+  },
+  {
+    "response_id": "resp-feature-1",
+    "field_id": "fld-feature-impact",
+    "field_type": "rating",
+    "ref": "feature_impact",
+    "answer": "4"
+  },
+  {
+    "response_id": "resp-feature-2",
+    "field_id": "fld-feature-idea",
+    "field_type": "long_text",
+    "ref": "feature_request",
+    "answer": "Integration with third-party analytics platforms"
+  },
+  {
+    "response_id": "resp-feature-2",
+    "field_id": "fld-feature-impact",
+    "field_type": "rating",
+    "ref": "feature_impact",
+    "answer": "5"
+  },
+  {
+    "response_id": "resp-signup-1",
+    "field_id": "fld-signup-email",
+    "field_type": "email",
+    "ref": "email",
+    "answer": "beta-user-001@voissync.ai"
+  },
+  {
+    "response_id": "resp-signup-1",
+    "field_id": "fld-signup-interest",
+    "field_type": "multiple_choice",
+    "ref": "interest_area",
+    "answer": "API Access"
+  },
+  {
+    "response_id": "resp-signup-2",
+    "field_id": "fld-signup-email",
+    "field_type": "email",
+    "ref": "email",
+    "answer": "beta-user-002@voissync.ai"
+  },
+  {
+    "response_id": "resp-signup-2",
+    "field_id": "fld-signup-interest",
+    "field_type": "multiple_choice",
+    "ref": "interest_area",
+    "answer": "Enterprise Features"
+  }
+]
+
+

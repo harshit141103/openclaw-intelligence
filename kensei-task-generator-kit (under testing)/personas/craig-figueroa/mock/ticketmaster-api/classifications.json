@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cls-music-folk",
+    "segment": "Music",
+    "genre": "Folk",
+    "subgenre": "Celtic"
+  },
+  {
+    "id": "cls-music-rock",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Classic Rock"
+  },
+  {
+    "id": "cls-music-trad",
+    "segment": "Music",
+    "genre": "Folk",
+    "subgenre": "Scottish Traditional"
+  },
+  {
+    "id": "cls-arts-theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Drama"
+  },
+  {
+    "id": "cls-music-classical",
+    "segment": "Music",
+    "genre": "Classical",
+    "subgenre": "Orchestral"
+  },
+  {
+    "id": "cls-music-acoustic",
+    "segment": "Music",
+    "genre": "Folk",
+    "subgenre": "Acoustic"
+  },
+  {
+    "id": "cls-comedy",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "subgenre": "Stand-Up"
+  }
+]

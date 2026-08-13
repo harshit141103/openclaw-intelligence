@@ -1,0 +1,183 @@
+﻿[
+  {
+    "id": "1001000200030004001",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "gregmorris",
+    "content": "Welcome to the Meridian Benefits Team channel! Looking forward to collaborating with everyone.",
+    "timestamp": "2025-05-01T09:00:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004002",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400002",
+    "author_username": "owenmorris",
+    "content": "Great to have this communiILtion hub set up. Should improve our team coordination.",
+    "timestamp": "2025-05-01T09:15:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004003",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400005",
+    "author_username": "sandraschen",
+    "content": "New benefits enrollment process now live in staging. All team leads, please review when you get a chance.",
+    "timestamp": "2025-05-02T08:30:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004004",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400006",
+    "author_username": "priyadesai",
+    "content": "Reviewed the enrollment updates. UI looks clean and the validation logic is solid.",
+    "timestamp": "2025-05-02T10:45:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004005",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400007",
+    "author_username": "mikepoletti",
+    "content": "Client support issue: Meridian Benefits Group reported missing data in their monthly report. Investigating now.",
+    "timestamp": "2025-05-02T11:20:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004006",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400008",
+    "author_username": "janetbrenna",
+    "content": "Mike: checked the database logs. Data export job failed last night due to connection timeout. Running manually now.",
+    "timestamp": "2025-05-02T11:35:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004007",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400007",
+    "author_username": "mikepoletti",
+    "content": "Thanks Janet! Report is now complete and sent to the client.",
+    "timestamp": "2025-05-02T12:10:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004008",
+    "channel_id": "800100200300400005",
+    "author_id": "500100200300400004",
+    "author_username": "megpatterson",
+    "content": "AILone up for lunch at that new pizza place on Main Street tomorrow? Thinking 12:30 PM.",
+    "timestamp": "2025-05-02T14:00:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004009",
+    "channel_id": "800100200300400005",
+    "author_id": "500100200300400003",
+    "author_username": "sophiemorris",
+    "content": "I'm in! Always up for pizza. Count me in.",
+    "timestamp": "2025-05-02T14:05:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004010",
+    "channel_id": "800100200300400005",
+    "author_id": "500100200300400005",
+    "author_username": "sandraschen",
+    "content": "Sure, I ILn make 12:30. See you there!",
+    "timestamp": "2025-05-02T14:08:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004011",
+    "channel_id": "800100200300400006",
+    "author_id": "500100200300400001",
+    "author_username": "gregmorris",
+    "content": "Welcome to the Naperville Community Discord! Excited to connect with neighbors.",
+    "timestamp": "2025-05-01T10:00:00Z",
+    "pinned": "true"
+  },
+  {
+    "id": "1001000200030004012",
+    "channel_id": "800100200300400007",
+    "author_id": "500100200300400009",
+    "author_username": "ritabrennancole",
+    "content": "There's a community cleanup event at Naper Settlement this Saturday at 9 AM. Who's interested?",
+    "timestamp": "2025-05-02T16:00:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004013",
+    "channel_id": "800100200300400007",
+    "author_id": "500100200300400003",
+    "author_username": "sophiemorris",
+    "content": "I'll bring my family! The kids love helping with these community projects.",
+    "timestamp": "2025-05-02T16:15:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004014",
+    "channel_id": "800100200300400008",
+    "author_id": "500100200300400010",
+    "author_username": "jsmith",
+    "content": "Just tried Blaze Pizza on Washington. Amazing wood-fired pizza and great service!",
+    "timestamp": "2025-05-03T18:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004015",
+    "channel_id": "800100200300400008",
+    "author_id": "500100200300400009",
+    "author_username": "ritabrennancole",
+    "content": "Will definitely check them out! Always looking for good spots near downtown.",
+    "timestamp": "2025-05-03T18:45:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004016",
+    "channel_id": "800100200300400009",
+    "author_id": "500100200300400005",
+    "author_username": "sandraschen",
+    "content": "Started working on the new API endpoint for client dashboard. Should have a PR ready by end of week.",
+    "timestamp": "2025-05-03T09:00:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004017",
+    "channel_id": "800100200300400010",
+    "author_id": "500100200300400006",
+    "author_username": "priyadesai",
+    "content": "Sandra: reviewed your code from this morning. Great work on the error handling. Just added a couple of minor suggestions.",
+    "timestamp": "2025-05-03T10:30:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004018",
+    "channel_id": "800100200300400010",
+    "author_id": "500100200300400005",
+    "author_username": "sandraschen",
+    "content": "Thanks Priya! Will address those comments and push the update.",
+    "timestamp": "2025-05-03T10:45:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004019",
+    "channel_id": "800100200300400001",
+    "author_id": "300100200300400001",
+    "author_username": "meridianbot",
+    "content": "Reminder: Team standup meeting in 5 minutes in the team-standup voice channel.",
+    "timestamp": "2025-05-03T14:55:00Z",
+    "pinned": "false"
+  },
+  {
+    "id": "1001000200030004020",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400008",
+    "author_username": "janetbrenna",
+    "content": "Release ILndidate for v3.2.0 is ready for QA testing. All integration tests passing.",
+    "timestamp": "2025-05-04T08:00:00Z",
+    "pinned": "true"
+  }
+]
+

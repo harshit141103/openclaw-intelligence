@@ -1,0 +1,254 @@
+[
+  {
+    "id": "800100200300400001",
+    "guild_id": "900100200300400001",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "General Vols chatter and announcements",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400002",
+    "guild_id": "900100200300400001",
+    "name": "gameday",
+    "type": "0",
+    "position": "1",
+    "topic": "Live game threads and score talk",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400003",
+    "guild_id": "900100200300400001",
+    "name": "tailgate",
+    "type": "0",
+    "position": "2",
+    "topic": "Tailgate plans food and parking",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400004",
+    "guild_id": "900100200300400001",
+    "name": "Watch Party VC",
+    "type": "2",
+    "position": "3",
+    "topic": "",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400005",
+    "guild_id": "900100200300400002",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Welcome pitmasters",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400006",
+    "guild_id": "900100200300400002",
+    "name": "cook-pics",
+    "type": "0",
+    "position": "1",
+    "topic": "Show off your smokes and cooks",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400007",
+    "guild_id": "900100200300400002",
+    "name": "Cook Along VC",
+    "type": "2",
+    "position": "2",
+    "topic": "",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400008",
+    "guild_id": "900100200300400003",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "East TN freight broker chatter",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400009",
+    "guild_id": "900100200300400003",
+    "name": "lanes-and-rates",
+    "type": "0",
+    "position": "1",
+    "topic": "Lane pricing and capacity talk",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400010",
+    "guild_id": "900100200300400004",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Douglas Lake fishing chatter",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400011",
+    "guild_id": "900100200300400004",
+    "name": "fishing-reports",
+    "type": "0",
+    "position": "1",
+    "topic": "Daily reports water temps and bite",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400012",
+    "guild_id": "900100200300400005",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "West Knoxville neighbor talk",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400013",
+    "guild_id": "900100200300400006",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Classic country and bluegrass",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400014",
+    "guild_id": "900100200300400007",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Railroad map collectors",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400015",
+    "guild_id": "900100200300400007",
+    "name": "map-trades",
+    "type": "0",
+    "position": "1",
+    "topic": "Buy sell and trade vintage rail maps",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400016",
+    "guild_id": "900100200300400008",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Smoker and pit builds",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400017",
+    "guild_id": "900100200300400009",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Lakeshore Park softball league",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400018",
+    "guild_id": "900100200300400010",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Guitar pickers share clips and tabs",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400019",
+    "guild_id": "900100200300400011",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Neyland tailgate plans",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400020",
+    "guild_id": "900100200300400012",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Brisket and low slow cooks",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400021",
+    "guild_id": "900100200300400013",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Cherokee Lake crappie reports",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400022",
+    "guild_id": "900100200300400014",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Carrier vetting and FMCSA talk",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400023",
+    "guild_id": "900100200300400015",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Southern rock vinyl and trivia",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400024",
+    "guild_id": "900100200300400016",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "TVA history and old maps",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400025",
+    "guild_id": "900100200300400017",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Knoxville BBQ joint reviews",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400026",
+    "guild_id": "900100200300400018",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Year round Vols football talk",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400027",
+    "guild_id": "900100200300400019",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Fly fishing the Smokies",
+    "nsfw": "false"
+  },
+  {
+    "id": "800100200300400028",
+    "guild_id": "900100200300400020",
+    "name": "general",
+    "type": "0",
+    "position": "0",
+    "topic": "Maker's Mark and bourbon talk",
+    "nsfw": "false"
+  }
+]

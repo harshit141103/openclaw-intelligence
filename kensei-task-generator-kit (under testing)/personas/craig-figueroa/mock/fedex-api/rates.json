@@ -1,0 +1,90 @@
+[
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "6.5",
+    "currency": "GBP",
+    "net_charge": "18.55",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "BA22 7TT",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "12.0",
+    "currency": "GBP",
+    "net_charge": "27.9",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "EH54 6AX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "3.2",
+    "currency": "GBP",
+    "net_charge": "12.94",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "IV2 7JQ",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "1.5",
+    "currency": "GBP",
+    "net_charge": "10.05",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "G52 4XB",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "9.0",
+    "currency": "GBP",
+    "net_charge": "22.8",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "18.5",
+    "currency": "GBP",
+    "net_charge": "38.95",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "BA22 7TT",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "4.0",
+    "currency": "GBP",
+    "net_charge": "14.3",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "EH54 6AX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "7.5",
+    "currency": "GBP",
+    "net_charge": "20.25",
+    "transit_days": "2",
+    "delivery_day": "2026-05-29"
+  }
+]

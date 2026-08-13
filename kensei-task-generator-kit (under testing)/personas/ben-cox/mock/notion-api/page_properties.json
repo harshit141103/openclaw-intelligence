@@ -1,0 +1,134 @@
+[
+  {
+    "page_id": "page-task-001",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-Ben"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2025-03-23"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-Keith"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2025-06-16"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Todo"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Medium"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-Diane"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2024-07-28"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Done"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Low"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-Ben"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2023-09-30"
+  },
+  {
+    "page_id": "page-okr-q2-1",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "On track"
+  },
+  {
+    "page_id": "page-okr-q2-1",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-Keith"
+  },
+  {
+    "page_id": "page-okr-q2-1",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.62"
+  },
+  {
+    "page_id": "page-okr-q2-2",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "At risk"
+  },
+  {
+    "page_id": "page-okr-q2-2",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-Keith"
+  },
+  {
+    "page_id": "page-okr-q2-2",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.35"
+  }
+]

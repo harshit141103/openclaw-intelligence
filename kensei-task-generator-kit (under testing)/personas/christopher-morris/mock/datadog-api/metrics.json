@@ -1,0 +1,143 @@
+﻿[
+  {
+    "metric": "trace.http.request.duration",
+    "scope": "service:auth-service",
+    "base_value": "0.42",
+    "amplitude": "0.18",
+    "unit": "second"
+  },
+  {
+    "metric": "trace.http.request.errors",
+    "scope": "service:web-frontend",
+    "base_value": "38.0",
+    "amplitude": "22.0",
+    "unit": "error"
+  },
+  {
+    "metric": "system.cpu.user",
+    "scope": "host:web-01",
+    "base_value": "68.0",
+    "amplitude": "15.0",
+    "unit": "percent"
+  },
+  {
+    "metric": "billing.queue.depth",
+    "scope": "service:billing-service",
+    "base_value": "640.0",
+    "amplitude": "210.0",
+    "unit": "job"
+  },
+  {
+    "metric": "system.disk.in_use",
+    "scope": "host:db-01",
+    "base_value": "0.82",
+    "amplitude": "0.06",
+    "unit": "fraction"
+  },
+  {
+    "metric": "system.memory.used",
+    "scope": "host:web-02",
+    "base_value": "14.2",
+    "amplitude": "2.1",
+    "unit": "gigabyte"
+  },
+  {
+    "metric": "network.bytes.sent",
+    "scope": "host:web-01",
+    "base_value": "5234000",
+    "amplitude": "1200000",
+    "unit": "byte"
+  },
+  {
+    "metric": "network.bytes.recv",
+    "scope": "host:web-02",
+    "base_value": "4891000",
+    "amplitude": "950000",
+    "unit": "byte"
+  },
+  {
+    "metric": "process.open.files",
+    "scope": "host:db-01",
+    "base_value": "1024",
+    "amplitude": "128",
+    "unit": "count"
+  },
+  {
+    "metric": "system.load.1",
+    "scope": "host:worker-02",
+    "base_value": "4.2",
+    "amplitude": "1.1",
+    "unit": "count"
+  },
+  {
+    "metric": "ILche.hits",
+    "scope": "service:web-frontend",
+    "base_value": "8950.0",
+    "amplitude": "1200.0",
+    "unit": "count"
+  },
+  {
+    "metric": "ILche.misses",
+    "scope": "service:web-frontend",
+    "base_value": "450.0",
+    "amplitude": "150.0",
+    "unit": "count"
+  },
+  {
+    "metric": "database.query.time",
+    "scope": "service:user-service",
+    "base_value": "0.15",
+    "amplitude": "0.08",
+    "unit": "second"
+  },
+  {
+    "metric": "database.connections.active",
+    "scope": "host:db-01",
+    "base_value": "45.0",
+    "amplitude": "12.0",
+    "unit": "count"
+  },
+  {
+    "metric": "api.response.time.p95",
+    "scope": "service:api-gateway",
+    "base_value": "0.35",
+    "amplitude": "0.12",
+    "unit": "second"
+  },
+  {
+    "metric": "api.response.time.p99",
+    "scope": "service:api-gateway",
+    "base_value": "0.65",
+    "amplitude": "0.25",
+    "unit": "second"
+  },
+  {
+    "metric": "payment.processing.time",
+    "scope": "service:billing-service",
+    "base_value": "2.1",
+    "amplitude": "0.6",
+    "unit": "second"
+  },
+  {
+    "metric": "email.delivery.rate",
+    "scope": "service:notifiILtion-handler",
+    "base_value": "0.98",
+    "amplitude": "0.02",
+    "unit": "fraction"
+  },
+  {
+    "metric": "log.ingestion.rate",
+    "scope": "infrastructure:logging",
+    "base_value": "125000.0",
+    "amplitude": "45000.0",
+    "unit": "per_second"
+  },
+  {
+    "metric": "storage.usage.percent",
+    "scope": "host:db-02",
+    "base_value": "0.78",
+    "amplitude": "0.08",
+    "unit": "fraction"
+  }
+]
+

@@ -1,0 +1,322 @@
+[
+  {
+    "event_id": "evt-001",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-001",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-002",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-002",
+    "email": "scchen@meridianbenefits.com",
+    "display_name": "Sandra Chen",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-002",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-002",
+    "email": "mpoletti@meridianbenefits.com",
+    "display_name": "Mike Poletti",
+    "response_status": "tentative",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-003",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-003",
+    "email": "pdesai@meridianbenefits.com",
+    "display_name": "Priya Desai",
+    "response_status": "needsAction",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-003",
+    "email": "omorris@email.com",
+    "display_name": "Owen Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-004",
+    "email": "scchen@meridianbenefits.com",
+    "display_name": "Sandra Chen",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-004",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-004",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris",
+    "response_status": "accepted",
+    "optional": "true",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-009",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-009",
+    "email": "scchen@meridianbenefits.com",
+    "display_name": "Sandra Chen",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-009",
+    "email": "megp@meridianbenefits.com",
+    "display_name": "Meg Patterson",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-011",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-011",
+    "email": "pdesai@meridianbenefits.com",
+    "display_name": "Priya Desai",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-011",
+    "email": "jbrennan@meridianbenefits.com",
+    "display_name": "Janet Brennan",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-012",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-012",
+    "email": "mpoletti@meridianbenefits.com",
+    "display_name": "Mike Poletti",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "scchen@meridianbenefits.com",
+    "display_name": "Sandra Chen",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-013",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris",
+    "response_status": "tentative",
+    "optional": "true",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-015",
+    "email": "pdesai@meridianbenefits.com",
+    "display_name": "Priya Desai",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-016",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-016",
+    "email": "scchen@meridianbenefits.com",
+    "display_name": "Sandra Chen",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-017",
+    "email": "scchen@meridianbenefits.com",
+    "display_name": "Sandra Chen",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-017",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-017",
+    "email": "gmorris@meridianbenefits.com",
+    "display_name": "Greg Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-020",
+    "email": "scchen@meridianbenefits.com",
+    "display_name": "Sandra Chen",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-020",
+    "email": "cmorris@meridianbenefits.com",
+    "display_name": "Christopher Morris",
+    "response_status": "tentative",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-020",
+    "email": "megp@meridianbenefits.com",
+    "display_name": "Meg Patterson",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-010",
+    "email": "christopher.morris@voissync.ai",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-010",
+    "email": "smorris@email.com",
+    "display_name": "Sophie Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-010",
+    "email": "omorris@email.com",
+    "display_name": "Owen Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-018",
+    "email": "christopher.morris@voissync.ai",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-018",
+    "email": "jbrennan@email.com",
+    "display_name": "Janet Brennan",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  },
+  {
+    "event_id": "evt-021",
+    "email": "christopher.morris@voissync.ai",
+    "display_name": "Christopher Morris",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "true"
+  },
+  {
+    "event_id": "evt-021",
+    "email": "rbcolе@email.com",
+    "display_name": "Rita Brennan-Cole",
+    "response_status": "accepted",
+    "optional": "false",
+    "organizer": "false"
+  }
+]

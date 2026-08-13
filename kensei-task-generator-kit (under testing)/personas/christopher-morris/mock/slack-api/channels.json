@@ -1,0 +1,113 @@
+﻿[
+  {
+    "id": "C01GENERAL",
+    "name": "general",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "CompaIL-wide announcements",
+    "purpose": "Default channel for all Meridian Benefits Group employees",
+    "creator": "U01GREG",
+    "created": "1700000000",
+    "num_members": "10"
+  },
+  {
+    "id": "C01BENEFITS",
+    "name": "benefits-team",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Benefits strategy and implementation",
+    "purpose": "Benefits team coordination and discussion",
+    "creator": "U01GREG",
+    "created": "1700000100",
+    "num_members": "8"
+  },
+  {
+    "id": "C01HEALTH",
+    "name": "health-claims",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Health insurance claims processing",
+    "purpose": "Claims team updates and issue tracking",
+    "creator": "U01MEG",
+    "created": "1700000200",
+    "num_members": "6"
+  },
+  {
+    "id": "C01COMPLIANCE",
+    "name": "compliance-audit",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Regulatory compliance and audits",
+    "purpose": "Compliance tracking and documentation",
+    "creator": "U01RITA",
+    "created": "1700000300",
+    "num_members": "5"
+  },
+  {
+    "id": "C01RANDOM",
+    "name": "random",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Off-topic",
+    "purpose": "Social and ILsual conversation",
+    "creator": "U01CHRISTOPHER",
+    "created": "1700000400",
+    "num_members": "10"
+  },
+  {
+    "id": "C01CLIENTS",
+    "name": "client-relations",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Client communiILtion and updates",
+    "purpose": "Client account management",
+    "creator": "U01JANET",
+    "created": "1700000500",
+    "num_members": "7"
+  },
+  {
+    "id": "C01ONBOARDING",
+    "name": "onboarding",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "New employee onboarding",
+    "purpose": "Resource sharing and welcome for new team members",
+    "creator": "U01MEG",
+    "created": "1700000600",
+    "num_members": "11"
+  },
+  {
+    "id": "G01LEADS",
+    "name": "leadership",
+    "is_private": "true",
+    "is_archived": "false",
+    "topic": "Leadership team sync",
+    "purpose": "Private leadership discussion and strategy",
+    "creator": "U01GREG",
+    "created": "1740000100",
+    "num_members": "3"
+  },
+  {
+    "id": "C01TRAINING",
+    "name": "training-resources",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Training materials and development",
+    "purpose": "Professional development and certifiILtions",
+    "creator": "U01SANDRA",
+    "created": "1700000700",
+    "num_members": "9"
+  },
+  {
+    "id": "C01ANNOUNCEMENTS",
+    "name": "compaIL-announcements",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Official compaIL announcements",
+    "purpose": "Major updates and compaIL news",
+    "creator": "U01GREG",
+    "created": "1700000800",
+    "num_members": "10"
+  }
+]
+

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ITEM_HICKORYRUB",
+    "type": "ITEM",
+    "name": "Hickory House Rub",
+    "description": "Signature hickory and brown sugar BBQ rub",
+    "category": "Rubs",
+    "variation_id": "VAR_HICKORYRUB_R",
+    "variation_name": "12oz Shaker",
+    "price_amount": "1100",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BRISKETRUB",
+    "type": "ITEM",
+    "name": "Brisket Beef Rub",
+    "description": "Coarse salt and pepper brisket rub",
+    "category": "Rubs",
+    "variation_id": "VAR_BRISKETRUB_R",
+    "variation_name": "12oz Shaker",
+    "price_amount": "1100",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_SAUCE",
+    "type": "ITEM",
+    "name": "Tennessee Sweet Sauce",
+    "description": "Tomato and molasses BBQ sauce",
+    "category": "Sauces",
+    "variation_id": "VAR_SAUCE_R",
+    "variation_name": "16oz Bottle",
+    "price_amount": "900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_VINEGARSAUCE",
+    "type": "ITEM",
+    "name": "Appalachian Vinegar Sauce",
+    "description": "Tangy Carolina-style vinegar sauce",
+    "category": "Sauces",
+    "variation_id": "VAR_VINEGARSAUCE_R",
+    "variation_name": "16oz Bottle",
+    "price_amount": "900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_HICKORYCHIPS",
+    "type": "ITEM",
+    "name": "Hickory Smoking Chips",
+    "description": "Bag of hickory wood smoking chips",
+    "category": "Wood",
+    "variation_id": "VAR_HICKORYCHIPS_R",
+    "variation_name": "2lb Bag",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CHERRYCHIPS",
+    "type": "ITEM",
+    "name": "Cherry Smoking Chips",
+    "description": "Bag of cherry wood smoking chips",
+    "category": "Wood",
+    "variation_id": "VAR_CHERRYCHIPS_R",
+    "variation_name": "2lb Bag",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_THERMOMETER",
+    "type": "ITEM",
+    "name": "Dual-Probe Thermometer",
+    "description": "Wireless dual-probe smoker thermometer",
+    "category": "Gear",
+    "variation_id": "VAR_THERMOMETER_R",
+    "variation_name": "Standard",
+    "price_amount": "6900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_INJECTOR",
+    "type": "ITEM",
+    "name": "Meat Injector",
+    "description": "Stainless steel marinade injector",
+    "category": "Gear",
+    "variation_id": "VAR_INJECTOR_R",
+    "variation_name": "Standard",
+    "price_amount": "1900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_GLOVES",
+    "type": "ITEM",
+    "name": "Heat-Resistant Gloves",
+    "description": "Pair of insulated pit gloves",
+    "category": "Gear",
+    "variation_id": "VAR_GLOVES_R",
+    "variation_name": "One Size",
+    "price_amount": "2400",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_APRON",
+    "type": "ITEM",
+    "name": "Whitaker Pitmaster Apron",
+    "description": "Canvas apron with logo",
+    "category": "Merch",
+    "variation_id": "VAR_APRON_R",
+    "variation_name": "Standard",
+    "price_amount": "2800",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_PORKRUB",
+    "type": "ITEM",
+    "name": "Pulled Pork Rub",
+    "description": "Sweet and smoky pork shoulder rub",
+    "category": "Rubs",
+    "variation_id": "VAR_PORKRUB_R",
+    "variation_name": "12oz Shaker",
+    "price_amount": "1100",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CHICKENRUB",
+    "type": "ITEM",
+    "name": "Smoked Chicken Rub",
+    "description": "Poultry rub with paprika and herbs",
+    "category": "Rubs",
+    "variation_id": "VAR_CHICKENRUB_R",
+    "variation_name": "12oz Shaker",
+    "price_amount": "1100",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUSTARDSAUCE",
+    "type": "ITEM",
+    "name": "Carolina Gold Mustard Sauce",
+    "description": "Yellow mustard-based BBQ sauce",
+    "category": "Sauces",
+    "variation_id": "VAR_MUSTARDSAUCE_R",
+    "variation_name": "16oz Bottle",
+    "price_amount": "900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_HOTSAUCE",
+    "type": "ITEM",
+    "name": "Smoky Mountain Hot Sauce",
+    "description": "Spicy chipotle BBQ sauce",
+    "category": "Sauces",
+    "variation_id": "VAR_HOTSAUCE_R",
+    "variation_name": "16oz Bottle",
+    "price_amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_OAKCHUNKS",
+    "type": "ITEM",
+    "name": "Oak Smoking Chunks",
+    "description": "Bag of oak wood smoking chunks",
+    "category": "Wood",
+    "variation_id": "VAR_OAKCHUNKS_R",
+    "variation_name": "4lb Bag",
+    "price_amount": "1500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_APPLECHIPS",
+    "type": "ITEM",
+    "name": "Apple Smoking Chips",
+    "description": "Bag of apple wood smoking chips",
+    "category": "Wood",
+    "variation_id": "VAR_APPLECHIPS_R",
+    "variation_name": "2lb Bag",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_KNIFE",
+    "type": "ITEM",
+    "name": "Brisket Slicing Knife",
+    "description": "12-inch granton-edge slicing knife",
+    "category": "Gear",
+    "variation_id": "VAR_KNIFE_R",
+    "variation_name": "Standard",
+    "price_amount": "4500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BUTCHERPAPER",
+    "type": "ITEM",
+    "name": "Pink Butcher Paper",
+    "description": "Roll of unwaxed pink butcher paper",
+    "category": "Gear",
+    "variation_id": "VAR_BUTCHERPAPER_R",
+    "variation_name": "18in Roll",
+    "price_amount": "2200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TEE",
+    "type": "ITEM",
+    "name": "Whitaker BBQ T-Shirt",
+    "description": "Cotton tee with smoker logo",
+    "category": "Merch",
+    "variation_id": "VAR_TEE_R",
+    "variation_name": "Large",
+    "price_amount": "2000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_PELLETTUBE",
+    "type": "ITEM",
+    "name": "Smoke Pellet Tube",
+    "description": "Stainless steel pellet tube for cold smoking",
+    "category": "Gear",
+    "variation_id": "VAR_PELLETTUBE_R",
+    "variation_name": "12in",
+    "price_amount": "1800",
+    "currency": "USD"
+  }
+]

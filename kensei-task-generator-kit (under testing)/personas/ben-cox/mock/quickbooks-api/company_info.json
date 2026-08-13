@@ -1,0 +1,37 @@
+{
+  "CompanyName": "Hardwick Lumber",
+  "LegalName": "Cherry came in a shade darker than the sample - will read better after finish.",
+  "CompanyAddr": {
+    "Line1": "1842 Wylie Hill Road",
+    "City": "Wolcott",
+    "CountrySubDivisionCode": "US",
+    "PostalCode": "05602"
+  },
+  "Email": {
+    "Address": "keith.cox.bvt@gmail.com"
+  },
+  "PrimaryPhone": {
+    "FreeFormNumber": "(503) 555-0147"
+  },
+  "FiscalYearStartMonth": "2026-02-15T11:00:00Z",
+  "Country": "US",
+  "IndustryType": "Final fit of the Henderson island base cabinets",
+  "NameValue": [
+    {
+      "Name": "Splitting and stacking the winter firewo",
+      "Value": "Gary Stoddard"
+    },
+    {
+      "Name": "Stage the bookshelf sections for the Cra",
+      "Value": "Pete Lafleur"
+    },
+    {
+      "Name": "Estimate for the Greensboro barn (2027)",
+      "Value": "Cut dadoes for the adjustable shelf pins"
+    }
+  ],
+  "MetaData": {
+    "CreateTime": "2025-08-20T12:00:00Z",
+    "LastUpdatedTime": "2025-08-11T06:00:00Z"
+  }
+}

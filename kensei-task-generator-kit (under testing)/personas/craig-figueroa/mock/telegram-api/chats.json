@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1001",
+    "type": "private",
+    "title": "",
+    "username": "fiona_d",
+    "first_name": "Fiona",
+    "last_name": "Drummond",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "1002",
+    "type": "private",
+    "title": "",
+    "username": "graeme_locum",
+    "first_name": "Graeme",
+    "last_name": "Sutherland",
+    "description": "",
+    "member_count": "2"
+  },
+  {
+    "id": "-200500",
+    "type": "group",
+    "title": "Figueroa Family",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Family group",
+    "member_count": "6"
+  },
+  {
+    "id": "-200501",
+    "type": "group",
+    "title": "Wester Ross Vets Net",
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "description": "Informal locum and cover network",
+    "member_count": "5"
+  },
+  {
+    "id": "1003",
+    "type": "private",
+    "title": "",
+    "username": "jean_mackenzie",
+    "first_name": "Jean",
+    "last_name": "MacKenzie",
+    "description": "",
+    "member_count": "2"
+  }
+]

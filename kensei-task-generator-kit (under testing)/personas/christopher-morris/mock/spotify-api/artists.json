@@ -1,0 +1,73 @@
+﻿[
+  {
+    "artist_id": "3cfOd4QrQKGW4KqM9Z9R8q",
+    "name": "Sheryl Crow",
+    "genres": "soft rock,country rock,pop rock",
+    "followers": "3245600",
+    "popularity": "72"
+  },
+  {
+    "artist_id": "20E1w3dH7pCWr0AATl5phY",
+    "name": "Norah Jones",
+    "genres": "jazz,pop,soul",
+    "followers": "6789200",
+    "popularity": "78"
+  },
+  {
+    "artist_id": "07YZf4WBIaoBNMLqKXW8qB",
+    "name": "Fleetwood Mac",
+    "genres": "rock,soft rock,pop rock",
+    "followers": "8234500",
+    "popularity": "81"
+  },
+  {
+    "artist_id": "4JRG9dXy3F8p5qNIlwXYa8",
+    "name": "The Eagles",
+    "genres": "rock,soft rock,country rock",
+    "followers": "7654300",
+    "popularity": "79"
+  },
+  {
+    "artist_id": "5s6C2Y8g4zYbzVDVl7uQmI",
+    "name": "James Taylor",
+    "genres": "soft rock,folk,pop",
+    "followers": "4521800",
+    "popularity": "74"
+  },
+  {
+    "artist_id": "2takcwgKJvtQcYprSKut8X",
+    "name": "Bonnie Raitt",
+    "genres": "blues,rock,soft rock",
+    "followers": "3987600",
+    "popularity": "71"
+  },
+  {
+    "artist_id": "0EmeFodog0BqLrvgAXsCJ6",
+    "name": "Stevie Nicks",
+    "genres": "rock,soft rock,pop",
+    "followers": "5432100",
+    "popularity": "76"
+  },
+  {
+    "artist_id": "1zOpPyFvpDXsIkRnQ8K8YP",
+    "name": "Jackson Browne",
+    "genres": "rock,soft rock,folk rock",
+    "followers": "2876500",
+    "popularity": "69"
+  },
+  {
+    "artist_id": "5GQxPmQQZJf7l8G1E3gI3H",
+    "name": "Mariah ILrey",
+    "genres": "pop,R&B,soul",
+    "followers": "9234500",
+    "popularity": "83"
+  },
+  {
+    "artist_id": "4SRLtgNgruAVYYv9Cz0dC2",
+    "name": "Paul Simon",
+    "genres": "rock,soft rock,folk",
+    "followers": "4123400",
+    "popularity": "73"
+  }
+]
+

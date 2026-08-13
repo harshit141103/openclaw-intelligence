@@ -1,0 +1,122 @@
+[
+  {
+    "catalog_object_id": "VAR_HICKORYRUB_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "120",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_BRISKETRUB_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "94",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_SAUCE_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "76",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_VINEGARSAUCE_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "58",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_HICKORYCHIPS_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "140",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_CHERRYCHIPS_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "88",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_THERMOMETER_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "22",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_INJECTOR_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "31",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_GLOVES_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "19",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_APRON_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "14",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_PORKRUB_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "108",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_CHICKENRUB_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "82",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_MUSTARDSAUCE_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "47",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_HOTSAUCE_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "63",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_OAKCHUNKS_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "71",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_APPLECHIPS_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "96",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_KNIFE_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "12",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_BUTCHERPAPER_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "38",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_TEE_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "26",
+    "state": "IN_STOCK"
+  },
+  {
+    "catalog_object_id": "VAR_PELLETTUBE_R",
+    "location_id": "LOC_KNOX",
+    "quantity": "34",
+    "state": "IN_STOCK"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "20",
+    "name": "carriers",
+    "slug": "carriers",
+    "description": "Posts mentioning carriers.",
+    "count": "3"
+  },
+  {
+    "id": "21",
+    "name": "automotive",
+    "slug": "automotive",
+    "description": "Automotive parts freight.",
+    "count": "1"
+  },
+  {
+    "id": "22",
+    "name": "agriculture",
+    "slug": "agriculture",
+    "description": "Agricultural products freight.",
+    "count": "2"
+  },
+  {
+    "id": "23",
+    "name": "fmcsa",
+    "slug": "fmcsa",
+    "description": "FMCSA and DOT regulation.",
+    "count": "1"
+  },
+  {
+    "id": "24",
+    "name": "announcements",
+    "slug": "announcements",
+    "description": "Company announcements.",
+    "count": "2"
+  },
+  {
+    "id": "25",
+    "name": "logistics",
+    "slug": "logistics",
+    "description": "Logistics and supply chain.",
+    "count": "2"
+  },
+  {
+    "id": "26",
+    "name": "rate-negotiation",
+    "slug": "rate-negotiation",
+    "description": "Negotiating freight rates.",
+    "count": "2"
+  },
+  {
+    "id": "27",
+    "name": "cross-border",
+    "slug": "cross-border",
+    "description": "Mexico and Canada lanes.",
+    "count": "2"
+  },
+  {
+    "id": "28",
+    "name": "reefer",
+    "slug": "reefer",
+    "description": "Refrigerated freight.",
+    "count": "1"
+  },
+  {
+    "id": "29",
+    "name": "flatbed",
+    "slug": "flatbed",
+    "description": "Flatbed and open-deck loads.",
+    "count": "1"
+  },
+  {
+    "id": "30",
+    "name": "mentorship",
+    "slug": "mentorship-tag",
+    "description": "TN Freight Mentorship Program.",
+    "count": "1"
+  },
+  {
+    "id": "31",
+    "name": "bbq",
+    "slug": "bbq",
+    "description": "Barbecue and smoking.",
+    "count": "3"
+  },
+  {
+    "id": "32",
+    "name": "brisket",
+    "slug": "brisket-tag",
+    "description": "Brisket cooks.",
+    "count": "1"
+  },
+  {
+    "id": "33",
+    "name": "pulled-pork",
+    "slug": "pulled-pork",
+    "description": "Pulled pork and ribs.",
+    "count": "1"
+  },
+  {
+    "id": "34",
+    "name": "fishing",
+    "slug": "fishing-tag",
+    "description": "Lake fishing reports.",
+    "count": "2"
+  },
+  {
+    "id": "35",
+    "name": "vols",
+    "slug": "vols",
+    "description": "Tennessee Volunteers.",
+    "count": "1"
+  },
+  {
+    "id": "36",
+    "name": "railroad-history",
+    "slug": "railroad-history",
+    "description": "Appalachian railroad history.",
+    "count": "1"
+  },
+  {
+    "id": "37",
+    "name": "insurance",
+    "slug": "insurance",
+    "description": "COIs and broker bonds.",
+    "count": "1"
+  },
+  {
+    "id": "38",
+    "name": "carrier-packet",
+    "slug": "carrier-packet",
+    "description": "Carrier onboarding packets.",
+    "count": "2"
+  },
+  {
+    "id": "39",
+    "name": "knoxville",
+    "slug": "knoxville",
+    "description": "Knoxville and East Tennessee.",
+    "count": "2"
+  }
+]

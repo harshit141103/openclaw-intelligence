@@ -1,0 +1,11 @@
+{
+  "id": "christopher-morris-spotify",
+  "display_name": "Christopher Morris",
+  "email": "christopher.morris@voissync.ai",
+  "country": "US",
+  "product": "premium",
+  "followers": 287,
+  "images": [
+    {"url": "https://img.example.com/christopher-morris.png", "height": 300, "width": 300}
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "objectID": "prod-001",
+    "name": "Cota window seat & bookcase",
+    "description": "Project schedule update",
+    "category": "audio",
+    "brand": "Buffalo Mountain Food Co-op",
+    "price": "18.99",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-002",
+    "name": "Dry-fit the face frames before glue-up",
+    "description": "Diane flagged the Sloan invoice for QuickBooks.",
+    "category": "audio",
+    "brand": "Hardwick Lumber",
+    "price": "24.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-003",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "category": "displays",
+    "brand": "Craftsbury General Store",
+    "price": "620.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-004",
+    "name": "Re: Bookshelf dimensions",
+    "description": "Final fit of the Henderson island base cabinets",
+    "category": "displays",
+    "brand": "Craftsbury General Store",
+    "price": "1200.00",
+    "in_stock": "false"
+  },
+  {
+    "objectID": "prod-005",
+    "name": "Set up the dado stack for the bookshelf ",
+    "description": "Project schedule update",
+    "category": "peripherals",
+    "brand": "Hardwick Lumber",
+    "price": "28.99",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-006",
+    "name": "Bookshelf install Friday the 16th",
+    "description": "Barn oak is summer 2027 - not pulling material yet.",
+    "category": "peripherals",
+    "brand": "Craftsbury General Store",
+    "price": "34.50",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-007",
+    "name": "Lay out dovetails for the silverware dra",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "category": "accessories",
+    "brand": "Willey's Store",
+    "price": "41.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-008",
+    "name": "Template the Stowe countertop radius for",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "category": "accessories",
+    "brand": "Parker Pie Co.",
+    "price": "47.95",
+    "in_stock": "false"
+  },
+  {
+    "objectID": "prod-001",
+    "name": "Church pew repair",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "category": "audio",
+    "brand": "Aubuchon Hardware Hardwick",
+    "price": "62.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-002",
+    "name": "Sloan cherry dining table",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "category": "audio",
+    "brand": "Tractor Supply Morrisville",
+    "price": "88.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-003",
+    "name": "Sloan cherry dining table",
+    "description": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "category": "displays",
+    "brand": "Hardwick Lumber",
+    "price": "1850.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-004",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "category": "displays",
+    "brand": "Hardwick Lumber",
+    "price": "2400.00",
+    "in_stock": "false"
+  },
+  {
+    "objectID": "prod-005",
+    "name": "Whitcomb built-in bookshelves",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "category": "peripherals",
+    "brand": "Cox Custom Woodwork",
+    "price": "110.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-006",
+    "name": "Final fit of the Henderson island base c",
+    "description": "Cut dadoes for the adjustable shelf pins",
+    "category": "peripherals",
+    "brand": "Vermont Tool & Die",
+    "price": "6.80",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-007",
+    "name": "Dry-fit the face frames before glue-up",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "category": "accessories",
+    "brand": "Craftsbury General Store",
+    "price": "9.25",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-008",
+    "name": "Bookshelf install Friday the 16th",
+    "description": "Replace the dust collector filter and clean the cyclone",
+    "category": "accessories",
+    "brand": "Parker Pie Co.",
+    "price": "12.50",
+    "in_stock": "false"
+  },
+  {
+    "objectID": "prod-001",
+    "name": "Plane the bookshelf shelves and ease the",
+    "description": "Sharpen the jointer knives and reset the infeed table",
+    "category": "audio",
+    "brand": "Willey's Store",
+    "price": "18.99",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-002",
+    "name": "Mill cherry stock to thickness for the u",
+    "description": "Material order - Hardwick Lumber",
+    "category": "audio",
+    "brand": "Tractor Supply Morrisville",
+    "price": "24.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-003",
+    "name": "Replace the dust collector filter and cl",
+    "description": "Sand to 220 and raise the grain before finish",
+    "category": "displays",
+    "brand": "Hardwick Lumber",
+    "price": "3200.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-004",
+    "name": "Replace the dust collector filter and cl",
+    "description": "Project schedule update",
+    "category": "displays",
+    "brand": "Craftsbury General Store",
+    "price": "4800.00",
+    "in_stock": "false"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "venue-soma",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Craftsbury",
+    "region": "St. Albans, VT",
+    "postal_code": "05478",
+    "country": "US",
+    "latitude": "37.7853",
+    "longitude": "-122.3970"
+  },
+  {
+    "id": "venue-mission",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Burlington",
+    "region": "Burlington, VT",
+    "postal_code": "05661",
+    "country": "US",
+    "latitude": "37.7679",
+    "longitude": "-122.3925"
+  },
+  {
+    "id": "venue-presidio",
+    "name": "Lafleur barn door (favor)",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Montpelier",
+    "region": "Craftsbury, VT",
+    "postal_code": "05680",
+    "country": "US",
+    "latitude": "37.7989",
+    "longitude": "-122.4662"
+  },
+  {
+    "id": "venue-soma-b1",
+    "name": "Henderson kitchen cabinets",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Montpelier",
+    "region": "Stowe, VT",
+    "postal_code": "05843",
+    "country": "US",
+    "latitude": "37.7853",
+    "longitude": "-122.3970"
+  },
+  {
+    "id": "venue-mission-b2",
+    "name": "Splitting and stacking the winter firewo",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Craftsbury",
+    "region": "West Glover, VT",
+    "postal_code": "05826",
+    "country": "US",
+    "latitude": "37.7679",
+    "longitude": "-122.3925"
+  },
+  {
+    "id": "venue-presidio-b3",
+    "name": "Material order - Hardwick Lumber",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Morrisville",
+    "region": "West Glover, VT",
+    "postal_code": "05602",
+    "country": "US",
+    "latitude": "37.7989",
+    "longitude": "-122.4662"
+  },
+  {
+    "id": "venue-soma-b4",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Hardwick",
+    "region": "Stowe, VT",
+    "postal_code": "05672",
+    "country": "US",
+    "latitude": "37.7853",
+    "longitude": "-122.3970"
+  },
+  {
+    "id": "venue-mission-b5",
+    "name": "Bookshelf install Friday the 16th",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Stowe",
+    "region": "Hardwick, VT",
+    "postal_code": "05826",
+    "country": "US",
+    "latitude": "37.7679",
+    "longitude": "-122.3925"
+  },
+  {
+    "id": "venue-presidio-b6",
+    "name": "Template the Stowe countertop radius for",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Stowe",
+    "region": "Montpelier, VT",
+    "postal_code": "05875",
+    "country": "US",
+    "latitude": "37.7989",
+    "longitude": "-122.4662"
+  },
+  {
+    "id": "venue-soma-b7",
+    "name": "Replace the dust collector filter and cl",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Craftsbury",
+    "region": "Greensboro, VT",
+    "postal_code": "05875",
+    "country": "US",
+    "latitude": "37.7853",
+    "longitude": "-122.3970"
+  },
+  {
+    "id": "venue-mission-b8",
+    "name": "Plane the bookshelf shelves and ease the",
+    "address1": "1842 Wylie Hill Road",
+    "city": "St. Albans",
+    "region": "St. Albans, VT",
+    "postal_code": "05661",
+    "country": "US",
+    "latitude": "37.7679",
+    "longitude": "-122.3925"
+  },
+  {
+    "id": "venue-presidio-b9",
+    "name": "Henderson kitchen cabinets",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Hardwick",
+    "region": "Wolcott, VT",
+    "postal_code": "05401",
+    "country": "US",
+    "latitude": "37.7989",
+    "longitude": "-122.4662"
+  },
+  {
+    "id": "venue-soma-b10",
+    "name": "Lay out dovetails for the silverware dra",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Greensboro",
+    "region": "Hardwick, VT",
+    "postal_code": "05401",
+    "country": "US",
+    "latitude": "37.7853",
+    "longitude": "-122.3970"
+  },
+  {
+    "id": "venue-mission-b11",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Hardwick",
+    "region": "St. Albans, VT",
+    "postal_code": "05843",
+    "country": "US",
+    "latitude": "37.7679",
+    "longitude": "-122.3925"
+  },
+  {
+    "id": "venue-presidio-b12",
+    "name": "Mill cherry stock to thickness for the u",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Burlington",
+    "region": "St. Albans, VT",
+    "postal_code": "05478",
+    "country": "US",
+    "latitude": "37.7989",
+    "longitude": "-122.4662"
+  },
+  {
+    "id": "venue-soma-b13",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Hardwick",
+    "region": "Stowe, VT",
+    "postal_code": "05826",
+    "country": "US",
+    "latitude": "37.7853",
+    "longitude": "-122.3970"
+  },
+  {
+    "id": "venue-mission-b14",
+    "name": "Plane the bookshelf shelves and ease the",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Greensboro",
+    "region": "Greensboro, VT",
+    "postal_code": "05875",
+    "country": "US",
+    "latitude": "37.7679",
+    "longitude": "-122.3925"
+  },
+  {
+    "id": "venue-presidio-b15",
+    "name": "Hang the soft-close doors and adjust the",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Craftsbury",
+    "region": "Montpelier, VT",
+    "postal_code": "05875",
+    "country": "US",
+    "latitude": "37.7989",
+    "longitude": "-122.4662"
+  },
+  {
+    "id": "venue-soma-b16",
+    "name": "Henderson kitchen cabinets",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Hardwick",
+    "region": "Wolcott, VT",
+    "postal_code": "05478",
+    "country": "US",
+    "latitude": "37.7853",
+    "longitude": "-122.3970"
+  },
+  {
+    "id": "venue-mission-b17",
+    "name": "Greensboro barn restoration",
+    "address1": "1842 Wylie Hill Road",
+    "city": "Morrisville",
+    "region": "Hardwick, VT",
+    "postal_code": "05875",
+    "country": "US",
+    "latitude": "37.7679",
+    "longitude": "-122.3925"
+  }
+]

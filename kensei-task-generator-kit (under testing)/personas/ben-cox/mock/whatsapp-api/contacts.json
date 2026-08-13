@@ -1,0 +1,142 @@
+[
+  {
+    "wa_id": "18025550112",
+    "profile_name": "Diane Cox",
+    "phone_number": "+18025550112",
+    "opted_in": "false",
+    "last_seen": "2026-10-09T20:00:00Z"
+  },
+  {
+    "wa_id": "18025550145",
+    "profile_name": "Keith Cox",
+    "phone_number": "+18025550145",
+    "opted_in": "true",
+    "last_seen": "2026-10-09T07:15:00Z"
+  },
+  {
+    "wa_id": "18025550155",
+    "profile_name": "Marie Cox-Gagne",
+    "phone_number": "+18025550155",
+    "opted_in": "true",
+    "last_seen": "2026-10-08T18:30:00Z"
+  },
+  {
+    "wa_id": "18025550156",
+    "profile_name": "Tom Gagne",
+    "phone_number": "+18025550156",
+    "opted_in": "true",
+    "last_seen": "2026-10-07T12:00:00Z"
+  },
+  {
+    "wa_id": "18025550178",
+    "profile_name": "Pete Lafleur",
+    "phone_number": "+18025550178",
+    "opted_in": "true",
+    "last_seen": "2026-10-06T09:00:00Z"
+  },
+  {
+    "wa_id": "18025550410",
+    "profile_name": "Dr. James Whitfield",
+    "phone_number": "+18025550410",
+    "opted_in": "false",
+    "last_seen": "2026-10-09T20:00:00Z"
+  },
+  {
+    "wa_id": "18025550425",
+    "profile_name": "Dr. Paul LeBlanc",
+    "phone_number": "+18025550425",
+    "opted_in": "true",
+    "last_seen": "2026-10-09T07:15:00Z"
+  },
+  {
+    "wa_id": "18025550500",
+    "profile_name": "Scott Henderson",
+    "phone_number": "+18025550500",
+    "opted_in": "true",
+    "last_seen": "2026-10-08T18:30:00Z"
+  },
+  {
+    "wa_id": "18025550501",
+    "profile_name": "Linda Henderson",
+    "phone_number": "+18025550501",
+    "opted_in": "true",
+    "last_seen": "2026-10-07T12:00:00Z"
+  },
+  {
+    "wa_id": "18025550512",
+    "profile_name": "Alan Whitcomb",
+    "phone_number": "+18025550512",
+    "opted_in": "true",
+    "last_seen": "2026-10-06T09:00:00Z"
+  },
+  {
+    "wa_id": "18025550720",
+    "profile_name": "Paul Dufresne",
+    "phone_number": "+18025550720",
+    "opted_in": "false",
+    "last_seen": "2026-10-09T20:00:00Z"
+  },
+  {
+    "wa_id": "18025550733",
+    "profile_name": "Marc Belanger",
+    "phone_number": "+18025550733",
+    "opted_in": "true",
+    "last_seen": "2026-10-09T07:15:00Z"
+  },
+  {
+    "wa_id": "18025550741",
+    "profile_name": "Gary Stoddard",
+    "phone_number": "+18025550741",
+    "opted_in": "true",
+    "last_seen": "2026-10-08T18:30:00Z"
+  },
+  {
+    "wa_id": "18025550700",
+    "profile_name": "Hardwick Lumber",
+    "phone_number": "+18025550700",
+    "opted_in": "true",
+    "last_seen": "2026-10-07T12:00:00Z"
+  },
+  {
+    "wa_id": "18025550810",
+    "profile_name": "Green Mountain Hardwoods",
+    "phone_number": "+18025550810",
+    "opted_in": "true",
+    "last_seen": "2026-10-06T09:00:00Z"
+  },
+  {
+    "wa_id": "18025550715",
+    "profile_name": "Ray Tetreault",
+    "phone_number": "+18025550715",
+    "opted_in": "false",
+    "last_seen": "2026-10-09T20:00:00Z"
+  },
+  {
+    "wa_id": "18025550523",
+    "profile_name": "Nancy Beaulieu",
+    "phone_number": "+18025550523",
+    "opted_in": "true",
+    "last_seen": "2026-10-09T07:15:00Z"
+  },
+  {
+    "wa_id": "18025550630",
+    "profile_name": "Rev. Susan Mills",
+    "phone_number": "+18025550630",
+    "opted_in": "true",
+    "last_seen": "2026-10-08T18:30:00Z"
+  },
+  {
+    "wa_id": "18025550766",
+    "profile_name": "Walt Perreault",
+    "phone_number": "+18025550766",
+    "opted_in": "true",
+    "last_seen": "2026-10-07T12:00:00Z"
+  },
+  {
+    "wa_id": "18025550544",
+    "profile_name": "Donna Sloan",
+    "phone_number": "+18025550544",
+    "opted_in": "true",
+    "last_seen": "2026-10-06T09:00:00Z"
+  }
+]

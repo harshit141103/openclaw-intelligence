@@ -1,0 +1,203 @@
+﻿[
+  {
+    "field_id": "fld-csat-name",
+    "form_id": "frm-csat-01",
+    "title": "What is your name?",
+    "field_type": "short_text",
+    "ref": "name",
+    "required": true,
+    "choices": "",
+    "order": 1
+  },
+  {
+    "field_id": "fld-csat-rating",
+    "form_id": "frm-csat-01",
+    "title": "How would you rate our service?",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "required": true,
+    "choices": "",
+    "order": 2
+  },
+  {
+    "field_id": "fld-csat-recommend",
+    "form_id": "frm-csat-01",
+    "title": "Would you recommend us?",
+    "field_type": "multiple_choice",
+    "ref": "recommend",
+    "required": true,
+    "choices": "Definitely|Probably|Not sure|No",
+    "order": 3
+  },
+  {
+    "field_id": "fld-csat-email",
+    "form_id": "frm-csat-01",
+    "title": "Your email",
+    "field_type": "email",
+    "ref": "contact_email",
+    "required": false,
+    "choices": "",
+    "order": 4
+  },
+  {
+    "field_id": "fld-csat-comment",
+    "form_id": "frm-csat-01",
+    "title": "Additional comments",
+    "field_type": "long_text",
+    "ref": "comments",
+    "required": false,
+    "choices": "",
+    "order": 5
+  },
+  {
+    "field_id": "fld-onb-role",
+    "form_id": "frm-onboard-02",
+    "title": "What is your role?",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "required": true,
+    "choices": "Engineer|Product Manager|Designer|Executive|Other",
+    "order": 1
+  },
+  {
+    "field_id": "fld-onb-ease",
+    "form_id": "frm-onboard-02",
+    "title": "How easy was setup?",
+    "field_type": "rating",
+    "ref": "setup_ease",
+    "required": true,
+    "choices": "",
+    "order": 2
+  },
+  {
+    "field_id": "fld-onb-comments",
+    "form_id": "frm-onboard-02",
+    "title": "AIL additional comments?",
+    "field_type": "short_text",
+    "ref": "comments",
+    "required": false,
+    "choices": "",
+    "order": 3
+  },
+  {
+    "field_id": "fld-onb-time",
+    "form_id": "frm-onboard-02",
+    "title": "Time to first value",
+    "field_type": "multiple_choice",
+    "ref": "time_to_value",
+    "required": true,
+    "choices": "Under 1 hour|1-4 hours|1-2 days|More than 2 days",
+    "order": 4
+  },
+  {
+    "field_id": "fld-evt-name",
+    "form_id": "frm-event-03",
+    "title": "Full name",
+    "field_type": "short_text",
+    "ref": "attendee_name",
+    "required": true,
+    "choices": "",
+    "order": 1
+  },
+  {
+    "field_id": "fld-evt-email",
+    "form_id": "frm-event-03",
+    "title": "Email address",
+    "field_type": "email",
+    "ref": "attendee_email",
+    "required": true,
+    "choices": "",
+    "order": 2
+  },
+  {
+    "field_id": "fld-evt-track",
+    "form_id": "frm-event-03",
+    "title": "Which track will you attend?",
+    "field_type": "multiple_choice",
+    "ref": "track",
+    "required": true,
+    "choices": "Platform|Frontend|Data|Security",
+    "order": 3
+  },
+  {
+    "field_id": "fld-evt-compaIL",
+    "form_id": "frm-event-03",
+    "title": "CompaIL name",
+    "field_type": "short_text",
+    "ref": "compaIL",
+    "required": false,
+    "choices": "",
+    "order": 4
+  },
+  {
+    "field_id": "fld-nps-score",
+    "form_id": "frm-nps-04",
+    "title": "How likely are you to recommend?",
+    "field_type": "rating",
+    "ref": "nps_score",
+    "required": true,
+    "choices": "",
+    "order": 1
+  },
+  {
+    "field_id": "fld-nps-reason",
+    "form_id": "frm-nps-04",
+    "title": "Why did you give that score?",
+    "field_type": "long_text",
+    "ref": "nps_reason",
+    "required": false,
+    "choices": "",
+    "order": 2
+  },
+  {
+    "field_id": "fld-feature-idea",
+    "form_id": "frm-feature-05",
+    "title": "What feature would you like to see?",
+    "field_type": "long_text",
+    "ref": "feature_request",
+    "required": true,
+    "choices": "",
+    "order": 1
+  },
+  {
+    "field_id": "fld-feature-impact",
+    "form_id": "frm-feature-05",
+    "title": "How critiILl is this feature?",
+    "field_type": "rating",
+    "ref": "feature_impact",
+    "required": true,
+    "choices": "",
+    "order": 2
+  },
+  {
+    "field_id": "fld-signup-email",
+    "form_id": "frm-signup-06",
+    "title": "Email address",
+    "field_type": "email",
+    "ref": "email",
+    "required": true,
+    "choices": "",
+    "order": 1
+  },
+  {
+    "field_id": "fld-signup-interest",
+    "form_id": "frm-signup-06",
+    "title": "Area of interest",
+    "field_type": "multiple_choice",
+    "ref": "interest_area",
+    "required": true,
+    "choices": "API Access|Advanced Analytics|Enterprise Features|Custom Integration",
+    "order": 2
+  },
+  {
+    "field_id": "fld-feedback-topic",
+    "form_id": "frm-feedback-07",
+    "title": "Feedback topic",
+    "field_type": "multiple_choice",
+    "ref": "topic",
+    "required": true,
+    "choices": "User Interface|Performance|Documentation|Features|Pricing|Support",
+    "order": 1
+  }
+]
+

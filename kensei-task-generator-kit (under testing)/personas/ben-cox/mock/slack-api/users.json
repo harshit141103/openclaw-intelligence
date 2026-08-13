@@ -1,0 +1,222 @@
+[
+  {
+    "id": "U01ben",
+    "name": "Diane Cox",
+    "real_name": "Diane Cox",
+    "email": "diane.cox.vt@gmail.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "presence": "active"
+  },
+  {
+    "id": "U01keith",
+    "name": "Keith Cox",
+    "real_name": "Keith Cox",
+    "email": "keith.cox.bvt@gmail.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01diane",
+    "name": "Marie Cox-Gagne",
+    "real_name": "Marie Cox-Gagne",
+    "email": "marie.gagne.vt@gmail.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "reviewing PRs",
+    "presence": "active"
+  },
+  {
+    "id": "U01PETE",
+    "name": "Tom Gagne",
+    "real_name": "Tom Gagne",
+    "email": "tom.gagne.vt@gmail.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "away"
+  },
+  {
+    "id": "U01WALT",
+    "name": "Pete Lafleur",
+    "real_name": "Pete Lafleur",
+    "email": "pete.lafleur.vt@gmail.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "onboarding",
+    "presence": "active"
+  },
+  {
+    "id": "U01BOT",
+    "name": "Dr. James Whitfield",
+    "real_name": "Dr. James Whitfield",
+    "email": "jwhitfield@copleyvt.org",
+    "is_admin": "false",
+    "is_bot": "true",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01ben-b1",
+    "name": "Dr. Paul LeBlanc",
+    "real_name": "Dr. Paul LeBlanc",
+    "email": "frontdesk@hardwickdental.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "presence": "active"
+  },
+  {
+    "id": "U01keith-b2",
+    "name": "Scott Henderson",
+    "real_name": "Scott Henderson",
+    "email": "shenderson@stowevt.net",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01diane-b3",
+    "name": "Linda Henderson",
+    "real_name": "Linda Henderson",
+    "email": "lhenderson@stowevt.net",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "reviewing PRs",
+    "presence": "active"
+  },
+  {
+    "id": "U01PETE-b4",
+    "name": "Alan Whitcomb",
+    "real_name": "Alan Whitcomb",
+    "email": "awhitcomb@sterling.edu",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "away"
+  },
+  {
+    "id": "U01WALT-b5",
+    "name": "Paul Dufresne",
+    "real_name": "Paul Dufresne",
+    "email": "paul.dufresne@myfairpoint.net",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "onboarding",
+    "presence": "active"
+  },
+  {
+    "id": "U01BOT-b6",
+    "name": "Marc Belanger",
+    "real_name": "Marc Belanger",
+    "email": "marc.belanger.mason@gmail.com",
+    "is_admin": "false",
+    "is_bot": "true",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01ben-b7",
+    "name": "Gary Stoddard",
+    "real_name": "Gary Stoddard",
+    "email": "stoddard.electric@gmail.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "Mock up the crown profile for the Henderson uppers",
+    "presence": "active"
+  },
+  {
+    "id": "U01keith-b8",
+    "name": "Hardwick Lumber",
+    "real_name": "Hardwick Lumber",
+    "email": "orders@hardwicklumber.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01diane-b9",
+    "name": "Green Mountain Hardwoods",
+    "real_name": "Green Mountain Hardwoods",
+    "email": "sales@greenmountainhardwoods.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "reviewing PRs",
+    "presence": "active"
+  },
+  {
+    "id": "U01PETE-b10",
+    "name": "Ray Tetreault",
+    "real_name": "Ray Tetreault",
+    "email": "ray@hardwicklumber.com",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "away"
+  },
+  {
+    "id": "U01WALT-b11",
+    "name": "Nancy Beaulieu",
+    "real_name": "Nancy Beaulieu",
+    "email": "nancy.beaulieu@gmavt.net",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "onboarding",
+    "presence": "active"
+  },
+  {
+    "id": "U01BOT-b12",
+    "name": "Rev. Susan Mills",
+    "real_name": "Rev. Susan Mills",
+    "email": "office@craftsburychurch.org",
+    "is_admin": "false",
+    "is_bot": "true",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  },
+  {
+    "id": "U01ben-b13",
+    "name": "Walt Perreault",
+    "real_name": "Walt Perreault",
+    "email": "walt.perreault@gmail.com",
+    "is_admin": "true",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "Re-saw the walnut for bookmatched panels",
+    "presence": "active"
+  },
+  {
+    "id": "U01keith-b14",
+    "name": "Donna Sloan",
+    "real_name": "Donna Sloan",
+    "email": "donna.sloan@comcast.net",
+    "is_admin": "false",
+    "is_bot": "false",
+    "tz": "America/New_York",
+    "status_text": "",
+    "presence": "active"
+  }
+]

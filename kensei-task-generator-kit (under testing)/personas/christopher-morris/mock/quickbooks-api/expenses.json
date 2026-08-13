@@ -1,0 +1,283 @@
+﻿[
+  {
+    "Id": "5301",
+    "TxnDate": "2026-05-05",
+    "TotalAmt": 1800.0,
+    "Line": [
+      {
+        "Description": "Monthly rent - 1425 Oak Ridge Drive, Portland OR",
+        "Amount": 1800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-05T08:00:00"
+    }
+  },
+  {
+    "Id": "5302",
+    "TxnDate": "2026-05-03",
+    "TotalAmt": 285.75,
+    "Line": [
+      {
+        "Description": "Portland General Electric - Monthly electric bill",
+        "Amount": 285.75
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-03T09:30:00"
+    }
+  },
+  {
+    "Id": "5303",
+    "TxnDate": "2026-05-08",
+    "TotalAmt": 62.00,
+    "Line": [
+      {
+        "Description": "City of Portland Water Bureau - Water and sewer service",
+        "Amount": 62.00
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-08T10:15:00"
+    }
+  },
+  {
+    "Id": "5304",
+    "TxnDate": "2026-05-06",
+    "TotalAmt": 79.99,
+    "Line": [
+      {
+        "Description": "Windstream CommuniILtions - Internet and phone service",
+        "Amount": 79.99
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-06T11:00:00"
+    }
+  },
+  {
+    "Id": "5305",
+    "TxnDate": "2026-05-10",
+    "TotalAmt": 187.45,
+    "Line": [
+      {
+        "Description": "Safeway grocery shopping - Weekly groceries",
+        "Amount": 187.45
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-10T14:30:00"
+    }
+  },
+  {
+    "Id": "5306",
+    "TxnDate": "2026-05-12",
+    "TotalAmt": 125.30,
+    "Line": [
+      {
+        "Description": "Fred Meyer - Household supplies and personal items",
+        "Amount": 125.30
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-12T15:45:00"
+    }
+  },
+  {
+    "Id": "5307",
+    "TxnDate": "2026-05-07",
+    "TotalAmt": 52.85,
+    "Line": [
+      {
+        "Description": "Shell Gas Station - Vehicle fuel",
+        "Amount": 52.85
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-07T16:20:00"
+    }
+  },
+  {
+    "Id": "5308",
+    "TxnDate": "2026-05-14",
+    "TotalAmt": 320.00,
+    "Line": [
+      {
+        "Description": "Les Schwab Tire Centers - Tire rotation and alignment service",
+        "Amount": 320.00
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-14T10:00:00"
+    }
+  },
+  {
+    "Id": "5309",
+    "TxnDate": "2026-05-09",
+    "TotalAmt": 89.50,
+    "Line": [
+      {
+        "Description": "Amazon Business - Office supplies and tech accessories",
+        "Amount": 89.50
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-09T12:30:00"
+    }
+  },
+  {
+    "Id": "5310",
+    "TxnDate": "2026-05-15",
+    "TotalAmt": 45.99,
+    "Line": [
+      {
+        "Description": "Fred Meyer - Groceries and household items",
+        "Amount": 45.99
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-15T17:00:00"
+    }
+  },
+  {
+    "Id": "5311",
+    "TxnDate": "2026-05-02",
+    "TotalAmt": 250.00,
+    "Line": [
+      {
+        "Description": "ComILst Xfinity - ILble and broadband service",
+        "Amount": 250.00
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-02T08:00:00"
+    }
+  },
+  {
+    "Id": "5312",
+    "TxnDate": "2026-05-11",
+    "TotalAmt": 145.75,
+    "Line": [
+      {
+        "Description": "Safeway - Weekly grocery shopping",
+        "Amount": 145.75
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-11T14:20:00"
+    }
+  },
+  {
+    "Id": "5313",
+    "TxnDate": "2026-05-13",
+    "TotalAmt": 68.50,
+    "Line": [
+      {
+        "Description": "Shell Gas Station - Vehicle fuel and oil",
+        "Amount": 68.50
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-13T15:45:00"
+    }
+  },
+  {
+    "Id": "5314",
+    "TxnDate": "2026-05-01",
+    "TotalAmt": 850.00,
+    "Line": [
+      {
+        "Description": "Professional development subscriptions - Coursera, LinkedIn Learning, techniILl certifiILtions",
+        "Amount": 850.00
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-01T09:00:00"
+    }
+  },
+  {
+    "Id": "5315",
+    "TxnDate": "2026-05-16",
+    "TotalAmt": 195.85,
+    "Line": [
+      {
+        "Description": "Safeway - Weekly groceries and household essentials",
+        "Amount": 195.85
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-16T16:30:00"
+    }
+  },
+  {
+    "Id": "5316",
+    "TxnDate": "2026-05-17",
+    "TotalAmt": 72.00,
+    "Line": [
+      {
+        "Description": "Shell Gas Station - Vehicle fuel",
+        "Amount": 72.00
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-17T17:15:00"
+    }
+  },
+  {
+    "Id": "5317",
+    "TxnDate": "2026-05-04",
+    "TotalAmt": 125.50,
+    "Line": [
+      {
+        "Description": "Stumptown Automotive - Vehicle inspection and minor service",
+        "Amount": 125.50
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-04T09:30:00"
+    }
+  },
+  {
+    "Id": "5318",
+    "TxnDate": "2026-05-18",
+    "TotalAmt": 250.00,
+    "Line": [
+      {
+        "Description": "Fred Meyer - Household supplies and personal ILre items",
+        "Amount": 250.00
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-18T15:00:00"
+    }
+  },
+  {
+    "Id": "5319",
+    "TxnDate": "2026-05-20",
+    "TotalAmt": 175.45,
+    "Line": [
+      {
+        "Description": "Safeway - Weekly groceries",
+        "Amount": 175.45
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-20T17:30:00"
+    }
+  },
+  {
+    "Id": "5320",
+    "TxnDate": "2026-05-21",
+    "TotalAmt": 55.00,
+    "Line": [
+      {
+        "Description": "Shell Gas Station - Vehicle fuel",
+        "Amount": 55.00
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-21T16:45:00"
+    }
+  }
+]
+

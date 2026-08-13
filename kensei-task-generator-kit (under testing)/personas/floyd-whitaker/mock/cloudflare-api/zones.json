@@ -1,0 +1,222 @@
+[
+  {
+    "id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "name": "whitakerfreight.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2023-11-10T10:00:00.000Z",
+    "modified_on": "2026-05-26T09:00:00.000Z"
+  },
+  {
+    "id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "name": "finthesiss.ai",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2023-10-15T10:00:00.000Z",
+    "modified_on": "2026-05-25T15:00:00.000Z"
+  },
+  {
+    "id": "zone3iiii7777jjjj8888kkkk9999llll",
+    "name": "whitakerfreightservices.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2023-11-10T10:05:00.000Z",
+    "modified_on": "2026-05-26T09:05:00.000Z"
+  },
+  {
+    "id": "zone4mmmm0000nnnn1111oooo2222pppp",
+    "name": "whitakerfreight.net",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2023-11-10T10:10:00.000Z",
+    "modified_on": "2026-05-26T09:10:00.000Z"
+  },
+  {
+    "id": "zone5qqqq3333rrrr4444ssss5555tttt",
+    "name": "wfsfreight.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2024-01-20T11:00:00.000Z",
+    "modified_on": "2026-04-30T14:00:00.000Z"
+  },
+  {
+    "id": "zone6uuuu6666vvvv7777wwww8888xxxx",
+    "name": "wfsbrokerage.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2024-01-20T11:05:00.000Z",
+    "modified_on": "2026-04-30T14:05:00.000Z"
+  },
+  {
+    "id": "zone7yyyy9999zzzz0000aaab1111bbbc",
+    "name": "finthesiss.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2023-10-15T10:05:00.000Z",
+    "modified_on": "2026-05-25T15:05:00.000Z"
+  },
+  {
+    "id": "zone8ccccd222eeeef333ggggh444iiii",
+    "name": "finthesiss.net",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2023-10-15T10:10:00.000Z",
+    "modified_on": "2026-05-25T15:10:00.000Z"
+  },
+  {
+    "id": "zone9jjjjk555llllm666nnnno777pppp",
+    "name": "tnfreightmentorship.org",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2026-02-05T14:00:00.000Z",
+    "modified_on": "2026-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "zone10qqqr888sssst999uuuuv000wwww",
+    "name": "tnfreightmentorship.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2026-02-05T14:05:00.000Z",
+    "modified_on": "2026-06-01T10:05:00.000Z"
+  },
+  {
+    "id": "zone11xxxy111zzzz222aaaa333bbbb444",
+    "name": "carriervetting.whitakerfreight.com",
+    "status": "active",
+    "paused": "false",
+    "type": "partial",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2026-01-12T09:00:00.000Z",
+    "modified_on": "2026-05-20T11:00:00.000Z"
+  },
+  {
+    "id": "zone12cccc555dddd666eeee777ffff888",
+    "name": "dotwebinars.whitakerfreight.com",
+    "status": "active",
+    "paused": "false",
+    "type": "partial",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2024-05-01T09:00:00.000Z",
+    "modified_on": "2026-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "zone13gggg999hhhh000iiii111jjjj222",
+    "name": "shipwithwfs.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2024-06-12T10:00:00.000Z",
+    "modified_on": "2026-03-18T13:00:00.000Z"
+  },
+  {
+    "id": "zone14kkkk333llll444mmmm555nnnn666",
+    "name": "whitakerlogistics.com",
+    "status": "pending",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2025-09-01T09:00:00.000Z",
+    "modified_on": "2026-05-10T09:00:00.000Z"
+  },
+  {
+    "id": "zone15oooo777pppp888qqqq999rrrr000",
+    "name": "whitakerfreight.co",
+    "status": "active",
+    "paused": "true",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2024-08-15T09:00:00.000Z",
+    "modified_on": "2025-12-01T09:00:00.000Z"
+  },
+  {
+    "id": "zone16ssss111tttt222uuuu333vvvv444",
+    "name": "whitakerfreight.us",
+    "status": "active",
+    "paused": "true",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2024-08-15T09:05:00.000Z",
+    "modified_on": "2025-12-01T09:05:00.000Z"
+  },
+  {
+    "id": "zone17wwww555xxxx666yyyy777zzzz888",
+    "name": "knoxvillefreightbroker.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2024-10-03T10:00:00.000Z",
+    "modified_on": "2026-02-14T11:00:00.000Z"
+  },
+  {
+    "id": "zone18aaab999bbbc000cccd111ddde222",
+    "name": "wfsloads.com",
+    "status": "active",
+    "paused": "false",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2025-02-20T10:00:00.000Z",
+    "modified_on": "2026-04-22T15:00:00.000Z"
+  },
+  {
+    "id": "zone19eeef333fffg444gggh555hhhi666",
+    "name": "finthesiss.io",
+    "status": "active",
+    "paused": "true",
+    "type": "full",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2023-10-15T10:15:00.000Z",
+    "modified_on": "2025-11-30T15:00:00.000Z"
+  },
+  {
+    "id": "zone20iiij777jjjk888kkkl999lllm000",
+    "name": "freightflowtrial.finthesiss.ai",
+    "status": "active",
+    "paused": "false",
+    "type": "partial",
+    "development_mode": "0",
+    "plan": "Free",
+    "created_on": "2026-04-05T13:00:00.000Z",
+    "modified_on": "2026-05-19T16:00:00.000Z"
+  }
+]

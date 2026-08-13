@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ev_0001",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "diane.cox.vt@gmail.com",
+    "event": "accepted",
+    "recipient": "diane.cox.vt@gmail.com",
+    "timestamp": "2025-11-05T11:45:00Z",
+    "reason": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "ev_0002",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "keith.cox.bvt@gmail.com",
+    "event": "delivered",
+    "recipient": "keith.cox.bvt@gmail.com",
+    "timestamp": "2024-07-17T11:45:00Z",
+    "reason": "Need to confirm material lead time on the Blum hardware before ordering."
+  },
+  {
+    "id": "ev_0003",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "marie.gagne.vt@gmail.com",
+    "event": "opened",
+    "recipient": "marie.gagne.vt@gmail.com",
+    "timestamp": "2025-01-20T12:00:00Z",
+    "reason": "Template the Stowe countertop radius for the corner cabinet"
+  },
+  {
+    "id": "ev_0004",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "tom.gagne.vt@gmail.com",
+    "event": "accepted",
+    "recipient": "tom.gagne.vt@gmail.com",
+    "timestamp": "2025-11-22T17:30:00Z",
+    "reason": "Project schedule update"
+  },
+  {
+    "id": "ev_0005",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "pete.lafleur.vt@gmail.com",
+    "event": "delivered",
+    "recipient": "pete.lafleur.vt@gmail.com",
+    "timestamp": "2024-11-19T13:00:00Z",
+    "reason": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut."
+  },
+  {
+    "id": "ev_0006",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "jwhitfield@copleyvt.org",
+    "event": "accepted",
+    "recipient": "jwhitfield@copleyvt.org",
+    "timestamp": "2026-08-30T15:00:00Z",
+    "reason": "Barn oak is summer 2027 - not pulling material yet."
+  },
+  {
+    "id": "ev_0007",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "frontdesk@hardwickdental.com",
+    "event": "failed",
+    "recipient": "frontdesk@hardwickdental.com",
+    "timestamp": "2026-09-21T16:30:00Z",
+    "reason": "Mock up the crown profile for the Henderson uppers"
+  },
+  {
+    "id": "ev_0008",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "shenderson@stowevt.net",
+    "event": "delivered",
+    "recipient": "shenderson@stowevt.net",
+    "timestamp": "2024-07-04T06:15:00Z",
+    "reason": "Re-saw the walnut for bookmatched panels"
+  },
+  {
+    "id": "ev_0009",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "lhenderson@stowevt.net",
+    "event": "delivered",
+    "recipient": "lhenderson@stowevt.net",
+    "timestamp": "2026-05-14T17:30:00Z",
+    "reason": "Mock up the crown profile for the Henderson uppers"
+  },
+  {
+    "id": "ev_0010",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "awhitcomb@sterling.edu",
+    "event": "clicked",
+    "recipient": "awhitcomb@sterling.edu",
+    "timestamp": "2025-09-15T18:30:00Z",
+    "reason": "Re: Bookshelf dimensions"
+  },
+  {
+    "id": "ev_0011",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "paul.dufresne@myfairpoint.net",
+    "event": "delivered",
+    "recipient": "paul.dufresne@myfairpoint.net",
+    "timestamp": "2024-12-10T18:15:00Z",
+    "reason": "Mill cherry stock to thickness for the upper cabinet doors"
+  },
+  {
+    "id": "ev_0012",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "marc.belanger.mason@gmail.com",
+    "event": "accepted",
+    "recipient": "marc.belanger.mason@gmail.com",
+    "timestamp": "2026-09-13T10:45:00Z",
+    "reason": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "ev_902",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "stoddard.electric@gmail.com",
+    "event": "accepted",
+    "recipient": "stoddard.electric@gmail.com",
+    "timestamp": "2024-10-31T15:15:00Z",
+    "reason": "Project schedule update"
+  },
+  {
+    "id": "ev_904",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "orders@hardwicklumber.com",
+    "event": "delivered",
+    "recipient": "orders@hardwicklumber.com",
+    "timestamp": "2026-03-14T10:30:00Z",
+    "reason": "Re: Bookshelf dimensions"
+  },
+  {
+    "id": "ev_906",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "sales@greenmountainhardwoods.com",
+    "event": "opened",
+    "recipient": "sales@greenmountainhardwoods.com",
+    "timestamp": "2025-01-14T12:15:00Z",
+    "reason": "Plane the bookshelf shelves and ease the front edges"
+  },
+  {
+    "id": "ev_908",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "ray@hardwicklumber.com",
+    "event": "accepted",
+    "recipient": "ray@hardwicklumber.com",
+    "timestamp": "2026-09-19T10:00:00Z",
+    "reason": "Re: Stowe install date"
+  },
+  {
+    "id": "ev_910",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "nancy.beaulieu@gmavt.net",
+    "event": "delivered",
+    "recipient": "nancy.beaulieu@gmavt.net",
+    "timestamp": "2025-08-16T18:45:00Z",
+    "reason": "Re: Stowe install date"
+  },
+  {
+    "id": "ev_912",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "office@craftsburychurch.org",
+    "event": "accepted",
+    "recipient": "office@craftsburychurch.org",
+    "timestamp": "2024-05-27T07:45:00Z",
+    "reason": "Sand to 220 and raise the grain before finish"
+  },
+  {
+    "id": "ev_914",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "walt.perreault@gmail.com",
+    "event": "failed",
+    "recipient": "walt.perreault@gmail.com",
+    "timestamp": "2026-04-28T09:15:00Z",
+    "reason": "Mock up the crown profile for the Henderson uppers"
+  },
+  {
+    "id": "ev_916",
+    "domain": "sandbox.mailgun.org",
+    "message_id": "donna.sloan@comcast.net",
+    "event": "delivered",
+    "recipient": "donna.sloan@comcast.net",
+    "timestamp": "2024-07-21T17:45:00Z",
+    "reason": "Replace the dust collector filter and clean the cyclone"
+  }
+]

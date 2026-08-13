@@ -1,0 +1,182 @@
+[
+  {
+    "id": "60b1000000000000000000b1",
+    "name": "Carrier Vetting Refresh",
+    "desc": "Q4 2026 carrier vetting refresh for automotive parts clients",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/abc12345/carrier-vetting-refresh",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a2;5f1a000000000000000000a4"
+  },
+  {
+    "id": "60b1000000000000000000b2",
+    "name": "TN Freight Mentorship Program",
+    "desc": "Autumn cohort planning with Keith Burgess",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/def67890/tn-freight-mentorship",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a6"
+  },
+  {
+    "id": "60b1000000000000000000b3",
+    "name": "Freight Software Eval",
+    "desc": "FreightFlow Pro vs RoutePoint Logistics Suite evaluation",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/ghi11223/freight-software-eval",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a2;5f1a000000000000000000a7"
+  },
+  {
+    "id": "60b1000000000000000000b4",
+    "name": "Brand Onboarding",
+    "desc": "Junior associate onboarding plan for Brandon Whitaker",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/jkl33445/brand-onboarding",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a3;5f1a000000000000000000a2"
+  },
+  {
+    "id": "60b1000000000000000000b5",
+    "name": "DOT Compliance Webinars",
+    "desc": "Quarterly DOT compliance webinar planning and delivery",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/mno55667/dot-compliance-webinars",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a4;5f1a000000000000000000a5"
+  },
+  {
+    "id": "60b1000000000000000000b6",
+    "name": "Client Accounts - Auto Parts",
+    "desc": "Cumberland Auto Parts and Tri-State Manufacturing account tracking",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/pqr77889/client-accounts-auto-parts",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000ae;5f1a000000000000000000b3"
+  },
+  {
+    "id": "60b1000000000000000000b7",
+    "name": "Client Accounts - Ag and Grain",
+    "desc": "Valley Grain Cooperative and Appalachian Ag Producers tracking",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/stu99001/client-accounts-ag-grain",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000af;5f1a000000000000000000b4"
+  },
+  {
+    "id": "60b1000000000000000000b8",
+    "name": "Client Accounts - Building Supply",
+    "desc": "Smoky Mountain Building Supply account tracking",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/vwx11335/client-accounts-building-supply",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000b0;5f1a000000000000000000a5"
+  },
+  {
+    "id": "60b1000000000000000000b9",
+    "name": "Q3 Billing and Bookkeeping",
+    "desc": "Quarterly billing reconciliation with Dale and Wayne Prater review",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/yza33557/q3-billing-bookkeeping",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a7;5f1a000000000000000000a9"
+  },
+  {
+    "id": "60b1000000000000000000ba",
+    "name": "TN Freight Association Board",
+    "desc": "Association board duties and Oct 10 conference prep",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/bcd55779/tn-freight-association-board",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a6"
+  },
+  {
+    "id": "60b1000000000000000000bb",
+    "name": "Fall Cookout Planning",
+    "desc": "Oct 17 fall cookout - smoker, sides, and guest list",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/efg77991/fall-cookout-planning",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000aa;5f1a000000000000000000ad"
+  },
+  {
+    "id": "60b1000000000000000000bc",
+    "name": "Douglas Lake Fishing Trip",
+    "desc": "Nov 7-9 Douglas Lake trip planning with Keith and Darrell",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/hij99113/douglas-lake-fishing-trip",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a6;5f1a000000000000000000ac"
+  },
+  {
+    "id": "60b1000000000000000000bd",
+    "name": "Home and Garden Projects",
+    "desc": "West Knoxville home, patio, smoker pit, and garden tasks",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/klm11335/home-garden-projects",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000aa"
+  },
+  {
+    "id": "60b1000000000000000000be",
+    "name": "Ridgeview Baptist Volunteer",
+    "desc": "Church volunteer scheduling and ministry support",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/nop33557/ridgeview-baptist-volunteer",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000b5;5f1a000000000000000000aa"
+  },
+  {
+    "id": "60b1000000000000000000bf",
+    "name": "Vols Season Tickets",
+    "desc": "Neyland Stadium game days, tailgate, and ticket sharing",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/qrs55779/vols-season-tickets",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a3;5f1a000000000000000000a6"
+  },
+  {
+    "id": "60b1000000000000000000c0",
+    "name": "Carrier Relationships",
+    "desc": "Ridgeline, Cumberland Gap, Volunteer, and Smoky Mountain carrier notes",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/tuv77991/carrier-relationships",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a4;5f1a000000000000000000a3"
+  },
+  {
+    "id": "60b1000000000000000000c1",
+    "name": "Office Operations",
+    "desc": "Day to day WFS office tasks and admin coordination",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/wxy99113/office-operations",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a2;5f1a000000000000000000a8"
+  },
+  {
+    "id": "60b1000000000000000000c2",
+    "name": "Marketing and Website",
+    "desc": "whitakerfreight.com updates and client testimonials",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/zab11335/marketing-website",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a8;5f1a000000000000000000a5"
+  },
+  {
+    "id": "60b1000000000000000000c3",
+    "name": "Year End Tax Prep",
+    "desc": "2026 distributions, deductions, and Wayne Prater coordination",
+    "closed": "true",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/cde33557/year-end-tax-prep",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000a9;5f1a000000000000000000a7"
+  },
+  {
+    "id": "60b1000000000000000000c4",
+    "name": "Personal and Family",
+    "desc": "Family calendar, Megan college, Cody football, and Mama June",
+    "closed": "false",
+    "id_organization": "org-whitaker-freight",
+    "url": "https://trello.com/b/fgh55779/personal-family",
+    "member_ids": "5f1a000000000000000000a1;5f1a000000000000000000aa;5f1a000000000000000000ab"
+  }
+]

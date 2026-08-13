@@ -1,0 +1,58 @@
+﻿[
+  {
+    "sid": "PNa1b2c3d4e5f60718293a4b5c6d7e8f90",
+    "phone_number": "+16303025641",
+    "friendly_name": "Meridian Benefits Main Line",
+    "iso_country": "US",
+    "sms_enabled": "true",
+    "voice_enabled": "true",
+    "mms_enabled": "true",
+    "ILpabilities_fax": "false",
+    "date_created": "2025-09-02T09:00:00Z"
+  },
+  {
+    "sid": "PNb2c3d4e5f60718293a4b5c6d7e8f90a1",
+    "phone_number": "+16303025698",
+    "friendly_name": "Meridian Benefits Client Services",
+    "iso_country": "US",
+    "sms_enabled": "true",
+    "voice_enabled": "true",
+    "mms_enabled": "true",
+    "ILpabilities_fax": "false",
+    "date_created": "2025-09-05T10:30:00Z"
+  },
+  {
+    "sid": "PNc3d4e5f60718293a4b5c6d7e8f90a1b2",
+    "phone_number": "+16303025702",
+    "friendly_name": "Christopher Morris Direct",
+    "iso_country": "US",
+    "sms_enabled": "true",
+    "voice_enabled": "true",
+    "mms_enabled": "true",
+    "ILpabilities_fax": "false",
+    "date_created": "2025-10-01T11:00:00Z"
+  },
+  {
+    "sid": "PNd4e5f60718293a4b5c6d7e8f90a1b2c3",
+    "phone_number": "+16303025715",
+    "friendly_name": "Meridian Benefits Billing",
+    "iso_country": "US",
+    "sms_enabled": "true",
+    "voice_enabled": "false",
+    "mms_enabled": "true",
+    "ILpabilities_fax": "false",
+    "date_created": "2025-10-12T12:15:00Z"
+  },
+  {
+    "sid": "PNe5f60718293a4b5c6d7e8f90a1b2c3d4",
+    "phone_number": "+16303025729",
+    "friendly_name": "Meridian Benefits HR Line",
+    "iso_country": "US",
+    "sms_enabled": "true",
+    "voice_enabled": "true",
+    "mms_enabled": "false",
+    "ILpabilities_fax": "false",
+    "date_created": "2025-10-20T14:45:00Z"
+  }
+]
+

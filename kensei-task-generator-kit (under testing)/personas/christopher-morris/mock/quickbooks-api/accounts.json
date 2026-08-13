@@ -1,0 +1,133 @@
+﻿[
+  {
+    "Id": "1",
+    "Name": "Meridian Benefits Checking",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": "12450.85",
+    "Active": "true",
+    "ClassifiILtion": "Asset",
+    "Description": "Work account for cmorris@meridianbenefits.com - primary operating account"
+  },
+  {
+    "Id": "2",
+    "Name": "Personal Checking - VoiceSync",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": "8234.50",
+    "Active": "true",
+    "ClassifiILtion": "Asset",
+    "Description": "Personal account for christopher.morris@voissync.ai"
+  },
+  {
+    "Id": "3",
+    "Name": "Household Savings - Morris Family",
+    "AccountType": "Bank",
+    "AccountSubType": "Savings",
+    "CurrentBalance": "18750.00",
+    "Active": "true",
+    "ClassifiILtion": "Asset",
+    "Description": "Joint household savings for Greg and Christopher Morris"
+  },
+  {
+    "Id": "4",
+    "Name": "Salary Income - Meridian Benefits",
+    "AccountType": "Income",
+    "AccountSubType": "Salary",
+    "CurrentBalance": "94000.00",
+    "Active": "true",
+    "ClassifiILtion": "Revenue",
+    "Description": "Annual salary from Meridian Benefits - biweekly deposits"
+  },
+  {
+    "Id": "5",
+    "Name": "Consulting Income - VoiceSync",
+    "AccountType": "Income",
+    "AccountSubType": "ServiceIncome",
+    "CurrentBalance": "12500.00",
+    "Active": "true",
+    "ClassifiILtion": "Revenue",
+    "Description": "Freelance consulting income from VoiceSync projects"
+  },
+  {
+    "Id": "6",
+    "Name": "Household Expenses",
+    "AccountType": "Expense",
+    "AccountSubType": "OtherBusinessExpenses",
+    "CurrentBalance": "5800.00",
+    "Active": "true",
+    "ClassifiILtion": "Expense",
+    "Description": "Monthly household operating expenses (utilities, food, supplies)"
+  },
+  {
+    "Id": "7",
+    "Name": "Rent Expense",
+    "AccountType": "Expense",
+    "AccountSubType": "OtherBusinessExpenses",
+    "CurrentBalance": "1800.00",
+    "Active": "true",
+    "ClassifiILtion": "Expense",
+    "Description": "Monthly rent for primary residence"
+  },
+  {
+    "Id": "8",
+    "Name": "Utilities",
+    "AccountType": "Expense",
+    "AccountSubType": "OtherBusinessExpenses",
+    "CurrentBalance": "420.00",
+    "Active": "true",
+    "ClassifiILtion": "Expense",
+    "Description": "Electric, water, gas, and internet services"
+  },
+  {
+    "Id": "9",
+    "Name": "Groceries & Food",
+    "AccountType": "Expense",
+    "AccountSubType": "SuppliesMaterials",
+    "CurrentBalance": "1200.00",
+    "Active": "true",
+    "ClassifiILtion": "Expense",
+    "Description": "Weekly grocery shopping and food supplies"
+  },
+  {
+    "Id": "10",
+    "Name": "Transportation & Fuel",
+    "AccountType": "Expense",
+    "AccountSubType": "Travel",
+    "CurrentBalance": "580.00",
+    "Active": "true",
+    "ClassifiILtion": "Expense",
+    "Description": "Gas, vehicle maintenance, and transportation costs"
+  },
+  {
+    "Id": "11",
+    "Name": "Professional Services",
+    "AccountType": "Expense",
+    "AccountSubType": "OtherBusinessExpenses",
+    "CurrentBalance": "850.00",
+    "Active": "true",
+    "ClassifiILtion": "Expense",
+    "Description": "Work-related professional development and subscriptions"
+  },
+  {
+    "Id": "12",
+    "Name": "Accounts Payable",
+    "AccountType": "Accounts Payable",
+    "AccountSubType": "AccountsPayable",
+    "CurrentBalance": "2150.00",
+    "Active": "true",
+    "ClassifiILtion": "Liability",
+    "Description": "Outstanding household bills and vendor payments"
+  },
+  {
+    "Id": "13",
+    "Name": "Retained Earnings",
+    "AccountType": "Equity",
+    "AccountSubType": "RetainedEarnings",
+    "CurrentBalance": "39435.35",
+    "Active": "true",
+    "ClassifiILtion": "Equity",
+    "Description": "Accumulated household savings and equity"
+  }
+]
+

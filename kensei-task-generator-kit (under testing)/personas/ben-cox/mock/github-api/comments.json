@@ -1,0 +1,162 @@
+[
+  {
+    "id": "4000001",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "created_at": "2026-08-05T18:30:00Z"
+  },
+  {
+    "id": "4000002",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "ben-cox",
+    "body": "Splitting and stacking the winter firewood",
+    "created_at": "2024-04-15T16:45:00Z"
+  },
+  {
+    "id": "4000003",
+    "issue_number": "144",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Lay out dovetails for the silverware drawer",
+    "created_at": "2026-06-18T06:45:00Z"
+  },
+  {
+    "id": "4000004",
+    "issue_number": "90",
+    "repo": "shop-site",
+    "user": "diane-cox",
+    "body": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "created_at": "2025-01-31T07:30:00Z"
+  },
+  {
+    "id": "4000005",
+    "issue_number": "205",
+    "repo": "web-app",
+    "user": "walt-perreault",
+    "body": "Built-ins - finish sample for your approval",
+    "created_at": "2026-06-22T09:45:00Z"
+  },
+  {
+    "id": "4000902",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Dry-fit the face frames before glue-up",
+    "created_at": "2025-01-28T06:00:00Z"
+  },
+  {
+    "id": "4000904",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "ben-cox",
+    "body": "Build the drawer boxes with half-blind dovetails",
+    "created_at": "2025-09-23T15:30:00Z"
+  },
+  {
+    "id": "4000906",
+    "issue_number": "144",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Mill cherry stock to thickness for the upper cabinet doors",
+    "created_at": "2026-06-13T07:15:00Z"
+  },
+  {
+    "id": "4000908",
+    "issue_number": "90",
+    "repo": "shop-site",
+    "user": "diane-cox",
+    "body": "Sharpened the chisels; the 1in was overdue.",
+    "created_at": "2025-07-25T07:30:00Z"
+  },
+  {
+    "id": "4000910",
+    "issue_number": "205",
+    "repo": "web-app",
+    "user": "walt-perreault",
+    "body": "Sand to 220 and raise the grain before finish",
+    "created_at": "2026-04-20T11:45:00Z"
+  },
+  {
+    "id": "4000907",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Sand to 220 and raise the grain before finish",
+    "created_at": "2024-11-03T07:45:00Z"
+  },
+  {
+    "id": "4000909",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "ben-cox",
+    "body": "Plane the bookshelf shelves and ease the front edges",
+    "created_at": "2026-04-29T11:00:00Z"
+  },
+  {
+    "id": "4000911",
+    "issue_number": "144",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Sharpen the jointer knives and reset the infeed table",
+    "created_at": "2026-04-22T07:30:00Z"
+  },
+  {
+    "id": "4000913",
+    "issue_number": "90",
+    "repo": "shop-site",
+    "user": "diane-cox",
+    "body": "Final fit of the Henderson island base cabinets",
+    "created_at": "2024-10-18T07:15:00Z"
+  },
+  {
+    "id": "4000915",
+    "issue_number": "205",
+    "repo": "web-app",
+    "user": "walt-perreault",
+    "body": "Replace the dust collector filter and clean the cyclone",
+    "created_at": "2025-01-28T09:15:00Z"
+  },
+  {
+    "id": "4000912",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Re-saw the walnut for bookmatched panels",
+    "created_at": "2023-10-06T06:15:00Z"
+  },
+  {
+    "id": "4000914",
+    "issue_number": "142",
+    "repo": "auth-api",
+    "user": "ben-cox",
+    "body": "Apply second coat of Arm-R-Seal to the bookcase carcase",
+    "created_at": "2026-02-09T11:30:00Z"
+  },
+  {
+    "id": "4000916",
+    "issue_number": "144",
+    "repo": "auth-api",
+    "user": "keith-cox",
+    "body": "Mock up the crown profile for the Henderson uppers",
+    "created_at": "2023-07-23T07:30:00Z"
+  },
+  {
+    "id": "4000918",
+    "issue_number": "90",
+    "repo": "shop-site",
+    "user": "diane-cox",
+    "body": "Stage the bookshelf sections for the Craftsbury install",
+    "created_at": "2025-04-27T09:30:00Z"
+  },
+  {
+    "id": "4000920",
+    "issue_number": "205",
+    "repo": "web-app",
+    "user": "walt-perreault",
+    "body": "Project schedule update",
+    "created_at": "2026-03-09T16:45:00Z"
+  }
+]

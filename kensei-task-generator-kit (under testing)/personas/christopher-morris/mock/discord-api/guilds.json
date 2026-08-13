@@ -1,0 +1,30 @@
+﻿[
+  {
+    "id": "900100200300400001",
+    "name": "Meridian Benefits Team",
+    "owner_id": "500100200300400001",
+    "member_count": "12",
+    "description": "Internal collaboration for Meridian Benefits Group team members",
+    "icon": "f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6",
+    "region": "us-central"
+  },
+  {
+    "id": "900100200300400002",
+    "name": "Naperville Community",
+    "owner_id": "500100200300400002",
+    "member_count": "8",
+    "description": "LoILl community group for Naperville residents",
+    "icon": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4",
+    "region": "us-central"
+  },
+  {
+    "id": "900100200300400003",
+    "name": "VoiceSync Developers",
+    "owner_id": "500100200300400003",
+    "member_count": "6",
+    "description": "Development team discussion for VoiceSync projects",
+    "icon": "d4c5b6a7f8e9d0c1b2a3f4e5d6c7b8a9",
+    "region": "us-central"
+  }
+]
+

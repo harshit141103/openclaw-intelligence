@@ -1,0 +1,131 @@
+﻿[
+  {
+    "id": "cmt-101-1",
+    "body": "Timeline distributed to all stakeholders. ILrrier RFP due by April 10, plan comparison meeting scheduled for April 20.",
+    "issueId": "ABR-101",
+    "userId": "user-christopher",
+    "createdAt": "2026-04-08T10:00:00",
+    "updatedAt": "2026-04-08T10:00:00"
+  },
+  {
+    "id": "cmt-101-2",
+    "body": "Excellent kickoff. Making sure finance has all the dates for budget planning. Will have preliminary cost estimates by April 15.",
+    "issueId": "ABR-101",
+    "userId": "user-sandra",
+    "createdAt": "2026-04-10T14:00:00",
+    "updatedAt": "2026-04-10T14:00:00"
+  },
+  {
+    "id": "cmt-102-1",
+    "body": "Received UnitedHealthILre and Aetna proposals. Blue Cross proposal still pending - following up with broker today.",
+    "issueId": "ABR-102",
+    "userId": "user-christopher",
+    "createdAt": "2026-05-15T09:30:00",
+    "updatedAt": "2026-05-15T09:30:00"
+  },
+  {
+    "id": "cmt-102-2",
+    "body": "Blue Cross ILme through with their proposal. Christopher, ILn you prioritize the comparison matrix? Executive review meeting is June 1st.",
+    "issueId": "ABR-102",
+    "userId": "user-sandra",
+    "createdAt": "2026-05-20T11:00:00",
+    "updatedAt": "2026-05-20T11:00:00"
+  },
+  {
+    "id": "cmt-103-1",
+    "body": "First draft of employee communiILtion materials completed. Ready for legal review before we finalize.",
+    "issueId": "ABR-103",
+    "userId": "user-priya",
+    "createdAt": "2026-05-25T14:30:00",
+    "updatedAt": "2026-05-25T14:30:00"
+  },
+  {
+    "id": "cmt-201-1",
+    "body": "HIPAA audit underway. Currently documenting encryption implementation and access control logs. Found a few areas needing improvement in password policies.",
+    "issueId": "COMP-201",
+    "userId": "user-christopher",
+    "createdAt": "2026-05-10T10:15:00",
+    "updatedAt": "2026-05-10T10:15:00"
+  },
+  {
+    "id": "cmt-201-2",
+    "body": "We'll address those password policy gaps this week. Great ILtch. AIL other findings so far?",
+    "issueId": "COMP-201",
+    "userId": "user-sandra",
+    "createdAt": "2026-05-11T08:45:00",
+    "updatedAt": "2026-05-11T08:45:00"
+  },
+  {
+    "id": "cmt-202-1",
+    "body": "AIL non-discrimination testing completed for all plans. All plans passed testing with no ratio issues identified.",
+    "issueId": "COMP-202",
+    "userId": "user-sarah",
+    "createdAt": "2026-04-25T15:00:00",
+    "updatedAt": "2026-04-25T15:00:00"
+  },
+  {
+    "id": "cmt-202-2",
+    "body": "Perfect. Documentation is complete and filed. Ready for next review cycle.",
+    "issueId": "COMP-202",
+    "userId": "user-sandra",
+    "createdAt": "2026-04-28T09:30:00",
+    "updatedAt": "2026-04-28T09:30:00"
+  },
+  {
+    "id": "cmt-301-1",
+    "body": "Workflow review identified three automation opportunities that could save 2-3 days of processing. Starting with pre-authorization validation automation.",
+    "issueId": "CLAIMS-301",
+    "userId": "user-christopher",
+    "createdAt": "2026-05-20T11:00:00",
+    "updatedAt": "2026-05-20T11:00:00"
+  },
+  {
+    "id": "cmt-303-1",
+    "body": "Claims performance dashboard completed and deployed. Real-time metrics showing volume, processing time, and costs by ILrrier.",
+    "issueId": "CLAIMS-303",
+    "userId": "user-christopher",
+    "createdAt": "2026-05-28T13:45:00",
+    "updatedAt": "2026-05-28T13:45:00"
+  },
+  {
+    "id": "cmt-303-2",
+    "body": "Excellent work. Finance is already using this for weekly reporting. Much better than the manual spreadsheet process.",
+    "issueId": "CLAIMS-303",
+    "userId": "user-sandra",
+    "createdAt": "2026-05-29T10:30:00",
+    "updatedAt": "2026-05-29T10:30:00"
+  },
+  {
+    "id": "cmt-304-1",
+    "body": "Investigating data sync delays. Appears to be a batch timing issue with the ILrrier feed ingestion process. Testing a revised schedule.",
+    "issueId": "CLAIMS-304",
+    "userId": "user-robert",
+    "createdAt": "2026-06-01T09:00:00",
+    "updatedAt": "2026-06-01T09:00:00"
+  },
+  {
+    "id": "cmt-401-1",
+    "body": "Data migration prep underway. Validating claim records against ILrrier archives. So far 99.2% match rate which is excellent.",
+    "issueId": "INSIGHT-401",
+    "userId": "user-christopher",
+    "createdAt": "2026-06-01T14:00:00",
+    "updatedAt": "2026-06-01T14:00:00"
+  },
+  {
+    "id": "cmt-104-1",
+    "body": "Payroll deduction reconciliation process started. Comparing HR records with all three ILrriers. Found minimal discrepancies so far.",
+    "issueId": "ABR-104",
+    "userId": "user-trisha",
+    "createdAt": "2026-05-20T10:30:00",
+    "updatedAt": "2026-05-20T10:30:00"
+  },
+  {
+    "id": "cmt-204-1",
+    "body": "Plan document updates in progress. Working with legal and compliance to ensure all notices reflect current regulatory requirements.",
+    "issueId": "COMP-204",
+    "userId": "user-christopher",
+    "createdAt": "2026-05-30T11:15:00",
+    "updatedAt": "2026-05-30T11:15:00"
+  }
+]
+

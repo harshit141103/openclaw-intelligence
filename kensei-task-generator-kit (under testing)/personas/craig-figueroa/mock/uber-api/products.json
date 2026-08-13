@@ -1,0 +1,54 @@
+[
+  {
+    "product_id": "uberx",
+    "display_name": "UberX",
+    "description": "Affordable everyday rides",
+    "capacity": "4",
+    "base_fare": "2.50",
+    "cost_per_mile": "1.25",
+    "cost_per_minute": "0.15",
+    "booking_fee": "1.00",
+    "minimum_fare": "5.00",
+    "image_url": "https://d1a3f4spazzrp4.cloudfront.net/uberx.png",
+    "shared": "false"
+  },
+  {
+    "product_id": "uberxl",
+    "display_name": "UberXL",
+    "description": "Affordable rides for groups up to 6",
+    "capacity": "6",
+    "base_fare": "3.50",
+    "cost_per_mile": "2.00",
+    "cost_per_minute": "0.25",
+    "booking_fee": "1.00",
+    "minimum_fare": "8.00",
+    "image_url": "https://d1a3f4spazzrp4.cloudfront.net/uberxl.png",
+    "shared": "false"
+  },
+  {
+    "product_id": "comfort",
+    "display_name": "Comfort",
+    "description": "Newer cars with extra legroom",
+    "capacity": "4",
+    "base_fare": "3.00",
+    "cost_per_mile": "1.60",
+    "cost_per_minute": "0.20",
+    "booking_fee": "1.00",
+    "minimum_fare": "7.00",
+    "image_url": "https://d1a3f4spazzrp4.cloudfront.net/comfort.png",
+    "shared": "false"
+  },
+  {
+    "product_id": "green",
+    "display_name": "Uber Green",
+    "description": "Electric and hybrid rides",
+    "capacity": "4",
+    "base_fare": "2.50",
+    "cost_per_mile": "1.25",
+    "cost_per_minute": "0.15",
+    "booking_fee": "1.00",
+    "minimum_fare": "5.00",
+    "image_url": "https://d1a3f4spazzrp4.cloudfront.net/green.png",
+    "shared": "false"
+  }
+]

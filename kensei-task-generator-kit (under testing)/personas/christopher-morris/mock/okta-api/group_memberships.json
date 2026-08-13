@@ -1,0 +1,239 @@
+﻿[
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u1amelia"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u2jonas"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u3helena"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u6priya"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u7michael"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u9david"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u11liam"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u12sophie"
+  },
+  {
+    "group_id": "00g1eng",
+    "user_id": "00u18isabella"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u1amelia"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u3helena"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u7michael"
+  },
+  {
+    "group_id": "00g2plat",
+    "user_id": "00u9david"
+  },
+  {
+    "group_id": "00g3admins",
+    "user_id": "00u1amelia"
+  },
+  {
+    "group_id": "00g3admins",
+    "user_id": "00u2jonas"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u1amelia"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u2jonas"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u3helena"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u4rohit"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u5noor"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u6priya"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u7michael"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u8sarah"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u9david"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u10emma"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u11liam"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u12sophie"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u13christopher"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u15james"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u16rachel"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u18isabella"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u19paul"
+  },
+  {
+    "group_id": "00g4everyone",
+    "user_id": "00u20clara"
+  },
+  {
+    "group_id": "00g5backend",
+    "user_id": "00u2jonas"
+  },
+  {
+    "group_id": "00g5backend",
+    "user_id": "00u7michael"
+  },
+  {
+    "group_id": "00g5backend",
+    "user_id": "00u9david"
+  },
+  {
+    "group_id": "00g5backend",
+    "user_id": "00u11liam"
+  },
+  {
+    "group_id": "00g6frontend",
+    "user_id": "00u3helena"
+  },
+  {
+    "group_id": "00g6frontend",
+    "user_id": "00u8sarah"
+  },
+  {
+    "group_id": "00g6frontend",
+    "user_id": "00u10emma"
+  },
+  {
+    "group_id": "00g6frontend",
+    "user_id": "00u12sophie"
+  },
+  {
+    "group_id": "00g7devops",
+    "user_id": "00u1amelia"
+  },
+  {
+    "group_id": "00g7devops",
+    "user_id": "00u7michael"
+  },
+  {
+    "group_id": "00g8product",
+    "user_id": "00u6priya"
+  },
+  {
+    "group_id": "00g8product",
+    "user_id": "00u13christopher"
+  },
+  {
+    "group_id": "00g9design",
+    "user_id": "00u8sarah"
+  },
+  {
+    "group_id": "00g9design",
+    "user_id": "00u10emma"
+  },
+  {
+    "group_id": "00g10qa",
+    "user_id": "00u11liam"
+  },
+  {
+    "group_id": "00g10qa",
+    "user_id": "00u12sophie"
+  },
+  {
+    "group_id": "00g10qa",
+    "user_id": "00u15james"
+  },
+  {
+    "group_id": "00g11security",
+    "user_id": "00u1amelia"
+  },
+  {
+    "group_id": "00g11security",
+    "user_id": "00u16rachel"
+  },
+  {
+    "group_id": "00g12marketing",
+    "user_id": "00u13christopher"
+  },
+  {
+    "group_id": "00g12marketing",
+    "user_id": "00u19paul"
+  },
+  {
+    "group_id": "00g13hr",
+    "user_id": "00u20clara"
+  },
+  {
+    "group_id": "00g14finance",
+    "user_id": "00u19paul"
+  },
+  {
+    "group_id": "00g15contractors",
+    "user_id": "00u14maya"
+  },
+  {
+    "group_id": "00g15contractors",
+    "user_id": "00u17victor"
+  },
+  {
+    "group_id": "00g16interns",
+    "user_id": "00u17victor"
+  }
+]
+

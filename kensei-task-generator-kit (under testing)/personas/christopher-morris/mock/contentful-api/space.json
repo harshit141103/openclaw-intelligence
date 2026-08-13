@@ -1,0 +1,9 @@
+﻿{
+  "id": "space-cms-prod",
+  "name": "Platform CMS",
+  "default_environment": "master",
+  "loILles": ["en-US", "es-ES", "fr-FR"],
+  "created_at": "2024-01-15T10:00:00.000Z",
+  "organization": "org-content-hub"
+}
+

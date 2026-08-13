@@ -1,0 +1,79 @@
+[
+  {
+    "wa_id": "4477009007701",
+    "profile_name": "Fiona Drummond",
+    "phone_number": "+4477009007701",
+    "opted_in": "true",
+    "last_seen": "2026-05-26T19:40:00Z"
+  },
+  {
+    "wa_id": "4477009007702",
+    "profile_name": "Alejandro Figueroa",
+    "phone_number": "+4477009007702",
+    "opted_in": "true",
+    "last_seen": "2026-05-25T18:10:00Z"
+  },
+  {
+    "wa_id": "4477009007703",
+    "profile_name": "Elena Figueroa",
+    "phone_number": "+4477009007703",
+    "opted_in": "true",
+    "last_seen": "2026-05-24T12:00:00Z"
+  },
+  {
+    "wa_id": "4477009007704",
+    "profile_name": "Isabel Figueroa-Ross",
+    "phone_number": "+4477009007704",
+    "opted_in": "true",
+    "last_seen": "2026-05-20T20:45:00Z"
+  },
+  {
+    "wa_id": "4477009007711",
+    "profile_name": "Callum Ross",
+    "phone_number": "+4477009007711",
+    "opted_in": "true",
+    "last_seen": "2026-05-19T16:30:00Z"
+  },
+  {
+    "wa_id": "4477009007705",
+    "profile_name": "Duncan Fraser",
+    "phone_number": "+4477009007705",
+    "opted_in": "true",
+    "last_seen": "2026-04-28T18:40:00Z"
+  },
+  {
+    "wa_id": "4477009007709",
+    "profile_name": "Iain Campbell",
+    "phone_number": "+4477009007709",
+    "opted_in": "true",
+    "last_seen": "2026-05-02T20:30:00Z"
+  },
+  {
+    "wa_id": "4477009007706",
+    "profile_name": "Jean MacKenzie",
+    "phone_number": "+4477009007706",
+    "opted_in": "true",
+    "last_seen": "2026-05-09T18:55:00Z"
+  },
+  {
+    "wa_id": "4477009007707",
+    "profile_name": "Graeme Sutherland",
+    "phone_number": "+4477009007707",
+    "opted_in": "true",
+    "last_seen": "2026-04-21T19:05:00Z"
+  },
+  {
+    "wa_id": "4477009007708",
+    "profile_name": "Rhona Matheson",
+    "phone_number": "+4477009007708",
+    "opted_in": "false",
+    "last_seen": "2026-05-19T09:05:00Z"
+  },
+  {
+    "wa_id": "4477009007710",
+    "profile_name": "Douglas Mackay",
+    "phone_number": "+4477009007710",
+    "opted_in": "false",
+    "last_seen": "2026-05-07T21:05:00Z"
+  }
+]

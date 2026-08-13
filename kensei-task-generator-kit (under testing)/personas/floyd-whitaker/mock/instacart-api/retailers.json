@@ -1,0 +1,202 @@
+[
+  {
+    "retailer_id": "ret-foodcity",
+    "name": "Food City",
+    "logo_url": "https://logos.instacart.com/foodcity.png",
+    "delivers_to_zips": "37934,37919,37922,37932",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-kroger",
+    "name": "Kroger",
+    "logo_url": "https://logos.instacart.com/kroger.png",
+    "delivers_to_zips": "37934,37919,37922,37932,37909",
+    "min_basket": "10.00",
+    "delivery_fee": "4.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-publix",
+    "name": "Publix",
+    "logo_url": "https://logos.instacart.com/publix.png",
+    "delivers_to_zips": "37922,37934",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-costco",
+    "name": "Costco",
+    "logo_url": "https://logos.instacart.com/costco.png",
+    "delivers_to_zips": "37919,37934",
+    "min_basket": "35.00",
+    "delivery_fee": "9.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-walgreens",
+    "name": "Walgreens",
+    "logo_url": "https://logos.instacart.com/walgreens.png",
+    "delivers_to_zips": "37934,37919,37922,37932,37909",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "ret-aldi",
+    "name": "ALDI",
+    "logo_url": "https://logos.instacart.com/aldi.png",
+    "delivers_to_zips": "37934,37919,37922,37909",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-sams",
+    "name": "Sam's Club",
+    "logo_url": "https://logos.instacart.com/samsclub.png",
+    "delivers_to_zips": "37919,37934,37932",
+    "min_basket": "35.00",
+    "delivery_fee": "9.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-target",
+    "name": "Target",
+    "logo_url": "https://logos.instacart.com/target.png",
+    "delivers_to_zips": "37934,37919,37922,37932,37909",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-cvs",
+    "name": "CVS Pharmacy",
+    "logo_url": "https://logos.instacart.com/cvs.png",
+    "delivers_to_zips": "37934,37919,37922,37932,37909",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "ret-earthfare",
+    "name": "Earth Fare",
+    "logo_url": "https://logos.instacart.com/earthfare.png",
+    "delivers_to_zips": "37919,37922,37934",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-freshmarket",
+    "name": "The Fresh Market",
+    "logo_url": "https://logos.instacart.com/thefreshmarket.png",
+    "delivers_to_zips": "37919,37922",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-wholefoods",
+    "name": "Whole Foods Market",
+    "logo_url": "https://logos.instacart.com/wholefoods.png",
+    "delivers_to_zips": "37919,37922,37934",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "105"
+  },
+  {
+    "retailer_id": "ret-dollargeneral",
+    "name": "Dollar General",
+    "logo_url": "https://logos.instacart.com/dollargeneral.png",
+    "delivers_to_zips": "37934,37919,37922,37932,37909",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-petsmart",
+    "name": "PetSmart",
+    "logo_url": "https://logos.instacart.com/petsmart.png",
+    "delivers_to_zips": "37919,37934",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-bestbuy",
+    "name": "Best Buy",
+    "logo_url": "https://logos.instacart.com/bestbuy.png",
+    "delivers_to_zips": "37934,37919,37922",
+    "min_basket": "10.00",
+    "delivery_fee": "7.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-bigthings",
+    "name": "Big Lots",
+    "logo_url": "https://logos.instacart.com/biglots.png",
+    "delivers_to_zips": "37919,37909,37932",
+    "min_basket": "10.00",
+    "delivery_fee": "4.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-foodlion",
+    "name": "Food Lion",
+    "logo_url": "https://logos.instacart.com/foodlion.png",
+    "delivers_to_zips": "37934,37922,37932",
+    "min_basket": "10.00",
+    "delivery_fee": "4.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "80"
+  },
+  {
+    "retailer_id": "ret-walmart",
+    "name": "Walmart",
+    "logo_url": "https://logos.instacart.com/walmart.png",
+    "delivers_to_zips": "37934,37919,37922,37932,37909",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "85"
+  },
+  {
+    "retailer_id": "ret-totalwine",
+    "name": "Total Wine & More",
+    "logo_url": "https://logos.instacart.com/totalwine.png",
+    "delivers_to_zips": "37919,37922,37934",
+    "min_basket": "20.00",
+    "delivery_fee": "7.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "100"
+  },
+  {
+    "retailer_id": "ret-traderjoes",
+    "name": "Trader Joe's",
+    "logo_url": "https://logos.instacart.com/traderjoes.png",
+    "delivers_to_zips": "37919,37922,37934",
+    "min_basket": "10.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "100"
+  }
+]

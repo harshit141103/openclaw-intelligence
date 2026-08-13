@@ -1,0 +1,202 @@
+[
+  {
+    "event_id": "evt-0001",
+    "event": "Signup",
+    "distinct_id": "user-aria",
+    "time": "2026-10-09T17:30:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0002",
+    "event": "Signup",
+    "distinct_id": "user-bode",
+    "time": "2026-05-25T15:45:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0003",
+    "event": "App Open",
+    "distinct_id": "user-aria",
+    "time": "2024-06-05T17:45:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0004",
+    "event": "Product Viewed",
+    "distinct_id": "user-aria",
+    "time": "2024-05-10T17:45:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0005",
+    "event": "Add to Cart",
+    "distinct_id": "user-aria",
+    "time": "2025-09-19T14:15:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0006",
+    "event": "Checkout",
+    "distinct_id": "user-aria",
+    "time": "2025-11-12T06:15:00Z",
+    "country": "US",
+    "plan": "paid",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0007",
+    "event": "Signup",
+    "distinct_id": "user-cleo",
+    "time": "2025-05-19T07:15:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0008",
+    "event": "App Open",
+    "distinct_id": "user-bode",
+    "time": "2025-02-25T10:15:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0009",
+    "event": "Product Viewed",
+    "distinct_id": "user-bode",
+    "time": "2025-05-21T12:00:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0010",
+    "event": "Add to Cart",
+    "distinct_id": "user-bode",
+    "time": "2023-09-23T14:30:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0011",
+    "event": "App Open",
+    "distinct_id": "user-cleo",
+    "time": "2024-07-23T15:15:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0012",
+    "event": "Product Viewed",
+    "distinct_id": "user-cleo",
+    "time": "2025-07-21T18:00:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0013",
+    "event": "Checkout",
+    "distinct_id": "user-bode",
+    "time": "2023-10-14T12:00:00Z",
+    "country": "US",
+    "plan": "paid",
+    "platform": "ios",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0014",
+    "event": "App Open",
+    "distinct_id": "user-aria",
+    "time": "2025-02-03T07:30:00Z",
+    "country": "US",
+    "plan": "paid",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0015",
+    "event": "Product Viewed",
+    "distinct_id": "user-cleo",
+    "time": "2026-01-01T09:30:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0016",
+    "event": "Add to Cart",
+    "distinct_id": "user-cleo",
+    "time": "2024-06-01T18:45:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0017",
+    "event": "Signup",
+    "distinct_id": "user-dane",
+    "time": "2026-07-27T08:15:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0018",
+    "event": "App Open",
+    "distinct_id": "user-dane",
+    "time": "2023-11-06T09:30:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-902",
+    "event": "Signup",
+    "distinct_id": "user-aria",
+    "time": "2026-10-04T06:00:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-904",
+    "event": "Signup",
+    "distinct_id": "user-bode",
+    "time": "2026-01-25T15:15:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "organic"
+  }
+]

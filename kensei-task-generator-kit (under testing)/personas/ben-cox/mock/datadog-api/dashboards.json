@@ -1,0 +1,222 @@
+[
+  {
+    "id": "abc-123-def",
+    "title": "Stage the bookshelf sections for the Cra",
+    "description": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "layout_type": "ordered",
+    "author": "ben-cox",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2026-01-08T18:00:00Z",
+    "modified": "2026-06-11T17:00:00Z"
+  },
+  {
+    "id": "ghi-456-jkl",
+    "title": "Cota window seat & bookcase",
+    "description": "Lay out dovetails for the silverware drawer",
+    "layout_type": "ordered",
+    "author": "diane-cox",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2026-06-02T14:30:00Z",
+    "modified": "2024-11-19T12:30:00Z"
+  },
+  {
+    "id": "mno-789-pqr",
+    "title": "Church pew repair",
+    "description": "Stowe kitchen - cabinet hardware lead time",
+    "layout_type": "free",
+    "author": "pete-lafleur",
+    "widget_count": "15",
+    "is_read_only": "true",
+    "created": "2025-04-13T18:00:00Z",
+    "modified": "2026-09-21T12:45:00Z"
+  },
+  {
+    "id": "abc-123-def-b1",
+    "title": "Check the moisture content on the barn o",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "layout_type": "ordered",
+    "author": "ben-cox",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2024-12-10T16:45:00Z",
+    "modified": "2026-09-02T14:30:00Z"
+  },
+  {
+    "id": "ghi-456-jkl-b2",
+    "title": "Plane the bookshelf shelves and ease the",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "layout_type": "ordered",
+    "author": "diane-cox",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2025-03-27T13:00:00Z",
+    "modified": "2026-01-01T17:15:00Z"
+  },
+  {
+    "id": "mno-789-pqr-b3",
+    "title": "Boucher mudroom built-ins",
+    "description": "Final fit of the Henderson island base cabinets",
+    "layout_type": "free",
+    "author": "pete-lafleur",
+    "widget_count": "15",
+    "is_read_only": "true",
+    "created": "2025-10-01T12:30:00Z",
+    "modified": "2025-10-23T09:00:00Z"
+  },
+  {
+    "id": "abc-123-def-b4",
+    "title": "Re-saw the walnut for bookmatched panels",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors",
+    "layout_type": "ordered",
+    "author": "ben-cox",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2026-07-17T06:00:00Z",
+    "modified": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "ghi-456-jkl-b5",
+    "title": "Church pew repair",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "layout_type": "ordered",
+    "author": "diane-cox",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2025-08-28T17:15:00Z",
+    "modified": "2025-07-31T17:45:00Z"
+  },
+  {
+    "id": "mno-789-pqr-b6",
+    "title": "Whitcomb built-in bookshelves",
+    "description": "Final fit of the Henderson island base cabinets",
+    "layout_type": "free",
+    "author": "pete-lafleur",
+    "widget_count": "15",
+    "is_read_only": "true",
+    "created": "2024-04-22T14:30:00Z",
+    "modified": "2023-06-26T08:15:00Z"
+  },
+  {
+    "id": "abc-123-def-b7",
+    "title": "Project schedule update",
+    "description": "Splitting and stacking the winter firewood",
+    "layout_type": "ordered",
+    "author": "ben-cox",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2026-01-05T17:15:00Z",
+    "modified": "2026-08-07T09:30:00Z"
+  },
+  {
+    "id": "ghi-456-jkl-b8",
+    "title": "Dry-fit the face frames before glue-up",
+    "description": "Lay out dovetails for the silverware drawer",
+    "layout_type": "ordered",
+    "author": "diane-cox",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2023-09-17T17:45:00Z",
+    "modified": "2025-07-31T08:30:00Z"
+  },
+  {
+    "id": "mno-789-pqr-b9",
+    "title": "Mock up the crown profile for the Hender",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "layout_type": "free",
+    "author": "pete-lafleur",
+    "widget_count": "15",
+    "is_read_only": "true",
+    "created": "2026-06-18T06:30:00Z",
+    "modified": "2024-06-13T16:15:00Z"
+  },
+  {
+    "id": "abc-123-def-b10",
+    "title": "Bookshelf install Friday the 16th",
+    "description": "Build the drawer boxes with half-blind dovetails",
+    "layout_type": "ordered",
+    "author": "ben-cox",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2024-09-27T15:00:00Z",
+    "modified": "2026-01-31T09:15:00Z"
+  },
+  {
+    "id": "ghi-456-jkl-b11",
+    "title": "Church pew repair",
+    "description": "Lay out dovetails for the silverware drawer",
+    "layout_type": "ordered",
+    "author": "diane-cox",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2026-02-12T09:00:00Z",
+    "modified": "2025-02-02T13:00:00Z"
+  },
+  {
+    "id": "mno-789-pqr-b12",
+    "title": "Stage the bookshelf sections for the Cra",
+    "description": "Sand to 220 and raise the grain before finish",
+    "layout_type": "free",
+    "author": "pete-lafleur",
+    "widget_count": "15",
+    "is_read_only": "true",
+    "created": "2025-10-05T16:00:00Z",
+    "modified": "2026-02-22T10:45:00Z"
+  },
+  {
+    "id": "abc-123-def-b13",
+    "title": "Dry-fit the face frames before glue-up",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish.",
+    "layout_type": "ordered",
+    "author": "ben-cox",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2026-02-14T09:15:00Z",
+    "modified": "2025-08-07T18:00:00Z"
+  },
+  {
+    "id": "ghi-456-jkl-b14",
+    "title": "Cota window seat & bookcase",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "layout_type": "ordered",
+    "author": "diane-cox",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2025-04-04T17:45:00Z",
+    "modified": "2026-08-20T17:45:00Z"
+  },
+  {
+    "id": "mno-789-pqr-b15",
+    "title": "Delivery window for the Stowe cabinets",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "layout_type": "free",
+    "author": "pete-lafleur",
+    "widget_count": "15",
+    "is_read_only": "true",
+    "created": "2025-03-23T17:15:00Z",
+    "modified": "2025-11-20T09:00:00Z"
+  },
+  {
+    "id": "abc-123-def-b16",
+    "title": "Lafleur barn door (favor)",
+    "description": "Cut dadoes for the adjustable shelf pins",
+    "layout_type": "ordered",
+    "author": "ben-cox",
+    "widget_count": "12",
+    "is_read_only": "false",
+    "created": "2025-12-16T16:00:00Z",
+    "modified": "2025-12-18T14:00:00Z"
+  },
+  {
+    "id": "ghi-456-jkl-b17",
+    "title": "Lafleur barn door (favor)",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged.",
+    "layout_type": "ordered",
+    "author": "diane-cox",
+    "widget_count": "8",
+    "is_read_only": "false",
+    "created": "2025-10-06T13:45:00Z",
+    "modified": "2026-03-17T13:45:00Z"
+  }
+]

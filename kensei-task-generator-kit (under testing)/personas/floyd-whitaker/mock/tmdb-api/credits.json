@@ -1,0 +1,162 @@
+[
+  {
+    "movie_id": "101",
+    "person_id": "501",
+    "credit_type": "cast",
+    "character": "Augustus McCrae",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "101",
+    "person_id": "502",
+    "credit_type": "cast",
+    "character": "Woodrow F. Call",
+    "job": "",
+    "order": "1"
+  },
+  {
+    "movie_id": "102",
+    "person_id": "503",
+    "credit_type": "cast",
+    "character": "Charley Waite",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "102",
+    "person_id": "501",
+    "credit_type": "cast",
+    "character": "Boss Spearman",
+    "job": "",
+    "order": "1"
+  },
+  {
+    "movie_id": "102",
+    "person_id": "503",
+    "credit_type": "crew",
+    "character": "",
+    "job": "Director",
+    "order": "0"
+  },
+  {
+    "movie_id": "103",
+    "person_id": "506",
+    "credit_type": "cast",
+    "character": "Doc Holliday",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "104",
+    "person_id": "504",
+    "credit_type": "cast",
+    "character": "Josey Wales",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "104",
+    "person_id": "504",
+    "credit_type": "crew",
+    "character": "",
+    "job": "Director",
+    "order": "0"
+  },
+  {
+    "movie_id": "105",
+    "person_id": "509",
+    "credit_type": "cast",
+    "character": "Rooster Cogburn",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "105",
+    "person_id": "507",
+    "credit_type": "crew",
+    "character": "",
+    "job": "Director",
+    "order": "0"
+  },
+  {
+    "movie_id": "106",
+    "person_id": "505",
+    "credit_type": "cast",
+    "character": "Loretta Lynn",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "108",
+    "person_id": "508",
+    "credit_type": "cast",
+    "character": "Coach Herman Boone",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "113",
+    "person_id": "503",
+    "credit_type": "cast",
+    "character": "Ulysses Everett McGill",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "113",
+    "person_id": "507",
+    "credit_type": "crew",
+    "character": "",
+    "job": "Director",
+    "order": "0"
+  },
+  {
+    "movie_id": "114",
+    "person_id": "510",
+    "credit_type": "cast",
+    "character": "Luke Jackson",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "118",
+    "person_id": "509",
+    "credit_type": "cast",
+    "character": "Cory Lambert",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "120",
+    "person_id": "508",
+    "credit_type": "cast",
+    "character": "Sean Tuohy",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "122",
+    "person_id": "510",
+    "credit_type": "cast",
+    "character": "Sam the Lion",
+    "job": "",
+    "order": "0"
+  },
+  {
+    "movie_id": "105",
+    "person_id": "502",
+    "credit_type": "cast",
+    "character": "Tom Chaney",
+    "job": "",
+    "order": "1"
+  },
+  {
+    "movie_id": "103",
+    "person_id": "503",
+    "credit_type": "cast",
+    "character": "Wyatt Earp",
+    "job": "",
+    "order": "1"
+  }
+]

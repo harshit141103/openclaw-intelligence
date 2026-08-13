@@ -1,0 +1,39 @@
+{
+  "id": "UC_ChristopherMorris",
+  "snippet": {
+    "title": "Christopher Morris - Cooking, Music & Home",
+    "description": "Welcome to my channel! I share recipes, home renovation projects, and everything I love: cooking, classic rock and pop music, British baking shows, mysteries, and family moments with Owen and Sophie.\n\nNew videos weekly featuring weeknight dinner ideas, home improvement tutorials, and my favorite discoveries.\n\nNaperville, Illinois | christopher.morris@voissync.ai",
+    "customUrl": "@christophermorris",
+    "publishedAt": "2024-06-15T12:00:00Z",
+    "thumbnails": {
+      "default": {"url": "https://yt3.ggpht.com/ytc/christopher_morris_default.jpg", "width": 88, "height": 88},
+      "medium": {"url": "https://yt3.ggpht.com/ytc/christopher_morris_medium.jpg", "width": 240, "height": 240},
+      "high": {"url": "https://yt3.ggpht.com/ytc/christopher_morris_high.jpg", "width": 800, "height": 800}
+    },
+    "country": "US"
+  },
+  "statistics": {
+    "viewCount": "1245678",
+    "subscriberCount": "3456",
+    "hiddenSubscriberCount": false,
+    "videoCount": "87"
+  },
+  "contentDetails": {
+    "relatedPlaylists": {
+      "likes": "LL_ChristopherMorris",
+      "uploads": "UU_ChristopherMorris"
+    }
+  },
+  "brandingSettings": {
+    "channel": {
+      "title": "Christopher Morris - Cooking, Music & Home",
+      "description": "Recipes home renovation fitness music and family moments from Naperville, Illinois.",
+      "keywords": "cooking recipes home renovation diy british baking show pop music 1990s fitness walking mysteries",
+      "unsubscribedTrailer": "vid_cm_001",
+      "country": "US"
+    },
+    "image": {
+      "bannerExternalUrl": "https://yt3.googleusercontent.com/christopher_morris_banner.jpg"
+    }
+  }
+}

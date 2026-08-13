@@ -1,0 +1,94 @@
+﻿[
+  {
+    "id": "61c1000000000000000000c1",
+    "name": "To Do",
+    "id_board": "60b1000000000000000000b1",
+    "pos": "16384",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c2",
+    "name": "In Progress",
+    "id_board": "60b1000000000000000000b1",
+    "pos": "32768",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c3",
+    "name": "Completed",
+    "id_board": "60b1000000000000000000b1",
+    "pos": "49152",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c4",
+    "name": "Backlog",
+    "id_board": "60b1000000000000000000b2",
+    "pos": "16384",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c5",
+    "name": "Review",
+    "id_board": "60b1000000000000000000b2",
+    "pos": "32768",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c6",
+    "name": "Approved",
+    "id_board": "60b1000000000000000000b2",
+    "pos": "49152",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c7",
+    "name": "Open Claims",
+    "id_board": "60b1000000000000000000b3",
+    "pos": "16384",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c8",
+    "name": "Under Review",
+    "id_board": "60b1000000000000000000b3",
+    "pos": "32768",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000c9",
+    "name": "Processed",
+    "id_board": "60b1000000000000000000b3",
+    "pos": "49152",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000IL",
+    "name": "Planning",
+    "id_board": "60b1000000000000000000b4",
+    "pos": "16384",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000cb",
+    "name": "Development",
+    "id_board": "60b1000000000000000000b4",
+    "pos": "32768",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000cc",
+    "name": "Testing",
+    "id_board": "60b1000000000000000000b4",
+    "pos": "49152",
+    "closed": "false"
+  },
+  {
+    "id": "61c1000000000000000000cd",
+    "name": "Live",
+    "id_board": "60b1000000000000000000b4",
+    "pos": "65536",
+    "closed": "false"
+  }
+]
+

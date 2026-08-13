@@ -1,0 +1,82 @@
+[
+  {
+    "asset": "ZUSD",
+    "balance": "112.4800"
+  },
+  {
+    "asset": "XXBT",
+    "balance": "0.00412000"
+  },
+  {
+    "asset": "XETH",
+    "balance": "0.05000000"
+  },
+  {
+    "asset": "SOL",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "ADA",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "USDT",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "USDC",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "DOT",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "MATIC",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "LINK",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "XLTC",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "XXRP",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "XLM",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "ALGO",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "AVAX",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "ATOM",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "XDG",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "UNI",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "AAVE",
+    "balance": "0.00000000"
+  },
+  {
+    "asset": "FIL",
+    "balance": "0.00000000"
+  }
+]

@@ -1,0 +1,75 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Annual Benefits Review Board",
+    "type": "scrum",
+    "project_key": "ABR"
+  },
+  {
+    "id": "2",
+    "name": "Compliance Audit Board",
+    "type": "kanban",
+    "project_key": "COMP"
+  },
+  {
+    "id": "3",
+    "name": "Claims System Board",
+    "type": "scrum",
+    "project_key": "CLAIMS"
+  },
+  {
+    "id": "4",
+    "name": "BenefitInsight Rollout Board",
+    "type": "scrum",
+    "project_key": "BIR"
+  },
+  {
+    "id": "5",
+    "name": "HR Platform Board",
+    "type": "scrum",
+    "project_key": "HR"
+  },
+  {
+    "id": "6",
+    "name": "Payroll Systems Board",
+    "type": "kanban",
+    "project_key": "PAY"
+  },
+  {
+    "id": "7",
+    "name": "Security & Access Board",
+    "type": "scrum",
+    "project_key": "SEC"
+  },
+  {
+    "id": "8",
+    "name": "Data Analytics Board",
+    "type": "kanban",
+    "project_key": "DATA"
+  },
+  {
+    "id": "9",
+    "name": "Infrastructure Board",
+    "type": "scrum",
+    "project_key": "INFRA"
+  },
+  {
+    "id": "10",
+    "name": "Quality Assurance Board",
+    "type": "kanban",
+    "project_key": "QA"
+  },
+  {
+    "id": "11",
+    "name": "Documentation Board",
+    "type": "kanban",
+    "project_key": "DOCS"
+  },
+  {
+    "id": "12",
+    "name": "Mobile AppliILtion Board",
+    "type": "scrum",
+    "project_key": "MOBILE"
+  }
+]
+

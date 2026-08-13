@@ -1,0 +1,888 @@
+{
+  "doorbots": [
+    {
+      "id": 987001,
+      "description": "Front Door",
+      "device_id": "doorbell_front",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "lpd_v2",
+      "firmware_version": "3.22.8",
+      "battery_life": 82,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "ring_snooze": null,
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "settings": {
+        "doorbell_volume": 8,
+        "chime_settings": {
+          "type": "mechanical",
+          "enabled": true,
+          "duration": 5
+        },
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 7,
+        "people_detection_enabled": true,
+        "package_detection_enabled": true
+      },
+      "created_at": "2022-06-20T14:30:00.000Z"
+    },
+    {
+      "id": 987019,
+      "description": "Back Porch Doorbell",
+      "device_id": "doorbell_back",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "lpd_v2",
+      "firmware_version": "3.22.8",
+      "battery_life": 71,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "ring_snooze": null,
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "settings": {
+        "doorbell_volume": 7,
+        "chime_settings": {
+          "type": "mechanical",
+          "enabled": true,
+          "duration": 5
+        },
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 6,
+        "people_detection_enabled": true,
+        "package_detection_enabled": true
+      },
+      "created_at": "2024-11-05T13:00:00.000Z"
+    }
+  ],
+  "stickup_cams": [
+    {
+      "id": 987002,
+      "description": "Backyard Patio",
+      "device_id": "cam_backyard",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": 67,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 5,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2022-07-10T09:00:00.000Z"
+    },
+    {
+      "id": 987003,
+      "description": "Driveway",
+      "device_id": "cam_driveway",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "floodlight_v2",
+      "firmware_version": "3.21.1",
+      "battery_life": null,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "floodlight_status": {
+        "on": false
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 8,
+        "people_detection_enabled": true,
+        "package_detection_enabled": false,
+        "light_schedule_enabled": true,
+        "light_on_duration_seconds": 30
+      },
+      "wifi_signal_strength": -68,
+      "wifi_signal_category": "poor",
+      "created_at": "2022-06-20T15:00:00.000Z"
+    },
+    {
+      "id": 987004,
+      "description": "Garage",
+      "device_id": "cam_garage",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_mini",
+      "firmware_version": "3.19.8",
+      "battery_life": null,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": false,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": false,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 3,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2023-01-05T11:30:00.000Z"
+    },
+    {
+      "id": 987005,
+      "description": "Side Gate",
+      "device_id": "cam_side_gate",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "spotlight_cam_v2",
+      "firmware_version": "3.18.2",
+      "battery_life": 23,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 6,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2023-03-18T16:45:00.000Z"
+    },
+    {
+      "id": 987007,
+      "description": "Smoker Pit Cam",
+      "device_id": "cam_smoker_pit",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": 74,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 6,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2023-05-22T13:00:00.000Z"
+    },
+    {
+      "id": 987008,
+      "description": "Covered Patio",
+      "device_id": "cam_covered_patio",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": 88,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 5,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2023-05-22T13:30:00.000Z"
+    },
+    {
+      "id": 987009,
+      "description": "Garden Shed",
+      "device_id": "cam_garden_shed",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_mini",
+      "firmware_version": "3.19.8",
+      "battery_life": null,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": false,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": false,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 4,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2023-07-14T10:00:00.000Z"
+    },
+    {
+      "id": 987010,
+      "description": "Back Deck",
+      "device_id": "cam_back_deck",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "spotlight_cam_v2",
+      "firmware_version": "3.18.2",
+      "battery_life": 41,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 5,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2023-09-08T15:00:00.000Z"
+    },
+    {
+      "id": 987011,
+      "description": "Front Yard",
+      "device_id": "cam_front_yard",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": 79,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 6,
+        "people_detection_enabled": true,
+        "package_detection_enabled": false
+      },
+      "created_at": "2023-11-02T09:30:00.000Z"
+    },
+    {
+      "id": 987012,
+      "description": "Rear Floodlight",
+      "device_id": "cam_rear_floodlight",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "floodlight_v2",
+      "firmware_version": "3.21.1",
+      "battery_life": null,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "floodlight_status": {
+        "on": false
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 7,
+        "people_detection_enabled": true,
+        "package_detection_enabled": false,
+        "light_schedule_enabled": true,
+        "light_on_duration_seconds": 30
+      },
+      "wifi_signal_strength": -59,
+      "wifi_signal_category": "fair",
+      "created_at": "2023-11-02T10:00:00.000Z"
+    },
+    {
+      "id": 987013,
+      "description": "Workshop",
+      "device_id": "cam_workshop",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_mini",
+      "firmware_version": "3.19.8",
+      "battery_life": null,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": false,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": false,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 3,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2024-01-12T11:00:00.000Z"
+    },
+    {
+      "id": 987014,
+      "description": "Front Path Spotlight",
+      "device_id": "cam_front_path",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "spotlight_cam_v2",
+      "firmware_version": "3.18.2",
+      "battery_life": 56,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 6,
+        "people_detection_enabled": true,
+        "package_detection_enabled": false
+      },
+      "created_at": "2024-03-20T14:00:00.000Z"
+    },
+    {
+      "id": 987015,
+      "description": "Pool Gate",
+      "device_id": "cam_pool_gate",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": 63,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 5,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2024-05-18T12:00:00.000Z"
+    },
+    {
+      "id": 987016,
+      "description": "East Fence",
+      "device_id": "cam_east_fence",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_mini",
+      "firmware_version": "3.19.8",
+      "battery_life": null,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": false,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": false,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 4,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2024-07-09T10:30:00.000Z"
+    },
+    {
+      "id": 987017,
+      "description": "West Fence",
+      "device_id": "cam_west_fence",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_mini",
+      "firmware_version": "3.19.8",
+      "battery_life": null,
+      "external_connection": true,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": false,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": false,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 4,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2024-07-09T11:00:00.000Z"
+    },
+    {
+      "id": 987018,
+      "description": "Driveway Gate",
+      "device_id": "cam_driveway_gate",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "spotlight_cam_v2",
+      "firmware_version": "3.18.2",
+      "battery_life": 48,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 6,
+        "people_detection_enabled": true,
+        "package_detection_enabled": false
+      },
+      "created_at": "2024-09-14T16:00:00.000Z"
+    },
+    {
+      "id": 987020,
+      "description": "Carport",
+      "device_id": "cam_carport",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": 85,
+      "external_connection": false,
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 5,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false
+      },
+      "created_at": "2025-01-20T10:00:00.000Z"
+    }
+  ],
+  "chimes": [
+    {
+      "id": 987006,
+      "description": "Hallway Chime",
+      "device_id": "chime_hallway",
+      "address": "1142 Westland Oaks Dr",
+      "kind": "chime_pro_v2",
+      "firmware_version": "3.16.4",
+      "latitude": 35.9312,
+      "longitude": -84.0488,
+      "location_id": "loc_whitaker_001",
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "ringtones_enabled": true,
+        "wifi_extender_enabled": true
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Floyd",
+        "last_name": "Whitaker"
+      },
+      "settings": {
+        "volume": 7,
+        "ding_audio_id": "ring_default",
+        "ding_audio_user_id": null,
+        "motion_audio_id": null,
+        "motion_audio_user_id": null,
+        "linked_doorbots": [
+          987001
+        ]
+      },
+      "wifi_signal_strength": -42,
+      "wifi_signal_category": "good",
+      "created_at": "2022-06-20T14:45:00.000Z"
+    }
+  ]
+}

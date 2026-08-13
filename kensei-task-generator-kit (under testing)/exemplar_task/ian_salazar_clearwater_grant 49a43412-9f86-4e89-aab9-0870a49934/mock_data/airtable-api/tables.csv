@@ -1,0 +1,4 @@
+baseId,id,name,primaryFieldId,records_csv
+appClearwater00001,tblSamples0000001,Samples,fldSampName000001,records_tasks.csv
+appClearwater00001,tblProjects000001,Projects,fldProjName000001,records_projects.csv
+appClearwater00001,tblContacts000001,Contacts,fldContName000001,records_contacts.csv

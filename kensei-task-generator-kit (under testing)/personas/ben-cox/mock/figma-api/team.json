@@ -1,0 +1,32 @@
+{
+  "team": {
+    "id": "team-501",
+    "name": "Sloan cherry dining table"
+  },
+  "me": {
+    "id": "user-1001",
+    "handle": "coxcustomwoodwork",
+    "email": "stoddard.electric@gmail.com",
+    "img_url": "https://coxcustomwoodwork.com"
+  },
+  "users": [
+    {
+      "id": "user-1001",
+      "handle": "bencox",
+      "email": "ben.cox.vt@gmail.com",
+      "img_url": "https://coxcustomwoodwork.com"
+    },
+    {
+      "id": "user-1002",
+      "handle": "bencox",
+      "email": "ben.cox.vt@gmail.com",
+      "img_url": "https://coxcustomwoodwork.com"
+    },
+    {
+      "id": "user-1003",
+      "handle": "keithcox_dev",
+      "email": "stoddard.electric@gmail.com",
+      "img_url": "https://coxcustomwoodwork.com"
+    }
+  ]
+}

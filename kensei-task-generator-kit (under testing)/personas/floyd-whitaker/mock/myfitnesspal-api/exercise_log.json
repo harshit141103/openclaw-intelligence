@@ -1,0 +1,218 @@
+[
+  {
+    "exercise_id": "1",
+    "date": "2026-02-11",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "35",
+    "calories_burned": "120",
+    "notes": "Evening walk around the neighborhood"
+  },
+  {
+    "exercise_id": "2",
+    "date": "2026-02-14",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "75",
+    "calories_burned": "300",
+    "notes": "Over-40 league at Lakeshore Park"
+  },
+  {
+    "exercise_id": "3",
+    "date": "2026-02-17",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "40",
+    "calories_burned": "160",
+    "notes": "Walked two miles after supper"
+  },
+  {
+    "exercise_id": "4",
+    "date": "2026-02-21",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "80",
+    "calories_burned": "320",
+    "notes": "Saturday game, played first base"
+  },
+  {
+    "exercise_id": "5",
+    "date": "2026-02-24",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "30",
+    "calories_burned": "105",
+    "notes": "Cold out, kept it short"
+  },
+  {
+    "exercise_id": "6",
+    "date": "2026-02-28",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "75",
+    "calories_burned": "300",
+    "notes": "Lakeshore Park, back a little stiff after"
+  },
+  {
+    "exercise_id": "7",
+    "date": "2026-03-04",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "calories_burned": "180",
+    "notes": "Almost three miles, felt good"
+  },
+  {
+    "exercise_id": "8",
+    "date": "2026-03-07",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "80",
+    "calories_burned": "320",
+    "notes": "Saturday game"
+  },
+  {
+    "exercise_id": "9",
+    "date": "2026-03-11",
+    "exercise_type_id": "105",
+    "exercise_name": "Stretching / Mobility",
+    "duration_minutes": "15",
+    "calories_burned": "35",
+    "notes": "Low back stretches before bed"
+  },
+  {
+    "exercise_id": "10",
+    "date": "2026-03-14",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "75",
+    "calories_burned": "300",
+    "notes": "Lakeshore Park"
+  },
+  {
+    "exercise_id": "11",
+    "date": "2026-03-18",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "35",
+    "calories_burned": "120",
+    "notes": "Walked the neighborhood loop"
+  },
+  {
+    "exercise_id": "12",
+    "date": "2026-03-21",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "80",
+    "calories_burned": "320",
+    "notes": "Saturday game, went 2 for 3"
+  },
+  {
+    "exercise_id": "13",
+    "date": "2026-03-25",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "40",
+    "calories_burned": "160",
+    "notes": "Two miles after work"
+  },
+  {
+    "exercise_id": "14",
+    "date": "2026-03-28",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "75",
+    "calories_burned": "300",
+    "notes": "Lakeshore Park"
+  },
+  {
+    "exercise_id": "15",
+    "date": "2026-04-01",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "30",
+    "calories_burned": "105",
+    "notes": "Easy evening walk"
+  },
+  {
+    "exercise_id": "16",
+    "date": "2026-04-04",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "80",
+    "calories_burned": "320",
+    "notes": "Saturday game"
+  },
+  {
+    "exercise_id": "17",
+    "date": "2026-04-08",
+    "exercise_type_id": "103",
+    "exercise_name": "Stationary Bike (light)",
+    "duration_minutes": "25",
+    "calories_burned": "120",
+    "notes": "Rainy day, used the bike instead of walking"
+  },
+  {
+    "exercise_id": "18",
+    "date": "2026-04-11",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "75",
+    "calories_burned": "300",
+    "notes": "Lakeshore Park"
+  },
+  {
+    "exercise_id": "19",
+    "date": "2026-04-18",
+    "exercise_type_id": "107",
+    "exercise_name": "Fishing (standing/wading)",
+    "duration_minutes": "120",
+    "calories_burned": "260",
+    "notes": "Half day at Douglas Lake"
+  },
+  {
+    "exercise_id": "20",
+    "date": "2026-04-22",
+    "exercise_type_id": "102",
+    "exercise_name": "Walking (brisk pace)",
+    "duration_minutes": "45",
+    "calories_burned": "180",
+    "notes": "Nearly three miles"
+  },
+  {
+    "exercise_id": "21",
+    "date": "2026-04-25",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "80",
+    "calories_burned": "320",
+    "notes": "Saturday game at Lakeshore"
+  },
+  {
+    "exercise_id": "22",
+    "date": "2026-05-02",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "75",
+    "calories_burned": "300",
+    "notes": "Lakeshore Park"
+  },
+  {
+    "exercise_id": "23",
+    "date": "2026-05-06",
+    "exercise_type_id": "101",
+    "exercise_name": "Walking (easy pace)",
+    "duration_minutes": "35",
+    "calories_burned": "120",
+    "notes": "Evening walk, Dr. Pershing says keep it up"
+  },
+  {
+    "exercise_id": "24",
+    "date": "2026-05-09",
+    "exercise_type_id": "106",
+    "exercise_name": "Softball (recreational)",
+    "duration_minutes": "80",
+    "calories_burned": "320",
+    "notes": "Saturday game"
+  }
+]

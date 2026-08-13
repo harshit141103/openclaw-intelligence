@@ -1,0 +1,222 @@
+[
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "48201",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "1480.00",
+    "transit_days": "3",
+    "delivery_date": "2026-06-12"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "30303",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "720.00",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "38103",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "640.00",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "37203",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "420.00",
+    "transit_days": "1",
+    "delivery_date": "2026-06-10"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "28202",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "560.00",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "02",
+    "service_name": "UPS 2nd Day Air",
+    "origin_zip": "37902",
+    "dest_zip": "48201",
+    "weight_lb": "150.0",
+    "currency": "USD",
+    "total_charge": "388.50",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "02",
+    "service_name": "UPS 2nd Day Air",
+    "origin_zip": "37902",
+    "dest_zip": "43215",
+    "weight_lb": "150.0",
+    "currency": "USD",
+    "total_charge": "324.00",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "01",
+    "service_name": "UPS Next Day Air",
+    "origin_zip": "37902",
+    "dest_zip": "40202",
+    "weight_lb": "80.0",
+    "currency": "USD",
+    "total_charge": "445.00",
+    "transit_days": "1",
+    "delivery_date": "2026-06-10"
+  },
+  {
+    "service_code": "01",
+    "service_name": "UPS Next Day Air",
+    "origin_zip": "37902",
+    "dest_zip": "35203",
+    "weight_lb": "80.0",
+    "currency": "USD",
+    "total_charge": "498.00",
+    "transit_days": "1",
+    "delivery_date": "2026-06-10"
+  },
+  {
+    "service_code": "12",
+    "service_name": "UPS 3 Day Select",
+    "origin_zip": "37902",
+    "dest_zip": "46204",
+    "weight_lb": "300.0",
+    "currency": "USD",
+    "total_charge": "286.00",
+    "transit_days": "3",
+    "delivery_date": "2026-06-12"
+  },
+  {
+    "service_code": "12",
+    "service_name": "UPS 3 Day Select",
+    "origin_zip": "37902",
+    "dest_zip": "45202",
+    "weight_lb": "300.0",
+    "currency": "USD",
+    "total_charge": "262.40",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "37402",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "310.00",
+    "transit_days": "1",
+    "delivery_date": "2026-06-10"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "40831",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "380.00",
+    "transit_days": "1",
+    "delivery_date": "2026-06-10"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "40202",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "520.00",
+    "transit_days": "1",
+    "delivery_date": "2026-06-10"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "35203",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "680.00",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "02",
+    "service_name": "UPS 2nd Day Air",
+    "origin_zip": "37902",
+    "dest_zip": "46204",
+    "weight_lb": "150.0",
+    "currency": "USD",
+    "total_charge": "352.75",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "12",
+    "service_name": "UPS 3 Day Select",
+    "origin_zip": "37902",
+    "dest_zip": "48201",
+    "weight_lb": "300.0",
+    "currency": "USD",
+    "total_charge": "412.00",
+    "transit_days": "3",
+    "delivery_date": "2026-06-12"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "43215",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "740.00",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  },
+  {
+    "service_code": "01",
+    "service_name": "UPS Next Day Air",
+    "origin_zip": "37902",
+    "dest_zip": "37203",
+    "weight_lb": "80.0",
+    "currency": "USD",
+    "total_charge": "298.50",
+    "transit_days": "1",
+    "delivery_date": "2026-06-10"
+  },
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "37902",
+    "dest_zip": "45202",
+    "weight_lb": "1200.0",
+    "currency": "USD",
+    "total_charge": "690.00",
+    "transit_days": "2",
+    "delivery_date": "2026-06-11"
+  }
+]

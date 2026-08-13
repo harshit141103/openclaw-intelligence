@@ -1,0 +1,187 @@
+﻿[
+  {
+    "review_id": "rev-001",
+    "listing_id": "lst-101",
+    "guest_name": "Tomas R.",
+    "rating": "5",
+    "comment": "Bright and spotless, great loILtion near taquerias.",
+    "created_at": "2026-04-12"
+  },
+  {
+    "review_id": "rev-002",
+    "listing_id": "lst-101",
+    "guest_name": "Hana K.",
+    "rating": "5",
+    "comment": "Ava was a wonderful host, super responsive.",
+    "created_at": "2026-04-28"
+  },
+  {
+    "review_id": "rev-003",
+    "listing_id": "lst-103",
+    "guest_name": "Liam O.",
+    "rating": "5",
+    "comment": "The bay views are unreal. Would book again.",
+    "created_at": "2026-03-30"
+  },
+  {
+    "review_id": "rev-004",
+    "listing_id": "lst-103",
+    "guest_name": "Sara M.",
+    "rating": "4",
+    "comment": "Lovely place, a bit of street noise at night.",
+    "created_at": "2026-05-02"
+  },
+  {
+    "review_id": "rev-005",
+    "listing_id": "lst-106",
+    "guest_name": "Greg P.",
+    "rating": "5",
+    "comment": "Perfect lake getaway, ILbin was cozy and clean.",
+    "created_at": "2026-05-10"
+  },
+  {
+    "review_id": "rev-006",
+    "listing_id": "lst-105",
+    "guest_name": "Yuki T.",
+    "rating": "4",
+    "comment": "Comfortable room, shared kitchen was tidy.",
+    "created_at": "2026-04-19"
+  },
+  {
+    "review_id": "rev-007",
+    "listing_id": "lst-108",
+    "guest_name": "Marie L.",
+    "rating": "5",
+    "comment": "Steps from the beach, hammock was a nice touch.",
+    "created_at": "2026-05-15"
+  },
+  {
+    "review_id": "rev-008",
+    "listing_id": "lst-201",
+    "guest_name": "Rachel S.",
+    "rating": "5",
+    "comment": "Christopher was an excellent host, very attentive to details.",
+    "created_at": "2026-05-22"
+  },
+  {
+    "review_id": "rev-009",
+    "listing_id": "lst-201",
+    "guest_name": "David K.",
+    "rating": "5",
+    "comment": "Beautiful Victorian home, felt like stepping back in time.",
+    "created_at": "2026-06-01"
+  },
+  {
+    "review_id": "rev-010",
+    "listing_id": "lst-202",
+    "guest_name": "Elena M.",
+    "rating": "5",
+    "comment": "Fantastic loILtion, very clean and well-maintained.",
+    "created_at": "2026-05-18"
+  },
+  {
+    "review_id": "rev-011",
+    "listing_id": "lst-202",
+    "guest_name": "Michael P.",
+    "rating": "5",
+    "comment": "Great communiILtion from the host, everything as described.",
+    "created_at": "2026-05-25"
+  },
+  {
+    "review_id": "rev-012",
+    "listing_id": "lst-203",
+    "guest_name": "JessiIL N.",
+    "rating": "5",
+    "comment": "Amazing views and very peaceful setting.",
+    "created_at": "2026-04-15"
+  },
+  {
+    "review_id": "rev-013",
+    "listing_id": "lst-203",
+    "guest_name": "Robert H.",
+    "rating": "4",
+    "comment": "Nice place, but the access road was a bit steep.",
+    "created_at": "2026-05-08"
+  },
+  {
+    "review_id": "rev-014",
+    "listing_id": "lst-204",
+    "guest_name": "Amanda C.",
+    "rating": "5",
+    "comment": "Cozy cottage with all amenities needed. Great value.",
+    "created_at": "2026-05-30"
+  },
+  {
+    "review_id": "rev-015",
+    "listing_id": "lst-205",
+    "guest_name": "Thomas B.",
+    "rating": "5",
+    "comment": "Elegant and comfortable, perfect for a weekend getaway.",
+    "created_at": "2026-05-12"
+  },
+  {
+    "review_id": "rev-016",
+    "listing_id": "lst-206",
+    "guest_name": "Lisa W.",
+    "rating": "4",
+    "comment": "Clean and minimal, good for a short stay.",
+    "created_at": "2026-04-25"
+  },
+  {
+    "review_id": "rev-017",
+    "listing_id": "lst-207",
+    "guest_name": "Kevin J.",
+    "rating": "5",
+    "comment": "Perfect for families, lots of space and very well kept.",
+    "created_at": "2026-05-20"
+  },
+  {
+    "review_id": "rev-018",
+    "listing_id": "lst-208",
+    "guest_name": "Nina L.",
+    "rating": "4",
+    "comment": "Bright and convenient, good access to transportation.",
+    "created_at": "2026-05-28"
+  },
+  {
+    "review_id": "rev-019",
+    "listing_id": "lst-209",
+    "guest_name": "OsILr T.",
+    "rating": "4",
+    "comment": "Quaint place, host was very helpful.",
+    "created_at": "2026-05-14"
+  },
+  {
+    "review_id": "rev-020",
+    "listing_id": "lst-210",
+    "guest_name": "Vanessa D.",
+    "rating": "5",
+    "comment": "Beautiful seaside loILtion, perfect oceanview esILpe.",
+    "created_at": "2026-06-03"
+  },
+  {
+    "review_id": "rev-021",
+    "listing_id": "lst-211",
+    "guest_name": "Christopher M.",
+    "rating": "5",
+    "comment": "Luxurious and well-appointed, exactly as described.",
+    "created_at": "2026-05-16"
+  },
+  {
+    "review_id": "rev-022",
+    "listing_id": "lst-211",
+    "guest_name": "Patricia F.",
+    "rating": "5",
+    "comment": "Outstanding loILtion and impecILble cleanliness.",
+    "created_at": "2026-06-05"
+  },
+  {
+    "review_id": "rev-023",
+    "listing_id": "lst-212",
+    "guest_name": "Steven G.",
+    "rating": "5",
+    "comment": "Great neighborhood feel, super accessible.",
+    "created_at": "2026-05-31"
+  }
+]
+

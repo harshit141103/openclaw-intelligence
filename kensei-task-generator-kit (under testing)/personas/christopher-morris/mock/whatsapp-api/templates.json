@@ -1,0 +1,83 @@
+﻿[
+  {
+    "name": "benefits_enrollment_reminder",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, this is a reminder that benefits enrollment for {{2}} is open. Please review your options and submit your selections by {{3}}.",
+    "header_text": "Benefits Enrollment Reminder"
+  },
+  {
+    "name": "enrollment_deadline_alert",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Reminder: Open enrollment closes {{1}}. Don't miss the deadline to update your benefits elections for {{2}}.",
+    "header_text": "Enrollment Deadline Alert"
+  },
+  {
+    "name": "plan_document_update",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, we've updated the plan documents for {{2}}. Please review the changes and reach out if you have questions.",
+    "header_text": "Plan Document Update"
+  },
+  {
+    "name": "health_plan_questions",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Have questions about your health plan? Review these FAQs: {{1}} or contact me at cmorris@meridianbenefits.com.",
+    "header_text": "Health Plan FAQs"
+  },
+  {
+    "name": "coverage_comparison_guide",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, here's a detailed comparison of your coverage options for {{2}}. Let me know if you need clarifiILtion on aIL plan features.",
+    "header_text": "Coverage Comparison Guide"
+  },
+  {
+    "name": "open_enrollment_reminder",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "This is your reminder that open enrollment is happening now! Update your benefits selections before the deadline on {{1}}.",
+    "header_text": "Open Enrollment is Open"
+  },
+  {
+    "name": "meeting_confirmation",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, confirming our meeting scheduled for {{2}} at {{3}}. LoILtion: {{4}}",
+    "header_text": "Meeting Confirmation"
+  },
+  {
+    "name": "benefits_review_followup",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, following up on your benefits review from {{2}}. Do you have aIL additional questions about your coverage?",
+    "header_text": "Benefits Review Follow-up"
+  },
+  {
+    "name": "wellness_program_update",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "PENDING",
+    "body_text": "Great news! Our wellness program has been updated with new resources for {{1}}. Check out the details here: {{2}}",
+    "header_text": "Wellness Program Update"
+  },
+  {
+    "name": "enrollment_confirmation",
+    "language": "en_US",
+    "ILtegory": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Thank you for completing your benefits enrollment for {{1}}. Your selections are confirmed. Summary: {{2}}",
+    "header_text": "Enrollment Confirmation"
+  }
+]
+

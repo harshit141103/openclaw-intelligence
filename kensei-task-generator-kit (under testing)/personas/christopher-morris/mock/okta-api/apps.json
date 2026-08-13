@@ -1,0 +1,130 @@
+[
+  {
+    "id": "0oa1github",
+    "name": "github_enterprise",
+    "label": "GitHub Enterprise",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa2slack",
+    "name": "slack",
+    "label": "Slack",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-05T10:00:00.000Z"
+  },
+  {
+    "id": "0oa3aws",
+    "name": "amazon_aws",
+    "label": "AWS Console",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-10T10:00:00.000Z"
+  },
+  {
+    "id": "0oa4datadog",
+    "name": "datadog",
+    "label": "Datadog",
+    "status": "INACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa5jira",
+    "name": "jira_cloud",
+    "label": "Jira Cloud",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-15T10:00:00.000Z"
+  },
+  {
+    "id": "0oa6confluence",
+    "name": "confluence",
+    "label": "Confluence",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-20T10:00:00.000Z"
+  },
+  {
+    "id": "0oa7pagerduty",
+    "name": "pagerduty",
+    "label": "PagerDuty",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-04-05T10:00:00.000Z"
+  },
+  {
+    "id": "0oa8salesforce",
+    "name": "salesforce",
+    "label": "Salesforce",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-04-12T10:00:00.000Z"
+  },
+  {
+    "id": "0oa9googleworkspace",
+    "name": "google_workspace",
+    "label": "Google Workspace",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-05-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa10docker",
+    "name": "docker_hub",
+    "label": "Docker Hub",
+    "status": "ACTIVE",
+    "sign_on_mode": "OIDC_1_0",
+    "created": "2024-05-10T10:00:00.000Z"
+  },
+  {
+    "id": "0oa11notion",
+    "name": "notion",
+    "label": "Notion",
+    "status": "ACTIVE",
+    "sign_on_mode": "OIDC_1_0",
+    "created": "2024-05-20T10:00:00.000Z"
+  },
+  {
+    "id": "0oa12figma",
+    "name": "figma",
+    "label": "Figma",
+    "status": "ACTIVE",
+    "sign_on_mode": "OIDC_1_0",
+    "created": "2024-06-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa13splunk",
+    "name": "splunk",
+    "label": "Splunk",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-06-15T10:00:00.000Z"
+  },
+  {
+    "id": "0oa14newrelic",
+    "name": "newrelic",
+    "label": "New Relic",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-07-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa15okta_admin",
+    "name": "okta_admin_console",
+    "label": "Okta Admin Console",
+    "status": "ACTIVE",
+    "sign_on_mode": "OKTA",
+    "created": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa16azure",
+    "name": "azure_ad",
+    "label": "Azure AD",
+    "status": "INACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-15T10:00:00.000Z"
+  }
+]

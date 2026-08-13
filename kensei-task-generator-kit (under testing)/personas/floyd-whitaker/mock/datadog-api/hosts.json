@@ -1,0 +1,182 @@
+[
+  {
+    "name": "wfs-web-01",
+    "up": "true",
+    "apps": "nginx;wordpress",
+    "sources": "agent",
+    "cpu_pct": "18.4",
+    "mem_pct": "41.0",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-mail-01",
+    "up": "true",
+    "apps": "postfix;dovecot",
+    "sources": "agent",
+    "cpu_pct": "6.1",
+    "mem_pct": "37.3",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-db-01",
+    "up": "true",
+    "apps": "mysql",
+    "sources": "agent",
+    "cpu_pct": "9.7",
+    "mem_pct": "58.5",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-backup-01",
+    "up": "false",
+    "apps": "restic",
+    "sources": "agent",
+    "cpu_pct": "0.0",
+    "mem_pct": "0.0",
+    "last_reported": "1749470000"
+  },
+  {
+    "name": "wfs-web-02",
+    "up": "true",
+    "apps": "nginx;wordpress",
+    "sources": "agent",
+    "cpu_pct": "14.9",
+    "mem_pct": "39.6",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-lb-01",
+    "up": "true",
+    "apps": "haproxy",
+    "sources": "agent",
+    "cpu_pct": "4.3",
+    "mem_pct": "22.1",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-cache-01",
+    "up": "true",
+    "apps": "redis",
+    "sources": "agent",
+    "cpu_pct": "3.8",
+    "mem_pct": "28.7",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-db-02",
+    "up": "true",
+    "apps": "mysql",
+    "sources": "agent",
+    "cpu_pct": "7.2",
+    "mem_pct": "55.9",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-mail-02",
+    "up": "true",
+    "apps": "postfix;dovecot",
+    "sources": "agent",
+    "cpu_pct": "5.4",
+    "mem_pct": "34.8",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-dns-01",
+    "up": "true",
+    "apps": "bind9",
+    "sources": "agent",
+    "cpu_pct": "2.1",
+    "mem_pct": "18.5",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-vpn-01",
+    "up": "true",
+    "apps": "openvpn",
+    "sources": "agent",
+    "cpu_pct": "3.0",
+    "mem_pct": "21.2",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-monitor-01",
+    "up": "true",
+    "apps": "datadog-agent;grafana",
+    "sources": "agent",
+    "cpu_pct": "8.9",
+    "mem_pct": "44.3",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-files-01",
+    "up": "true",
+    "apps": "nextcloud;nginx",
+    "sources": "agent",
+    "cpu_pct": "6.7",
+    "mem_pct": "47.1",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-api-01",
+    "up": "true",
+    "apps": "node;pm2",
+    "sources": "agent",
+    "cpu_pct": "12.3",
+    "mem_pct": "36.4",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-staging-01",
+    "up": "true",
+    "apps": "nginx;wordpress",
+    "sources": "agent",
+    "cpu_pct": "1.9",
+    "mem_pct": "19.8",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-cron-01",
+    "up": "true",
+    "apps": "cron;restic",
+    "sources": "agent",
+    "cpu_pct": "2.6",
+    "mem_pct": "20.4",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-proxy-01",
+    "up": "true",
+    "apps": "nginx;certbot",
+    "sources": "agent",
+    "cpu_pct": "4.0",
+    "mem_pct": "23.9",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-search-01",
+    "up": "true",
+    "apps": "elasticsearch",
+    "sources": "agent",
+    "cpu_pct": "11.5",
+    "mem_pct": "62.0",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-queue-01",
+    "up": "true",
+    "apps": "rabbitmq",
+    "sources": "agent",
+    "cpu_pct": "5.1",
+    "mem_pct": "31.7",
+    "last_reported": "1749560400"
+  },
+  {
+    "name": "wfs-backup-02",
+    "up": "true",
+    "apps": "restic",
+    "sources": "agent",
+    "cpu_pct": "3.4",
+    "mem_pct": "26.2",
+    "last_reported": "1749560400"
+  }
+]

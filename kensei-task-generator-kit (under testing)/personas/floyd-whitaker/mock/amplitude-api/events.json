@@ -1,0 +1,186 @@
+[
+  {
+    "event_id": "ev_900001",
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "event_type": "session_start",
+    "event_time": "2026-06-02T08:00:00Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900002",
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "event_type": "page_view",
+    "event_time": "2026-06-02T08:01:12Z",
+    "event_properties": "page=home"
+  },
+  {
+    "event_id": "ev_900003",
+    "user_id": "user_2001",
+    "device_id": "dev_aa01",
+    "event_type": "page_view",
+    "event_time": "2026-06-02T08:02:40Z",
+    "event_properties": "page=services"
+  },
+  {
+    "event_id": "ev_900004",
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "event_type": "page_view",
+    "event_time": "2026-06-03T10:22:40Z",
+    "event_properties": "page=carrier-vetting"
+  },
+  {
+    "event_id": "ev_900005",
+    "user_id": "user_2002",
+    "device_id": "dev_bb02",
+    "event_type": "feature_used",
+    "event_time": "2026-06-03T10:30:05Z",
+    "event_properties": "feature=quote-calculator"
+  },
+  {
+    "event_id": "ev_900006",
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "event_type": "session_start",
+    "event_time": "2026-06-04T14:11:19Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900007",
+    "user_id": "user_2003",
+    "device_id": "dev_cc03",
+    "event_type": "page_view",
+    "event_time": "2026-06-04T14:12:50Z",
+    "event_properties": "page=pricing"
+  },
+  {
+    "event_id": "ev_900008",
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "event_type": "session_start",
+    "event_time": "2026-06-05T18:02:33Z",
+    "event_properties": "platform=ios"
+  },
+  {
+    "event_id": "ev_900009",
+    "user_id": "user_2004",
+    "device_id": "dev_dd04",
+    "event_type": "feature_used",
+    "event_time": "2026-06-05T18:10:09Z",
+    "event_properties": "feature=contact-form"
+  },
+  {
+    "event_id": "ev_900010",
+    "user_id": "user_2005",
+    "device_id": "dev_ee05",
+    "event_type": "signup_completed",
+    "event_time": "2026-06-04T07:14:02Z",
+    "event_properties": "plan=quote-request"
+  },
+  {
+    "event_id": "ev_900011",
+    "user_id": "user_2006",
+    "device_id": "dev_ff06",
+    "event_type": "page_view",
+    "event_time": "2026-06-05T15:00:00Z",
+    "event_properties": "page=about"
+  },
+  {
+    "event_id": "ev_900012",
+    "user_id": "user_2006",
+    "device_id": "dev_ff06",
+    "event_type": "feature_used",
+    "event_time": "2026-06-05T15:02:11Z",
+    "event_properties": "feature=quote-calculator"
+  },
+  {
+    "event_id": "ev_900013",
+    "user_id": "user_2007",
+    "device_id": "dev_gg07",
+    "event_type": "session_start",
+    "event_time": "2026-06-01T08:40:33Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900014",
+    "user_id": "user_2007",
+    "device_id": "dev_gg07",
+    "event_type": "signup_completed",
+    "event_time": "2026-06-01T08:48:00Z",
+    "event_properties": "plan=quote-request"
+  },
+  {
+    "event_id": "ev_900015",
+    "user_id": "user_2008",
+    "device_id": "dev_hh08",
+    "event_type": "page_view",
+    "event_time": "2026-06-09T07:55:00Z",
+    "event_properties": "page=mentorship-program"
+  },
+  {
+    "event_id": "ev_900016",
+    "user_id": "user_2009",
+    "device_id": "dev_ii09",
+    "event_type": "session_start",
+    "event_time": "2026-06-02T19:00:00Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900017",
+    "user_id": "user_2009",
+    "device_id": "dev_ii09",
+    "event_type": "feature_used",
+    "event_time": "2026-06-02T19:12:08Z",
+    "event_properties": "feature=quote-calculator"
+  },
+  {
+    "event_id": "ev_900018",
+    "user_id": "user_2010",
+    "device_id": "dev_jj10",
+    "event_type": "page_view",
+    "event_time": "2026-06-06T12:30:45Z",
+    "event_properties": "page=carrier-vetting"
+  },
+  {
+    "event_id": "ev_900019",
+    "user_id": "user_2011",
+    "device_id": "dev_kk11",
+    "event_type": "signup_completed",
+    "event_time": "2026-06-08T14:22:19Z",
+    "event_properties": "plan=quote-request"
+  },
+  {
+    "event_id": "ev_900020",
+    "user_id": "user_2012",
+    "device_id": "dev_ll12",
+    "event_type": "page_view",
+    "event_time": "2026-06-07T09:05:40Z",
+    "event_properties": "page=services"
+  },
+  {
+    "event_id": "ev_900021",
+    "user_id": "user_2014",
+    "device_id": "dev_nn14",
+    "event_type": "session_start",
+    "event_time": "2026-06-09T10:11:55Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_900022",
+    "user_id": "user_2016",
+    "device_id": "dev_pp16",
+    "event_type": "feature_used",
+    "event_time": "2026-06-08T08:33:12Z",
+    "event_properties": "feature=contact-form"
+  },
+  {
+    "event_id": "ev_900023",
+    "user_id": "user_2019",
+    "device_id": "dev_ss19",
+    "event_type": "page_view",
+    "event_time": "2026-06-09T11:02:37Z",
+    "event_properties": "page=home"
+  }
+]

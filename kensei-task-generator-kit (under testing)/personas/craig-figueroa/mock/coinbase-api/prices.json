@@ -1,0 +1,32 @@
+[
+  {
+    "pair": "BTC-GBP",
+    "base": "BTC",
+    "currency": "GBP",
+    "amount": "65000.00"
+  },
+  {
+    "pair": "ETH-GBP",
+    "base": "ETH",
+    "currency": "GBP",
+    "amount": "3100.00"
+  },
+  {
+    "pair": "SOL-GBP",
+    "base": "SOL",
+    "currency": "GBP",
+    "amount": "144.00"
+  },
+  {
+    "pair": "BTC-EUR",
+    "base": "BTC",
+    "currency": "EUR",
+    "amount": "60100.00"
+  },
+  {
+    "pair": "ETH-EUR",
+    "base": "ETH",
+    "currency": "EUR",
+    "amount": "2867.00"
+  }
+]

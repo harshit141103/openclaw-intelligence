@@ -1,0 +1,142 @@
+[
+  {
+    "courseId": "course_001",
+    "userId": "teacher_001",
+    "fullName": "Diane Cox",
+    "emailAddress": "diane.cox.vt@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_002",
+    "userId": "teacher_001",
+    "fullName": "Keith Cox",
+    "emailAddress": "keith.cox.bvt@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_003",
+    "userId": "teacher_001",
+    "fullName": "Marie Cox-Gagne",
+    "emailAddress": "marie.gagne.vt@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_004",
+    "userId": "teacher_001",
+    "fullName": "Tom Gagne",
+    "emailAddress": "tom.gagne.vt@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_002",
+    "userId": "teacher_002",
+    "fullName": "Pete Lafleur",
+    "emailAddress": "pete.lafleur.vt@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "course_005",
+    "userId": "teacher_003",
+    "fullName": "Dr. James Whitfield",
+    "emailAddress": "jwhitfield@copleyvt.org",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2026",
+    "userId": "teacher_004",
+    "fullName": "Dr. Paul LeBlanc",
+    "emailAddress": "frontdesk@hardwickdental.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2025",
+    "userId": "teacher_004",
+    "fullName": "Scott Henderson",
+    "emailAddress": "shenderson@stowevt.net",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "course_001",
+    "userId": "teacher_001",
+    "fullName": "Linda Henderson",
+    "emailAddress": "lhenderson@stowevt.net",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_002",
+    "userId": "teacher_001",
+    "fullName": "Alan Whitcomb",
+    "emailAddress": "awhitcomb@sterling.edu",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_003",
+    "userId": "teacher_001",
+    "fullName": "Paul Dufresne",
+    "emailAddress": "paul.dufresne@myfairpoint.net",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_004",
+    "userId": "teacher_001",
+    "fullName": "Marc Belanger",
+    "emailAddress": "marc.belanger.mason@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_002",
+    "userId": "teacher_002",
+    "fullName": "Gary Stoddard",
+    "emailAddress": "stoddard.electric@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher002"
+  },
+  {
+    "courseId": "course_005",
+    "userId": "teacher_003",
+    "fullName": "Hardwick Lumber",
+    "emailAddress": "orders@hardwicklumber.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2026",
+    "userId": "teacher_004",
+    "fullName": "Green Mountain Hardwoods",
+    "emailAddress": "sales@greenmountainhardwoods.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "uscg-charter-inspection-2025",
+    "userId": "teacher_004",
+    "fullName": "Ray Tetreault",
+    "emailAddress": "ray@hardwicklumber.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher003"
+  },
+  {
+    "courseId": "course_001",
+    "userId": "teacher_001",
+    "fullName": "Nancy Beaulieu",
+    "emailAddress": "nancy.beaulieu@gmavt.net",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_002",
+    "userId": "teacher_001",
+    "fullName": "Rev. Susan Mills",
+    "emailAddress": "office@craftsburychurch.org",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_003",
+    "userId": "teacher_001",
+    "fullName": "Walt Perreault",
+    "emailAddress": "walt.perreault@gmail.com",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  },
+  {
+    "courseId": "course_004",
+    "userId": "teacher_001",
+    "fullName": "Donna Sloan",
+    "emailAddress": "donna.sloan@comcast.net",
+    "photoUrl": "https://lh3.googleusercontent.com/a/teacher001"
+  }
+]

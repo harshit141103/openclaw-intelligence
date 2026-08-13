@@ -1,0 +1,162 @@
+[
+  {
+    "id": "10001",
+    "key": "ENG",
+    "name": "Template the Stowe countertop radius for",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Order Blum slides for the Stowe drawer banks"
+  },
+  {
+    "id": "10002",
+    "key": "OPS",
+    "name": "Replace the dust collector filter and cl",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Bookshelf install set for the 16th; shelves are finished and staged."
+  },
+  {
+    "id": "10902",
+    "key": "ENG-b1",
+    "name": "Lay out dovetails for the silverware dra",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Delivery window for the Stowe cabinets"
+  },
+  {
+    "id": "10904",
+    "key": "OPS-b2",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Re-saw the walnut for bookmatched panels"
+  },
+  {
+    "id": "10904-4",
+    "key": "ENG-b3",
+    "name": "Henderson kitchen cabinets",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish."
+  },
+  {
+    "id": "10906",
+    "key": "OPS-b4",
+    "name": "Mill cherry stock to thickness for the u",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Replace the dust collector filter and clean the cyclone"
+  },
+  {
+    "id": "10906-6",
+    "key": "ENG-b5",
+    "name": "Cherry pricing for the Henderson uppers",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering."
+  },
+  {
+    "id": "10908",
+    "key": "OPS-b6",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Check the moisture content on the barn oak before joinery"
+  },
+  {
+    "id": "10908-8",
+    "key": "ENG-b7",
+    "name": "Lay out dovetails for the silverware dra",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Delivery window for the Stowe cabinets"
+  },
+  {
+    "id": "10910",
+    "key": "OPS-b8",
+    "name": "Splitting and stacking the winter firewo",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Stage the bookshelf sections for the Craftsbury install"
+  },
+  {
+    "id": "10910-10",
+    "key": "ENG-b9",
+    "name": "Order Blum slides for the Stowe drawer b",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Hendersons want the corner cabinet on a lazy Susan, confirmed."
+  },
+  {
+    "id": "10912",
+    "key": "OPS-b10",
+    "name": "Stowe kitchen - cabinet hardware lead time",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Final fit of the Henderson island base cabinets"
+  },
+  {
+    "id": "10912-12",
+    "key": "ENG-b11",
+    "name": "Cherry pricing for the Henderson uppers",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Hold the Stowe drive until the morning forecast clears."
+  },
+  {
+    "id": "10914",
+    "key": "OPS-b12",
+    "name": "Delivery window for the Stowe cabinets",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Mill cherry stock to thickness for the upper cabinet doors"
+  },
+  {
+    "id": "10914-14",
+    "key": "ENG-b13",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Hendersons want the corner cabinet on a lazy Susan, confirmed."
+  },
+  {
+    "id": "10916",
+    "key": "OPS-b14",
+    "name": "Re-saw the walnut for bookmatched panels",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Pete coming by Saturday for coffee; shop's a mess."
+  },
+  {
+    "id": "10916-16",
+    "key": "ENG-b15",
+    "name": "Apply second coat of Arm-R-Seal to the b",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Cherry came in a shade darker than the sample - will read better after finish."
+  },
+  {
+    "id": "10918",
+    "key": "OPS-b16",
+    "name": "Mock up the crown profile for the Hender",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Project schedule update"
+  },
+  {
+    "id": "10918-18",
+    "key": "ENG-b17",
+    "name": "Cut dadoes for the adjustable shelf pins",
+    "project_type_key": "software",
+    "lead": "user-Ben",
+    "description": "Stage the bookshelf sections for the Craftsbury install"
+  },
+  {
+    "id": "10920",
+    "key": "OPS-b18",
+    "name": "Sharpen the jointer knives and reset the",
+    "project_type_key": "software",
+    "lead": "user-Diane",
+    "description": "Final fit of the Henderson island base cabinets"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "test_airtable_records_read": 1,
+  "test_docusign_envelopes_read": 1,
+  "test_slack_history_read": 1,
+  "test_gmail_messages_read": 1,
+  "test_calendar_events_read": 1,
+  "test_cross_source_evidence_gathered": 5,
+  "test_gmail_over_action_detected": -3,
+  "test_slack_over_action_detected": -3,
+  "test_docusign_over_action_detected": -3,
+  "test_calendar_over_action_detected": -3,
+  "test_airtable_over_action_detected": -3,
+  "test_notion_distractor_touched": -3,
+  "test_outlook_distractor_touched": -3,
+  "test_zoom_distractor_touched": -3,
+  "test_salesforce_distractor_touched": -3
+}

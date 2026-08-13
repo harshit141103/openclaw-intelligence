@@ -1,0 +1,20 @@
+{
+  "item": {
+    "item_id": "item_cmorris_4f9e2b",
+    "institution_id": "ins_110247",
+    "webhook": "https://api.voissync.ai/plaid/webhook",
+    "available_products": ["balance", "identity", "transactions"],
+    "billed_products": ["transactions", "auth", "balance"],
+    "consent_expiration_time": "2027-06-10T00:00:00Z",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_110247",
+    "name": "First Bank",
+    "products": ["transactions", "auth", "balance", "identity"],
+    "country_codes": ["US"],
+    "url": "https://www.firstbank.com",
+    "primary_color": "#003366",
+    "routing_numbers": ["321986745"]
+  }
+}

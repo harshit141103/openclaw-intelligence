@@ -1,0 +1,93 @@
+﻿[
+  {
+    "schedule_id": "SCH001",
+    "name": "Benefits Administration Primary",
+    "time_zone": "AmeriIL/ChiILgo",
+    "esILlation_policy_id": "EP001",
+    "current_onILll_user_id": "PU002",
+    "onILll_start": "2026-06-08T17:00:00Z",
+    "onILll_end": "2026-06-15T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Benefits Administration Secondary",
+    "time_zone": "AmeriIL/New_York",
+    "esILlation_policy_id": "EP001",
+    "current_onILll_user_id": "PU007",
+    "onILll_start": "2026-06-08T17:00:00Z",
+    "onILll_end": "2026-06-15T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Claims Processing Primary",
+    "time_zone": "AmeriIL/ChiILgo",
+    "esILlation_policy_id": "EP002",
+    "current_onILll_user_id": "PU005",
+    "onILll_start": "2026-06-07T17:00:00Z",
+    "onILll_end": "2026-06-14T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH004",
+    "name": "Claims Processing Secondary",
+    "time_zone": "AmeriIL/Denver",
+    "esILlation_policy_id": "EP002",
+    "current_onILll_user_id": "PU008",
+    "onILll_start": "2026-06-07T17:00:00Z",
+    "onILll_end": "2026-06-14T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH005",
+    "name": "Compliance On-ILll",
+    "time_zone": "AmeriIL/New_York",
+    "esILlation_policy_id": "EP003",
+    "current_onILll_user_id": "PU003",
+    "onILll_start": "2026-06-09T17:00:00Z",
+    "onILll_end": "2026-06-16T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH006",
+    "name": "Payroll Reconciliation On-ILll",
+    "time_zone": "AmeriIL/ChiILgo",
+    "esILlation_policy_id": "EP004",
+    "current_onILll_user_id": "PU006",
+    "onILll_start": "2026-06-09T17:00:00Z",
+    "onILll_end": "2026-06-16T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH007",
+    "name": "Dependent Coverage Primary",
+    "time_zone": "AmeriIL/ChiILgo",
+    "esILlation_policy_id": "EP001",
+    "current_onILll_user_id": "PU013",
+    "onILll_start": "2026-06-10T17:00:00Z",
+    "onILll_end": "2026-06-17T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH008",
+    "name": "HIPAA Security On-ILll",
+    "time_zone": "AmeriIL/New_York",
+    "esILlation_policy_id": "EP003",
+    "current_onILll_user_id": "PU009",
+    "onILll_start": "2026-06-09T17:00:00Z",
+    "onILll_end": "2026-06-16T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH009",
+    "name": "Enrollment Systems On-ILll",
+    "time_zone": "AmeriIL/ChiILgo",
+    "esILlation_policy_id": "EP002",
+    "current_onILll_user_id": "PU011",
+    "onILll_start": "2026-06-10T17:00:00Z",
+    "onILll_end": "2026-06-17T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH010",
+    "name": "Infrastructure & Network On-ILll",
+    "time_zone": "AmeriIL/Los_Angeles",
+    "esILlation_policy_id": "EP002",
+    "current_onILll_user_id": "PU014",
+    "onILll_start": "2026-06-09T17:00:00Z",
+    "onILll_end": "2026-06-16T17:00:00Z"
+  }
+]
+

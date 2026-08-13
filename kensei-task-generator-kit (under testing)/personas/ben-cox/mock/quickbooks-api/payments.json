@@ -1,0 +1,422 @@
+[
+  {
+    "Id": "4001",
+    "TxnDate": "2026-08-07",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Stowe kitchen - cabinet hardware lead time"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 18.99
+      }
+    ],
+    "PrivateNote": "Check #1204"
+  },
+  {
+    "Id": "4002",
+    "TxnDate": "2024-10-07",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Cut dadoes for the adjustable shelf pins"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 24.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4003",
+    "TxnDate": "2026-07-04",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Re: Stowe install date"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 28.99
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4004",
+    "TxnDate": "2024-09-19",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Sand to 220 and raise the grain before f"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 34.5
+      }
+    ],
+    "PrivateNote": "Cash at dojo"
+  },
+  {
+    "Id": "4005",
+    "TxnDate": "2026-04-17",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Bookshelf install Friday the 16th"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 41.0
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4006",
+    "TxnDate": "2024-07-06",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Cota window seat & bookcase"
+    },
+    "TotalAmt": 5415.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 620.0
+      }
+    ],
+    "PrivateNote": "Mock up the crown profile for the Henderson uppers"
+  },
+  {
+    "Id": "4007",
+    "TxnDate": "2026-06-21",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Mill cherry stock to thickness for the u"
+    },
+    "TotalAmt": 80.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 47.95
+      }
+    ],
+    "PrivateNote": "Project schedule update"
+  },
+  {
+    "Id": "4008",
+    "TxnDate": "2025-04-08",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Splitting and stacking the winter firewo"
+    },
+    "TotalAmt": 60.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5008",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 62.0
+      }
+    ],
+    "PrivateNote": "Final fit of the Henderson island base cabinets"
+  },
+  {
+    "Id": "4009",
+    "TxnDate": "2024-08-11",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Set up the dado stack for the bookshelf "
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 88.0
+      }
+    ],
+    "PrivateNote": "Check #1218"
+  },
+  {
+    "Id": "4010",
+    "TxnDate": "2026-04-12",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Re: Bookshelf dimensions"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 110.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4011",
+    "TxnDate": "2026-03-28",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Bookshelf install Friday the 16th"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 6.8
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4012",
+    "TxnDate": "2025-07-02",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Hang the soft-close doors and adjust the"
+    },
+    "TotalAmt": 50.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 9.25
+      }
+    ],
+    "PrivateNote": "Sharpened the chisels; the 1in was overdue."
+  },
+  {
+    "Id": "4013",
+    "TxnDate": "2025-08-27",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Re-saw the walnut for bookmatched panels"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 12.5
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4014",
+    "TxnDate": "2023-09-03",
+    "CustomerRef": {
+      "value": "31",
+      "name": "Cota window seat & bookcase"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2009",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 18.99
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4015",
+    "TxnDate": "2026-06-06",
+    "CustomerRef": {
+      "value": "42",
+      "name": "Stage the bookshelf sections for the Cra"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2010",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 24.0
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4016",
+    "TxnDate": "2024-12-26",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Material order - Hardwick Lumber"
+    },
+    "TotalAmt": 5035.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2011",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 1200.0
+      }
+    ],
+    "PrivateNote": "Project schedule update"
+  },
+  {
+    "Id": "4017",
+    "TxnDate": "2025-11-15",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Stowe kitchen - cabinet hardware lead time"
+    },
+    "TotalAmt": 100.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2012",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 28.99
+      }
+    ],
+    "PrivateNote": "Cut dadoes for the adjustable shelf pins"
+  },
+  {
+    "Id": "4018",
+    "TxnDate": "2025-08-01",
+    "CustomerRef": {
+      "value": "63",
+      "name": "Replace the dust collector filter and cl"
+    },
+    "TotalAmt": 1560.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2013",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 1850.0
+      }
+    ],
+    "PrivateNote": "Stowe kitchen - cabinet hardware lead time"
+  },
+  {
+    "Id": "4019",
+    "TxnDate": "2025-07-07",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Bookshelf install Friday the 16th"
+    },
+    "TotalAmt": 60.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2014",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 34.5
+      }
+    ],
+    "PrivateNote": "Cut dadoes for the adjustable shelf pins"
+  },
+  {
+    "Id": "4902",
+    "TxnDate": "2026-02-23",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Sand to 220 and raise the grain before f"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 41.0
+      }
+    ],
+    "PrivateNote": "Check #1204"
+  }
+]

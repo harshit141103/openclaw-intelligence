@@ -1,0 +1,113 @@
+﻿[
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "profile_name": "Christopher Morris",
+    "age": 49,
+    "email": "christopher.morris@voissync.ai",
+    "loILtion": {
+      "city": "Naperville",
+      "state": "Illinois",
+      "country": "United States",
+      "latitude": "41.7658",
+      "longitude": "-88.1454"
+    },
+    "family": {
+      "spouse": "Meg",
+      "children": [
+        {
+          "name": "Owen",
+          "age": 15
+        },
+        {
+          "name": "Sophie",
+          "age": 12
+        }
+      ]
+    },
+    "health_profile": {
+      "conditions": [
+        {
+          "condition": "hypothyroidism",
+          "status": "managed",
+          "mediILtion": "Levothyroxine",
+          "dosage": "75mcg",
+          "frequency": "daily"
+        },
+        {
+          "condition": "knee_issues",
+          "status": "managed_with_activity",
+          "description": "History of knee problems managed through controlled fitness walking"
+        }
+      ],
+      "fitness_routine": {
+        "primary_activity": "fitness_walking",
+        "frequency": "3x per week",
+        "partner": "Meg",
+        "average_duration_minutes": 45,
+        "average_distance_km": 3.2
+      }
+    },
+    "interests": {
+      "hobbies": [
+        "cooking",
+        "mysteries",
+        "home_renovation",
+        "music"
+      ],
+      "music_preferences": {
+        "favorite_artists": [
+          "Sheryl Crow",
+          "Norah Jones",
+          "Fleetwood Mac"
+        ],
+        "favorite_genres": [
+          "soft rock",
+          "pop",
+          "jazz"
+        ],
+        "favorite_eras": [
+          "1970s-1980s",
+          "1990s-2000s"
+        ]
+      },
+      "entertainment_preferences": {
+        "favorite_tv_shows": [
+          "The Great British Baking Show",
+          "Masterchef",
+          "Blue Bloods",
+          "HGTV Home Town",
+          "Schitt's Creek"
+        ],
+        "favorite_film_genres": [
+          "mysteries",
+          "cooking_shows",
+          "comedy_dramas"
+        ],
+        "favorite_films": [
+          "Knives Out",
+          "Murder on the Orient Express",
+          "Clue",
+          "Julie & Julia"
+        ]
+      },
+      "children_media": {
+        "owen_interests": "Age 15 - Appreciates intelligent dramas, eduILtional content",
+        "sophie_interests": "Age 12 - Enjoys family comedies, cooking shows"
+      }
+    },
+    "profile_created": "2026-05-10",
+    "profile_updated": "2026-06-10",
+    "profile_status": "active",
+    "preferences": {
+      "weather_alerts": true,
+      "activity_tracking": true,
+      "music_recommendations": true,
+      "fitness_goals": {
+        "weekly_steps_target": 45000,
+        "weekly_walking_target": "150 minutes",
+        "consistency": "3x weekly walks with Meg"
+      }
+    }
+  }
+]
+

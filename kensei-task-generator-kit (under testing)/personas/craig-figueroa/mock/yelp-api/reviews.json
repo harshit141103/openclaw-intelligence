@@ -1,0 +1,82 @@
+[
+  {
+    "id": "rev-001",
+    "business_id": "biz-lochcarron-hotel",
+    "rating": "4",
+    "text": "Corner table by the fire on a Friday, exactly what you want after a week on the hill.",
+    "user_name": "Craig F.",
+    "time_created": "2026-05-05 19:30:00"
+  },
+  {
+    "id": "rev-002",
+    "business_id": "biz-plockton-hotel",
+    "rating": "5",
+    "text": "Best seafood on the west coast, the langoustines are worth the drive.",
+    "user_name": "Fiona D.",
+    "time_created": "2026-05-06 19:30:00"
+  },
+  {
+    "id": "rev-003",
+    "business_id": "biz-applecross-inn",
+    "rating": "4",
+    "text": "Stopped after the Applecross round, the fish and chips set me right.",
+    "user_name": "Duncan F.",
+    "time_created": "2026-05-07 19:30:00"
+  },
+  {
+    "id": "rev-004",
+    "business_id": "biz-kishorn",
+    "rating": "5",
+    "text": "Fiona's birthday dinner here, faultless from start to finish.",
+    "user_name": "Isabel R.",
+    "time_created": "2026-05-08 19:30:00"
+  },
+  {
+    "id": "rev-005",
+    "business_id": "biz-rocpool",
+    "rating": "4",
+    "text": "Good coffee and a warm welcome on a cold Inverness morning.",
+    "user_name": "Graeme S.",
+    "time_created": "2026-05-09 19:30:00"
+  },
+  {
+    "id": "rev-006",
+    "business_id": "biz-mustard-seed",
+    "rating": "5",
+    "text": "Reliable supply run lunch spot when I am in town.",
+    "user_name": "Craig F.",
+    "time_created": "2026-05-10 19:30:00"
+  },
+  {
+    "id": "rev-007",
+    "business_id": "biz-cafe1",
+    "rating": "4",
+    "text": "Quiet pint and a decent meal, staff know the regulars.",
+    "user_name": "Iain C.",
+    "time_created": "2026-05-11 19:30:00"
+  },
+  {
+    "id": "rev-008",
+    "business_id": "biz-strathcarron-hotel",
+    "rating": "5",
+    "text": "Handy stop on the Torridon road, soup and a roll done well.",
+    "user_name": "Craig F.",
+    "time_created": "2026-05-12 19:30:00"
+  },
+  {
+    "id": "rev-009",
+    "business_id": "biz-kinlochewe-store",
+    "rating": "4",
+    "text": "Took the family in, the children were made very welcome.",
+    "user_name": "Elena F.",
+    "time_created": "2026-05-13 19:30:00"
+  },
+  {
+    "id": "rev-010",
+    "business_id": "biz-torridon-stores",
+    "rating": "5",
+    "text": "Solid Sunday lunch, generous portions, no fuss.",
+    "user_name": "Callum R.",
+    "time_created": "2026-05-14 19:30:00"
+  }
+]

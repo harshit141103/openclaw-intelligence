@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rec-0001",
+    "meeting_id": "85012345670",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "524288000",
+    "recording_start": "2026-06-08T13:01:00Z",
+    "recording_end": "2026-06-08T13:40:00Z",
+    "play_url": "https://zoom.us/rec/play/aaa111",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0002",
+    "meeting_id": "85012345670",
+    "recording_type": "audio_only",
+    "file_type": "M4A",
+    "file_size": "31457280",
+    "recording_start": "2026-06-08T13:01:00Z",
+    "recording_end": "2026-06-08T13:40:00Z",
+    "play_url": "https://zoom.us/rec/play/aaa112",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0003",
+    "meeting_id": "85012345671",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "734003200",
+    "recording_start": "2026-06-04T17:02:00Z",
+    "recording_end": "2026-06-04T18:00:00Z",
+    "play_url": "https://zoom.us/rec/play/bbb221",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0004",
+    "meeting_id": "85012345673",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "619430400",
+    "recording_start": "2026-05-28T18:01:00Z",
+    "recording_end": "2026-05-28T19:10:00Z",
+    "play_url": "https://zoom.us/rec/play/ccc331",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0005",
+    "meeting_id": "85012345690",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "812003200",
+    "recording_start": "2026-04-24T18:02:00Z",
+    "recording_end": "2026-04-24T19:15:00Z",
+    "play_url": "https://zoom.us/rec/play/ddd441",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0006",
+    "meeting_id": "85012345675",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "498288000",
+    "recording_start": "2026-05-22T14:01:00Z",
+    "recording_end": "2026-05-22T14:55:00Z",
+    "play_url": "https://zoom.us/rec/play/eee551",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0007",
+    "meeting_id": "85012345675",
+    "recording_type": "audio_only",
+    "file_type": "M4A",
+    "file_size": "28311552",
+    "recording_start": "2026-05-22T14:01:00Z",
+    "recording_end": "2026-05-22T14:55:00Z",
+    "play_url": "https://zoom.us/rec/play/eee552",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0008",
+    "meeting_id": "85012345701",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "688742400",
+    "recording_start": "2026-06-09T15:01:00Z",
+    "recording_end": "2026-06-09T15:52:00Z",
+    "play_url": "https://zoom.us/rec/play/fff661",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0009",
+    "meeting_id": "85012345702",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "742391296",
+    "recording_start": "2026-06-05T18:02:00Z",
+    "recording_end": "2026-06-05T19:08:00Z",
+    "play_url": "https://zoom.us/rec/play/ggg771",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0010",
+    "meeting_id": "85012345703",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "556007424",
+    "recording_start": "2026-06-03T13:01:00Z",
+    "recording_end": "2026-06-03T13:44:00Z",
+    "play_url": "https://zoom.us/rec/play/hhh881",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0011",
+    "meeting_id": "85012345703",
+    "recording_type": "audio_only",
+    "file_type": "M4A",
+    "file_size": "24117248",
+    "recording_start": "2026-06-03T13:01:00Z",
+    "recording_end": "2026-06-03T13:44:00Z",
+    "play_url": "https://zoom.us/rec/play/hhh882",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0012",
+    "meeting_id": "85012345704",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "801112064",
+    "recording_start": "2026-05-30T17:01:00Z",
+    "recording_end": "2026-05-30T18:12:00Z",
+    "play_url": "https://zoom.us/rec/play/iii991",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0013",
+    "meeting_id": "85012345705",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "471859200",
+    "recording_start": "2026-05-26T14:01:00Z",
+    "recording_end": "2026-05-26T14:41:00Z",
+    "play_url": "https://zoom.us/rec/play/jjj101",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0014",
+    "meeting_id": "85012345706",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "655360000",
+    "recording_start": "2026-05-21T18:01:00Z",
+    "recording_end": "2026-05-21T19:05:00Z",
+    "play_url": "https://zoom.us/rec/play/kkk111",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0015",
+    "meeting_id": "85012345707",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "534773760",
+    "recording_start": "2026-05-19T13:01:00Z",
+    "recording_end": "2026-05-19T13:46:00Z",
+    "play_url": "https://zoom.us/rec/play/lll121",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0016",
+    "meeting_id": "85012345708",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "612368384",
+    "recording_start": "2026-05-15T15:01:00Z",
+    "recording_end": "2026-05-15T15:51:00Z",
+    "play_url": "https://zoom.us/rec/play/mmm131",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0017",
+    "meeting_id": "85012345709",
+    "recording_type": "audio_only",
+    "file_type": "M4A",
+    "file_size": "26214400",
+    "recording_start": "2026-05-12T13:01:00Z",
+    "recording_end": "2026-05-12T13:38:00Z",
+    "play_url": "https://zoom.us/rec/play/nnn141",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0018",
+    "meeting_id": "85012345710",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "723517440",
+    "recording_start": "2026-05-08T17:01:00Z",
+    "recording_end": "2026-05-08T18:06:00Z",
+    "play_url": "https://zoom.us/rec/play/ooo151",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0019",
+    "meeting_id": "85012345711",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "498073600",
+    "recording_start": "2026-05-05T14:01:00Z",
+    "recording_end": "2026-05-05T14:43:00Z",
+    "play_url": "https://zoom.us/rec/play/ppp161",
+    "status": "completed"
+  },
+  {
+    "id": "rec-0020",
+    "meeting_id": "85012345712",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "587202560",
+    "recording_start": "2026-04-30T16:01:00Z",
+    "recording_end": "2026-04-30T16:49:00Z",
+    "play_url": "https://zoom.us/rec/play/qqq171",
+    "status": "completed"
+  }
+]

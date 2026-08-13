@@ -1,0 +1,134 @@
+[
+  {
+    "iata_code": "INV",
+    "name": "Inverness Airport",
+    "city_name": "Inverness",
+    "city_code": "INV",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "latitude": "57.5425",
+    "longitude": "-4.0475",
+    "timezone": "Europe/London"
+  },
+  {
+    "iata_code": "EDI",
+    "name": "Edinburgh Airport",
+    "city_name": "Edinburgh",
+    "city_code": "EDI",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "latitude": "55.9500",
+    "longitude": "-3.3725",
+    "timezone": "Europe/London"
+  },
+  {
+    "iata_code": "GLA",
+    "name": "Glasgow Airport",
+    "city_name": "Glasgow",
+    "city_code": "GLA",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "latitude": "55.8719",
+    "longitude": "-4.4331",
+    "timezone": "Europe/London"
+  },
+  {
+    "iata_code": "LHR",
+    "name": "London Heathrow Airport",
+    "city_name": "London",
+    "city_code": "LON",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "latitude": "51.4700",
+    "longitude": "-0.4543",
+    "timezone": "Europe/London"
+  },
+  {
+    "iata_code": "OSL",
+    "name": "Oslo Gardermoen Airport",
+    "city_name": "Oslo",
+    "city_code": "OSL",
+    "country_name": "Norway",
+    "country_code": "NO",
+    "latitude": "60.1939",
+    "longitude": "11.1004",
+    "timezone": "Europe/Oslo"
+  },
+  {
+    "iata_code": "TOS",
+    "name": "Tromso Airport",
+    "city_name": "Tromso",
+    "city_code": "TOS",
+    "country_name": "Norway",
+    "country_code": "NO",
+    "latitude": "69.6833",
+    "longitude": "18.9189",
+    "timezone": "Europe/Oslo"
+  },
+  {
+    "iata_code": "BGO",
+    "name": "Bergen Airport",
+    "city_name": "Bergen",
+    "city_code": "BGO",
+    "country_name": "Norway",
+    "country_code": "NO",
+    "latitude": "60.2934",
+    "longitude": "5.2181",
+    "timezone": "Europe/Oslo"
+  },
+  {
+    "iata_code": "CPH",
+    "name": "Copenhagen Airport",
+    "city_name": "Copenhagen",
+    "city_code": "CPH",
+    "country_name": "Denmark",
+    "country_code": "DK",
+    "latitude": "55.6180",
+    "longitude": "12.6560",
+    "timezone": "Europe/Copenhagen"
+  },
+  {
+    "iata_code": "AMS",
+    "name": "Amsterdam Schiphol",
+    "city_name": "Amsterdam",
+    "city_code": "AMS",
+    "country_name": "Netherlands",
+    "country_code": "NL",
+    "latitude": "52.3105",
+    "longitude": "4.7683",
+    "timezone": "Europe/Amsterdam"
+  },
+  {
+    "iata_code": "ABZ",
+    "name": "Aberdeen Airport",
+    "city_name": "Aberdeen",
+    "city_code": "ABZ",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "latitude": "57.2019",
+    "longitude": "-2.1978",
+    "timezone": "Europe/London"
+  },
+  {
+    "iata_code": "KOI",
+    "name": "Kirkwall Airport",
+    "city_name": "Kirkwall",
+    "city_code": "KOI",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "latitude": "58.9578",
+    "longitude": "-2.9050",
+    "timezone": "Europe/London"
+  },
+  {
+    "iata_code": "BGN",
+    "name": "Belfast City Airport",
+    "city_name": "Belfast",
+    "city_code": "BFS",
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "latitude": "54.6181",
+    "longitude": "-5.8725",
+    "timezone": "Europe/London"
+  }
+]

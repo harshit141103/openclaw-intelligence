@@ -1,0 +1,110 @@
+[
+  {
+    "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "qty": "45",
+    "avg_entry_price": "175.20",
+    "current_price": "191.25",
+    "side": "long",
+    "market_value": "8606.25",
+    "cost_basis": "7884.00",
+    "unrealized_pl": "722.25",
+    "opened_at": "2025-08-15T10:30:00Z"
+  },
+  {
+    "asset_id": "f30d734c-2806-4d0d-b145-f9fee271c5cd",
+    "symbol": "MSFT",
+    "qty": "32",
+    "avg_entry_price": "395.75",
+    "current_price": "418.60",
+    "side": "long",
+    "market_value": "13395.20",
+    "cost_basis": "12664.00",
+    "unrealized_pl": "731.20",
+    "opened_at": "2025-09-22T14:15:00Z"
+  },
+  {
+    "asset_id": "b6d1aa75-5c14-4920-aef3-7eb33a01c123",
+    "symbol": "TSLA",
+    "qty": "25",
+    "avg_entry_price": "245.30",
+    "current_price": "228.75",
+    "side": "long",
+    "market_value": "5718.75",
+    "cost_basis": "6132.50",
+    "unrealized_pl": "-413.75",
+    "opened_at": "2025-10-05T11:45:00Z"
+  },
+  {
+    "asset_id": "69b6d1aa-5c14-4920-aef3-7eb33a01c456",
+    "symbol": "NVDA",
+    "qty": "22",
+    "avg_entry_price": "115.80",
+    "current_price": "131.90",
+    "side": "long",
+    "market_value": "2901.80",
+    "cost_basis": "2547.60",
+    "unrealized_pl": "354.20",
+    "opened_at": "2025-11-10T09:20:00Z"
+  },
+  {
+    "asset_id": "0d1aa75b-5c14-4920-aef3-7eb33a01c789",
+    "symbol": "AMZN",
+    "qty": "48",
+    "avg_entry_price": "180.50",
+    "current_price": "188.45",
+    "side": "long",
+    "market_value": "9045.60",
+    "cost_basis": "8664.00",
+    "unrealized_pl": "381.60",
+    "opened_at": "2025-12-01T16:00:00Z"
+  },
+  {
+    "asset_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "symbol": "GOOGL",
+    "qty": "35",
+    "avg_entry_price": "168.90",
+    "current_price": "174.15",
+    "side": "long",
+    "market_value": "6095.25",
+    "cost_basis": "5911.50",
+    "unrealized_pl": "183.75",
+    "opened_at": "2026-01-08T13:30:00Z"
+  },
+  {
+    "asset_id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "symbol": "SPY",
+    "qty": "62",
+    "avg_entry_price": "525.10",
+    "current_price": "531.25",
+    "side": "long",
+    "market_value": "32937.50",
+    "cost_basis": "32556.20",
+    "unrealized_pl": "381.30",
+    "opened_at": "2026-02-14T10:45:00Z"
+  },
+  {
+    "asset_id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "symbol": "VTI",
+    "qty": "85",
+    "avg_entry_price": "241.50",
+    "current_price": "248.30",
+    "side": "long",
+    "market_value": "21105.50",
+    "cost_basis": "20527.50",
+    "unrealized_pl": "578.00",
+    "opened_at": "2026-03-01T12:00:00Z"
+  },
+  {
+    "asset_id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "symbol": "VOO",
+    "qty": "28",
+    "avg_entry_price": "486.75",
+    "current_price": "492.50",
+    "side": "long",
+    "market_value": "13790.00",
+    "cost_basis": "13629.00",
+    "unrealized_pl": "161.00",
+    "opened_at": "2026-04-10T15:20:00Z"
+  }
+]

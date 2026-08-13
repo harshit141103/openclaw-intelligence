@@ -1,0 +1,290 @@
+[
+  {
+    "message_id": "5001",
+    "chat_id": "1001",
+    "from_id": "9001",
+    "text": "Floyd you headed up to Mama June's for Christmas this year? She's already asking.",
+    "date": "1749042000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5002",
+    "chat_id": "1001",
+    "from_id": "9000",
+    "text": "Wouldn't miss it. Donna and the kids are coming too. We'll be in Harlan by the 24th.",
+    "date": "1749042300",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5003",
+    "chat_id": "1001",
+    "from_id": "9001",
+    "text": "Good deal. I got a load running near Knoxville Thursday, might swing by the office.",
+    "date": "1749042600",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5004",
+    "chat_id": "1001",
+    "from_id": "9000",
+    "text": "Come by, I'll buy you lunch at Oakwood Diner.",
+    "date": "1749042900",
+    "reply_to_message_id": "5001"
+  },
+  {
+    "message_id": "5005",
+    "chat_id": "1002",
+    "from_id": "9002",
+    "text": "Mentorship cohort is at six now. You still good to take broker authority week one?",
+    "date": "1749130000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5006",
+    "chat_id": "1002",
+    "from_id": "9000",
+    "text": "Yes sir. Bren's putting the schedule together this week.",
+    "date": "1749130300",
+    "reply_to_message_id": "5005"
+  },
+  {
+    "message_id": "5007",
+    "chat_id": "1002",
+    "from_id": "9002",
+    "text": "Perfect. Let's grab a Maker's at The Back Porch after poker Thursday and hash out the rest.",
+    "date": "1749130600",
+    "reply_to_message_id": "5005"
+  },
+  {
+    "message_id": "5008",
+    "chat_id": "1002",
+    "from_id": "9000",
+    "text": "Sounds about right. I'll be there.",
+    "date": "1749130900",
+    "reply_to_message_id": "5005"
+  },
+  {
+    "message_id": "5009",
+    "chat_id": "1003",
+    "from_id": "9000",
+    "text": "Marco, got a load Chattanooga to Detroit, automotive parts, pickup Thursday AM. You got a truck?",
+    "date": "1749211000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5010",
+    "chat_id": "1003",
+    "from_id": "9003",
+    "text": "I can cover it. Ridgeline has a truck repositioning right through there.",
+    "date": "1749211300",
+    "reply_to_message_id": "5009"
+  },
+  {
+    "message_id": "5011",
+    "chat_id": "1003",
+    "from_id": "9000",
+    "text": "Rate con coming over from Lorrie at $2,150. Need your current COI on file first.",
+    "date": "1749211600",
+    "reply_to_message_id": "5009"
+  },
+  {
+    "message_id": "5012",
+    "chat_id": "1003",
+    "from_id": "9003",
+    "text": "Already emailed it to her this morning. We're good to go.",
+    "date": "1749211900",
+    "reply_to_message_id": "5009"
+  },
+  {
+    "message_id": "5013",
+    "chat_id": "-200500",
+    "from_id": "9004",
+    "text": "Anybody running empty out of Memphis this weekend? Got reefer freight to Nashville.",
+    "date": "1749297000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5014",
+    "chat_id": "-200500",
+    "from_id": "9000",
+    "text": "I might have a building supply load that pairs with it. Let me check with Pete and get back to you.",
+    "date": "1749297300",
+    "reply_to_message_id": "5013"
+  },
+  {
+    "message_id": "5015",
+    "chat_id": "-200500",
+    "from_id": "9003",
+    "text": "I've got a truck in Memphis Saturday if the rate works.",
+    "date": "1749297600",
+    "reply_to_message_id": "5013"
+  },
+  {
+    "message_id": "5016",
+    "chat_id": "-200500",
+    "from_id": "9004",
+    "text": "Appreciate it fellas. This network beats load boards any day.",
+    "date": "1749297900",
+    "reply_to_message_id": "5013"
+  },
+  {
+    "message_id": "5017",
+    "chat_id": "-200500",
+    "from_id": "9002",
+    "text": "Reminder the TN Freight Assoc conference is Oct 10 at the Volunteer Conference Center. Get registered.",
+    "date": "1749384000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5018",
+    "chat_id": "-200500",
+    "from_id": "9000",
+    "text": "Already on my calendar. Be good to see everybody there.",
+    "date": "1749384300",
+    "reply_to_message_id": "5017"
+  },
+  {
+    "message_id": "5019",
+    "chat_id": "-200501",
+    "from_id": "7654321098",
+    "text": "Spot rate alert: Knoxville to Atlanta dry van up 4% week over week, avg $2.18/mi.",
+    "date": "1749470000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5020",
+    "chat_id": "-200501",
+    "from_id": "7654321098",
+    "text": "Spot rate alert: Memphis to Nashville reefer steady, avg $2.62/mi.",
+    "date": "1749470300",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5021",
+    "chat_id": "-200501",
+    "from_id": "9000",
+    "text": "That Knoxville to Atlanta bump is good news for the auto parts lanes.",
+    "date": "1749470600",
+    "reply_to_message_id": "5019"
+  },
+  {
+    "message_id": "5022",
+    "chat_id": "-200501",
+    "from_id": "9004",
+    "text": "Agreed. I'm holding my trucks for it instead of taking the cheap Florida freight.",
+    "date": "1749470900",
+    "reply_to_message_id": "5019"
+  },
+  {
+    "message_id": "5023",
+    "chat_id": "1004",
+    "from_id": "9000",
+    "text": "Travis, did Cumberland Auto Parts confirm the Friday pickup window? Glen wanted it before noon.",
+    "date": "1749556000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5024",
+    "chat_id": "1004",
+    "from_id": "9007",
+    "text": "Yes sir, confirmed 9 to 11 AM. Ridgeline truck is set, COI's current.",
+    "date": "1749556300",
+    "reply_to_message_id": "5023"
+  },
+  {
+    "message_id": "5025",
+    "chat_id": "1004",
+    "from_id": "9000",
+    "text": "Good work. Have Lorrie send the rate con and loop Brand in so he sees the whole flow.",
+    "date": "1749556600",
+    "reply_to_message_id": "5023"
+  },
+  {
+    "message_id": "5026",
+    "chat_id": "1004",
+    "from_id": "9007",
+    "text": "Will do. I'll walk him through the carrier packet too.",
+    "date": "1749556900",
+    "reply_to_message_id": "5023"
+  },
+  {
+    "message_id": "5027",
+    "chat_id": "1005",
+    "from_id": "9008",
+    "text": "Don't forget Cody's got football conditioning at 5, you said you'd grab him.",
+    "date": "1749571000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5028",
+    "chat_id": "1005",
+    "from_id": "9000",
+    "text": "Got it on my calendar. I'll wrap up with the carriers by 4:30 and head out.",
+    "date": "1749571300",
+    "reply_to_message_id": "5027"
+  },
+  {
+    "message_id": "5029",
+    "chat_id": "1005",
+    "from_id": "9008",
+    "text": "Thank you hon. Pulled a pork shoulder out for you to smoke Saturday.",
+    "date": "1749571600",
+    "reply_to_message_id": "5027"
+  },
+  {
+    "message_id": "5030",
+    "chat_id": "1005",
+    "from_id": "9000",
+    "text": "Now you're talking. I'll get the hickory going early.",
+    "date": "1749571900",
+    "reply_to_message_id": "5027"
+  },
+  {
+    "message_id": "5031",
+    "chat_id": "-200500",
+    "from_id": "9006",
+    "text": "New to the group, Roy Mullins out of Morristown. Got two dry vans I keep on the Knoxville-Atlanta run.",
+    "date": "1749585000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5032",
+    "chat_id": "-200500",
+    "from_id": "9000",
+    "text": "Welcome Roy. Keith vouched for you. I'll have lanes for you most weeks on that corridor.",
+    "date": "1749585300",
+    "reply_to_message_id": "5031"
+  },
+  {
+    "message_id": "5033",
+    "chat_id": "-200500",
+    "from_id": "9006",
+    "text": "Appreciate it Floyd. Send em my way anytime.",
+    "date": "1749585600",
+    "reply_to_message_id": "5031"
+  },
+  {
+    "message_id": "5034",
+    "chat_id": "1001",
+    "from_id": "9001",
+    "text": "You still bringing the smoker for the fall cookout? Mama June wants ribs.",
+    "date": "1749598000",
+    "reply_to_message_id": ""
+  },
+  {
+    "message_id": "5035",
+    "chat_id": "1001",
+    "from_id": "9000",
+    "text": "Loading it up. Tell her I'll do a couple racks and a brisket.",
+    "date": "1749598300",
+    "reply_to_message_id": "5034"
+  },
+  {
+    "message_id": "5036",
+    "chat_id": "1001",
+    "from_id": "9001",
+    "text": "She'll be tickled. See you Oct 17.",
+    "date": "1749598600",
+    "reply_to_message_id": "5034"
+  }
+]

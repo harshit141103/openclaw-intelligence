@@ -1,0 +1,62 @@
+[
+  {
+    "tracking_number": "794820000",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-10",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "6.5",
+    "currency": "GBP",
+    "net_charge": "18.55",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "794820001",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-11",
+    "origin_zip": "BA22 7TT",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "12.0",
+    "currency": "GBP",
+    "net_charge": "27.9",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "794820002",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-12",
+    "origin_zip": "EH54 6AX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "3.2",
+    "currency": "GBP",
+    "net_charge": "12.94",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "794820003",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-13",
+    "origin_zip": "G52 4XB",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "2.1",
+    "currency": "GBP",
+    "net_charge": "11.07",
+    "label_url": ""
+  },
+  {
+    "tracking_number": "794820004",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-05-14",
+    "origin_zip": "BS10 7XX",
+    "dest_zip": "IV54 8YX",
+    "weight_lb": "9.4",
+    "currency": "GBP",
+    "net_charge": "23.48",
+    "label_url": ""
+  }
+]

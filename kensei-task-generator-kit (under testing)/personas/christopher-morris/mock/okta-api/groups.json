@@ -1,0 +1,115 @@
+﻿[
+  {
+    "id": "00g1eng",
+    "name": "Engineering",
+    "description": "All engineering staff",
+    "type": "OKTA_GROUP",
+    "created": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "00g2plat",
+    "name": "Platform Team",
+    "description": "Platform and infrastructure engineers",
+    "type": "OKTA_GROUP",
+    "created": "2024-01-12T10:00:00.000Z"
+  },
+  {
+    "id": "00g3admins",
+    "name": "Administrators",
+    "description": "Tenant administrators",
+    "type": "OKTA_GROUP",
+    "created": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "00g4everyone",
+    "name": "Everyone",
+    "description": "All users in the org",
+    "type": "BUILT_IN",
+    "created": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "00g5backend",
+    "name": "Backend Engineers",
+    "description": "Backend development team",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "00g6frontend",
+    "name": "Frontend Engineers",
+    "description": "Frontend and UI development team",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-05T10:00:00.000Z"
+  },
+  {
+    "id": "00g7devops",
+    "name": "DevOps",
+    "description": "DevOps and infrastructure operations",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-10T10:00:00.000Z"
+  },
+  {
+    "id": "00g8product",
+    "name": "Product Team",
+    "description": "Product management and strategy",
+    "type": "OKTA_GROUP",
+    "created": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "00g9design",
+    "name": "Design Team",
+    "description": "UX/UI designers",
+    "type": "OKTA_GROUP",
+    "created": "2024-03-15T10:00:00.000Z"
+  },
+  {
+    "id": "00g10qa",
+    "name": "Benefits Coordinators",
+    "description": "Quality assurance and testing",
+    "type": "OKTA_GROUP",
+    "created": "2024-03-20T10:00:00.000Z"
+  },
+  {
+    "id": "00g11security",
+    "name": "Security Team",
+    "description": "Security and compliance specialists",
+    "type": "OKTA_GROUP",
+    "created": "2024-04-01T10:00:00.000Z"
+  },
+  {
+    "id": "00g12marketing",
+    "name": "Marketing",
+    "description": "Marketing and communiILtions team",
+    "type": "OKTA_GROUP",
+    "created": "2024-04-10T10:00:00.000Z"
+  },
+  {
+    "id": "00g13hr",
+    "name": "Human Resources",
+    "description": "HR and recruiting team",
+    "type": "OKTA_GROUP",
+    "created": "2024-04-15T10:00:00.000Z"
+  },
+  {
+    "id": "00g14finance",
+    "name": "Finance",
+    "description": "Finance and accounting team",
+    "type": "OKTA_GROUP",
+    "created": "2024-04-20T10:00:00.000Z"
+  },
+  {
+    "id": "00g15contractors",
+    "name": "Contractors",
+    "description": "External contractors and consultants",
+    "type": "OKTA_GROUP",
+    "created": "2024-05-05T10:00:00.000Z"
+  },
+  {
+    "id": "00g16interns",
+    "name": "Interns",
+    "description": "Internship program participants",
+    "type": "OKTA_GROUP",
+    "created": "2024-05-20T10:00:00.000Z"
+  }
+]
+

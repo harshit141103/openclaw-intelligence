@@ -1,0 +1,232 @@
+[
+  {
+    "event_id": "evt-0001",
+    "event": "Page View",
+    "distinct_id": "visitor-glen-mabry",
+    "time": "2026-05-01T08:12:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0002",
+    "event": "Page View",
+    "distinct_id": "visitor-anon-4821",
+    "time": "2026-05-01T09:40:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0003",
+    "event": "Services Viewed",
+    "distinct_id": "visitor-glen-mabry",
+    "time": "2026-05-01T08:14:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0004",
+    "event": "Quote Request",
+    "distinct_id": "visitor-glen-mabry",
+    "time": "2026-05-01T08:18:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0005",
+    "event": "Services Viewed",
+    "distinct_id": "visitor-anon-4821",
+    "time": "2026-05-01T09:42:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0006",
+    "event": "Contact Form Submit",
+    "distinct_id": "visitor-anon-4821",
+    "time": "2026-05-01T09:48:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0007",
+    "event": "Page View",
+    "distinct_id": "visitor-ruth-lyle",
+    "time": "2026-05-02T07:55:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "mobile",
+    "utm_source": "linkedin"
+  },
+  {
+    "event_id": "evt-0008",
+    "event": "Page View",
+    "distinct_id": "visitor-anon-4821",
+    "time": "2026-05-02T11:30:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0009",
+    "event": "Carrier Page Viewed",
+    "distinct_id": "visitor-marcus-fields",
+    "time": "2026-05-02T11:33:00Z",
+    "country": "US",
+    "plan": "carrier",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0010",
+    "event": "Carrier Application",
+    "distinct_id": "visitor-marcus-fields",
+    "time": "2026-05-02T11:40:00Z",
+    "country": "US",
+    "plan": "carrier",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0011",
+    "event": "Page View",
+    "distinct_id": "visitor-anon-5903",
+    "time": "2026-05-02T13:20:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "mobile",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0012",
+    "event": "Services Viewed",
+    "distinct_id": "visitor-anon-5903",
+    "time": "2026-05-02T13:24:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "mobile",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0013",
+    "event": "Quote Request",
+    "distinct_id": "visitor-ruth-lyle",
+    "time": "2026-05-03T09:10:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "mobile",
+    "utm_source": "linkedin"
+  },
+  {
+    "event_id": "evt-0014",
+    "event": "Page View",
+    "distinct_id": "visitor-glen-mabry",
+    "time": "2026-05-03T18:02:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0015",
+    "event": "Mentorship Page Viewed",
+    "distinct_id": "visitor-anon-5903",
+    "time": "2026-05-03T19:45:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "mobile",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0016",
+    "event": "Newsletter Signup",
+    "distinct_id": "visitor-anon-5903",
+    "time": "2026-05-03T19:50:00Z",
+    "country": "US",
+    "plan": "prospect",
+    "platform": "mobile",
+    "utm_source": "facebook"
+  },
+  {
+    "event_id": "evt-0017",
+    "event": "Page View",
+    "distinct_id": "visitor-pete-arnett",
+    "time": "2026-05-03T20:11:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0018",
+    "event": "Services Viewed",
+    "distinct_id": "visitor-pete-arnett",
+    "time": "2026-05-04T08:30:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0019",
+    "event": "Quote Request",
+    "distinct_id": "visitor-pete-arnett",
+    "time": "2026-05-04T08:36:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-0020",
+    "event": "Carrier Page Viewed",
+    "distinct_id": "visitor-anon-6210",
+    "time": "2026-05-05T10:15:00Z",
+    "country": "US",
+    "plan": "carrier",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0021",
+    "event": "Carrier Application",
+    "distinct_id": "visitor-anon-6210",
+    "time": "2026-05-05T10:24:00Z",
+    "country": "US",
+    "plan": "carrier",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-0022",
+    "event": "Page View",
+    "distinct_id": "visitor-hal-eubanks",
+    "time": "2026-05-06T14:02:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-0023",
+    "event": "Contact Form Submit",
+    "distinct_id": "visitor-hal-eubanks",
+    "time": "2026-05-06T14:09:00Z",
+    "country": "US",
+    "plan": "client",
+    "platform": "web",
+    "utm_source": "direct"
+  }
+]

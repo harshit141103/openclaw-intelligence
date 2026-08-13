@@ -1,0 +1,162 @@
+[
+  {
+    "id": "4000001",
+    "issue_number": "1",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "Updated the footer number to (865) 555-2750 and pushed it live. Take a look when you get a chance.",
+    "created_at": "2023-03-20T13:30:00Z"
+  },
+  {
+    "id": "4000002",
+    "issue_number": "1",
+    "repo": "whitakerfreight-site",
+    "user": "floyd-whitaker-wfs",
+    "body": "Looks good, thank you. That's the right number now.",
+    "created_at": "2023-03-20T14:00:00Z"
+  },
+  {
+    "id": "4000003",
+    "issue_number": "2",
+    "repo": "whitakerfreight-site",
+    "user": "floyd-whitaker-wfs",
+    "body": "Perfect, that button is a lot easier to find. Appreciate the quick turnaround.",
+    "created_at": "2023-04-05T11:00:00Z"
+  },
+  {
+    "id": "4000004",
+    "issue_number": "3",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "Looking into it now - I think the form notifications were going to the old inbox. I'll point them at floyd.w@outlook.com and test.",
+    "created_at": "2023-04-09T09:00:00Z"
+  },
+  {
+    "id": "4000005",
+    "issue_number": "6",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "Added all four carriers to the page. Let me know if any of the names need adjusting.",
+    "created_at": "2023-05-10T10:30:00Z"
+  },
+  {
+    "id": "4000006",
+    "issue_number": "6",
+    "repo": "whitakerfreight-site",
+    "user": "floyd-whitaker-wfs",
+    "body": "That's them. Looks good, thank you.",
+    "created_at": "2023-05-10T11:00:00Z"
+  },
+  {
+    "id": "4000007",
+    "issue_number": "7",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "Fixed the menu spacing so it no longer covers the logo. Pushed it live, give it a try on your phone.",
+    "created_at": "2026-04-27T13:30:00Z"
+  },
+  {
+    "id": "4000008",
+    "issue_number": "7",
+    "repo": "whitakerfreight-site",
+    "user": "floyd-whitaker-wfs",
+    "body": "Works now, the logo stays put. Appreciate it.",
+    "created_at": "2026-04-27T14:00:00Z"
+  },
+  {
+    "id": "4000009",
+    "issue_number": "8",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "I can add the MC column but the build is failing on the table layout. Working through it.",
+    "created_at": "2026-04-19T10:00:00Z"
+  },
+  {
+    "id": "4000010",
+    "issue_number": "9",
+    "repo": "whitakerfreight-site",
+    "user": "floyd-whitaker-wfs",
+    "body": "FMCSA license is #28471 and I'm a Certified Transportation Broker. Thanks.",
+    "created_at": "2023-06-13T09:00:00Z"
+  },
+  {
+    "id": "4000011",
+    "issue_number": "9",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "Got it, both are on the About page now.",
+    "created_at": "2023-06-15T12:00:00Z"
+  },
+  {
+    "id": "4000012",
+    "issue_number": "10",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "Moved the quote button up top on mobile to match desktop. Live now.",
+    "created_at": "2026-04-28T09:00:00Z"
+  },
+  {
+    "id": "4000013",
+    "issue_number": "11",
+    "repo": "whitakerfreight-site",
+    "user": "floyd-whitaker-wfs",
+    "body": "Two steps only, please. Folks won't fill out a long form.",
+    "created_at": "2026-05-18T11:00:00Z"
+  },
+  {
+    "id": "4000014",
+    "issue_number": "15",
+    "repo": "whitakerfreight-site",
+    "user": "webdev-contractor",
+    "body": "The hero image was huge. Compressed it and the homepage loads quick now.",
+    "created_at": "2026-02-11T13:00:00Z"
+  },
+  {
+    "id": "4000015",
+    "issue_number": "15",
+    "repo": "whitakerfreight-site",
+    "user": "floyd-whitaker-wfs",
+    "body": "Much faster, thank you.",
+    "created_at": "2026-02-11T13:30:00Z"
+  },
+  {
+    "id": "4000016",
+    "issue_number": "1",
+    "repo": "whitakerfreight-blog",
+    "user": "webdev-contractor",
+    "body": "Blog is set up. You can post from the admin page, I'll walk you through it.",
+    "created_at": "2026-03-30T16:00:00Z"
+  },
+  {
+    "id": "4000017",
+    "issue_number": "2",
+    "repo": "whitakerfreight-blog",
+    "user": "webdev-contractor",
+    "body": "Bumped the article font up a couple sizes. Easier to read now.",
+    "created_at": "2026-04-01T09:00:00Z"
+  },
+  {
+    "id": "4000018",
+    "issue_number": "3",
+    "repo": "whitakerfreight-blog",
+    "user": "webdev-contractor",
+    "body": "I'll add the byline as Floyd Whitaker, CTB. PR is up for review.",
+    "created_at": "2026-05-21T10:00:00Z"
+  },
+  {
+    "id": "4000019",
+    "issue_number": "1",
+    "repo": "smoker-pit-bbq",
+    "user": "webdev-contractor",
+    "body": "Started the storefront page. It's a draft, send me the product list when you can.",
+    "created_at": "2026-05-06T10:00:00Z"
+  },
+  {
+    "id": "4000020",
+    "issue_number": "2",
+    "repo": "smoker-pit-bbq",
+    "user": "floyd-whitaker-wfs",
+    "body": "Rib plate photo goes up top. I'll text you the brisket pictures tonight.",
+    "created_at": "2026-05-06T11:00:00Z"
+  }
+]

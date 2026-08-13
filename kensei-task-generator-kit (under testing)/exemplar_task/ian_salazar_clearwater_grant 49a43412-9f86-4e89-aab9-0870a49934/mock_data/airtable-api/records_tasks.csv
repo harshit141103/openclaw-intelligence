@@ -1,0 +1,13 @@
+id,createdTime,Name,Project,EstimateHours,Collected
+recSamp0000000001,2026-12-02T08:00:00.000Z,"Site 1 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000002,2026-12-03T08:00:00.000Z,"Site 2 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000003,2026-12-04T08:00:00.000Z,"Site 3 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000004,2026-12-05T08:00:00.000Z,"Site 4 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000005,2026-12-06T08:00:00.000Z,"Site 5 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000006,2026-12-07T08:00:00.000Z,"Site 6 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000007,2026-12-01T08:00:00.000Z,"Site 7 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000008,2026-12-02T08:00:00.000Z,"Site 8 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000009,2026-12-03T08:00:00.000Z,"Site 9 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000010,2026-12-04T08:00:00.000Z,"Site 10 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000011,2026-12-05T08:00:00.000Z,"Site 11 - monthly sample, lab verification",Clearwater Monitoring,3,true
+recSamp0000000012,2026-12-06T08:00:00.000Z,"Site 12 - monthly sample, lab verification",Clearwater Monitoring,3,true

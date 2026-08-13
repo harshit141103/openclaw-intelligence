@@ -1,0 +1,213 @@
+﻿[
+  {
+    "id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "name": "meridian-benefits.com",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2024-01-10T10:00:00.000Z",
+    "modified_on": "2026-05-26T09:00:00.000Z"
+  },
+  {
+    "id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "name": "orbit-cdn.net",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Business",
+    "created_on": "2024-03-15T10:00:00.000Z",
+    "modified_on": "2026-05-25T15:00:00.000Z"
+  },
+  {
+    "id": "zone3iiii7777jjjj8888kkkk9999llll",
+    "name": "infra-platform.io",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Enterprise",
+    "created_on": "2024-02-20T08:30:00.000Z",
+    "modified_on": "2026-06-01T12:00:00.000Z"
+  },
+  {
+    "id": "zone4mmmm0000nnnn1111oooo2222pppp",
+    "name": "api-gateway.dev",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2024-04-05T14:15:00.000Z",
+    "modified_on": "2026-05-28T11:30:00.000Z"
+  },
+  {
+    "id": "zone5qqqq3333rrrr4444ssss5555tttt",
+    "name": "static-assets.app",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2024-05-12T09:45:00.000Z",
+    "modified_on": "2026-05-30T16:20:00.000Z"
+  },
+  {
+    "id": "zone6uuuu6666vvvv7777wwww8888xxxx",
+    "name": "monitoring.cloud",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Business",
+    "created_on": "2024-06-01T07:20:00.000Z",
+    "modified_on": "2026-05-29T13:45:00.000Z"
+  },
+  {
+    "id": "zone7yyyy9999zzzz0000aaaa1111bbbb",
+    "name": "data-pipeline.io",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2024-07-08T11:00:00.000Z",
+    "modified_on": "2026-06-03T10:15:00.000Z"
+  },
+  {
+    "id": "zone8cccc2222dddd3333eeee4444ffff",
+    "name": "webhook-service.net",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Business",
+    "created_on": "2024-08-14T15:30:00.000Z",
+    "modified_on": "2026-06-02T09:00:00.000Z"
+  },
+  {
+    "id": "zone9gggg5555hhhh6666iiii7777jjjj",
+    "name": "ILche-layer.app",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2024-09-22T08:45:00.000Z",
+    "modified_on": "2026-05-31T14:30:00.000Z"
+  },
+  {
+    "id": "zone10kkkk8888llll9999mmmm0000nnnn",
+    "name": "auth-service.io",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Business",
+    "created_on": "2024-10-03T12:15:00.000Z",
+    "modified_on": "2026-06-04T11:00:00.000Z"
+  },
+  {
+    "id": "zone11oooo1111pppp2222qqqq3333rrrr",
+    "name": "analytics-hub.dev",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2024-11-10T09:30:00.000Z",
+    "modified_on": "2026-06-01T15:45:00.000Z"
+  },
+  {
+    "id": "zone12ssss4444tttt5555uuuu6666vvvv",
+    "name": "storage-sync.cloud",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Enterprise",
+    "created_on": "2024-12-01T13:20:00.000Z",
+    "modified_on": "2026-06-05T08:30:00.000Z"
+  },
+  {
+    "id": "zone13wwww7777xxxx8888yyyy9999zzzz",
+    "name": "message-broker.app",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2025-01-05T10:00:00.000Z",
+    "modified_on": "2026-05-27T12:00:00.000Z"
+  },
+  {
+    "id": "zone14aaaa0000bbbb1111cccc2222dddd",
+    "name": "search-engine.net",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Business",
+    "created_on": "2025-01-15T14:30:00.000Z",
+    "modified_on": "2026-06-02T16:15:00.000Z"
+  },
+  {
+    "id": "zone15eeee3333ffff4444gggg5555hhhh",
+    "name": "report-service.io",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2025-02-01T11:45:00.000Z",
+    "modified_on": "2026-06-03T13:30:00.000Z"
+  },
+  {
+    "id": "zone16iiii6666jjjj7777kkkk8888llll",
+    "name": "quality-assurance.dev",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": true,
+    "plan": "Pro",
+    "created_on": "2025-02-14T09:15:00.000Z",
+    "modified_on": "2026-06-04T10:45:00.000Z"
+  },
+  {
+    "id": "zone17mmmm9999nnnn0000oooo1111pppp",
+    "name": "media-processing.cloud",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Business",
+    "created_on": "2025-03-03T15:20:00.000Z",
+    "modified_on": "2026-05-26T14:00:00.000Z"
+  },
+  {
+    "id": "zone18qqqq2222rrrr3333ssss4444tttt",
+    "name": "docs-portal.app",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Pro",
+    "created_on": "2025-03-18T12:00:00.000Z",
+    "modified_on": "2026-06-05T09:30:00.000Z"
+  },
+  {
+    "id": "zone19uuuu5555vvvv6666wwww7777xxxx",
+    "name": "compliance-system.io",
+    "status": "active",
+    "paused": false,
+    "type": "full",
+    "development_mode": false,
+    "plan": "Enterprise",
+    "created_on": "2025-04-07T08:30:00.000Z",
+    "modified_on": "2026-06-01T11:15:00.000Z"
+  }
+]
+
+

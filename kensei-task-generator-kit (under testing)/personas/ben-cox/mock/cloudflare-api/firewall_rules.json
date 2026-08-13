@@ -1,0 +1,202 @@
+[
+  {
+    "id": "fw0001aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Set up the dado stack for the bookshelf rabbets",
+    "action": "block",
+    "expression": "Bookshelf install Friday the 16th",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2025-10-18T16:15:00Z"
+  },
+  {
+    "id": "fw0002bbbb",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Final fit of the Henderson island base cabinets",
+    "action": "challenge",
+    "expression": "Hold the Stowe drive until the morning forecast clears.",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2026-04-20T08:45:00Z"
+  },
+  {
+    "id": "fw0003cccc",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Hang the soft-close doors and adjust the hinges",
+    "action": "allow",
+    "expression": "Dry-fit the face frames before glue-up",
+    "paused": "true",
+    "priority": "3",
+    "created_on": "2025-06-23T10:00:00Z"
+  },
+  {
+    "id": "fw0004dddd",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "action": "js_challenge",
+    "expression": "Dry-fit the face frames before glue-up",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2025-10-03T10:45:00Z"
+  },
+  {
+    "id": "fw0001aaaa-b1",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Bookshelf install Friday the 16th",
+    "action": "block",
+    "expression": "Barn oak is summer 2027 - not pulling material yet.",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2025-09-07T07:45:00Z"
+  },
+  {
+    "id": "fw0002bbbb-b2",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Estimate for the Greensboro barn (2027)",
+    "action": "challenge",
+    "expression": "Splitting and stacking the winter firewood",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2025-09-10T10:00:00Z"
+  },
+  {
+    "id": "fw0003cccc-b3",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Plane the bookshelf shelves and ease the front edges",
+    "action": "allow",
+    "expression": "Mock up the crown profile for the Henderson uppers",
+    "paused": "true",
+    "priority": "3",
+    "created_on": "2026-05-18T17:15:00Z"
+  },
+  {
+    "id": "fw0004dddd-b4",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Stage the bookshelf sections for the Craftsbury install",
+    "action": "js_challenge",
+    "expression": "Check the moisture content on the barn oak before joinery",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2026-02-27T18:00:00Z"
+  },
+  {
+    "id": "fw0001aaaa-b5",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "action": "block",
+    "expression": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2023-09-06T06:30:00Z"
+  },
+  {
+    "id": "fw0002bbbb-b6",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Dry-fit the face frames before glue-up",
+    "action": "challenge",
+    "expression": "Splitting and stacking the winter firewood",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2026-07-18T17:15:00Z"
+  },
+  {
+    "id": "fw0003cccc-b7",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Pete coming by Saturday for coffee; shop's a mess.",
+    "action": "allow",
+    "expression": "Build the drawer boxes with half-blind dovetails",
+    "paused": "true",
+    "priority": "3",
+    "created_on": "2025-09-21T11:45:00Z"
+  },
+  {
+    "id": "fw0004dddd-b8",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Check the moisture content on the barn oak before joinery",
+    "action": "js_challenge",
+    "expression": "Re: Bookshelf dimensions",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2026-08-14T16:30:00Z"
+  },
+  {
+    "id": "fw0001aaaa-b9",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Template the Stowe countertop radius for the corner cabinet",
+    "action": "block",
+    "expression": "Re-cut the rail - measurement was off by a sixteenth. Caught it before the cut.",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-09-21T08:30:00Z"
+  },
+  {
+    "id": "fw0002bbbb-b10",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Hold the Stowe drive until the morning forecast clears.",
+    "action": "challenge",
+    "expression": "Set up the dado stack for the bookshelf rabbets",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2024-07-28T11:30:00Z"
+  },
+  {
+    "id": "fw0003cccc-b11",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Re-saw the walnut for bookmatched panels",
+    "action": "allow",
+    "expression": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "paused": "true",
+    "priority": "3",
+    "created_on": "2025-09-17T07:30:00Z"
+  },
+  {
+    "id": "fw0004dddd-b12",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Cherry pricing for the Henderson uppers",
+    "action": "js_challenge",
+    "expression": "Build the drawer boxes with half-blind dovetails",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-03-21T08:30:00Z"
+  },
+  {
+    "id": "fw0001aaaa-b13",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Sharpened the chisels; the 1in was overdue.",
+    "action": "block",
+    "expression": "Replace the dust collector filter and clean the cyclone",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-10-10T07:30:00Z"
+  },
+  {
+    "id": "fw0002bbbb-b14",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Mock up the crown profile for the Henderson uppers",
+    "action": "challenge",
+    "expression": "Template the Stowe countertop radius for the corner cabinet",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2025-12-08T13:15:00Z"
+  },
+  {
+    "id": "fw0003cccc-b15",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Re: Stowe install date",
+    "action": "allow",
+    "expression": "Need to confirm material lead time on the Blum hardware before ordering.",
+    "paused": "true",
+    "priority": "3",
+    "created_on": "2025-09-04T06:15:00Z"
+  },
+  {
+    "id": "fw0004dddd-b16",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Order Blum slides for the Stowe drawer banks",
+    "action": "js_challenge",
+    "expression": "Plane the bookshelf shelves and ease the front edges",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2024-11-24T08:15:00Z"
+  }
+]

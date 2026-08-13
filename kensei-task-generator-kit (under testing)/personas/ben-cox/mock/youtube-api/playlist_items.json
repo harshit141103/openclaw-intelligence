@@ -1,0 +1,380 @@
+[
+  {
+    "playlist_item_id": "PLI_001",
+    "playlistId": "PL_001",
+    "videoId": "vid_001",
+    "channelId": "UC_EquineHealthChannel100",
+    "title": "Installing Blum Tandem drawer slides",
+    "position": "0",
+    "publishedAt": "2026-07-20T16:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_002",
+    "playlistId": "PL_001",
+    "videoId": "vid_002",
+    "channelId": "UC_EquineHealthChannel100",
+    "title": "Sharpening chisels on waterstones",
+    "position": "1",
+    "publishedAt": "2026-02-07T12:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_003",
+    "playlistId": "PL_001",
+    "videoId": "vid_003",
+    "channelId": "UC_EquineHealthChannel100",
+    "title": "Hand-cut dovetails - paring to the line",
+    "position": "2",
+    "publishedAt": "2025-03-31T15:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_004",
+    "playlistId": "PL_001",
+    "videoId": "vid_004",
+    "channelId": "UC_EquineHealthChannel100",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "3",
+    "publishedAt": "2025-09-08T12:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_005",
+    "playlistId": "PL_001",
+    "videoId": "vid_006",
+    "channelId": "UC_EquineHealthChannel101",
+    "title": "Red Sox highlights",
+    "position": "4",
+    "publishedAt": "2026-01-21T11:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_006",
+    "playlistId": "PL_001",
+    "videoId": "vid_022",
+    "channelId": "UC_EquineHealthChannel101",
+    "title": "Fly fishing small Vermont streams for brook trout",
+    "position": "5",
+    "publishedAt": "2024-08-11T08:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_007",
+    "playlistId": "PL_001",
+    "videoId": "vid_027",
+    "channelId": "UC_EquineHealthChannel101",
+    "title": "Sharpening chisels on waterstones",
+    "position": "6",
+    "publishedAt": "2025-04-28T15:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_008",
+    "playlistId": "PL_001",
+    "videoId": "vid_030",
+    "channelId": "UC_EquineHealthChannel101",
+    "title": "Setting up a table saw for dead-square cuts",
+    "position": "7",
+    "publishedAt": "2025-10-05T18:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_009",
+    "playlistId": "PL_002",
+    "videoId": "vid_005",
+    "channelId": "UC_EquineHealthChannel102",
+    "title": "Sharpening chisels on waterstones",
+    "position": "0",
+    "publishedAt": "2024-09-07T06:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_010",
+    "playlistId": "PL_002",
+    "videoId": "vid_008",
+    "channelId": "UC_EquineHealthChannel102",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "1",
+    "publishedAt": "2026-03-12T08:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_011",
+    "playlistId": "PL_002",
+    "videoId": "vid_012",
+    "channelId": "UC_EquineHealthChannel102",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "2",
+    "publishedAt": "2026-06-27T14:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_012",
+    "playlistId": "PL_002",
+    "videoId": "vid_014",
+    "channelId": "UC_EquineHealthChannel103",
+    "title": "Fly fishing small Vermont streams for brook trout",
+    "position": "3",
+    "publishedAt": "2026-06-05T13:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_013",
+    "playlistId": "PL_002",
+    "videoId": "vid_015",
+    "channelId": "UC_EquineHealthChannel103",
+    "title": "Fly fishing small Vermont streams for brook trout",
+    "position": "4",
+    "publishedAt": "2025-12-01T10:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_014",
+    "playlistId": "PL_002",
+    "videoId": "vid_028",
+    "channelId": "UC_EquineHealthChannel103",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "5",
+    "publishedAt": "2025-07-22T13:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_015",
+    "playlistId": "PL_003",
+    "videoId": "vid_016",
+    "channelId": "UC_EquineHealthChannel104",
+    "title": "Restoring a vintage Stanley No. 5 jointer plane",
+    "position": "0",
+    "publishedAt": "2025-10-18T13:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_016",
+    "playlistId": "PL_003",
+    "videoId": "vid_020",
+    "channelId": "UC_EquineHealthChannel104",
+    "title": "Milling rough lumber flat and square",
+    "position": "1",
+    "publishedAt": "2025-11-10T18:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_017",
+    "playlistId": "PL_003",
+    "videoId": "vid_025",
+    "channelId": "UC_EquineHealthChannel104",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "2",
+    "publishedAt": "2025-09-12T17:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_018",
+    "playlistId": "PL_003",
+    "videoId": "vid_013",
+    "channelId": "UC_EquineHealthChannel104",
+    "title": "Setting up a table saw for dead-square cuts",
+    "position": "3",
+    "publishedAt": "2026-06-03T18:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_019",
+    "playlistId": "PL_004",
+    "videoId": "vid_009",
+    "channelId": "UC_EquineHealthChannel104",
+    "title": "Fly fishing small Vermont streams for brook trout",
+    "position": "0",
+    "publishedAt": "2026-05-30T06:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_020",
+    "playlistId": "PL_004",
+    "videoId": "vid_024",
+    "channelId": "UC_EquineHealthChannel105",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "1",
+    "publishedAt": "2026-05-20T17:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_021",
+    "playlistId": "PL_004",
+    "videoId": "vid_018",
+    "channelId": "UC_EquineHealthChannel105",
+    "title": "Timber framing a mortise and tenon by hand",
+    "position": "2",
+    "publishedAt": "2024-04-22T15:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_022",
+    "playlistId": "PL_005",
+    "videoId": "vid_010",
+    "channelId": "UC_EquineHealthChannel105",
+    "title": "Red Sox highlights",
+    "position": "0",
+    "publishedAt": "2026-03-28T15:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_023",
+    "playlistId": "PL_005",
+    "videoId": "vid_021",
+    "channelId": "UC_EquineHealthChannel105",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "1",
+    "publishedAt": "2026-07-21T18:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_024",
+    "playlistId": "PL_005",
+    "videoId": "vid_029",
+    "channelId": "UC_EquineHealthChannel105",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "2",
+    "publishedAt": "2024-02-09T10:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_025",
+    "playlistId": "PL_006",
+    "videoId": "vid_006",
+    "channelId": "UC_EquineHealthChannel106",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "0",
+    "publishedAt": "2024-07-07T15:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_026",
+    "playlistId": "PL_006",
+    "videoId": "vid_026",
+    "channelId": "UC_EquineHealthChannel106",
+    "title": "Fly fishing small Vermont streams for brook trout",
+    "position": "1",
+    "publishedAt": "2024-06-16T12:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_027",
+    "playlistId": "PL_006",
+    "videoId": "vid_021",
+    "channelId": "UC_EquineHealthChannel106",
+    "title": "Installing Blum Tandem drawer slides",
+    "position": "2",
+    "publishedAt": "2024-01-01T15:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_028",
+    "playlistId": "PL_007",
+    "videoId": "vid_018",
+    "channelId": "UC_EquineHealthChannel106",
+    "title": "Restoring a vintage Stanley No. 5 jointer plane",
+    "position": "0",
+    "publishedAt": "2025-12-21T15:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_029",
+    "playlistId": "PL_007",
+    "videoId": "vid_019",
+    "channelId": "UC_EquineHealthChannel107",
+    "title": "Installing Blum Tandem drawer slides",
+    "position": "1",
+    "publishedAt": "2025-09-17T13:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_030",
+    "playlistId": "PL_007",
+    "videoId": "vid_028",
+    "channelId": "UC_EquineHealthChannel107",
+    "title": "Fly fishing small Vermont streams for brook trout",
+    "position": "2",
+    "publishedAt": "2024-09-02T13:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_031",
+    "playlistId": "PL_007",
+    "videoId": "vid_012",
+    "channelId": "UC_EquineHealthChannel107",
+    "title": "Arm-R-Seal vs hardwax oil on cherry",
+    "position": "3",
+    "publishedAt": "2026-09-25T09:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_032",
+    "playlistId": "PL_008",
+    "videoId": "vid_007",
+    "channelId": "UC_EquineHealthChannel107",
+    "title": "Sharpening chisels on waterstones",
+    "position": "0",
+    "publishedAt": "2026-04-15T09:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_033",
+    "playlistId": "PL_008",
+    "videoId": "vid_011",
+    "channelId": "UC_EquineHealthChannel108",
+    "title": "Restoring a vintage Stanley No. 5 jointer plane",
+    "position": "1",
+    "publishedAt": "2025-04-30T17:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_034",
+    "playlistId": "PL_008",
+    "videoId": "vid_017",
+    "channelId": "UC_EquineHealthChannel108",
+    "title": "Sharpening chisels on waterstones",
+    "position": "2",
+    "publishedAt": "2025-06-17T10:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_035",
+    "playlistId": "PL_008",
+    "videoId": "vid_022",
+    "channelId": "UC_EquineHealthChannel108",
+    "title": "Red Sox highlights",
+    "position": "3",
+    "publishedAt": "2025-08-15T15:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_036",
+    "playlistId": "PL_009",
+    "videoId": "vid_003",
+    "channelId": "UC_EquineHealthChannel108",
+    "title": "Red Sox highlights",
+    "position": "0",
+    "publishedAt": "2026-02-23T06:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_037",
+    "playlistId": "PL_009",
+    "videoId": "vid_029",
+    "channelId": "UC_EquineHealthChannel109",
+    "title": "Restoring a vintage Stanley No. 5 jointer plane",
+    "position": "1",
+    "publishedAt": "2025-09-13T09:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_038",
+    "playlistId": "PL_009",
+    "videoId": "vid_004",
+    "channelId": "UC_EquineHealthChannel109",
+    "title": "Fly fishing small Vermont streams for brook trout",
+    "position": "2",
+    "publishedAt": "2024-11-08T12:15:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_039",
+    "playlistId": "PL_009",
+    "videoId": "vid_010",
+    "channelId": "UC_EquineHealthChannel109",
+    "title": "Setting up a table saw for dead-square cuts",
+    "position": "3",
+    "publishedAt": "2025-11-04T15:45:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_040",
+    "playlistId": "PL_010",
+    "videoId": "vid_023",
+    "channelId": "UC_EquineHealthChannel109",
+    "title": "Red Sox highlights",
+    "position": "0",
+    "publishedAt": "2025-11-17T06:30:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_041",
+    "playlistId": "PL_010",
+    "videoId": "vid_006",
+    "channelId": "UC_EquineHealthChannel110",
+    "title": "Red Sox highlights",
+    "position": "1",
+    "publishedAt": "2024-12-30T15:00:00Z"
+  },
+  {
+    "playlist_item_id": "PLI_042",
+    "playlistId": "PL_010",
+    "videoId": "vid_026",
+    "channelId": "UC_EquineHealthChannel110",
+    "title": "Sharpening chisels on waterstones",
+    "position": "2",
+    "publishedAt": "2025-02-21T07:30:00Z"
+  }
+]

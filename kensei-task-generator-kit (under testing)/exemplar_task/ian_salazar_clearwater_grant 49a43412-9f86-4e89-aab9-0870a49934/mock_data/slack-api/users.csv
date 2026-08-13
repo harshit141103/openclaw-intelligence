@@ -1,0 +1,4 @@
+id,name,real_name,email,is_admin,is_bot,tz,status_text,presence
+U0IAN,ian,Ian Salazar,ian.salazar@voissync.ai,true,false,America/Denver,in the field,away
+U0BREN,lbrennan,Dr. Lisa Brennan,lisa.brennan@example.org,false,false,America/Denver,grant crunch,active
+U0OLIV,solivera,Dr. Samuel Olivera,samuel.olivera@example.org,false,false,America/Denver,,active

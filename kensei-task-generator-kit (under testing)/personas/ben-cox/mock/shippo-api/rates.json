@@ -1,0 +1,202 @@
+[
+  {
+    "object_id": "rate-usps-prio-01",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "18.99",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-first-01",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_first",
+    "servicelevel_name": "Project schedule update",
+    "amount": "24.00",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-ups-ground-01",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "28.99",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-2day-01",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_2day",
+    "servicelevel_name": "FedEx 2Day",
+    "amount": "34.50",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-prio-02",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "41.00",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-ups-ground-02",
+    "shipment": "ship-1002",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "47.95",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-fedex-exp-02",
+    "shipment": "ship-1002",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_express_saver",
+    "servicelevel_name": "Mill cherry stock to thickness for the upper cabinet doors",
+    "amount": "62.00",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-usps-prio-902",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "88.00",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-first-903",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_first",
+    "servicelevel_name": "Sharpened the chisels; the 1in was overdue.",
+    "amount": "110.00",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-ups-ground-904",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "6.80",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-2day-905",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_2day",
+    "servicelevel_name": "FedEx 2Day",
+    "amount": "9.25",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-prio-907",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "12.50",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-ups-ground-908",
+    "shipment": "ship-1002",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "18.99",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-fedex-exp-909",
+    "shipment": "ship-1002",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_express_saver",
+    "servicelevel_name": "Build the drawer boxes with half-blind dovetails",
+    "amount": "24.00",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-usps-prio-909",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "28.99",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-first-910",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_first",
+    "servicelevel_name": "Set up the dado stack for the bookshelf rabbets",
+    "amount": "34.50",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-ups-ground-911",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "41.00",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-2day-912",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_2day",
+    "servicelevel_name": "FedEx 2Day",
+    "amount": "47.95",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-prio-914",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "62.00",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-ups-ground-915",
+    "shipment": "ship-1002",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "88.00",
+    "currency": "USD",
+    "estimated_days": "4"
+  }
+]

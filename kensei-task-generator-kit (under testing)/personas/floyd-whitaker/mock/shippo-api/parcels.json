@@ -1,0 +1,222 @@
+[
+  {
+    "object_id": "parcel-01",
+    "length": "48",
+    "width": "40",
+    "height": "36",
+    "distance_unit": "in",
+    "weight": "720.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-02",
+    "length": "48",
+    "width": "48",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "420.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-03",
+    "length": "48",
+    "width": "48",
+    "height": "36",
+    "distance_unit": "in",
+    "weight": "260.0",
+    "mass_unit": "lb",
+    "template": "USPS_FlatRatePaddedEnvelope"
+  },
+  {
+    "object_id": "parcel-04",
+    "length": "40",
+    "width": "40",
+    "height": "36",
+    "distance_unit": "in",
+    "weight": "420.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-05",
+    "length": "48",
+    "width": "48",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "260.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-06",
+    "length": "40",
+    "width": "48",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "1200.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-07",
+    "length": "40",
+    "width": "48",
+    "height": "42",
+    "distance_unit": "in",
+    "weight": "260.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-08",
+    "length": "48",
+    "width": "40",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "500.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-09",
+    "length": "48",
+    "width": "40",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "650.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-10",
+    "length": "48",
+    "width": "40",
+    "height": "36",
+    "distance_unit": "in",
+    "weight": "500.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-11",
+    "length": "40",
+    "width": "40",
+    "height": "30",
+    "distance_unit": "in",
+    "weight": "260.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-12",
+    "length": "48",
+    "width": "40",
+    "height": "24",
+    "distance_unit": "in",
+    "weight": "890.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-13",
+    "length": "60",
+    "width": "40",
+    "height": "42",
+    "distance_unit": "in",
+    "weight": "420.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-14",
+    "length": "60",
+    "width": "40",
+    "height": "24",
+    "distance_unit": "in",
+    "weight": "260.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-15",
+    "length": "48",
+    "width": "48",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "420.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-16",
+    "length": "40",
+    "width": "48",
+    "height": "30",
+    "distance_unit": "in",
+    "weight": "420.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-17",
+    "length": "48",
+    "width": "40",
+    "height": "42",
+    "distance_unit": "in",
+    "weight": "720.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-18",
+    "length": "40",
+    "width": "40",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "180.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-19",
+    "length": "48",
+    "width": "48",
+    "height": "24",
+    "distance_unit": "in",
+    "weight": "720.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-20",
+    "length": "48",
+    "width": "40",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "480.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-21",
+    "length": "60",
+    "width": "48",
+    "height": "48",
+    "distance_unit": "in",
+    "weight": "890.0",
+    "mass_unit": "lb",
+    "template": ""
+  },
+  {
+    "object_id": "parcel-22",
+    "length": "40",
+    "width": "40",
+    "height": "24",
+    "distance_unit": "in",
+    "weight": "1200.0",
+    "mass_unit": "lb",
+    "template": ""
+  }
+]

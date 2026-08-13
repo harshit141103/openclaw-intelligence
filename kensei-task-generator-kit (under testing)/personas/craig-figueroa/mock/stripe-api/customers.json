@@ -1,0 +1,123 @@
+[
+  {
+    "id": "cus_Nb1Achnasheen",
+    "name": "Achnasheen Farm",
+    "email": "accounts@achnasheenfarm.co.uk",
+    "description": "Annual practice platform subscription",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714579200",
+    "phone": "+447700900101"
+  },
+  {
+    "id": "cus_Nb2Figueroa",
+    "name": "Figueroa Veterinary Services Inc",
+    "email": "ap@figueroavet.io",
+    "description": "Enterprise plan",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "-2500",
+    "created": "1709251200",
+    "phone": "+447700900102"
+  },
+  {
+    "id": "cus_Nb3Highland",
+    "name": "Highland Farm Supplies Studio",
+    "email": "accounts@lumendesign.co",
+    "description": "Pro plan",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1717200000",
+    "phone": "+447700900103"
+  },
+  {
+    "id": "cus_Nb4Centaur",
+    "name": "Centaur Services Co",
+    "email": "finance@pelagicfreight.com",
+    "description": "Net-30 invoicing",
+    "currency": "gbp",
+    "delinquent": "true",
+    "balance": "15000",
+    "created": "1701388800",
+    "phone": "+447700900104"
+  },
+  {
+    "id": "cus_Nb5Verdant",
+    "name": "Verdant Farms",
+    "email": "hello@verdantfarms.org",
+    "description": "Seasonal billing",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1719792000",
+    "phone": "+447700900105"
+  },
+  {
+    "id": "cus_Nb6Quanta",
+    "name": "Quanta Analytics",
+    "email": "billing@quanta.ai",
+    "description": "Annual plan",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1706745600",
+    "phone": "+447700900106"
+  },
+  {
+    "id": "cus_Nb1Achnasheen-7000",
+    "name": "Fiona Drummond",
+    "email": "fiona.drummond@gmail.com",
+    "description": "Annual practice platform subscription",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714579200",
+    "phone": "+447700900701"
+  },
+  {
+    "id": "cus_Nb1Achnasheen-7001",
+    "name": "Alejandro Figueroa",
+    "email": "alejandro.figueroa@gmail.com",
+    "description": "Annual practice platform subscription",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714579200",
+    "phone": "+447700900702"
+  },
+  {
+    "id": "cus_Nb1Achnasheen-7002",
+    "name": "Elena Figueroa",
+    "email": "elena.figueroa@gmail.com",
+    "description": "Annual practice platform subscription",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714579200",
+    "phone": "+447700900703"
+  },
+  {
+    "id": "cus_Nb1Achnasheen-7003",
+    "name": "Isabel Figueroa-Ross",
+    "email": "isabel.ross@gmail.com",
+    "description": "Annual practice platform subscription",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714579200",
+    "phone": "+447700900704"
+  },
+  {
+    "id": "cus_Nb1Achnasheen-7004",
+    "name": "Callum Ross",
+    "email": "callum.ross@gmail.com",
+    "description": "Annual practice platform subscription",
+    "currency": "gbp",
+    "delinquent": "false",
+    "balance": "0",
+    "created": "1714579200",
+    "phone": "+447700900711"
+  }
+]

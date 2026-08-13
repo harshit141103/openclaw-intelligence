@@ -1,0 +1,135 @@
+﻿[
+  {
+    "id": "rec-cm-0001",
+    "meeting_id": "86456789012",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "682574080",
+    "recording_start": "2026-06-08T14:01:00Z",
+    "recording_end": "2026-06-08T15:29:00Z",
+    "play_url": "https://zoom.us/rec/play/monthly-benefits-jun8",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0002",
+    "meeting_id": "86456789012",
+    "recording_type": "audio_only",
+    "file_type": "M4A",
+    "file_size": "52428800",
+    "recording_start": "2026-06-08T14:01:00Z",
+    "recording_end": "2026-06-08T15:29:00Z",
+    "play_url": "https://zoom.us/rec/play/monthly-benefits-audio",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0003",
+    "meeting_id": "86456789014",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "314572800",
+    "recording_start": "2026-06-09T16:31:00Z",
+    "recording_end": "2026-06-09T16:59:00Z",
+    "play_url": "https://zoom.us/rec/play/one-on-one-sandra",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0004",
+    "meeting_id": "86456789015",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "524288000",
+    "recording_start": "2026-06-05T13:01:00Z",
+    "recording_end": "2026-06-05T13:44:00Z",
+    "play_url": "https://zoom.us/rec/play/acme-benefits-review",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0005",
+    "meeting_id": "86456789016",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "628961280",
+    "recording_start": "2026-06-03T10:02:00Z",
+    "recording_end": "2026-06-03T10:59:00Z",
+    "play_url": "https://zoom.us/rec/play/health-insurance-ILll",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0006",
+    "meeting_id": "86456789017",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "419430400",
+    "recording_start": "2026-06-02T15:01:00Z",
+    "recording_end": "2026-06-02T15:44:00Z",
+    "play_url": "https://zoom.us/rec/play/town-hall-june",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0007",
+    "meeting_id": "86456789018",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "471859200",
+    "recording_start": "2026-06-04T14:31:00Z",
+    "recording_end": "2026-06-04T15:14:00Z",
+    "play_url": "https://zoom.us/rec/play/team-sync-jun4",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0008",
+    "meeting_id": "86456789019",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "734003200",
+    "recording_start": "2026-06-01T11:01:00Z",
+    "recording_end": "2026-06-01T12:15:00Z",
+    "play_url": "https://zoom.us/rec/play/retirement-committee",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0009",
+    "meeting_id": "86456789023",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "628961280",
+    "recording_start": "2026-05-27T10:01:00Z",
+    "recording_end": "2026-05-27T10:59:00Z",
+    "play_url": "https://zoom.us/rec/play/tech-platform-walk",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0010",
+    "meeting_id": "86456789025",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "890005760",
+    "recording_start": "2026-05-29T14:01:00Z",
+    "recording_end": "2026-05-29T15:14:00Z",
+    "play_url": "https://zoom.us/rec/play/speaker-healthILre-trends",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0011",
+    "meeting_id": "86456789028",
+    "recording_type": "gallery_view",
+    "file_type": "MP4",
+    "file_size": "1048576000",
+    "recording_start": "2026-06-06T13:01:00Z",
+    "recording_end": "2026-06-06T14:59:00Z",
+    "play_url": "https://zoom.us/rec/play/leadership-quarterly",
+    "status": "completed"
+  },
+  {
+    "id": "rec-cm-0012",
+    "meeting_id": "86456789029",
+    "recording_type": "shared_screen_with_speaker_view",
+    "file_type": "MP4",
+    "file_size": "419430400",
+    "recording_start": "2026-05-26T11:31:00Z",
+    "recording_end": "2026-05-26T12:14:00Z",
+    "play_url": "https://zoom.us/rec/play/broker-partnership",
+    "status": "completed"
+  }
+]
+

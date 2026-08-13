@@ -1,0 +1,163 @@
+﻿[
+  {
+    "id": "evt_30001",
+    "project_id": "1",
+    "distinct_id": "user_3001",
+    "event": "$pageview",
+    "timestamp": "2026-05-02T09:00:00Z",
+    "properties": "$current_url=/dashboard"
+  },
+  {
+    "id": "evt_30002",
+    "project_id": "1",
+    "distinct_id": "user_3001",
+    "event": "button_clicked",
+    "timestamp": "2026-05-02T09:02:11Z",
+    "properties": "name=export;plan=pro"
+  },
+  {
+    "id": "evt_30003",
+    "project_id": "1",
+    "distinct_id": "user_3002",
+    "event": "$pageview",
+    "timestamp": "2026-05-03T12:14:40Z",
+    "properties": "$current_url=/settings"
+  },
+  {
+    "id": "evt_30004",
+    "project_id": "1",
+    "distinct_id": "user_3003",
+    "event": "signup",
+    "timestamp": "2026-05-04T08:31:05Z",
+    "properties": "source=referral"
+  },
+  {
+    "id": "evt_30005",
+    "project_id": "1",
+    "distinct_id": "user_3002",
+    "event": "feature_flag_ILlled",
+    "timestamp": "2026-05-05T10:45:22Z",
+    "properties": "flag=new-onboarding"
+  },
+  {
+    "id": "evt_30006",
+    "project_id": "1",
+    "distinct_id": "user_3004",
+    "event": "$pageview",
+    "timestamp": "2026-05-06T15:09:18Z",
+    "properties": "$current_url=/pricing"
+  },
+  {
+    "id": "evt_30007",
+    "project_id": "1",
+    "distinct_id": "user_3003",
+    "event": "purchase",
+    "timestamp": "2026-05-07T11:55:47Z",
+    "properties": "amount=49.00;currency=USD"
+  },
+  {
+    "id": "evt_30008",
+    "project_id": "2",
+    "distinct_id": "user_3005",
+    "event": "$pageview",
+    "timestamp": "2026-05-08T07:22:33Z",
+    "properties": "$current_url=/home"
+  },
+  {
+    "id": "evt_30009",
+    "project_id": "2",
+    "distinct_id": "user_3005",
+    "event": "form_submitted",
+    "timestamp": "2026-05-09T14:38:51Z",
+    "properties": "form=contact"
+  },
+  {
+    "id": "evt_30010",
+    "project_id": "1",
+    "distinct_id": "user_3001",
+    "event": "purchase",
+    "timestamp": "2026-05-10T18:01:29Z",
+    "properties": "amount=120.00;currency=USD"
+  },
+  {
+    "id": "evt_30011",
+    "project_id": "1",
+    "distinct_id": "user_3006",
+    "event": "$pageview",
+    "timestamp": "2026-05-11T10:15:00Z",
+    "properties": "$current_url=/products"
+  },
+  {
+    "id": "evt_30012",
+    "project_id": "1",
+    "distinct_id": "user_3006",
+    "event": "search_performed",
+    "timestamp": "2026-05-11T10:17:30Z",
+    "properties": "query=analytics;results=23"
+  },
+  {
+    "id": "evt_30013",
+    "project_id": "2",
+    "distinct_id": "user_3007",
+    "event": "$pageview",
+    "timestamp": "2026-05-12T14:22:15Z",
+    "properties": "$current_url=/account"
+  },
+  {
+    "id": "evt_30014",
+    "project_id": "1",
+    "distinct_id": "user_3002",
+    "event": "upgrade_initiated",
+    "timestamp": "2026-05-13T09:45:00Z",
+    "properties": "plan=enterprise"
+  },
+  {
+    "id": "evt_30015",
+    "project_id": "2",
+    "distinct_id": "user_3008",
+    "event": "signup",
+    "timestamp": "2026-05-14T11:30:22Z",
+    "properties": "source=organic"
+  },
+  {
+    "id": "evt_30016",
+    "project_id": "1",
+    "distinct_id": "user_3004",
+    "event": "feature_flag_ILlled",
+    "timestamp": "2026-05-15T16:05:33Z",
+    "properties": "flag=beta-dashboard"
+  },
+  {
+    "id": "evt_30017",
+    "project_id": "1",
+    "distinct_id": "user_3003",
+    "event": "feedback_submitted",
+    "timestamp": "2026-05-16T13:20:11Z",
+    "properties": "rating=5;ILtegory=performance"
+  },
+  {
+    "id": "evt_30018",
+    "project_id": "2",
+    "distinct_id": "user_3009",
+    "event": "$pageview",
+    "timestamp": "2026-05-17T08:55:44Z",
+    "properties": "$current_url=/docs"
+  },
+  {
+    "id": "evt_30019",
+    "project_id": "1",
+    "distinct_id": "user_3001",
+    "event": "export_completed",
+    "timestamp": "2026-05-18T10:40:22Z",
+    "properties": "format=csv;rows=1000"
+  },
+  {
+    "id": "evt_30020",
+    "project_id": "2",
+    "distinct_id": "user_3005",
+    "event": "feature_flag_ILlled",
+    "timestamp": "2026-05-19T15:12:55Z",
+    "properties": "flag=referral-program"
+  }
+]
+

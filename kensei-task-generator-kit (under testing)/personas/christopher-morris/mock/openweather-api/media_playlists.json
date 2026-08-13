@@ -1,0 +1,143 @@
+﻿[
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "playlist_id": "playlist_001",
+    "playlist_name": "Evening Relaxation - Sheryl Crow Classics",
+    "playlist_type": "custom",
+    "genre": "soft rock/pop",
+    "era": "1990s-2000s",
+    "created_date": "2026-05-15",
+    "last_played": "2026-05-27",
+    "total_songs": 18,
+    "total_duration_minutes": 72,
+    "songs": [
+      {"title": "All I Wanna Do", "artist": "Sheryl Crow", "year": 1994},
+      {"title": "Strong Enough", "artist": "Sheryl Crow", "year": 2002},
+      {"title": "The First Cut Is the Deepest", "artist": "Sheryl Crow", "year": 2003},
+      {"title": "Leaving Las Vegas", "artist": "Sheryl Crow", "year": 1994},
+      {"title": "Home", "artist": "Sheryl Crow", "year": 2005},
+      {"title": "Don't Cry", "artist": "Sheryl Crow", "year": 1998},
+      {"title": "If It Makes You Happy", "artist": "Sheryl Crow", "year": 1998},
+      {"title": "Picture", "artist": "Kid Rock featuring Sheryl Crow", "year": 2001},
+      {"title": "There Goes the Neighborhood", "artist": "Sheryl Crow", "year": 1994}
+    ],
+    "mood": "relaxed",
+    "best_for": "evening listening, stress relief"
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "playlist_id": "playlist_002",
+    "playlist_name": "Walking Soundtrack - Norah Jones",
+    "playlist_type": "custom",
+    "genre": "soft rock/pop/jazz",
+    "era": "2000s-2010s",
+    "created_date": "2026-05-18",
+    "last_played": "2026-05-29",
+    "total_songs": 22,
+    "total_duration_minutes": 85,
+    "songs": [
+      {"title": "Don't Know Why", "artist": "Norah Jones", "year": 2002},
+      {"title": "Come Away with Me", "artist": "Norah Jones", "year": 2002},
+      {"title": "Sunrise", "artist": "Norah Jones", "year": 2002},
+      {"title": "Those Sweet Words", "artist": "Norah Jones", "year": 2004},
+      {"title": "Thinking About You", "artist": "Norah Jones", "year": 2007},
+      {"title": "Be Here", "artist": "Norah Jones", "year": 2007},
+      {"title": "Turn Me On", "artist": "Norah Jones", "year": 2010},
+      {"title": "ILrry On", "artist": "Norah Jones", "year": 2012},
+      {"title": "Nightingale", "artist": "Norah Jones", "year": 2012}
+    ],
+    "mood": "ILlm, contemplative",
+    "best_for": "fitness walking, morning activities"
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "playlist_id": "playlist_003",
+    "playlist_name": "Fleetwood Mac Collection",
+    "playlist_type": "custom",
+    "genre": "soft rock",
+    "era": "1970s-1980s",
+    "created_date": "2026-05-20",
+    "last_played": "2026-05-28",
+    "total_songs": 20,
+    "total_duration_minutes": 78,
+    "songs": [
+      {"title": "Dreams", "artist": "Fleetwood Mac", "year": 1977},
+      {"title": "Go Your Own Way", "artist": "Fleetwood Mac", "year": 1977},
+      {"title": "The Chain", "artist": "Fleetwood Mac", "year": 1977},
+      {"title": "Don't Stop", "artist": "Fleetwood Mac", "year": 1977},
+      {"title": "Landslide", "artist": "Fleetwood Mac", "year": 1975},
+      {"title": "Rhiannon", "artist": "Fleetwood Mac", "year": 1975},
+      {"title": "Gold Dust Woman", "artist": "Fleetwood Mac", "year": 1975},
+      {"title": "Silver Springs", "artist": "Fleetwood Mac", "year": 1975},
+      {"title": "Black Magic Woman", "artist": "Fleetwood Mac", "year": 1968}
+    ],
+    "mood": "energetic, nostalgic",
+    "best_for": "home improvement projects, general listening"
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "playlist_id": "playlist_004",
+    "playlist_name": "Kids' EduILtional Music - Owen & Sophie",
+    "playlist_type": "shared_family",
+    "genre": "children's, eduILtional",
+    "target_audience": "Owen (15), Sophie (12)",
+    "created_date": "2026-05-10",
+    "last_played": "2026-06-02",
+    "total_songs": 35,
+    "total_duration_minutes": 95,
+    "songs": [
+      {"title": "How It's Made Theme", "artist": "Various", "year": 2001},
+      {"title": "History of the World", "artist": "Bill Wurtz", "year": 2017},
+      {"title": "Veritasium Intro", "artist": "Derek Muller", "year": 2011},
+      {"title": "Crash Course Theme", "artist": "Various", "year": 2012}
+    ],
+    "mood": "eduILtional, fun",
+    "best_for": "family ILr rides, homework time"
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "playlist_id": "playlist_005",
+    "playlist_name": "Cooking Playlist - Upbeat Classics",
+    "playlist_type": "custom",
+    "genre": "pop, soft rock",
+    "era": "1990s-2000s",
+    "created_date": "2026-05-22",
+    "last_played": "2026-05-30",
+    "total_songs": 28,
+    "total_duration_minutes": 112,
+    "songs": [
+      {"title": "Good as Hell", "artist": "Lizzo", "year": 2016},
+      {"title": "Walking on Sunshine", "artist": "Katrina & The Waves", "year": 1985},
+      {"title": "Don't Stop Me Now", "artist": "Queen", "year": 1978},
+      {"title": "September", "artist": "Earth, Wind & Fire", "year": 1978},
+      {"title": "Come On Eileen", "artist": "Dexys Midnight Runners", "year": 1982},
+      {"title": "Groove Is in the Heart", "artist": "Deee-Lite", "year": 1990},
+      {"title": "Flagpole Sitta", "artist": "Harvey Danger", "year": 1997}
+    ],
+    "mood": "upbeat, energetic",
+    "best_for": "cooking, meal preparation"
+  },
+  {
+    "user_id": "christopher.morris@voissync.ai",
+    "playlist_id": "playlist_006",
+    "playlist_name": "90s Nostalgia - Deep Cuts",
+    "playlist_type": "custom",
+    "genre": "alternative rock, soft rock",
+    "era": "1990s",
+    "created_date": "2026-05-25",
+    "last_played": "2026-05-31",
+    "total_songs": 24,
+    "total_duration_minutes": 92,
+    "songs": [
+      {"title": "I Will Follow You into the Dark", "artist": "Death ILb for Cutie", "year": 2003},
+      {"title": "Let Down", "artist": "Radiohead", "year": 1997},
+      {"title": "Wonderwall", "artist": "Oasis", "year": 1996},
+      {"title": "Wonderstuff", "artist": "The Wonderstuff", "year": 1991},
+      {"title": "Creep", "artist": "Radiohead", "year": 1992},
+      {"title": "Zombie", "artist": "The Cranberries", "year": 1994}
+    ],
+    "mood": "nostalgic, reflective",
+    "best_for": "personal time, working from home"
+  }
+]
+
